@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Experimental features", "  no longer experimental.", "- Old non-experimental features", "  removed from the manager.","+ Added graphical speedometer.","+ Added warn items with LED.", "- Disabled X+Y to open the", "  NTR menu, (use the ingame menu).", "+ Last enabled features are saved.", "- Home button disabled ingame", "  (memory limitations).", "+ Minor improvements and bugfixes."},
 	{"Experimental features:", "", "+ Fixed backwards camera and", "  speedometer. (again)"},
 	{"Experimental features:", "", "+ Fixed backwards camera and", "  speedometer.", "", "+ Fixed custom track names", "  not showing."},
 	{"Experimental features:", "", "+ Added backwards camera.", "", "Normal features:", "", "+ Added partial touch controls to the app.", "+ Minor bugfixes."},
