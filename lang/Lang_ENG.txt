@@ -10,7 +10,7 @@
 #	Touch button -> \uE058
 #	HOME button -> \uE073
 #	POWER button -> \uE078
-#   Line Jump -> \n
+#	Line Break -> \n
 # Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
 # Make sure you test the language file ingame to check if the line breaks are working properly.
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
