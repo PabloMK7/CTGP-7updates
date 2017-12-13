@@ -1,6 +1,6 @@
 
 array_changelog = {
-	{"+ Added multi-language support.", "  + Added English language.", " (More languages to come very soon.)"},
+	{"+ Added multi-language support.", "  + Added English language.", " (More languages to come very soon.)", "", "- Removed the custom font temporarily", "  so special symbols work."},
 	{"+ Added support for the upcoming Luma v9.0" , "+ Fixed welcome message in O3DS.", "+ Added the possibility to open the", "  NTR menu ingame."},
 	{"+ Experimental features", "  no longer experimental.", "- Old non-experimental features", "  removed from the manager.","+ Added graphical speedometer.","+ Added warn items with LED.", "- Disabled X+Y to open the", "  NTR menu, (use the ingame menu).", "+ Last enabled features are saved.", "- Home button disabled ingame", "  (memory limitations).", "+ Minor improvements and bugfixes."},
 	{"Experimental features:", "", "+ Fixed backwards camera and", "  speedometer. (again)"},
