@@ -94,7 +94,7 @@ welc_t :: Welcome to CTGP-7
 welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some interesting features.\n\nTo open the ingame menu,\nuse the (SELECT) button.
 welc_2 :: To use any feature, place the\ncursor over an entry and\npress \uE000 to enable/configure it.
 welc_3 :: To know what an entry does, place\nthe cursor over the entry\nand touch \uE058 the blue "i" (info)\nbutton in the bottom screen.
-welc_4 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.\nMake sure the "Allow\nCustom Tracks Online" entry is enabled if\nyou want to play in the CTGP-7\ncommunity: 13-1941-7476-1448
+welc_4 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.\nMake sure the "Allow Custom\nTracks Online" entry is enabled if\nyou want to play in the CTGP-7\ncommunity: 13-1941-7476-1448
 welc_5 :: We hope you enjoy the mod! ^ω^
 
 #General text

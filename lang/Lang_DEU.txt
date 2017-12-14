@@ -1,0 +1,144 @@
+﻿##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Character menu
+$1 :: Mr. L
+$3 :: Roter Yoshi
+$14 :: Gold Mario
+
+#Character race
+$46 :: Mr.L
+$48 :: R. Yoshi
+$59 :: G. Mario
+
+#Kart Body Parts
+$70 :: Silbener Pfeil
+$72 :: Schaufelbagger
+$73 :: Arkarde
+$74 :: Beuteldachs
+
+#Kart Wheel Parts
+$83 :: \uE033 Monster
+$87 :: Blaue Monster
+
+#Kart Glider Parts
+$96 :: Feuer-Flappflapp
+
+##Course Names
+#Mushroom Cup
+$113 :: \uE022\uE023 Marios Rennpiste
+$110 :: \uE033 Yoshi-Kaskaden
+$111 :: \uE024\uE025 Käseland
+$114 :: Concord Stadt
+
+#Flower Cup
+$115 :: \uE022\uE023 Regenbogen-Boulevard
+$118 :: Melodien Heiligtum
+$112 :: \uE024\uE025 Wolkenpiste
+
+#Star Cup
+$117 :: Spukpfad 2
+$116 :: \uE067 Warios Goldmine
+$119 :: Schauer Piste
+$120 :: \uE026\uE027 Wario-Kolosseum
+
+#Special Cup
+$121 :: \uE033 Glühheiße Wüste
+$122 :: \uE022\uE023 Polar-Parcours
+$123 :: Buchtufer-Boulevard
+$124 :: Schloss der Zeit
+
+#Shell Cup
+$128 :: \uE022\uE023 Kuhmuh-Farm
+$127 :: \uE024\uE025 Bowsers Festung 3
+$137 :: Galvarnyfälle
+$130 :: \uE031\uE032 Geistertal 2
+
+#Banana Cup
+$140 :: \uE026\uE027 Peach Beach
+$126 :: \uE031\uE032 Marios Piste 1
+$134 :: \uE024\uE025 Flussufer Park
+$131 :: \uE033 Ticktack-Trauma
+
+#Leaf Cup
+$129 :: \uE022\uE023 Eisige Kalimari Wüste
+$132 :: Immergrüner Wald
+$139 :: Weltraumstraße
+$136 :: Herbstwald
+
+#Lightning Cup
+$135 :: \uE033 Cheep-Cheep-Strand
+$138 :: Elementhöhle
+# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
+$141 :: Mikus Geburtstags Schausp.
+
+##Plugin text -----------------------------------------------
+
+#First opening welcome message
+welc_t :: Willkommen zu CTGP-7
+welc_1 :: Grüß dich!\nVon dem Ingame-Menü aus, wirst\ndu in der Lage sein, ein paar\ninteressante Funktionen zu benutzen.\n\nUm das Ingame-Menü zu öffnen,\nbenutze den (SELECT) Knopf.
+welc_2 :: Um die Funktionen zu verwenden,\nplatziere den Zeiger über einen\nEintrag und drücke \uE000 , um es zu\naktivieren oder zu konfigurieren.
+welc_3 :: Um zu erfahren, was der Eintrag macht,\nplatziere den Zeiger über den Eintrag\nund berühre \uE058 den blauen "i" (Info)\nKnopf im unteren Bildschirm.
+welc_4 :: Beachte aber, dass manche Funktionen,\nwie z.B. der "CC Wähler" deaktiviert\nwerden, während du Online spielst.\nStelle sicher, dass der "Erlaube\nCustom Tracks Online" Eintrag aktiviert\nist, wenn du CTGP-7 spielen möchtest.\n\nCommunity: 13-1941-7476-1448
+welc_5 :: Wir hoffen, dir gefällt der Mod! ^ω^
+
+#General text
+warning :: WARNUNG
+error :: FEHLER
+state :: Status
+state_mode :: Aktiviert :: Deaktiviert
+state_inf :: Aktivieren :: Deaktivieren
+settings :: Einstellungen
+exit :: Zurück
+
+
+#Error when an incorrect version is installed
+err_ver :: Diese Mario Kart 7 Version\nwird nicht unterstützt! Stelle\nsicher, dass das 1.1 Update\n installiert ist.\n(Download vom eShop)\nEntdeckt: v%d
+
+#Error when the user has a card and a cia at the same time
+err_both :: Wenn du das Spiel NICHT mit\nder gerade eingesteckten Cartridge\ngestartest hast, dann lasse sie draußen,\nwährend du den Mod von\neiner digitalen Kopie aus spielst.\n(Ein Neustart wird empfohlen.)
+
+#Message shown when the user presses the home button
+err_home :: \uE073 Menü :: Das \uE073 kann nicht geöffnet werden.\nHalte den \uE078 Knopf gedrückt,\num die Konsole auszuschalten.
+
+#Entries
+spdmeter :: Tachometer :: Zeigt ein Tachometer auf dem oberen Bildschirm in der rechten unteren Ecke.
+ccsel :: CC Wähler :: Stellt den momentanen CC-Wert zu einem bestimmten Wert ein (muss aktiviert werden, bevor das Rennen geladen wird).
+itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer verwendet wird und gelb, wenn ein Blitz verwendet wird.
+backcam :: Rückspiegel :: Drücke \uE002 ,um zu sehen, was hinter dir ist, so wie in anderen Mario Kart Spielen! (Anmerkung: Der \uE002 Knopf wird keine Items mehr aktivieren.)
+ctonline :: Erlaube Custom Tracks Online :: Aktiviert oder Deaktiviert Custom Tracks in Online Mehrspieler. Es muss aktiviert werden, um in der CTGP-7 Community spielen zu können.
+ntrmenu :: Öffne NTR-Menü :: Öffnet das NTR-Menü.
+
+#Speedometer text
+spd_set :: Tachometer Einstellungen.
+spd_unit :: Einheit
+spd_type :: Typ
+spd_sunit :: Wähle die Tachometer Einheit.
+spd_stype :: Wähle den Tachometer Typ.
+spd_types :: numerisch :: grafisch
+
+#CC Selector text
+cc_set :: CC Wähler Einstellungen.
+cc_val :: Wert
+cc_rang :: Der Wert muss zwischen 1 - 9999 sein.
+cc_entv :: Gib einen neuen CC Wert ein.
+cc_chgv :: Wert ändern
+
+#Open NTR menu text
+ntr_quest :: Möchtest du das NTR-Menü öffnen, nachdem  du zum Spiel zurückkehrst?
+ntr_opt :: Öffne Jetzt :: Öffne Danach

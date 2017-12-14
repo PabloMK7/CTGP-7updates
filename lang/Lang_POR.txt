@@ -1,0 +1,144 @@
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Character menu
+$1 :: Sr. L
+$3 :: Yoshi Vermelho
+$14 :: Mario Dourado
+
+#Character race
+$46 :: Sr.L
+$48 :: Yoshi V.
+$59 :: Mario D.
+
+#Kart Body Parts
+$70 :: Flecha Prata
+$72 :: Mantis Dourado
+$73 :: Arcade
+$74 :: Equipe Bandicoot
+
+#Kart Wheel Parts
+$83 :: \uE033 Monstro
+$87 :: Monstro Azul
+
+#Kart Glider Parts
+$96 :: Rajada de Fogo
+
+##Course Names
+#Mushroom Cup
+$113 :: Pista do Mario \uE022\uE023
+$110 :: Cachoeiras Yoshi \uE033 
+$111 :: Mundo do Queijo \uE024\uE025
+$114 :: Cidade Concord
+
+#Flower Cup
+$115 :: Estrada Arco-Íris \uE022\uE023
+$118 :: Santuário da Melodia
+$112 :: Jardim no Céu \uE024\uE025
+
+#Star Cup
+$117 :: Calçada da Alma Penada 2
+$116 :: \uE067 Mina de Ouro do Wario
+$119 :: Circuito Chuveiro
+$120 :: Coliseu do Wario \uE026\uE027
+
+#Special Cup
+$121 :: Colinas do Deserto \uE033
+$122 :: Circuito Nevado \uE022\uE023
+$123 :: Ilha Boulevard
+$124 :: Castelo do Tempo
+
+#Shell Cup
+$128 :: Fazenda Moo Moo \uE022\uE023
+$127 :: Castlelo do Bowser 3 \uE024\uE025
+$137 :: Cachoeiras Galvarny
+$130 :: Vale Fantasma 2 \uE031\uE032
+
+#Banana Cup
+$140 :: Praia da Peach \uE026\uE027
+$126 :: Circuito do Mario 1 \uE031\uE032
+$134 :: Parque Riverside \uE024\uE025
+$131 :: Relógio Tiquetaque \uE033 
+
+#Leaf Cup
+$129 :: Deserto Gelado Kalimary \uE022\uE023
+$132 :: Cruzamento Perene
+$139 :: Estrada Espacial
+$136 :: Floresta Outono
+
+#Lightning Cup
+$135 :: Praia Cheep Cheep \uE033
+$138 :: Caverna Elemental
+# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
+$141 :: Aniversário da Miku
+
+##Plugin text -----------------------------------------------
+
+#First opening welcome message
+welc_t :: Bem vindo ao CTGP-7
+welc_1 :: Olá!\nPelo menu em jogo,\nvocê poderá\nusar algumas interessantes funções.\n\nPara abrir o menu em jogo,\nuse o botão (SELECT).
+welc_2 :: Para usar qualquer função, coloque o\ncursor sobre uma entrada e\naperte \uE000 para ativar/configurar.
+welc_3 :: Para saber oque uma entrada faz,\ncoloque o cursor sobre a entrada\ne toque \uE058 no botão "i" (info)\nazul na tela de baixo.
+welc_4 :: Lembre-se que algumas funções\ncomo "Seletor CC" vão ser\ndesativadas no modo online.\nCertifique-se que "Permitir\nCustom Tracks Online" está ativada se\nvocê quizer jogar na comunidade CTGP-7\: 13-1941-7476-1448
+welc_5 :: Esperamos que goste do mod! ^ω^
+
+#General text
+warning :: ALERTA
+error :: ERRO
+state :: Estado
+state_mode :: Ativado :: Desativado
+state_inf :: Ativar :: Desativar
+settings :: Opções
+exit :: Sair
+
+
+#Error when an incorrect version is installed
+err_ver :: Essa versão do Mario Kart 7\nnão é suportada! Certifique-se\nque o patch 1.1 esteja instalado.\n(Baixe pela eShop)\nDetectado: v%d
+
+#Error when the user has a card and a cia at the same time
+err_both :: Se você NÃO estiver jogando\no jogo pelo cartucho inserido\ndeixe-o\nremovido enquanto estiver usando o mod\npela cópia digital.\n(É recomendado reiniciar o console.)
+
+#Message shown when the user presses the home button
+err_home :: Menu \uE073 :: O \uE073 Menu HOME não pode ser aberto.\nSegure o botão \uE078 \npara desligar o console.
+
+#Entries
+spdmeter :: Velocímetro :: Mostra um velocímetro na tela de cima no canto inferior direito.
+ccsel :: Seletor CC :: Configura o CC para um certo valor (tem que ser abilitado antes da corrida).
+itemled :: Alertar Itens com LED :: A LED de notificação piscará Azul quando um Casco Azul for usado e Amarelo quando um Relâmpago for usado.
+backcam ::  Camera de Frente :: Aperte \uE002 para ver oque está atraz de você, igual em outros Mario Karts! (Nota: O botão \uE002 não utilizará itens.)
+ctonline :: Permitir Custom Tracks Online :: Ativa ou desativa Custom Tracks no Multiplayer Online. Tem que ser abilitado para jogar na comunidade CTGP-7.
+ntrmenu :: Abrir Menu NTR  :: Abre o Menu NTR.
+
+#Speedometer text
+spd_set :: Obções do Velocímetro.
+spd_unit :: Unidade
+spd_type :: Tipo
+spd_sunit :: Selecione a unidade do velocímetro.
+spd_stype :: Selecione o tipo do velocímetro.
+spd_types :: Numérico :: Gráfico
+
+#CC Selector text
+cc_set :: Opções do Seletor CC.
+cc_val :: Valor
+cc_rang :: O valor tem que ser entre 1 - 9999
+cc_entv :: Atribua o novo valor CC.
+cc_chgv :: Trocar valor
+
+#Open NTR menu text
+ntr_quest :: Deseja abrir o menu NTR depois\nretornar ao jogo?
+ntr_opt :: Abrir Agora :: Abrir Depois
