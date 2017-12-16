@@ -1,0 +1,143 @@
+﻿##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SFC -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GC -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Character menu
+$1 :: Mr. L
+$3 :: あかヨッシー
+$14 :: ゴールドマリオ
+
+#Character race
+$46 :: Mr.L
+$48 :: R.ヨッシー
+$59 :: G.マリオ
+
+#Kart Body Parts
+$70 :: シルバーアロー
+$72 :: ゴールド・マンティス 
+$73 :: アーケード
+$74 :: バンディクーチーム
+
+#Kart Wheel Parts
+$83 :: \uE033 モンスター
+$87 :: ブルーモンスター
+
+#Kart Glider Parts
+$96 :: ファイアバサバサカイト
+
+##Course Names
+#Mushroom Cup
+$113 :: \uE022\uE023 マリオサーキット
+$110 :: \uE033 ヨッシーフォールズ
+$111 :: \uE024\uE025 チーズランド
+$114 :: コンコードタウン
+
+#Flower Cup
+$115 :: \uE022\uE023 レインボーロード
+$118 :: メロディーサンクタム
+$112 :: \uE024\uE025 スカイガーデン
+
+#Star Cup
+$117 :: ヒュードロいけ２ 
+$116 :: \uE067 ワリオこうざん
+$119 :: シャワーサーキット
+$120 :: \uE026\uE027 ワリオコロシアム
+
+#Special Cup
+$121 :: \uE033 サンサンさばく
+$122 :: \uE022\uE023 フラッペスノーランド
+$123 :: ベイサイド ブールーバード
+$124 :: キャッスル オブ タイム
+
+#Shell Cup
+$128 :: \uE022\uE023 モーモーファーム
+$127 :: \uE024\uE025 クッパキャッスル 3
+$137 :: ガヴァルニーフォールズ
+$130 :: \uE031\uE032 おばけぬま 2
+
+#Banana Cup
+$140 :: \uE026\uE027 ピーチビーチ
+$126 :: \uE031\uE032 マリオサーキット 1
+$134 :: \uE024\uE025 リバーサイドパーク
+$131 :: \uE033 チクタクロック
+
+#Leaf Cup
+$129 :: \uE022\uE023 カラカラアイスさばく
+$132 :: エバーグリーンクロッシング
+$139 :: スペースロード
+$136 :: オータムフォレスト
+
+#Lightning Cup
+$135 :: \uE033 プクプクビーチ
+$138 :: エレメンタルケーブ
+# Full name is ミクのバースデースキュレーター (has to be cut because the name is too large)
+$141 :: ミクのバースデースペース.
+
+##Plugin text -----------------------------------------------
+
+#First opening welcome message
+welc_t :: ようこそCTGP-7へ
+welc_1 :: こんにちは!\nCTRPFメニューでは\n興味深い機能を\n使用することができます\n\nCTRPFメニューを開くには\nSELECTボタンを押して下さい。
+welc_2 :: 任意の機能を使用するには\nカーソルを合わせて\uE000 を押すことで有効/無効に出来ます。
+welc_3 :: 各メニューの内容を閲覧するには\nそれにカーソルを当てて\uE058 下画面にある青いボタンを押して下さい。
+welc_4 :: オンラインでは\n"CC Selector"などの一部の機能が\n無効になります.\nオンラインでCTで遊ぶには"Allow Custom\nTracks Online" を有効にしておいて下さい \nCTGP7コミュニティ:13-1941-7476-1448
+welc_5 :: 楽しんでこのパックをプレイしてね! ^ω^
+
+#General text
+warning :: 警告
+error :: エラー
+state :: 状態
+state_mode :: 有効 :: 無効
+state_inf :: 有効 :: 無効
+settings :: 設定
+exit :: 閉じる
+
+
+#Error when an incorrect version is installed
+err_ver :: このMK7のバージョンは\nサポートされていません!\nv1.1の更新データをインストールして下さい\nDetected: v%
+
+#Error when the user has a card and a cia at the same time
+err_both :: If you are NOT running\nthe game from the current\ninserted cartridge, keep it\nremoved while playing the mod\nfrom a digital copy.\n(A reboot is also recommended.)
+
+#Message shown when the user presses the home button
+err_home :: \uE073 メニュー :: \uE073 メニューは開けません.\n電源を切るには\uE078 を押して下さい
+#Entries
+spdmeter :: スピードメーター :: 上画面の右下にスピードメーターを表示します。
+ccsel :: CC セレクター :: 現在のCCを特定の値に設定します。(レースが始まる前に設定して下さい).
+itemled :: LEDによる警告 :: 青トゲソーが使用された時には青に、サンダーが使用された時には黄色にLEDが点灯します
+backcam :: バックカメラ :: \uE002 を押すことでバックカメラを使用出来ます (Note: \uE002 ボタンでアイテムを使用出来なくなります)
+ctonline :: CTをオンラインで使用する :: オンラインでCTを有効/無効にします。CTGPコミュニティ¥n(13-1941-7476-1448)で使用して下さい。
+ntrmenu :: NTR Menuを開く :: NTR menuを開きます。
+
+#Speedometer text
+spd_set :: スピードメーターの設定
+spd_unit :: 単位
+spd_type :: タイプ
+spd_sunit :: スピードメーターの単位を選択してください
+spd_stype :: スピードメーターの種類を選択してください
+spd_types :: ノーマル :: グラフィカル
+
+#CC Selector text
+cc_set :: CC セレクターの設定
+cc_val :: 値
+cc_rang :: 値は 1 - 9999までで設定できます
+cc_entv :: 新しいCCを決定する
+cc_chgv :: 値を変える
+
+#Open NTR menu text
+ntr_quest :: ゲームに戻ってからNTRメニューを開きますか?
+ntr_opt :: 今開く :: 後で開く

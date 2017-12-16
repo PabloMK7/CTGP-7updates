@@ -1,0 +1,144 @@
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Character menu
+$1 :: Мистер L
+$3 :: Красный Йоши
+$14 :: Золотой Марио
+
+#Character race
+$46 :: Мистер. L
+$48 :: К. Йоши
+$59 :: З. Марио
+
+#Kart Body Parts
+$70 :: Серебр. стрела
+$72 :: Золотой богомол
+$73 :: Аркада
+$74 :: Команда Бандикут
+
+#Kart Wheel Parts
+$83 :: \uE033 монстр
+$87 :: Синий монстр
+
+#Kart Glider Parts
+$96 :: Огненный глайдер
+
+##Course Names
+#Mushroom Cup
+$113 :: \uE022\uE023 Трасса Марио
+$110 :: \uE033 Водопады Йоши
+$111 :: \uE024\uE025 Страна сыра
+$114 :: Город Конкорд
+
+#Flower Cup
+$115 :: \uE022\uE023 Радужная дорога
+$118 :: Святилище мелодий
+$112 :: \uE024\uE025 Висячий сад
+
+#Star Cup
+$117 :: Пирс банши 2
+$116 :: \uE067 Золотая шахта Варио
+$119 :: Район душа
+$120 :: \uE026\uE027 Колизей Варио
+
+#Special Cup
+$121 :: \uE033 Пустынные холмы
+$122 :: \uE022\uE023 Ледяные земли
+$123 :: Бульвар Бейсайд
+$124 :: Замок времени
+
+#Shell Cup
+$128 :: \uE022\uE023 Ферма му-му
+$127 :: \uE024\uE025 Замок Боузера 3
+$137 :: Водопады Гальварни
+$130 :: \uE031\uE032 Долина призраков 2
+
+#Banana Cup
+$140 :: \uE026\uE027 Пляж Пич
+$126 :: \uE031\uE032 Район Марио 1
+$134 :: \uE024\uE025 Парк Риверсайд
+$131 :: \uE033 Часы Тик-так
+
+#Leaf Cup
+$129 :: \uE022\uE023 Лед. пустыня Калимари
+$132 :: Хвойный лес
+$139 :: Космическая дорога
+$136 :: Осенний лес
+
+#Lightning Cup
+$135 :: \uE033 Пляш Чип-чип
+$138 :: Пещера элементалей
+# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
+$141 :: Д.Р. Мику
+
+##Plugin text -----------------------------------------------
+
+#First opening welcome message
+welc_t :: Добро пожаловать в CTGP-7
+welc_1 :: Привет!\nИз внутри-игрового меню,\nты сможешь\nисп-ть интересные функции.\n\nЧтобы открыть его,\nнажмите кнопку (SELECT).
+welc_2 :: Для использования функций,\nнаведите курсор и\nнажмите \uE000, чтобы включить/настроить.
+welc_3 :: Если нужна справка, наведите\nкурсор на функцию\nи нажмите \uE058 на синюю "i" (инфо.)\nна нижнем экране.
+welc_4 :: Учтите, что некоторые\nфункции как "Выбор CC" будут\nотключены при игре по сети.\nУбедитесь, что "Разр.\nсвои треки по сети" включено,\nесли хотите играть в CTGP-7\ncommunity: 13-1941-7476-1448
+welc_5 :: Надеемся, что вам понравится мод! ^ω^
+
+#General text
+warning :: ВНИМАНИЕ
+error :: ОШИБКА
+state :: Причина
+state_mode :: Вкл :: Выкл
+state_inf :: Вкл :: Выкл
+settings :: Настройки
+exit :: Выход
+
+
+#Error when an incorrect version is installed
+err_ver :: Эта версия Mario Kart 7\nне поддерживается! Убедитесь,\nчто патч 1.1 установлен.\n(Загрузите его из eShop)\nОбнаружена версия: v%d
+
+#Error when the user has a card and a cia at the same time
+err_both :: Если вы НЕ ЗАПУСТИЛИ\nигру со вставленного\nкартриджа, вытащите его на время\nигры с установл. версии.\n(Рекомендуется перезагрузка.)
+
+#Message shown when the user presses the home button
+err_home :: Меню \uE073 ::  Меню \uE073 не может быть открыто.\nУдерживайте кнопку \uE078,\nчтобы выключить консоль.
+
+#Entries
+spdmeter :: Спидометр :: Показывать спдиометр на верхнем экране в правом углу.
+ccsel :: Выбор CC :: Установить значение CC (должно быть включено перед стартом гонки).
+itemled :: Предупреждение LED :: LED мигает синим, когда запущен синий панцирь и жёлтым при молнии.
+backcam :: Камера заднего вида :: Нажмите \uE002, чтобы увидеть всё позади вас, как в других играх Mario Kart! (Помните: Кнопка \uE002 теперь не исп. предмет.)
+ctonline :: Разр. свои треки по сети :: Вкл/выкл свои треки в сетевой игре. Должно быть включено для игры в CTGP-7 community.
+ntrmenu :: Открыть NTR-меню :: Открывает NTR-меню.
+
+#Speedometer text
+spd_set :: Настройки спидометра.
+spd_unit :: Ед. изм.
+spd_type :: Тип
+spd_sunit ::Выбор ед. изм. спидометра.
+spd_stype :: Выбор типа спидометра.
+spd_types :: Цифровой :: Графический
+
+#CC Selector text
+cc_set :: Настройки выбора CC.
+cc_val :: Значение
+cc_rang :: Значение д.б. между 1 - 9999
+cc_entv :: Введите новое значение CC.
+cc_chgv :: Изменить значение
+
+#Open NTR menu text
+ntr_quest :: Хотите ли вы открыть NTR-меню после\nвозвращения в игру?
+ntr_opt :: Откр. сейчас :: Откр. после

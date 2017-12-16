@@ -76,7 +76,7 @@ $134 :: \uE024\uE025 Riverside Park
 $131 :: \uE033 Tick Tock Clock
 
 #Leaf Cup
-$129 :: \uE022\uE023 Kalimari Icy Desert
+$129 :: \uE022\uE023 Kalimary Icy Desert
 $132 :: Evergreen Crossing
 $139 :: Space Road
 $136 :: Autumn Forest
