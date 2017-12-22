@@ -54,7 +54,7 @@ $112 :: \uE024\uE025 Jardin Volant
 #Star Cup
 $117 :: Ponton Lugubre 2
 $116 :: \uE067 Mine Wario
-$119 :: Circuit Trempé
+$119 :: Ville Orageuse
 $120 :: \uE026\uE027 Arène Wario
 
 #Special Cup
@@ -78,7 +78,7 @@ $131 :: \uE033 Horloge Tic-Tac
 #Leaf Cup
 $129 :: \uE022\uE023 Désert Kalimari Gelé
 $132 :: Evergreen Crossing
-$139 :: Route Spatiale
+$139 :: Route Spaciale
 $136 :: Forêt d'Automne
 
 #Lightning Cup
@@ -91,11 +91,11 @@ $141 :: Spectacle Miku
 
 #First opening welcome message
 welc_t :: Bienvenue à CTGP-7
-welc_1 :: Salut!\nDepuis le menu en jeu,\nvous pouvez\nutiliser certaines fonctions intéréssantes.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
-welc_2 :: Pour utiliser n'importe quelle fonction, placez le\ncurseur sur une entrée et\nappuyez sur \uE000 pour l'activer/ la configurer.
-welc_3 :: Pour savoir ce que fait une entrée, placez\nle curseur dessus\nand et touchez \uE058 le bouton info ("i" bleu)\nsur l'écran tactile.
-welc_4 :: Souvenez-vous que certaines fonctions\ncomme le "Sélécteur de CC" vont être\ndésactivées lors du jeu en ligne.\nAssurez vous que l'option "Autoriser\nCTGP-7 en ligne" est activée si\nvous vouliez jouer dans la communauté\nCTGP-7: 13-1941-7476-1448
-welc_5 :: Nous espérons que vous apprécierez le mod! ^ω^
+welc_1 :: Salut!\nDepuis le menu en jeu,\nvous pouvez\nutiliser certaines fonctions intérésantes.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
+welc_2 :: Pour utiliser n'importe quel fonction, placez le\ncurseur sur une entrée et\nappuyez sur \uE000 pour l'activer/ la configurer.
+welc_3 :: Pour savoir ce que fais une entrée, placez\nle curseur sur l'entrée\nand et touchez \uE058 le bouton info ("i" bleu)\nsur l'écran tactile.
+welc_4 :: Souvenez-vous que certaines fonctions\ncomme le "Sélécteur de CC" vont être\ndésactivées en ligne.\nAssurez vous que l'option "Autoriser\nCTGP-7 en ligne" est activée si\nvous voulez jouer dans la communauté\nCTGP-7: 13-1941-7476-1448
+welc_5 :: Nous espérons que vous appréciez le mod! ^ω^
 
 #General text
 warning :: ATTENTION
@@ -108,20 +108,20 @@ exit :: Fermer
 
 
 #Error when an incorrect version is installed
-err_ver :: Cette version de Mario Kart 7\nn'est pas supportée! Assurez-vous que\nla version 1.1 est installée.\n(Téléchargez-le sur l'eShop)\nVersion Détectée: v%d
+err_ver :: Cette version de Mario Kart 7\nn'est pas supportée! Assurez-vous que\nle patch 1.1 est installé.\n(Téléchargez-le sur l'eShop)\nVersion Détectée: v%d
 
 #Error when the user has a card and a cia at the same time
-err_both :: Si vous avez une cartouche\ninsérée, gardez-la enlevée pendant \nque vous jouez sur une copie digitale.\n(Un redémarrage est également recommandé.)
+err_both :: Si vous ne jouez pas au mod\ndepuis la cartouche insérée, gardez-la\nenlevée pendant que vous jouez\nsur une copie digital.\n(Un redémarrage est également recommandé.)
 
 #Message shown when the user presses the home button
 err_home :: Menu \uE073 :: Le Menu \uE073 ne peux pas être ouvert.\nMaintenez le bouton \uE078 \npour éteindre la console.
 
 #Entries
 spdmeter :: Indicateur de Vitesse :: Montre un indicateur de vitesse dans le coin inférieur droit de l'écran du haut.
-ccsel :: Sélecteur de CC :: Permet de modifier le CC a n'importe quelle valeur (doit être activé avant la course).
-itemled :: Avertir des items avec LED :: La LED de notification clignotera bleu quand une carapace bleue est utilisée et jaune quand un éclair est utilisé.
-backcam :: Caméra arrière :: Appuyez sur \uE002 pour voir derrière vous, comme dans les autres Mario Kart! (Note: Le bouton \uE002 ne vais plus utiliser les objets.)
-ctonline :: Autoriser CTGP-7 en ligne :: Active ou désactive les circuit modifiés en ligne. Doit être activé pour jouer dans la communauté CTGP-7.
+ccsel :: Sélecteur de CC :: Met le CC actual sur une certaine valeur (doit être activer avant la course).
+itemled :: Avertir des objets avec LED :: La LED de notification clignote bleu quand une carapace bleue est utilisée et jaune quand un éclair est utilisé.
+backcam :: Caméra arrière :: Appuyez sur \uE002 pour voir derrière-soi, comme dans les autres Mario Kart! (Note: Le bouton \uE002 ne vas plus utiliser les objets.)
+ctonline :: Autoriser CTGP-7 en ligne :: Active ou désactive les circuit modifiés en ligne. Doit être activé pour jouer sur la communauté CTGP-7.
 ntrmenu :: Ouvrir le Menu NTR :: Ouvre le menu NTR.
 
 #Speedometer text
@@ -129,14 +129,14 @@ spd_set :: Paramètres de l'indicateur de vitesse.
 spd_unit :: Unitée
 spd_type :: Type
 spd_sunit :: Sélectionnez l'unitée pour l'indicateur de vitesse.
-spd_stype :: Sélectionnez le type d'indicateur de vitesse:
-spd_types :: Numérique :: Graphique
+spd_stype :: Sélectionnez le type d'indicateur de vitesse.
+spd_types :: Numerique :: Graphique
 
 #CC Selector text
 cc_set :: Paramètres du sélecteur de CC
 cc_val :: Valeur
 cc_rang :: La valeur doit être entre 1 et 9999
-cc_entv :: Entrez une nouvelle valeur de CC:
+cc_entv :: Entrez une nouvelle valeur de CC.
 cc_chgv :: Changer la valeur
 
 #Open NTR menu text

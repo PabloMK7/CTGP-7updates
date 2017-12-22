@@ -54,7 +54,7 @@ $112 :: \uE024\uE025 Giardino Nuvola
 #Star Cup
 $117 :: Pontile Stregato 2
 $116 :: \uE067 Miniera d'oro di Wario
-$119 :: Circuito della doccia
+$119 :: Città dell'acquazzone
 $120 :: \uE026\uE027 Colosseo di Wario
 
 #Special Cup

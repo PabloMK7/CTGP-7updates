@@ -54,7 +54,7 @@ $112 :: Jardim no Céu \uE024\uE025
 #Star Cup
 $117 :: Calçada da Alma Penada 2
 $116 :: \uE067 Mina de Ouro do Wario
-$119 :: Circuito Chuveiro
+$119 :: Cidade Aguaceiro
 $120 :: Coliseu do Wario \uE026\uE027
 
 #Special Cup

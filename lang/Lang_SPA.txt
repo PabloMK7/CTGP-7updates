@@ -54,7 +54,7 @@ $112 :: \uE024\uE025 Jardín Celeste
 #Star Cup
 $117 :: Muelle Embrujado 2
 $116 :: \uE067 Mina de Wario
-$119 :: Circuito Aguacero
+$119 :: Ciudad Aguacero
 $120 :: \uE026\uE027 Coliseo Wario
 
 #Special Cup

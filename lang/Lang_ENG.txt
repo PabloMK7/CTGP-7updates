@@ -54,7 +54,7 @@ $112 :: \uE024\uE025 Sky Garden
 #Star Cup
 $117 :: Banshee Boardwalk 2
 $116 :: \uE067 Wario's Gold Mine
-$119 :: Shower Circuit
+$119 :: Downpour City
 $120 :: \uE026\uE027 Wario Colosseum
 
 #Special Cup
