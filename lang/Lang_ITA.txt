@@ -73,7 +73,7 @@ $130 :: \uE031\uE032 Valle Fantasma 2
 $140 :: \uE026\uE027 Spiaggia di Peach
 $126 :: \uE031\uE032 Circuito di Mario 1
 $134 :: \uE024\uE025 Parco Lungofiume
-$131 :: \uE033 Pista Tic Tac
+$131 :: \uE033 Pista TicTac
 
 #Leaf Cup
 $129 :: \uE022\uE023 Deserto Ghiac. Kalimari
