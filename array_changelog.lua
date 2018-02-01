@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Redirected the updates", "  to dshack.org.", "  UPDATE AS SOON AS POSSIBLE."},
 	{"+ Fixed all bugs related to", "  language loading.", "", "+ Added the following languages:", " German, Dutch, French, Italian,", " Japanese, Portuguese, Russian, Spanish."},
 	{"+ Fixed a crash introduced in v0.15.2."},
 	{"+ Added multi-language support.", "  + Added English language.", " (More languages to come very soon.)", "", "- Removed the custom font temporarily", "  so special symbols work."},
