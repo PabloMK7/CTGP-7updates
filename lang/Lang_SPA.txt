@@ -142,3 +142,14 @@ cc_chgv :: Cambiar Valor
 #Open NTR menu text
 ntr_quest :: Quieres abrir el menú NTR después de\nvolver al juego?
 ntr_opt :: Abrir Ahora :: Abrir Después
+
+# To be Translated for 0.17.1
+
+comanager :: Configurar Circutos :: Activa o desactiva circuitos editados a tu gusto.
+cs_mng :: Configurar Circutos
+all_tr_e :: Todos los circuitos activados
+all_tr_d :: Todos los circuitos desactivados
+nt_cup :: Copas Nitro
+rt_cup :: Copas Retro
+endis_all :: Activar Todos :: Desactivar Todos
+empty :: Vacío

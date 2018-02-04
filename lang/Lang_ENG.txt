@@ -142,3 +142,16 @@ cc_chgv :: Change value
 #Open NTR menu text
 ntr_quest :: Would you like to open the NTR menu after\nreturning to the game?
 ntr_opt :: Open Now :: Open After
+
+
+# To be Translated for 0.17.1
+
+comanager :: Course Manager :: Enable or disable custom tracks to your liking.
+cs_mng :: Course Manager
+all_tr_e :: All tracks enabled
+all_tr_d :: All tracks disabled
+nt_cup :: Nitro Cups
+rt_cup :: Retro Cups
+endis_all :: Enable All :: Disable All
+empty :: Empty
+
