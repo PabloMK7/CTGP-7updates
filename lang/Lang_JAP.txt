@@ -94,7 +94,7 @@ welc_t :: ようこそCTGP-7へ
 welc_1 :: こんにちは!\nCTRPFメニューでは\n興味深い機能を\n使用することができます\n\nCTRPFメニューを開くには\nSELECTボタンを押して下さい。
 welc_2 :: 任意の機能を使用するには\nカーソルを合わせて\uE000 を押すことで有効/無効に出来ます。
 welc_3 :: 各メニューの内容を閲覧するには\nそれにカーソルを当てて\uE058 下画面にある青いボタンを押して下さい。
-welc_4 :: オンラインでは\n"CC Selector"などの一部の機能が\n無効になります.\nオンラインでCTで遊ぶには"Allow Custom\nTracks Online" を有効にしておいて下さい \nCTGP7コミュニティ:13-1941-7476-1448
+welc_4 :: オンラインでは\n"CC Selector"などの一部の機能が\n無効になります.
 welc_5 :: 楽しんでこのパックをプレイしてね! ^ω^
 
 #General text
@@ -120,7 +120,6 @@ spdmeter :: スピードメーター :: 上画面の右下にスピードメー�
 ccsel :: CC セレクター :: 現在のCCを特定の値に設定します。(レースが始まる前に設定して下さい).
 itemled :: LEDによる警告 :: 青トゲソーが使用された時には青に、サンダーが使用された時には黄色にLEDが点灯します
 backcam :: バックカメラ :: \uE002 を押すことでバックカメラを使用出来ます (Note: \uE002 ボタンでアイテムを使用出来なくなります)
-ctonline :: CTをオンラインで使用する :: オンラインでCTを有効/無効にします。CTGPコミュニティ¥n(13-1941-7476-1448)で使用して下さい。
 ntrmenu :: NTR Menuを開く :: NTR menuを開きます。
 
 #Speedometer text
@@ -144,11 +143,16 @@ ntr_opt :: 今開く :: 後で開く
 
 # To be Translated for 0.17.1
 
-comanager :: Course Manager :: Enable or disable custom tracks to your liking.
-cs_mng :: Course Manager
-all_tr_e :: All tracks enabled
-all_tr_d :: All tracks disabled
-nt_cup :: Nitro Cups
-rt_cup :: Retro Cups
-endis_all :: Enable All :: Disable All
-empty :: Empty
+comanager :: コース管理 :: 欲しい創造したコースを可能か無効にする
+cs_mng :: コース管理
+all_tr_e :: すべてのコースは使用可能
+all_tr_d :: すべてのコースは使用無効
+nt_cup :: ニトロカップ
+rt_cup :: レトロカップ
+endis_all :: すべてを可能にする :: すべてを無効にする
+empty :: 虚空
+
+commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
+def_spd :: Default speed
+som_tr_e :: Some tracks enabled
+code :: Code

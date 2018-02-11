@@ -94,7 +94,7 @@ welc_t :: Welcome to CTGP-7
 welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some interesting features.\n\nTo open the ingame menu,\nuse the (SELECT) button.
 welc_2 :: To use any feature, place the\ncursor over an entry and\npress \uE000 to enable/configure it.
 welc_3 :: To know what an entry does, place\nthe cursor over the entry\nand touch \uE058 the blue "i" (info)\nbutton in the bottom screen.
-welc_4 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.\nMake sure the "Allow Custom\nTracks Online" entry is enabled if\nyou want to play in the CTGP-7\ncommunity: 13-1941-7476-1448
+welc_4 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.
 welc_5 :: We hope you enjoy the mod! ^ω^
 
 #General text
@@ -121,7 +121,6 @@ spdmeter :: Speedometer :: Shows a speedometer in the top screen bottom right co
 ccsel :: CC Selector :: Sets the current CC to a certain value (has to be enabled before loading a race).
 itemled :: Warn Items With LED :: The notification LED blinks Blue when a Blue Shell is used and Yellow when a Lightning is used.
 backcam :: Backwards Camera :: Press \uE002 to see what's behind you, just like other Mario Kart games! (Note: The \uE002 button will no longer use items.)
-ctonline :: Allow Custom Tracks Online :: Enables or disables Custom Tracks in Online Multiplayer. Has to be enabled to play in the CTGP-7 community.
 ntrmenu :: Open NTR Menu :: Opens the NTR menu.
 
 #Speedometer text
@@ -155,3 +154,7 @@ rt_cup :: Retro Cups
 endis_all :: Enable All :: Disable All
 empty :: Empty
 
+commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
+def_spd :: Default speed
+som_tr_e :: Some tracks enabled
+code :: Code

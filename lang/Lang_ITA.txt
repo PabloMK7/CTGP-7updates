@@ -1,4 +1,4 @@
-﻿##No need to translate lines starting with #, those are comments
+##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
 #	GBA -> \uE024\uE025
@@ -73,7 +73,7 @@ $130 :: \uE031\uE032 Valle Fantasma 2
 $140 :: \uE026\uE027 Spiaggia di Peach
 $126 :: \uE031\uE032 Circuito di Mario 1
 $134 :: \uE024\uE025 Parco Lungofiume
-$131 :: \uE033 Pista TicTac
+$131 :: \uE033 Pista Tictac
 
 #Leaf Cup
 $129 :: \uE022\uE023 Deserto Ghiac. Kalimari
@@ -94,7 +94,7 @@ welc_t :: Benvenuto a CTGP-7
 welc_1 :: Ciao!\nDal menu interno al gioco, potrai\nusare delle funzioni interessanti.\n\nPer aprire il menu,\nusa il pulsante (SELECT).
 welc_2 :: Per usare le funzioni, posiziona\nil cursore su una voce e\npremi \uE000 per attivarla/configurarla.
 welc_3 :: Per sapere ciò che attiva ogni voce,\nposizionaci il cursore sopra\ne tocca \uE058 la "i" (info) blu\nnello schermo inferiore.
-welc_4 :: Ricorda però che funzioni\ncome il "Selettore CC" saranno\ndisabilitate giocando online.\nAssicurati che "Consenti\nCustom Track Online" sia abilitato se\nvuoi giocare nella comunità \nCTGP-7: 13-1941-7476-1448
+welc_4 :: Ricorda però che funzioni\ncome il "Selettore CC" saranno\ndisabilitate giocando online.
 welc_5 :: Speriamo che la mod ti piaccia! ^ω^
 
 #General text
@@ -120,7 +120,6 @@ spdmeter :: Tachimetro :: Mostra un indicatore di velocità  in basso a destra.
 ccsel :: Selettore CC :: Imposta i CC ad un certo valore (deve essere abilitato prima della gara).
 itemled :: Avverti con il LED :: Il LED di notifica lampeggia di Blu quando è stato usato un Guscio Spin., mentre di Giallo se è stato usato un fulmine.
 backcam :: Retrovisuale :: Premi \uE002 per vedere dietro di te, proprio come gli altri Mario Kart! (Nota: \uE002 non potrà più essere usato per gli oggetti.)
-ctonline :: Consenti Custom Track Online :: Abilita o Disabilita le Custom Track nel Multiplayer Online. Deve essere abilitato per giocare nella comunità  CTGP-7.
 ntrmenu :: Apri Menu NTR :: Apre il menu NTR.
 
 #Speedometer text
@@ -144,11 +143,16 @@ ntr_opt :: Apri Ora :: Apri Dopo
 
 # To be Translated for 0.17.1
 
-comanager :: Course Manager :: Enable or disable custom tracks to your liking.
-cs_mng :: Course Manager
-all_tr_e :: All tracks enabled
-all_tr_d :: All tracks disabled
-nt_cup :: Nitro Cups
-rt_cup :: Retro Cups
-endis_all :: Enable All :: Disable All
-empty :: Empty
+comanager :: Gestore Piste :: Abilita o disabilita le custom track secondo le tue preferenze.
+cs_mng :: Gestore Piste
+all_tr_e :: Tutte le custom track attivate
+all_tr_d :: Tutte le custom track disabilitate
+nt_cup :: Coppe Nitro
+rt_cup :: Coppe Retro
+endis_all :: Abilita tutte :: Disabilita tutte
+empty :: Vuoto
+
+commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
+def_spd :: Default speed
+som_tr_e :: Some tracks enabled
+code :: Code

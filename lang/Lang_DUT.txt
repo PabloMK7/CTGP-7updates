@@ -92,10 +92,10 @@ $141 :: Miku's verjaardag
 
 #First opening welcome message
 welc_t :: Welkom bij CTGP-7
-welc_1 :: Hallo daar! \ nAan het iname-menu kun je \ n enkele interessante functies gebruiken \ n \ nKlik op de knop (SELECTEREN) om het menu Iname te openen.
-welc_2 :: Om een functie te gebruiken, plaatst u de \ ncursor boven een invoer en \ npress \ uE000 om deze in te schakelen / in te stellen.
-welc_3 :: Om te weten wat een invoer doet, plaats \ nde cursor op de invoer \ n en raak \ uE058 de blauwe "i" (info) \ nknop in het onderste scherm aan.
-welc_4 :: Houd er rekening mee dat sommige functies \ nzoals "CC Selector" \ ndisabled kunnen worden tijdens het online spelen. \ nZorg ervoor dat het "Allow \ nCustom Tracks Online" -item is ingeschakeld als \ nu wilt spelen in de CTGP-7 \ ncommunity: 13-1941-7476-1448
+welc_1 :: Hallo daar!\nAan het iname-menu kun je\nenkele interessante functies gebruiken\n\nKlik op de knop (SELECT) om het menu Iname te openen.
+welc_2 :: Om een functie te gebruiken, plaatst u de \ ncursor boven een invoer en\npress \uE000 om deze in te schakelen / in te stellen.
+welc_3 :: Om te weten wat een invoer doet, plaats\nde cursor op de invoer\nen raak \uE058 de blauwe "i" (info)\nknop in het onderste scherm aan.
+welc_4 :: Houd er rekening mee dat sommige functies\nzoals "CC Selector"\ndisabled kunnen worden tijdens het online spelen.
 welc_5 :: We hopen dat je geniet van de mod! ^ ω ^
 
 #General text
@@ -109,20 +109,19 @@ exit :: Uitgang
 
 
 #Error when an incorrect version is installed
-err_ver :: Deze Mario Kart 7-versie \ nwordt niet ondersteund! Controleer of \ nde 1.1-patch is geïnstalleerd. \ N (Downloaden vanuit de eShop) \ nDetected: v% d
+err_ver :: Deze Mario Kart 7-versie\nwordt niet ondersteund! Controleer of\nde 1.1-patch is geïnstalleerd.\n(Downloaden vanuit de eShop)\nDetected: v %d
 
 #Error when the user has a card and a cia at the same time
-err_both :: Als u de game \ nhet spel niet uitvoert vanuit de huidige \ ninvoercassette, moet u deze \ nvan houden tijdens het afspelen van de mod \ nop een digitale kopie. \ n (een reboot wordt ook aanbevolen.)
+err_both :: Als u de game\nhet spel niet uitvoert vanuit de huidige\ninvoercassette, moet u deze\nvan houden tijdens het afspelen van de mod\nop een digitale kopie.\n(een reboot wordt ook aanbevolen.)
 
 #Message shown when the user presses the home button
-err_home :: \ uE073 Menu :: Het menu \ uE073 kan niet worden geopend. \ nHoud de knop \ uE078 \ nin om de console af te sluiten.
+err_home :: \uE073 Menu :: Het menu \uE073 kan niet worden geopend.\nHoud de knop \uE078\nin om de console af te sluiten.
 
 #Entries
 spdmeter :: Snelheidsmeter :: Toont een snelheidsmeter in het bovenste scherm rechtsonder.
 ccsel :: CC Selector :: Stelt de huidige CC in op een bepaalde waarde (moet worden ingeschakeld voordat een race wordt geladen).
 itemled :: Warn Items With LED :: De meldings-LED knippert blauw wanneer een blauwe schaal wordt gebruikt en geel wanneer een bliksem wordt gebruikt.
-backcam :: Achteruit Camera :: Druk op \ uE002 om te zien wat er achter je is, net als andere Mario Kart-spellen! (Opmerking: de knop \ uE002 gebruikt geen items meer.)
-ctonline :: Aangepaste tracks online toestaan :: Schakelt aangepaste nummers in Online Multiplayer in of uit. Moet worden ingeschakeld om te spelen in de CTGP-7-community.
+backcam :: Achteruit Camera :: Druk op \uE002 om te zien wat er achter je is, net als andere Mario Kart-spellen! (Opmerking: de knop \uE002 gebruikt geen items meer.)
 ntrmenu :: Open het NTR-menu :: Open de geweldige NTR-menu
 
 #Speedometer text
@@ -141,7 +140,7 @@ cc_entv :: Voer nieuwe CC-waarde in.
 cc_chgv :: Verander waarde
 
 #Open NTR menu text
-ntr_quest :: Wilt u het NTR-menu openen na \ teruggaan naar het spel?
+ntr_quest :: Wilt u het NTR-menu openen na\nteruggaan naar het spel?
 ntr_opt :: Open Nu :: Open After
 
 # To be Translated for 0.17.1
@@ -154,3 +153,8 @@ nt_cup :: Nitro Cups
 rt_cup :: Retro Cups
 endis_all :: Enable All :: Disable All
 empty :: Empty
+
+commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
+def_spd :: Default speed
+som_tr_e :: Some tracks enabled
+code :: Code

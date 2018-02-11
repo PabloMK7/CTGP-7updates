@@ -94,7 +94,7 @@ welc_t :: Willkommen zu CTGP-7
 welc_1 :: Grüß dich!\nVon dem Ingame-Menü aus, wirst\ndu in der Lage sein, ein paar\ninteressante Funktionen zu benutzen.\n\nUm das Ingame-Menü zu öffnen,\nbenutze den (SELECT) Knopf.
 welc_2 :: Um die Funktionen zu verwenden,\nplatziere den Zeiger über einen\nEintrag und drücke \uE000 , um es zu\naktivieren oder zu konfigurieren.
 welc_3 :: Um zu erfahren, was der Eintrag macht,\nplatziere den Zeiger über den Eintrag\nund berühre \uE058 den blauen "i" (Info)\nKnopf im unteren Bildschirm.
-welc_4 :: Beachte aber, dass manche Funktionen,\nwie z.B. der "CC Wähler" deaktiviert\nwerden, während du Online spielst.\nStelle sicher, dass der "Erlaube\nCustom Tracks Online" Eintrag aktiviert\nist, wenn du CTGP-7 spielen möchtest.\n\nCommunity: 13-1941-7476-1448
+welc_4 :: Beachte aber, dass manche Funktionen,\nwie z.B. der "CC Wähler" deaktiviert\nwerden, während du Online spielst.
 welc_5 :: Wir hoffen, dir gefällt der Mod! ^ω^
 
 #General text
@@ -121,7 +121,6 @@ spdmeter :: Tachometer :: Zeigt ein Tachometer auf dem oberen Bildschirm in der 
 ccsel :: CC Wähler :: Stellt den momentanen CC-Wert zu einem bestimmten Wert ein (muss aktiviert werden, bevor das Rennen geladen wird).
 itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer verwendet wird und gelb, wenn ein Blitz verwendet wird.
 backcam :: Rückspiegel :: Drücke \uE002 ,um zu sehen, was hinter dir ist, so wie in anderen Mario Kart Spielen! (Anmerkung: Der \uE002 Knopf wird keine Items mehr aktivieren.)
-ctonline :: Erlaube Custom Tracks Online :: Aktiviert oder Deaktiviert Custom Tracks in Online Mehrspieler. Es muss aktiviert werden, um in der CTGP-7 Community spielen zu können.
 ntrmenu :: Öffne NTR-Menü :: Öffnet das NTR-Menü.
 
 #Speedometer text
@@ -153,3 +152,8 @@ nt_cup :: Nitro Cups
 rt_cup :: Retro Cups
 endis_all :: Enable All :: Disable All
 empty :: Empty
+
+commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
+def_spd :: Default speed
+som_tr_e :: Some tracks enabled
+code :: Code

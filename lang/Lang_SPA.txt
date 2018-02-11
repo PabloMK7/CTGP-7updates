@@ -94,7 +94,7 @@ welc_t :: Bienvenido a CTGP-7!
 welc_1 :: Hola!\nDesde el menú ingame,\npodrás utilizar algunas\nfunciones interesantes.\n\nPara abrir el menú ingame,\nusa el botón (Select).
 welc_2 :: Para usar cualquier función,\npon el cursor encima\ny pulsa \uE000.
 welc_3 :: Para saber lo que hace una función,\npon el cursor encima\ny toca \uE058 el botón azul "i"\nen la pantalla inferior.
-welc_4 :: Ten en cuenta que algunas\nfunciones como "Selector de CC"\nserán desactivadas en multijugador\nen línea. Asegúrate que "Permitir\ncircuitos en línea" está activado\nsi quieres jugar en la comunidad\nCTGP-7: 13-1941-7476-1448
+welc_4 :: Ten en cuenta que algunas\nfunciones como "Selector de CC"\nserán desactivadas en multijugador\nen línea.
 welc_5 :: Esperemos que disfrutes el mod! ^ω^
 
 #General text
@@ -121,7 +121,6 @@ spdmeter :: Velocímetro :: Muestra un velocímetro en la pantalla superior, esq
 ccsel :: Selector De CC :: Modifica los cc a un valor determinado (tiene que ser activado antes de empezar una carrera).
 itemled :: Avisar Objetos Con LED :: El LED de notificación se ilumina azul cuando se usa un caparazón con pinchos o amarillo cuando se usa un rayo.
 backcam :: Retrovisor :: Pulsa \uE002 para ver que hay detrás, como en otros Mario Kart! (Nota: El botón \uE002 dejará de usar objetos.)
-ctonline :: Permitir Circuitos Editados En Línea :: Activa o desactiva circuitos editados para multijugador en línea. Tiene que ser activado para jugar en la comunidad de CTGP-7.
 ntrmenu :: Abrir Menú NTR :: Abre el menú NTR.
 
 #Speedometer text
@@ -153,3 +152,8 @@ nt_cup :: Copas Nitro
 rt_cup :: Copas Retro
 endis_all :: Activar Todos :: Desactivar Todos
 empty :: Vacío
+
+commugen :: Generar código para comunidad :: Genera un código basado en las opciones activadas. Al poner el código en la descripción de una comunidad hará que esas opciones se activen para todo el mundo.
+def_spd :: Velocidad por defecto.
+som_tr_e :: Algunos circuitos activados.
+code :: Código
