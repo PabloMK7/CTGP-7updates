@@ -22,7 +22,7 @@ $3 :: Yoshi Rouge
 $14 :: Mario d'or
 
 #Character race
-$46 :: M.L
+$46 :: M. L
 $48 :: Yoshi R.
 $59 :: Mario Or
 
@@ -30,10 +30,10 @@ $59 :: Mario Or
 $70 :: Flèche d'argent
 $72 :: Mante Pelleteuse
 $73 :: Arcade
-$74 :: Equipe Bandicoot
+$74 :: Équipe Bandicoot
 
 #Kart Wheel Parts
-$83 :: \uE033 Monstre
+$83 :: \uE033 Mastodonte
 $87 :: Ecrabouilleur B.
 
 #Kart Glider Parts
@@ -44,7 +44,7 @@ $96 :: Swooper de Feu
 $113 :: \uE022\uE023 Autodrome Mario
 $110 :: \uE033 Cascades Yoshi
 $111 :: \uE024\uE025 Pays Fromage
-$114 :: Village Concord
+$114 :: Village Concorde
 
 #Flower Cup
 $115 :: \uE022\uE023 Route Arc-en-ciel
@@ -78,29 +78,29 @@ $131 :: \uE033 Horloge Tic-Tac
 #Leaf Cup
 $129 :: \uE022\uE023 Désert Kalimari Gelé
 $132 :: Evergreen Crossing
-$139 :: Route Spaciale
-$136 :: Forêt d'Automne
+$139 :: Route Spatiale
+$136 :: Forêt Automnale
 
 #Lightning Cup
 $135 :: \uE033 Plage Cheep Cheep
-$138 :: Caverne élémentaire
+$138 :: Caverne Élémentaire
 # Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
 $141 :: Spectacle Miku
 
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
-welc_t :: Bienvenue à CTGP-7
-welc_1 :: Salut!\nDepuis le menu en jeu,\nvous pouvez\nutiliser certaines fonctions intérésantes.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
-welc_2 :: Pour utiliser n'importe quel fonction, placez le\ncurseur sur une entrée et\nappuyez sur \uE000 pour l'activer/ la configurer.
-welc_3 :: Pour savoir ce que fais une entrée, placez\nle curseur sur l'entrée\nand et touchez \uE058 le bouton info ("i" bleu)\nsur l'écran tactile.
-welc_4 :: Souvenez-vous que certaines fonctions\ncomme le "Sélécteur de CC" vont être\ndésactivées en ligne.
-welc_5 :: Nous espérons que vous appréciez le mod! ^ω^
+welc_t :: Bienvenue dans CTGP-7
+welc_1 :: Salut!\nDepuis le menu en jeu,\nvous pouvez\nutiliser certaines fonctions intéressantes.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
+welc_2 :: Pour utiliser une fonctionnalité, placez le\ncurseur sur une entrée et\nappuyez sur \uE000 pour l'activer/la configurer.
+welc_3 :: Pour savoir ce que fait une entrée, placez\nle curseur dessus\nand et touchez \uE058 le bouton info ("i" bleu)\nsur l'écran tactile.
+welc_4 :: Souvenez-vous que certaines fonctions, \ncomme le "Sélécteur de CC", seront \ndésactivées en ligne.
+welc_5 :: Nous espérons que vous apprécierez le mod! ^ω^
 
 #General text
 warning :: ATTENTION
 error :: ERREUR
-state :: Etat
+state :: État
 state_mode :: Activé :: Désactivé
 state_inf :: Activer :: Désactiver
 settings :: Paramètres
@@ -111,49 +111,49 @@ exit :: Fermer
 err_ver :: Cette version de Mario Kart 7\nn'est pas supportée! Assurez-vous que\nle patch 1.1 est installé.\n(Téléchargez-le sur l'eShop)\nVersion Détectée: v%d
 
 #Error when the user has a card and a cia at the same time
-err_both :: Si vous ne jouez pas au mod\ndepuis la cartouche insérée, gardez-la\nenlevée pendant que vous jouez\nsur une copie digital.\n(Un redémarrage est également recommandé.)
+err_both :: Si vous ne jouez pas au mod\ndepuis la cartouche insérée, gardez-la\nenlevée pendant que vous jouez\nsur une copie digitale.\n(Un redémarrage est également recommandé.)
 
 #Message shown when the user presses the home button
-err_home :: Menu \uE073 :: Le Menu \uE073 ne peux pas être ouvert.\nMaintenez le bouton \uE078 \npour éteindre la console.
+err_home :: Menu \uE073 :: Le Menu \uE073 ne peut pas être ouvert.\nMaintenez le bouton \uE078 \npour éteindre la console.
 
 #Entries
 spdmeter :: Indicateur de Vitesse :: Montre un indicateur de vitesse dans le coin inférieur droit de l'écran du haut.
-ccsel :: Sélecteur de CC :: Met le CC actual sur une certaine valeur (doit être activer avant la course).
-itemled :: Avertir des objets avec LED :: La LED de notification clignote bleu quand une carapace bleue est utilisée et jaune quand un éclair est utilisé.
-backcam :: Caméra arrière :: Appuyez sur \uE002 pour voir derrière-soi, comme dans les autres Mario Kart! (Note: Le bouton \uE002 ne vas plus utiliser les objets.)
+ccsel :: Sélecteur de CC :: Règle le CC actuel sur une certaine valeur (doit être activé avant la course).
+itemled :: Avertir des objets avec LED :: La LED de notification clignote en bleu quand une carapace à épines est utilisée et en jaune quand un éclair est utilisé.
+backcam :: Caméra arrière :: Appuyez sur \uE002 pour voir derrière vous, comme dans les autres Mario Kart! (Note: Le bouton \uE002 ne servira plus à utiliser les objets.)
 ntrmenu :: Ouvrir le Menu NTR :: Ouvre le menu NTR.
 
 #Speedometer text
 spd_set :: Paramètres de l'indicateur de vitesse.
-spd_unit :: Unitée
+spd_unit :: Unité
 spd_type :: Type
-spd_sunit :: Sélectionnez l'unitée pour l'indicateur de vitesse.
+spd_sunit :: Sélectionnez l'unité pour l'indicateur de vitesse.
 spd_stype :: Sélectionnez le type d'indicateur de vitesse.
-spd_types :: Numerique :: Graphique
+spd_types :: Numérique :: Graphique
 
 #CC Selector text
 cc_set :: Paramètres du sélecteur de CC
 cc_val :: Valeur
-cc_rang :: La valeur doit être entre 1 et 9999
+cc_rang :: La valeur doit se situer entre 1 et 9999.
 cc_entv :: Entrez une nouvelle valeur de CC.
 cc_chgv :: Changer la valeur
 
 #Open NTR menu text
-ntr_quest :: Voulez-vous ouvrir le menu NTR après\n avoir revenu au jeu?
+ntr_quest :: Voulez-vous ouvrir le menu NTR après\n être revenu au jeu?
 ntr_opt :: Ouvrir Maintenant :: Ouvrir Plus Tard
 
 # To be Translated for 0.17.1
 
-comanager :: Gestion de circuits :: Activer ou désactiver les circuits modifiés.
-cs_mng :: Organisateur de circuits
+comanager :: Gestion des circuits :: Activer ou désactiver les circuits modifiés.
+cs_mng :: Gestionnaire de circuits
 all_tr_e :: Tous les circuits sont activés
 all_tr_d :: Tous les circuits sont desactivés
 nt_cup :: Coupes Nitro
-rt_cup :: Coupes Retro
-endis_all :: Activer tout :: Desactiver tout
-empty :: Vide!
+rt_cup :: Coupes Rétro
+endis_all :: Activer tout :: Désactiver tout
+empty :: Vide !
 
-commugen :: Generateur de Code Communautaire :: Gerere un code basé sur les paramêtres entrés. Mettre le code va activer ces paramêtres chez tous les utiliateurs.
-def_spd :: Vitesse de defaut
+commugen :: Générateur de Code Communautaire :: Génère un code basé sur les paramètres entrés. Mettre le code va activer ces paramêtres chez tous les utiliateurs.
+def_spd :: Vitesse par défaut
 som_tr_e :: Quelques circuits activés
 code :: Code
