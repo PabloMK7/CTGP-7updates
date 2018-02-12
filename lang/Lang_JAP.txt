@@ -152,7 +152,7 @@ rt_cup :: レトロカップ
 endis_all :: すべてを可能にする :: すべてを無効にする
 empty :: 虚空
 
-commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
-def_spd :: Default speed
-som_tr_e :: Some tracks enabled
-code :: Code
+commugen :: コミュニティコードゲネレーション :: 現在のユーザ設定を元にしてコードを生成する。コードはコミュニティ説明に貼ったり、コミュニティに参加した人の設定を可能にする。
+def_spd :: 既定の速度
+som_tr_e :: いくつかの有効したコース
+code :: コード

@@ -1,4 +1,4 @@
-﻿##No need to translate lines starting with #, those are comments
+##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
 #	GBA -> \uE024\uE025
@@ -145,16 +145,16 @@ ntr_opt :: Open Nu :: Open After
 
 # To be Translated for 0.17.1
 
-comanager :: Course Manager :: Enable or disable custom tracks to your liking.
-cs_mng :: Course Manager
-all_tr_e :: All tracks enabled
-all_tr_d :: All tracks disabled
-nt_cup :: Nitro Cups
-rt_cup :: Retro Cups
-endis_all :: Enable All :: Disable All
-empty :: Empty
+comanager :: Racebaan Beheerder :: Activeer of deactiveer racebanen zoals jij dat wil.
+cs_mng :: Racebaan beheerder
+all_tr_e :: Alle racebanen geactiveerd
+all_tr_d :: Alle racebanen gedeactiveerd
+nt_cup :: Nitro Bekers
+rt_cup :: Retro Bekers
+endis_all :: Activeer alles :: Deactiveer alles
+empty :: Leeg
 
-commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
-def_spd :: Default speed
-som_tr_e :: Some tracks enabled
+commugen :: Community Code Generator :: Genereert een code gebaseerd op de huidige gebruikersinstellingen. Als je deze code in de beschrijving van een community zet, zullen de instellingen voor iedereen in de community geactiveerd worden.
+def_spd :: Standaard snelheid
+som_tr_e :: Sommige racebanen geactiveerd
 code :: Code

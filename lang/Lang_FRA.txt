@@ -139,12 +139,12 @@ cc_entv :: Entrez une nouvelle valeur de CC.
 cc_chgv :: Changer la valeur
 
 #Open NTR menu text
-ntr_quest :: Voulez-vous ouvrir le menu NTR après\nêtre revenu en jeu?
+ntr_quest :: Voulez-vous ouvrir le menu NTR après\n avoir revenu au jeu?
 ntr_opt :: Ouvrir Maintenant :: Ouvrir Plus Tard
 
 # To be Translated for 0.17.1
 
-comanager :: Course Manager :: Enable or disable custom tracks to your liking.
+comanager :: Gestion de circuits :: Activer ou désactiver les circuits modifiés.
 cs_mng :: Organisateur de circuits
 all_tr_e :: Tous les circuits sont activés
 all_tr_d :: Tous les circuits sont desactivés
@@ -153,7 +153,7 @@ rt_cup :: Coupes Retro
 endis_all :: Activer tout :: Desactiver tout
 empty :: Vide!
 
-commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
-def_spd :: Default speed
-som_tr_e :: Some tracks enabled
+commugen :: Generateur de Code Communautaire :: Gerere un code basé sur les paramêtres entrés. Mettre le code va activer ces paramêtres chez tous les utiliateurs.
+def_spd :: Vitesse de defaut
+som_tr_e :: Quelques circuits activés
 code :: Code

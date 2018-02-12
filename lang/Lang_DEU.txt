@@ -144,16 +144,16 @@ ntr_opt :: Öffne Jetzt :: Öffne Danach
 
 # To be Translated for 0.17.1
 
-comanager :: Course Manager :: Enable or disable custom tracks to your liking.
-cs_mng :: Course Manager
-all_tr_e :: All tracks enabled
-all_tr_d :: All tracks disabled
+comanager :: Strecken Manager :: Aktiviere oder deaktiviere Custom Strecken, so wie du möchtest.
+cs_mng :: Strecken Manager
+all_tr_e :: Alle Strecken aktiviert
+all_tr_d :: Alle Strecken deaktiviert
 nt_cup :: Nitro Cups
 rt_cup :: Retro Cups
-endis_all :: Enable All :: Disable All
-empty :: Empty
+endis_all :: Aktiviere alle :: Deaktiviere alle
+empty :: leer
 
-commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
-def_spd :: Default speed
-som_tr_e :: Some tracks enabled
+commugen :: Community-Code-Generator :: Generiert einen Code, basierend auf die momentanen Benutzereinstellungen . Wenn Sie den Code in eine Community-Beschreibung einfügen, werden die Einstellungen für alle in dieser Community aktiviert.
+def_spd :: Standart Geschwindigkeit
+som_tr_e :: Manche Strecken aktiviert
 code :: Code

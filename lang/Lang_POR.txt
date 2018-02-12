@@ -147,13 +147,13 @@ ntr_opt :: Abrir Agora :: Abrir Depois
 comanager :: Gerenciador de Pistas :: Ativa ou Desativa as tracks de sua linkagem.
 cs_mng :: Gerenciador de Pistas
 all_tr_e :: Todas as tracks ativadas
-all_tr_d :: Todas as tracks Desativadas
+all_tr_d :: Todas as tracks desativadas
 nt_cup :: Copas Nitro
 rt_cup :: Copas Retro
 endis_all :: Ativar Todos :: Desativar Todos
 empty :: Vazio
 
-commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
-def_spd :: Default speed
-som_tr_e :: Some tracks enabled
-code :: Code
+commugen :: Gerador de Códigos da Comunidade :: Gera um código baseado nas atuais configurações de usuário. Colocando o código em uma descrição de comunidade vai habilitar as configurações para todos naquela comunidade.
+def_spd :: Velocidade padrão
+som_tr_e :: Algumas tracks habilitadas
+code :: Código
