@@ -1,1 +1,4 @@
-
+M:test.txt
+d:test2.txt
+d:existing.txt
+M:new.txt
