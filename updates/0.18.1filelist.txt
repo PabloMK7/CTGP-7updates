@@ -1,4 +1,4 @@
-M:/test.txt
-D:/test2.txt
-D:/existing.txt
-M:/new.txt
+M/test.txt
+D/test2.txt
+D/existing.txt
+M/new.txt
