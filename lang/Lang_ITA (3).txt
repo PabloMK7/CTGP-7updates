@@ -1,0 +1,158 @@
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> uE031uE032
+#	GBA -> uE024uE025
+#	GCN -> uE026uE027
+#	DS -> uE033
+#	Wii -> uE067
+#	A button -> uE000
+#	X button -> uE002
+#	Touch button -> uE058
+#	HOME button -> uE073
+#	POWER button -> uE078
+#	Line Break -> n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Character menu
+$1 :: Mr. L
+$3 :: Yoshi Rosso
+$14 :: Mario Oro
+
+#Character race
+$46 :: Mr. L
+$48 :: Yoshi R.
+$59 :: Mario Oro
+
+#Kart Body Parts
+$70 :: Freccia d'Argento
+$72 :: Mantide d'Oro
+$73 :: Arcade
+$74 :: Bandicoot Team
+
+#Kart Wheel Parts
+$83 :: uE033 Maxi
+$87 :: Maxi Blu
+
+#Kart Glider Parts
+$96 :: Swooper Fuoco
+
+##Course Names
+#Mushroom Cup
+$113 :: uE022uE023 Pista di Mario
+$110 :: uE033 Cascate di Yoshi
+$111 :: uE024uE025 Terra del Formaggio
+$114 :: Città Concordia
+
+#Flower Cup
+$115 :: uE022uE023 Pista Arcobaleno
+$118 :: Santuario Melodico
+$112 :: uE024uE025 Giardino Nuvola
+
+#Star Cup
+$117 :: Pontile Stregato 2
+$116 :: uE067 Miniera d'oro di Wario
+$119 :: Città dell'acquazzone
+$120 :: uE026uE027 Colosseo di Wario
+
+#Special Cup
+$121 :: uE033 Colline Deserte
+$122 :: uE022uE023 Circuito Innevato
+$123 :: Boulevard della Baia
+$124 :: Castello del Tempo
+
+#Shell Cup
+$128 :: uE022uE023 Fattoria Moo Moo
+$127 :: uE024uE025 Castello di Bowser 3
+$137 :: Cascate di Galvarny
+$130 :: uE031uE032 Valle Fantasma 2
+
+#Banana Cup
+$140 :: uE026uE027 Spiaggia di Peach
+$126 :: uE031uE032 Circuito di Mario 1
+$134 :: uE024uE025 Parco Lungofiume
+$131 :: uE033 Pista Tictac
+
+#Leaf Cup
+$129 :: uE022uE023 Deserto Ghiac. Kalimari
+$132 :: Attr. Sempreverde
+$139 :: Strada Spaziale
+$136 :: Foresta Autunnale
+
+#Lightning Cup
+$135 :: uE033 Spiaggia Cheep Cheep
+$138 :: Caverna Elementale
+# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
+$141 :: Compleanno di Miku
+
+##Plugin text -----------------------------------------------
+
+#First opening welcome message
+welc_t :: Benvenuto a CTGP-7
+welc_1 :: Ciao!nDal menu interno al gioco, potrainusare delle funzioni interessanti.nnPer aprire il menu,nusa il pulsante (SELECT).
+welc_2 :: Per usare le funzioni, posizionanil cursore su una voce enpremi uE000 per attivarla/configurarla.
+welc_3 :: Per sapere ciò che attiva ogni voce,nposizionaci il cursore soprane tocca uE058 la "i" (info) blunnello schermo inferiore.
+welc_4 :: Ricorda però che funzionincome il "Selettore CC" sarannondisabilitate giocando online.
+welc_5 :: Speriamo che la mod ti piaccia! ^&#969;^
+
+#General text
+warning :: AVVERTENZA
+error :: ERRORE
+state :: Stato
+state_mode :: Abilitato :: Disabilitato
+state_inf :: Abilita :: Disabilita
+settings :: Impostazioni
+exit :: Esci
+
+
+#Error when an incorrect version is installed
+err_ver :: Questa versione di Mario Kart 7nnon è supportata! Assicuratinche la patch 1.1 sia installata.n(Download dall'eShop)nTrovata: v%d
+
+#Error when the user has a card and a cia at the same time
+err_both :: Se NON stai usandonil gioco dalla schedinaninserita, rimuovila mentrangiochi la modnsu una copia digitale.n(Un riavvio è raccomandato.)
+
+#Message shown when the user presses the home button
+err_home :: Menu uE073 :: Non è possibile aprire il Menu uE073.nTieni premuto il pulsante uE078nper spegnere la console.
+#Entries
+spdmeter :: Tachimetro :: Mostra un indicatore di velocità  in basso a destra.
+ccsel :: Selettore CC :: Imposta i CC ad un certo valore (deve essere abilitato prima della gara).
+itemled :: Avverti con il LED :: Il LED di notifica lampeggia di Blu quando è stato usato un Guscio Spin., mentre di Giallo se è stato usato un fulmine.
+backcam :: Retrovisuale :: Premi uE002 per vedere dietro di te, proprio come gli altri Mario Kart! (Nota: uE002 non potrà più essere usato per gli oggetti.)
+ntrmenu :: Apri Menu NTR :: Apre il menu NTR.
+
+#Speedometer text
+spd_set :: Impostazioni tachimetro.
+spd_unit :: Unita'
+spd_type :: Tipo
+spd_sunit :: Seleziona unità.
+spd_stype :: Seleziona tipo.
+spd_types :: Numerico :: Grafico
+
+#CC Selector text
+cc_set :: Impos. selett. CC.
+cc_val :: Valore
+cc_rang :: Il valore deve essere tra 1 e 9999
+cc_entv :: Inserisci valore CC.
+cc_chgv :: Cambia valore
+
+#Open NTR menu text
+ntr_quest :: Vuoi aprire il menu NTR quandontornerai al gioco?
+ntr_opt :: Apri Ora :: Apri Dopo
+
+# To be Translated for 0.17.1
+
+comanager :: Gestore Piste :: Abilita o disabilita le custom track secondo le tue preferenze.
+cs_mng :: Gestore Piste
+all_tr_e :: Tutte le custom track attivate
+all_tr_d :: Tutte le custom track disabilitate
+nt_cup :: Coppe Nitro
+rt_cup :: Coppe Retro
+endis_all :: Abilita tutte :: Disabilita tutte
+empty :: Vuoto
+
+commugen :: Generatore Codice Community :: Genera un codice basandosi sulle impostazioni. Inserendo il codice nella descrizione abiliterà le impostazioni per tutti in quella community.
+def_spd :: Velocità normale
+som_tr_e :: Qualche pista abilitata
+code :: Codice
