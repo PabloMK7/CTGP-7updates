@@ -11,3 +11,4 @@ M/test/recursive/folder/customSettingsWindow.png
 M/test/recursive/folder/updaterTitle.png
 M/test/recursive/folder/useDefault.png
 D/test/topInfoBackground.png
+M/cia/toInstall.cia
