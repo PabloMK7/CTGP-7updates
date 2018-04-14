@@ -1,4 +1,13 @@
-M/test.txt
-D/test2.txt
-D/existing.txt
-M/new.txt
+M/test/32Version.png
+M/test/33Version.png
+M/test/36Version.png
+M/test/mainSettingsWindow.png
+M/test/ok.png
+M/test/pathSettingsTitle.png
+M/test/recursive/binariesPath.png
+M/test/recursive/folder/changelogText.png
+M/test/recursive/folder/createCustom.png
+M/test/recursive/folder/customSettingsWindow.png
+M/test/recursive/folder/updaterTitle.png
+M/test/recursive/folder/useDefault.png
+D/test/topInfoBackground.png
