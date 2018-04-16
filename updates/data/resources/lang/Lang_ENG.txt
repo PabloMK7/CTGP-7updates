@@ -1,0 +1,157 @@
+﻿##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Character menu
+$1 :: Mr. L
+$3 :: Red Yoshi
+$13 :: Waluigi
+$14 :: Gold Mario
+
+#Character race
+$46 :: Mr.L
+$48 :: R. Yoshi
+$58 :: Waluigi
+$59 :: G. Mario
+
+#Kart Body Parts
+$70 :: Silver Arrow
+$72 :: Gold Mantis
+$73 :: Arcade
+$74 :: Bandicoot Team
+
+#Kart Wheel Parts
+$83 :: \uE033 Monster
+$87 :: Blue Monster
+
+#Kart Glider Parts
+$96 :: Fire Swoop
+
+##Course Names
+#Mushroom Cup
+$113 :: \uE022\uE023 Mario Raceway
+$110 :: \uE033 Yoshi Falls
+$111 :: \uE024\uE025 Cheese Land
+$114 :: Concord Town
+
+#Flower Cup
+$115 :: \uE022\uE023 Rainbow Road
+$118 :: Melody Sanctum
+$112 :: \uE024\uE025 Sky Garden
+
+#Star Cup
+$117 :: Banshee Boardwalk 2
+$116 :: \uE067 Wario's Gold Mine
+$119 :: Downpour City
+$120 :: \uE026\uE027 Wario Colosseum
+
+#Special Cup
+$121 :: \uE033 Desert Hills
+$122 :: \uE022\uE023 Frappe Snowland
+$123 :: Bayside Boulevard
+$124 :: Castle Of Time
+
+#Shell Cup
+$128 :: \uE022\uE023 Moo Moo Farm
+$127 :: \uE024\uE025 Bowser Castle 3
+$137 :: Galvarny Falls
+$130 :: \uE031\uE032 Ghost Valley 2
+
+#Banana Cup
+$140 :: \uE026\uE027 Peach Beach
+$126 :: \uE031\uE032 Mario Circuit 1
+$134 :: \uE024\uE025 Riverside Park
+$131 :: \uE033 Tick Tock Clock
+
+#Leaf Cup
+$129 :: \uE022\uE023 Kalimary Icy Desert
+$132 :: Evergreen Crossing
+$139 :: Space Road
+$136 :: Autumn Forest
+
+#Lightning Cup
+$135 :: \uE033 Cheep Cheep Beach
+$138 :: Elemental Cave
+# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
+$141 :: Miku's Birthday Spec.
+
+##Plugin text -----------------------------------------------
+
+#First opening welcome message
+welc_t :: Welcome to CTGP-7
+welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some interesting features.\n\nTo open the ingame menu,\nuse the (SELECT) button.
+welc_2 :: To use any feature, place the\ncursor over an entry and\npress \uE000 to enable/configure it.
+welc_3 :: To know what an entry does, place\nthe cursor over the entry\nand touch \uE058 the blue "i" (info)\nbutton in the bottom screen.
+welc_4 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.
+welc_5 :: We hope you enjoy the mod! ^ω^
+
+#General text
+warning :: WARNING
+error :: ERROR
+state :: State
+state_mode :: Enabled :: Disabled
+state_inf :: Enable :: Disable
+settings :: Settings
+exit :: Exit
+
+
+#Error when an incorrect version is installed
+err_ver :: This Mario Kart 7 version\nisn't supported! Make sure\nthe 1.1 patch is installed.\n(Download from eShop)\nDetected: v%d
+
+#Error when the user has a card and a cia at the same time
+err_both :: If you are NOT running\nthe game from the current\ninserted cartridge, keep it\nremoved while playing the mod\nfrom a digital copy.\n(A reboot is also recommended.)
+
+#Message shown when the user presses the home button
+err_home :: \uE073 Menu :: The \uE073 Menu cannot be opened.\nHold the \uE078 button\nto shut down the console.
+
+#Entries
+spdmeter :: Speedometer :: Shows a speedometer in the top screen bottom right corner.
+ccsel :: CC Selector :: Sets the current CC to a certain value (has to be enabled before loading a race).
+itemled :: Warn Items With LED :: The notification LED blinks Blue when a Blue Shell is used and Yellow when a Lightning is used.
+backcam :: Backwards Camera :: Press \uE002 to see what's behind you, just like other Mario Kart games! (Note: The \uE002 button will no longer use items.)
+
+#Speedometer text
+spd_set :: Speedometer settings.
+spd_unit :: Unit
+spd_type :: Type
+spd_sunit :: Select speedometer unit.
+spd_stype :: Select speedometer type.
+spd_types :: Numerical :: Graphical
+
+#CC Selector text
+cc_set :: CC selector settings.
+cc_val :: Value
+cc_rang :: The value must be between 1 - 9999
+cc_entv :: Enter new CC value.
+cc_chgv :: Change value
+
+
+# To be Translated for 0.17.1
+
+comanager :: Course Manager :: Enable or disable custom tracks to your liking.
+cs_mng :: Course Manager
+all_tr_e :: All tracks enabled
+all_tr_d :: All tracks disabled
+nt_cup :: Nitro Cups
+rt_cup :: Retro Cups
+endis_all :: Enable All :: Disable All
+empty :: Empty
+
+commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
+def_spd :: Default speed
+som_tr_e :: Some tracks enabled
+code :: Code

@@ -1,0 +1,157 @@
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Character menu
+$1 :: M. L
+$3 :: Yoshi Rouge
+$13 :: Waluigi
+$14 :: Mario d'or
+
+#Character race
+$46 :: M. L
+$48 :: Yoshi R.
+$58 :: Waluigi
+$59 :: Mario Or
+
+#Kart Body Parts
+$70 :: Flèche d'argent
+$72 :: Mante Pelleteuse
+$73 :: Arcade
+$74 :: Équipe Bandicoot
+
+#Kart Wheel Parts
+$83 :: \uE033 Mastodonte
+$87 :: Ecrabouilleur B.
+
+#Kart Glider Parts
+$96 :: Swooper de Feu
+
+##Course Names
+#Mushroom Cup
+$113 :: \uE022\uE023 Autodrome Mario
+$110 :: \uE033 Cascades Yoshi
+$111 :: \uE024\uE025 Pays Fromage
+$114 :: Village Concorde
+
+#Flower Cup
+$115 :: \uE022\uE023 Route Arc-en-ciel
+$118 :: Sanctuaire Mélodie
+$112 :: \uE024\uE025 Jardin Volant
+
+#Star Cup
+$117 :: Ponton Lugubre 2
+$116 :: \uE067 Mine Wario
+$119 :: Ville Orageuse
+$120 :: \uE026\uE027 Arène Wario
+
+#Special Cup
+$121 :: \uE033 Désert du Soleil
+$122 :: \uE022\uE023 Route Glagla
+$123 :: Boulevard de la Baie
+$124 :: Château du Temps
+
+#Shell Cup
+$128 :: \uE022\uE023 Ferme Meuh Meuh
+$127 :: \uE024\uE025 Château de Bowser 3
+$137 :: Cascades Balvarny
+$130 :: \uE031\uE032 Vallée Fantôme 2
+
+#Banana Cup
+$140 :: \uE026\uE027 Plage Peach
+$126 :: \uE031\uE032 Circuit Mario 1
+$134 :: \uE024\uE025 Parc du Fleuve
+$131 :: \uE033 Horloge Tic-Tac
+
+#Leaf Cup
+$129 :: \uE022\uE023 Désert Kalimari Gelé
+$132 :: Evergreen Crossing
+$139 :: Route Spatiale
+$136 :: Forêt Automnale
+
+#Lightning Cup
+$135 :: \uE033 Plage Cheep Cheep
+$138 :: Caverne Élémentaire
+# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
+$141 :: Spectacle Miku
+
+##Plugin text -----------------------------------------------
+
+#First opening welcome message
+welc_t :: Bienvenue dans CTGP-7
+welc_1 :: Salut!\nDepuis le menu en jeu,\nvous pouvez\nutiliser certaines fonctions intéressantes.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
+welc_2 :: Pour utiliser une fonctionnalité, placez le\ncurseur sur une entrée et\nappuyez sur \uE000 pour l'activer/la configurer.
+welc_3 :: Pour savoir ce que fait une entrée, placez\nle curseur dessus\nand et touchez \uE058 le bouton info ("i" bleu)\nsur l'écran tactile.
+welc_4 :: Souvenez-vous que certaines fonctions, \ncomme le "Sélécteur de CC", seront \ndésactivées en ligne.
+welc_5 :: Nous espérons que vous apprécierez le mod! ^ω^
+
+#General text
+warning :: ATTENTION
+error :: ERREUR
+state :: État
+state_mode :: Activé :: Désactivé
+state_inf :: Activer :: Désactiver
+settings :: Paramètres
+exit :: Fermer
+
+
+#Error when an incorrect version is installed
+err_ver :: Cette version de Mario Kart 7\nn'est pas supportée! Assurez-vous que\nle patch 1.1 est installé.\n(Téléchargez-le sur l'eShop)\nVersion Détectée: v%d
+
+#Error when the user has a card and a cia at the same time
+err_both :: Si vous ne jouez pas au mod\ndepuis la cartouche insérée, gardez-la\nenlevée pendant que vous jouez\nsur une copie digitale.\n(Un redémarrage est également recommandé.)
+
+#Message shown when the user presses the home button
+err_home :: Menu \uE073 :: Le Menu \uE073 ne peut pas être ouvert.\nMaintenez le bouton \uE078 \npour éteindre la console.
+
+#Entries
+spdmeter :: Indicateur de Vitesse :: Montre un indicateur de vitesse dans le coin inférieur droit de l'écran du haut.
+ccsel :: Sélecteur de CC :: Règle le CC actuel sur une certaine valeur (doit être activé avant la course).
+itemled :: Avertir des objets avec LED :: La LED de notification clignote en bleu quand une carapace à épines est utilisée et en jaune quand un éclair est utilisé.
+backcam :: Caméra arrière :: Appuyez sur \uE002 pour voir derrière vous, comme dans les autres Mario Kart! (Note: Le bouton \uE002 ne servira plus à utiliser les objets.)
+
+#Speedometer text
+spd_set :: Paramètres de l'indicateur de vitesse.
+spd_unit :: Unité
+spd_type :: Type
+spd_sunit :: Sélectionnez l'unité pour l'indicateur de vitesse.
+spd_stype :: Sélectionnez le type d'indicateur de vitesse.
+spd_types :: Numérique :: Graphique
+
+#CC Selector text
+cc_set :: Paramètres du sélecteur de CC
+cc_val :: Valeur
+cc_rang :: La valeur doit se situer entre 1 et 9999.
+cc_entv :: Entrez une nouvelle valeur de CC.
+cc_chgv :: Changer la valeur
+
+
+# To be Translated for 0.17.1
+
+comanager :: Gestion des circuits :: Activer ou désactiver les circuits modifiés.
+cs_mng :: Gestionnaire de circuits
+all_tr_e :: Tous les circuits sont activés
+all_tr_d :: Tous les circuits sont desactivés
+nt_cup :: Coupes Nitro
+rt_cup :: Coupes Rétro
+endis_all :: Activer tout :: Désactiver tout
+empty :: Vide !
+
+commugen :: Générateur de Code Communautaire :: Génère un code basé sur les paramètres entrés. Mettre le code va activer ces paramêtres chez tous les utiliateurs.
+def_spd :: Vitesse par défaut
+som_tr_e :: Quelques circuits activés
+code :: Code
