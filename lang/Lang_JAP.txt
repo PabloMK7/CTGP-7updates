@@ -19,11 +19,13 @@
 #Character menu
 $1 :: Mr. L
 $3 :: あかヨッシー
+$13 :: ワルイージ
 $14 :: ゴールドマリオ
 
 #Character race
 $46 :: Mr.L
 $48 :: R.ヨッシー
+$58 :: ワルイージ
 $59 :: G.マリオ
 
 #Kart Body Parts
@@ -120,7 +122,6 @@ spdmeter :: スピードメーター :: 上画面の右下にスピードメー�
 ccsel :: CC セレクター :: 現在のCCを特定の値に設定します。(レースが始まる前に設定して下さい).
 itemled :: LEDによる警告 :: 青トゲソーが使用された時には青に、サンダーが使用された時には黄色にLEDが点灯します
 backcam :: バックカメラ :: \uE002 を押すことでバックカメラを使用出来ます (Note: \uE002 ボタンでアイテムを使用出来なくなります)
-ntrmenu :: NTR Menuを開く :: NTR menuを開きます。
 
 #Speedometer text
 spd_set :: スピードメーターの設定
@@ -136,10 +137,6 @@ cc_val :: 値
 cc_rang :: 値は 1 - 9999までで設定できます
 cc_entv :: 新しいCCを決定する
 cc_chgv :: 値を変える
-
-#Open NTR menu text
-ntr_quest :: ゲームに戻ってからNTRメニューを開きますか?
-ntr_opt :: 今開く :: 後で開く
 
 # To be Translated for 0.17.1
 

@@ -19,11 +19,13 @@
 #Character menu
 $1 :: Mr. L
 $3 :: Red Yoshi
+$13 :: Waluigi
 $14 :: Gold Mario
 
 #Character race
 $46 :: Mr.L
 $48 :: R. Yoshi
+$58 :: Waluigi
 $59 :: G. Mario
 
 #Kart Body Parts
@@ -121,7 +123,6 @@ spdmeter :: Speedometer :: Shows a speedometer in the top screen bottom right co
 ccsel :: CC Selector :: Sets the current CC to a certain value (has to be enabled before loading a race).
 itemled :: Warn Items With LED :: The notification LED blinks Blue when a Blue Shell is used and Yellow when a Lightning is used.
 backcam :: Backwards Camera :: Press \uE002 to see what's behind you, just like other Mario Kart games! (Note: The \uE002 button will no longer use items.)
-ntrmenu :: Open NTR Menu :: Opens the NTR menu.
 
 #Speedometer text
 spd_set :: Speedometer settings.
@@ -137,10 +138,6 @@ cc_val :: Value
 cc_rang :: The value must be between 1 - 9999
 cc_entv :: Enter new CC value.
 cc_chgv :: Change value
-
-#Open NTR menu text
-ntr_quest :: Would you like to open the NTR menu after\nreturning to the game?
-ntr_opt :: Open Now :: Open After
 
 
 # To be Translated for 0.17.1

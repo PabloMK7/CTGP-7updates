@@ -19,11 +19,13 @@
 #Character menu
 $1 :: Sr. L
 $3 :: Yoshi Rojo
+$13 :: Waluigi
 $14 :: Mario Dorado
 
 #Character race
 $46 :: Sr.L
 $48 :: Yoshi R.
+$58 :: Waluigi
 $59 :: Mario D.
 
 #Kart Body Parts
@@ -138,10 +140,6 @@ cc_rang :: El valor tiene que ser entre 1 - 9999
 cc_entv :: Introduce valor de CC.
 cc_chgv :: Cambiar Valor
 
-#Open NTR menu text
-ntr_quest :: Quieres abrir el menú NTR después de\nvolver al juego?
-ntr_opt :: Abrir Ahora :: Abrir Después
-
 # To be Translated for 0.17.1
 
 comanager :: Configurar Circutos :: Activa o desactiva circuitos editados a tu gusto.
@@ -153,7 +151,7 @@ rt_cup :: Copas Retro
 endis_all :: Activar Todos :: Desactivar Todos
 empty :: Vacío
 
-commugen :: Generar código para comunidad :: Genera un código basado en las opciones activadas. Al poner el código en la descripción de una comunidad hará que esas opciones se activen para todo el mundo.
+commugen :: Generar Código Para Comunidad :: Genera un código basado en las opciones activadas. Al poner el código en la descripción de una comunidad hará que esas opciones se activen para todo el mundo.
 def_spd :: Velocidad por defecto.
 som_tr_e :: Algunos circuitos activados.
 code :: Código

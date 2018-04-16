@@ -19,11 +19,13 @@
 #Character menu
 $1 :: Sr. L
 $3 :: Yoshi Vermelho
+$13 :: Waluigi
 $14 :: Mario Dourado
 
 #Character race
 $46 :: Sr.L
 $48 :: Yoshi V.
+$58 :: Waluigi
 $59 :: Mario D.
 
 #Kart Body Parts
@@ -121,7 +123,6 @@ spdmeter :: Velocímetro :: Mostra um velocímetro na tela de cima no canto infe
 ccsel :: Seletor CC :: Configura o CC para um certo valor (tem que ser abilitado antes da corrida).
 itemled :: Alertar Itens com LED :: A LED de notificação piscará Azul quando um Casco Azul for usado e Amarelo quando um Relâmpago for usado.
 backcam ::  Camera de Frente :: Aperte \uE002 para ver oque está atraz de você, igual em outros Mario Karts! (Nota: O botão \uE002 não utilizará itens.)
-ntrmenu :: Abrir Menu NTR  :: Abre o Menu NTR.
 
 #Speedometer text
 spd_set :: Obções do Velocímetro.
@@ -137,10 +138,6 @@ cc_val :: Valor
 cc_rang :: O valor tem que ser entre 1 - 9999
 cc_entv :: Atribua o novo valor CC.
 cc_chgv :: Trocar valor
-
-#Open NTR menu text
-ntr_quest :: Deseja abrir o menu NTR depois\nretornar ao jogo?
-ntr_opt :: Abrir Agora :: Abrir Depois
 
 # To be Translated for 0.17.1
 

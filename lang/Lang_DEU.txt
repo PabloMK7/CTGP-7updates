@@ -19,11 +19,13 @@
 #Character menu
 $1 :: Mr. L
 $3 :: Roter Yoshi
+$13 :: Waluigi
 $14 :: Gold Mario
 
 #Character race
 $46 :: Mr.L
 $48 :: R. Yoshi
+$58 :: Waluigi
 $59 :: G. Mario
 
 #Kart Body Parts
@@ -121,7 +123,6 @@ spdmeter :: Tachometer :: Zeigt ein Tachometer auf dem oberen Bildschirm in der 
 ccsel :: CC Wähler :: Stellt den momentanen CC-Wert zu einem bestimmten Wert ein (muss aktiviert werden, bevor das Rennen geladen wird).
 itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer verwendet wird und gelb, wenn ein Blitz verwendet wird.
 backcam :: Rückspiegel :: Drücke \uE002 ,um zu sehen, was hinter dir ist, so wie in anderen Mario Kart Spielen! (Anmerkung: Der \uE002 Knopf wird keine Items mehr aktivieren.)
-ntrmenu :: Öffne NTR-Menü :: Öffnet das NTR-Menü.
 
 #Speedometer text
 spd_set :: Tachometer Einstellungen.
@@ -137,10 +138,6 @@ cc_val :: Wert
 cc_rang :: Der Wert muss zwischen 1 - 9999 sein.
 cc_entv :: Gib einen neuen CC Wert ein.
 cc_chgv :: Wert ändern
-
-#Open NTR menu text
-ntr_quest :: Möchtest du das NTR-Menü öffnen, nachdem  du zum Spiel zurückkehrst?
-ntr_opt :: Öffne Jetzt :: Öffne Danach
 
 # To be Translated for 0.17.1
 

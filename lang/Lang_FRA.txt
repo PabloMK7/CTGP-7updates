@@ -19,11 +19,13 @@
 #Character menu
 $1 :: M. L
 $3 :: Yoshi Rouge
+$13 :: Waluigi
 $14 :: Mario d'or
 
 #Character race
 $46 :: M. L
 $48 :: Yoshi R.
+$58 :: Waluigi
 $59 :: Mario Or
 
 #Kart Body Parts
@@ -121,7 +123,6 @@ spdmeter :: Indicateur de Vitesse :: Montre un indicateur de vitesse dans le coi
 ccsel :: Sélecteur de CC :: Règle le CC actuel sur une certaine valeur (doit être activé avant la course).
 itemled :: Avertir des objets avec LED :: La LED de notification clignote en bleu quand une carapace à épines est utilisée et en jaune quand un éclair est utilisé.
 backcam :: Caméra arrière :: Appuyez sur \uE002 pour voir derrière vous, comme dans les autres Mario Kart! (Note: Le bouton \uE002 ne servira plus à utiliser les objets.)
-ntrmenu :: Ouvrir le Menu NTR :: Ouvre le menu NTR.
 
 #Speedometer text
 spd_set :: Paramètres de l'indicateur de vitesse.
@@ -138,9 +139,6 @@ cc_rang :: La valeur doit se situer entre 1 et 9999.
 cc_entv :: Entrez une nouvelle valeur de CC.
 cc_chgv :: Changer la valeur
 
-#Open NTR menu text
-ntr_quest :: Voulez-vous ouvrir le menu NTR après\n être revenu au jeu?
-ntr_opt :: Ouvrir Maintenant :: Ouvrir Plus Tard
 
 # To be Translated for 0.17.1
 
