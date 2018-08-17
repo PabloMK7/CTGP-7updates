@@ -92,9 +92,9 @@ $141 :: Miku's verjaardag
 # Dutch = Miku's verjaardag spectaculair (As it's to long I put it in a comment)
 
 #Create new save data text
-%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
-%357 :: Creating extra save data...
-%358 :: Extra save data\nhas been created.
+%359 :: Extra save data voor CTGP-7\nzal worden aangemaakt op de SD kaart.
+%357 :: Extra save data aan het aanmaken...
+%358 :: Extra save data\nis aangemaakt.
 
 ##Plugin text -----------------------------------------------
 
@@ -163,7 +163,7 @@ som_tr_e :: Sommige racebanen geactiveerd
 code :: Code
 
 #Change Round Number
-chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
-chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
-rounds :: Rounds
-rnd_sel :: Select the number of rounds.
+chgrnd :: Wijzig aantal rondes :: Wijzigt het aantal rondes in VS en battle mode.
+chgrnd_desc :: Kies het aantal rondes dat je\nwil spelen in VS en battle mode.\nLET OP: Werkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben :: Nummer moet tussen de 1 en 32 zitten.
+rounds :: Rondes
+rnd_sel :: Selecteer het aantal rondes.
