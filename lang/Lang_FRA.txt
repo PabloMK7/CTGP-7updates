@@ -18,7 +18,7 @@
 ##Ingame text -----------------------------------------------
 
 #Character menu
-$1 :: M. L
+$1 :: Mister L
 $3 :: Yoshi Rouge
 $13 :: Waluigi
 $14 :: Mario d'or
@@ -37,7 +37,7 @@ $74 :: Équipe Bandicoot
 
 #Kart Wheel Parts
 $83 :: \uE033 Mastodonte
-$87 :: Ecrabouilleur B.
+$87 :: Écrabouilleur B.
 
 #Kart Glider Parts
 $96 :: Swooper de Feu
@@ -91,9 +91,9 @@ $138 :: Caverne Élémentaire
 $141 :: Spectacle Miku
 
 #Create new save data text
-%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
-%357 :: Creating extra save data...
-%358 :: Extra save data\nhas been created.
+%359 :: Des données de sauvegarde aditionnelles\npour CTGP-7 seront créées\nsur la carte SD.
+%357 :: Création des données\nde sauvegarde...
+%358 :: Des données de sauvegarde\nont été créées.
 
 ##Plugin text -----------------------------------------------
 
@@ -122,7 +122,7 @@ err_ver :: Cette version de Mario Kart 7\nn'est pas supportée! Assurez-vous que
 err_both :: Si vous ne jouez pas au mod\ndepuis la cartouche insérée, gardez-la\nenlevée pendant que vous jouez\nsur une copie digitale.\n(Un redémarrage est également recommandé.)
 
 #Message shown when the user presses the home button
-err_home :: Menu \uE073 :: Le Menu \uE073 ne peut pas être ouvert.\nMaintenez le bouton \uE078 \npour éteindre la console.
+err_home :: Menu \uE073 :: Le Menu \uE073 ne peut pas être ouvert.\nMaintenez le bouton \uE078 appuyé\npour éteindre la console.
 
 #Entries
 spdmeter :: Indicateur de Vitesse :: Montre un indicateur de vitesse dans le coin inférieur droit de l'écran du haut.
@@ -156,13 +156,13 @@ endis_all :: Activer tout :: Désactiver tout
 empty :: Vide !
 
 #Community Code Generator
-commugen :: Générateur de Code Communautaire :: Génère un code basé sur les paramètres entrés. Mettre le code va activer ces paramêtres chez tous les utiliateurs.
+commugen :: Générateur de Code Communautaire :: Génère un code basé sur les paramètres entrés. Entrer ce code activera ces paramêtres chez tous les utiliateurs.
 def_spd :: Vitesse par défaut
 som_tr_e :: Quelques circuits activés
 code :: Code
 
 #Change Round Number
-chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
-chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
-rounds :: Rounds
-rnd_sel :: Select the number of rounds.
+chgrnd :: Changer le nombre de tours :: Change le nombre de tours\nen mode VS et bataille.
+chgrnd_desc :: Sélectionne le nombre de tours\nà jouer en mode VS et bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tous les\njoueurs doivent avoir les mêmes\nparamètres. :: Le nombre choisi doit être\nentre 1 et 32.
+rounds :: Tours
+rnd_sel :: Sélectionne le nombre de tours.

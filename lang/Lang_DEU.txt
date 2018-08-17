@@ -91,14 +91,14 @@ $138 :: Elementhöhle
 $141 :: Mikus Geburtstagsschausp.
 
 #Create new save data text
-%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
-%357 :: Creating extra save data...
-%358 :: Extra save data\nhas been created.
+%359 :: Zusatzdaten für CTGP-7\nwerden auf der\nSD-Karte erstellt.
+%357 :: Erstelle Zusatzdaten...
+%358 :: Zusatzdaten wurden erstellt.
 
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
-welc_t :: Willkommen zu CTGP-7
+welc_t :: Willkommen bei CTGP-7
 welc_1 :: Grüß dich!\nVon dem Ingame-Menü aus, wirst\ndu in der Lage sein, ein paar\ninteressante Funktionen zu benutzen.\n\nUm das Ingame-Menü zu öffnen,\nbenutze den (SELECT) Knopf.
 welc_2 :: Um die Funktionen zu verwenden,\nplatziere den Zeiger über einen\nEintrag und drücke \uE000 , um es zu\naktivieren oder zu konfigurieren.
 welc_3 :: Um zu erfahren, was der Eintrag macht,\nplatziere den Zeiger über den Eintrag\nund berühre \uE058 den blauen "i" (Info)\nKnopf im unteren Bildschirm.
@@ -162,8 +162,8 @@ def_spd :: Standart Geschwindigkeit
 som_tr_e :: Manche Strecken aktiviert
 code :: Code
 
-#Change Round Number
-chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
-chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
-rounds :: Rounds
-rnd_sel :: Select the number of rounds.
+ #Change Round Number
+chgrnd :: Rundenanzahl ändern :: Ändert die Anzahl der Runden in VS und Schlacht Modi.
+chgrnd_desc :: Wähle die Anzahl der Runden,\ndie in VS oder Schlacht Modi\n gespielt werden sollen.\nHINWEIS: Funktioniert nicht im Download-Spiel.\nIm lokalem Mehrspieler muss jeder\ndie gleichen Einstellungen haben. :: Anzahl muss zwischen 1 und 32 sein.
+rounds :: Runden
+rnd_sel :: Wähle die Anzahl der Runden.
