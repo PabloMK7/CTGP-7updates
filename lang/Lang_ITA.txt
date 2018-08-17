@@ -91,18 +91,18 @@ $138 :: Caverna Elementale
 $141 :: Compleanno di Miku
 
 #Create new save data text
-%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
-%357 :: Creating extra save data...
-%358 :: Extra save data\nhas been created.
+%359 :: I dati di salvataggio\nextra di CTGP-7\nsaranno creati\nnella scheda SD.
+%357 :: Creazione dati di\nsalvataggio extra...
+%358 :: I dati di salvataggio\nextra sono stati creati.
 
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
 welc_t :: Benvenuto a CTGP-7
-welc_1 :: Ciao!nDal menu interno al gioco, potrainusare delle funzioni interessanti.nnPer aprire il menu,nusa il pulsante (SELECT).
-welc_2 :: Per usare le funzioni, posizionanil cursore su una voce enpremi uE000 per attivarla/configurarla.
-welc_3 :: Per sapere ciò che attiva ogni voce,nposizionaci il cursore soprane tocca uE058 la "i" (info) blunnello schermo inferiore.
-welc_4 :: Ricorda però che funzionincome il "Selettore CC" sarannondisabilitate giocando online.
+welc_1 :: Ciao!\nDal menu interno al gioco, potrai\nusare delle funzioni interessanti.\n\nPer aprire il menu,nusa il pulsante (SELECT).
+welc_2 :: Per usare le funzioni, posiziona\nil cursore su una voce enpremi uE000 per attivarla/configurarla.
+welc_3 :: Per sapere ciò che attiva ogni voce,\nposizionaci il cursore sopra\ne tocca uE058 la "i" (info) blu\nnello schermo inferiore.
+welc_4 :: Ricorda però che funzioni\ncome il "Selettore CC" saranno\ndisabilitate giocando online.
 welc_5 :: Speriamo che la mod ti piaccia! ^&#969;^
 
 #General text
@@ -116,10 +116,10 @@ exit :: Esci
 
 
 #Error when an incorrect version is installed
-err_ver :: Questa versione di Mario Kart 7nnon è supportata! Assicuratinche la patch 1.1 sia installata.n(Download dall'eShop)nTrovata: v%d
+err_ver :: Questa versione di Mario Kart 7\nnon è supportata! Assicurati\nche la patch 1.1 sia installata.\n(Download dall'eShop)\nTrovata: v%d
 
 #Error when the user has a card and a cia at the same time
-err_both :: Se NON stai usandonil gioco dalla schedinaninserita, rimuovila mentrangiochi la modnsu una copia digitale.n(Un riavvio è raccomandato.)
+err_both :: Se NON stai usando\nil gioco dalla schedina\ninserita, rimuovila mentre\ngiochi la mod\nsu una copia digitale.\n(Un riavvio è raccomandato.)
 
 #Message shown when the user presses the home button
 err_home :: Menu uE073 :: Non è possibile aprire il Menu uE073.nTieni premuto il pulsante uE078nper spegnere la console.
@@ -131,7 +131,7 @@ backcam :: Retrovisuale :: Premi uE002 per vedere dietro di te, proprio come gli
 
 #Speedometer text
 spd_set :: Impostazioni tachimetro.
-spd_unit :: Unita'
+spd_unit :: Unità
 spd_type :: Tipo
 spd_sunit :: Seleziona unità.
 spd_stype :: Seleziona tipo.
@@ -161,7 +161,7 @@ som_tr_e :: Qualche pista abilitata
 code :: Codice
 
 #Change Round Number
-chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
-chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
-rounds :: Rounds
-rnd_sel :: Select the number of rounds.
+chgrnd :: Numero di round :: Cambia il numero di round nelle modalità Corsa Sfida e Battaglia.
+chgrnd_desc :: Seleziona il numero di round che verranno\ngiocati nelle modalità Corsa Sfida e Battaglia.\nNOTA: Non funziona in Modalità Download.\nIn multiplayer locale, tutti devono\navere le stesse impostazioni. :: Il numero deve essere compreso tra 1 e 32.
+rounds :: Round
+rnd_sel :: Selecziona il numero di round.
