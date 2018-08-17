@@ -101,7 +101,7 @@ $141 :: Compleanno di Miku
 welc_t :: Benvenuto a CTGP-7
 welc_1 :: Ciao!\nDal menu interno al gioco, potrai\nusare delle funzioni interessanti.\n\nPer aprire il menu,nusa il pulsante (SELECT).
 welc_2 :: Per usare le funzioni, posiziona\nil cursore su una voce enpremi uE000 per attivarla/configurarla.
-welc_3 :: Per sapere ciò che attiva ogni voce,nposizionaci il cursore soprane tocca uE058 la "i" (info) blu\nnello schermo inferiore.
+welc_3 :: Per sapere ciò che attiva ogni voce,\nposizionaci il cursore sopra\ne tocca uE058 la "i" (info) blu\nnello schermo inferiore.
 welc_4 :: Ricorda però che funzionincome il "Selettore CC" saranno\ndisabilitate giocando online.
 welc_5 :: Speriamo che la mod ti piaccia! ^&#969;^
 
