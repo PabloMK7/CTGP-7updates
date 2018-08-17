@@ -91,9 +91,9 @@ $138 :: Caverna Elementale
 $141 :: Compleanno di Miku
 
 #Create new save data text
-%359 :: I dati di salvataggio extra di CTGP-7\nsaranno creati nella scheda SD.
-%357 :: Creazione dati di salvataggio extra...
-%358 :: I dati di salvataggio extra\nsono stati creati.
+%359 :: I dati di salvataggio\nextra di CTGP-7\nsaranno creati\nnella scheda SD.
+%357 :: Creazione dati di\nsalvataggio extra...
+%358 :: I dati di salvataggio\nextra sono stati creati.
 
 ##Plugin text -----------------------------------------------
 
@@ -102,7 +102,7 @@ welc_t :: Benvenuto a CTGP-7
 welc_1 :: Ciao!\nDal menu interno al gioco, potrai\nusare delle funzioni interessanti.\n\nPer aprire il menu,nusa il pulsante (SELECT).
 welc_2 :: Per usare le funzioni, posiziona\nil cursore su una voce enpremi uE000 per attivarla/configurarla.
 welc_3 :: Per sapere ciò che attiva ogni voce,\nposizionaci il cursore sopra\ne tocca uE058 la "i" (info) blu\nnello schermo inferiore.
-welc_4 :: Ricorda però che funzionincome il "Selettore CC" saranno\ndisabilitate giocando online.
+welc_4 :: Ricorda però che funzioni\ncome il "Selettore CC" saranno\ndisabilitate giocando online.
 welc_5 :: Speriamo che la mod ti piaccia! ^&#969;^
 
 #General text
@@ -162,6 +162,6 @@ code :: Codice
 
 #Change Round Number
 chgrnd :: Numero di round :: Cambia il numero di round nelle modalità Corsa Sfida e Battaglia.
-chgrnd_desc :: Seleziona il numero di round che verranno\ngiocati nelle modalità Corsa Sfida e Battaglia.\nNOTA: Non funziona in Modalità Download.\nIn multiplayer locale, tutti devono\navere le stesse impostazioni. :: Il numero deve essere compreso tra 1 and 32.
+chgrnd_desc :: Seleziona il numero di round che verranno\ngiocati nelle modalità Corsa Sfida e Battaglia.\nNOTA: Non funziona in Modalità Download.\nIn multiplayer locale, tutti devono\navere le stesse impostazioni. :: Il numero deve essere compreso tra 1 e 32.
 rounds :: Round
 rnd_sel :: Selecziona il numero di round.
