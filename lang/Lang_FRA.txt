@@ -1,3 +1,4 @@
+#
 ##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
@@ -89,6 +90,11 @@ $138 :: Caverne Élémentaire
 # Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
 $141 :: Spectacle Miku
 
+#Create new save data text
+%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
+%357 :: Creating extra save data...
+%358 :: Extra save data\nhas been created.
+
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
@@ -139,9 +145,7 @@ cc_rang :: La valeur doit se situer entre 1 et 9999.
 cc_entv :: Entrez une nouvelle valeur de CC.
 cc_chgv :: Changer la valeur
 
-
-# To be Translated for 0.17.1
-
+#Course Manager
 comanager :: Gestion des circuits :: Activer ou désactiver les circuits modifiés.
 cs_mng :: Gestionnaire de circuits
 all_tr_e :: Tous les circuits sont activés
@@ -151,7 +155,14 @@ rt_cup :: Coupes Rétro
 endis_all :: Activer tout :: Désactiver tout
 empty :: Vide !
 
+#Community Code Generator
 commugen :: Générateur de Code Communautaire :: Génère un code basé sur les paramètres entrés. Mettre le code va activer ces paramêtres chez tous les utiliateurs.
 def_spd :: Vitesse par défaut
 som_tr_e :: Quelques circuits activés
 code :: Code
+
+#Change Round Number
+chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
+chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
+rounds :: Rounds
+rnd_sel :: Select the number of rounds.

@@ -1,4 +1,5 @@
-﻿##No need to translate lines starting with #, those are comments
+#
+##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
 #	GBA -> \uE024\uE025
@@ -89,6 +90,11 @@ $138 :: Elementhöhle
 # Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
 $141 :: Mikus Geburtstagsschausp.
 
+#Create new save data text
+%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
+%357 :: Creating extra save data...
+%358 :: Extra save data\nhas been created.
+
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
@@ -139,8 +145,8 @@ cc_rang :: Der Wert muss zwischen 1 - 9999 sein.
 cc_entv :: Gib einen neuen CC Wert ein.
 cc_chgv :: Wert ändern
 
-# To be Translated for 0.17.1
 
+#Course Manager
 comanager :: Strecken Manager :: Aktiviere oder deaktiviere Custom Strecken, so wie du möchtest.
 cs_mng :: Strecken Manager
 all_tr_e :: Alle Strecken aktiviert
@@ -150,7 +156,14 @@ rt_cup :: Retro Cups
 endis_all :: Aktiviere alle :: Deaktiviere alle
 empty :: leer
 
+#Community Code Generator
 commugen :: Community-Code-Generator :: Generiert einen Code, basierend auf die momentanen Benutzereinstellungen . Wenn Sie den Code in eine Community-Beschreibung einfügen, werden die Einstellungen für alle in dieser Community aktiviert.
 def_spd :: Standart Geschwindigkeit
 som_tr_e :: Manche Strecken aktiviert
 code :: Code
+
+#Change Round Number
+chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
+chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
+rounds :: Rounds
+rnd_sel :: Select the number of rounds.

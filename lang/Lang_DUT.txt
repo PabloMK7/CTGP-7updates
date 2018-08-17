@@ -1,3 +1,4 @@
+#
 ##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
@@ -90,6 +91,11 @@ $138 :: Elementale grot
 $141 :: Miku's verjaardag
 # Dutch = Miku's verjaardag spectaculair (As it's to long I put it in a comment)
 
+#Create new save data text
+%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
+%357 :: Creating extra save data...
+%358 :: Extra save data\nhas been created.
+
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
@@ -140,8 +146,7 @@ cc_rang :: De waarde moet liggen tussen 1 - 9999
 cc_entv :: Voer nieuwe CC-waarde in.
 cc_chgv :: Verander waarde
 
-# To be Translated for 0.17.1
-
+#Course Manager
 comanager :: Racebaan Beheerder :: Activeer of deactiveer racebanen zoals jij dat wil.
 cs_mng :: Racebaan beheerder
 all_tr_e :: Alle racebanen geactiveerd
@@ -151,7 +156,14 @@ rt_cup :: Retro Bekers
 endis_all :: Activeer alles :: Deactiveer alles
 empty :: Leeg
 
+#Community Code Generator
 commugen :: Community Code Generator :: Genereert een code gebaseerd op de huidige gebruikersinstellingen. Als je deze code in de beschrijving van een community zet, zullen de instellingen voor iedereen in de community geactiveerd worden.
 def_spd :: Standaard snelheid
 som_tr_e :: Sommige racebanen geactiveerd
 code :: Code
+
+#Change Round Number
+chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
+chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
+rounds :: Rounds
+rnd_sel :: Select the number of rounds.

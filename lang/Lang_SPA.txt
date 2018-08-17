@@ -1,4 +1,5 @@
-﻿##No need to translate lines starting with #, those are comments
+#
+##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
 #	GBA -> \uE024\uE025
@@ -89,6 +90,11 @@ $138 :: Cueva Elemental
 # Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
 $141 :: Cumpleaños de Miku
 
+#Create new save data text
+%359 :: Datos de guardado extra\npara CTGP-7 serán creados\nen la tarjeta SD.
+%357 :: Creando datos...
+%358 :: Los datos de guardado\nhan sido creados.
+
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
@@ -140,8 +146,7 @@ cc_rang :: El valor tiene que ser entre 1 - 9999
 cc_entv :: Introduce valor de CC.
 cc_chgv :: Cambiar Valor
 
-# To be Translated for 0.17.1
-
+#Course Manager
 comanager :: Configurar Circutos :: Activa o desactiva circuitos editados a tu gusto.
 cs_mng :: Configurar Circutos
 all_tr_e :: Todos los circuitos activados
@@ -151,7 +156,14 @@ rt_cup :: Copas Retro
 endis_all :: Activar Todos :: Desactivar Todos
 empty :: Vacío
 
+#Community Code Generator
 commugen :: Generar Código Para Comunidad :: Genera un código basado en las opciones activadas. Al poner el código en la descripción de una comunidad hará que esas opciones se activen para todo el mundo.
 def_spd :: Velocidad por defecto.
 som_tr_e :: Algunos circuitos activados.
 code :: Código
+
+#Change Round Number
+chgrnd :: Cambiar Número De Rondas :: Cambia el número de rondas en los modos VS y batalla.
+chgrnd_desc :: Selecciona el número de rondas\nde los modos VS y batalla.\nNOTA: No funciona en modo descarga.\nEn multijugador local, todos tienen\nque tener las mismas rondas. :: El número tiene que ser entre 1 y 32.
+rounds :: Rondas
+rnd_sel :: Selecciona el número de rondas.

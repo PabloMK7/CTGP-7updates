@@ -1,3 +1,4 @@
+#
 ##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
@@ -89,6 +90,11 @@ $138 :: Caverna Elemental
 # Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
 $141 :: Aniversário da Miku
 
+#Create new save data text
+%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
+%357 :: Creating extra save data...
+%358 :: Extra save data\nhas been created.
+
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
@@ -139,8 +145,7 @@ cc_rang :: O valor tem que ser entre 1 - 9999
 cc_entv :: Atribua o novo valor CC.
 cc_chgv :: Trocar valor
 
-# To be Translated for 0.17.1
-
+#Course Manager
 comanager :: Gerenciador de Pistas :: Ativa ou Desativa as tracks de sua linkagem.
 cs_mng :: Gerenciador de Pistas
 all_tr_e :: Todas as tracks ativadas
@@ -150,7 +155,14 @@ rt_cup :: Copas Retro
 endis_all :: Ativar Todos :: Desativar Todos
 empty :: Vazio
 
+#Community Code Generator
 commugen :: Gerador de Códigos da Comunidade :: Gera um código baseado nas atuais configurações de usuário. Colocando o código em uma descrição de comunidade vai habilitar as configurações para todos naquela comunidade.
 def_spd :: Velocidade padrão
 som_tr_e :: Algumas tracks habilitadas
 code :: Código
+
+#Change Round Number
+chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
+chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
+rounds :: Rounds
+rnd_sel :: Select the number of rounds.

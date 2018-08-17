@@ -1,3 +1,4 @@
+#
 ﻿##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SFC -> \uE031\uE032
@@ -87,7 +88,12 @@ $136 :: オータムフォレスト
 $135 :: \uE033 プクプクビーチ
 $138 :: エレメンタルケーブ
 # Full name is ミクのバースデースキュレーター (has to be cut because the name is too large)
-$141 :: ミクのバースデースペース.
+$141 :: ミクのバースデースペース
+
+#Create new save data text
+%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
+%357 :: Creating extra save data...
+%358 :: Extra save data\nhas been created.
 
 ##Plugin text -----------------------------------------------
 
@@ -113,7 +119,7 @@ exit :: 閉じる
 err_ver :: このMK7のバージョンは\nサポートされていません!\nv1.1の更新データをインストールして下さい\nDetected: v%
 
 #Error when the user has a card and a cia at the same time
-err_both :: If you are NOT running\nthe game from the current\ninserted cartridge, keep it\nremoved while playing the mod\nfrom a digital copy.\n(A reboot is also recommended.)
+err_both ::MK7のカードリッジを挿入した状態で\nCIAから起動している場合は\nカードリッジを取り外し、再起動してください。
 
 #Message shown when the user presses the home button
 err_home :: \uE073 メニュー :: \uE073 メニューは開けません.\n電源を切るには\uE078 を押して下さい
@@ -138,18 +144,24 @@ cc_rang :: 値は 1 - 9999までで設定できます
 cc_entv :: 新しいCCを決定する
 cc_chgv :: 値を変える
 
-# To be Translated for 0.17.1
-
-comanager :: コース管理 :: 欲しい創造したコースを可能か無効にする
+#Course Manager
+comanager :: コース管理 :: コースごとにCTを有効か無効にします
 cs_mng :: コース管理
-all_tr_e :: すべてのコースは使用可能
-all_tr_d :: すべてのコースは使用無効
+all_tr_e :: すべてのCTを有効にする	
+all_tr_d :: すべてのCTを無効にする
 nt_cup :: ニトロカップ
 rt_cup :: レトロカップ
-endis_all :: すべてを可能にする :: すべてを無効にする
-empty :: 虚空
+endis_all :: すべてを有効にする :: すべてを無効にする
+empty :: empty
 
-commugen :: コミュニティコードゲネレーション :: 現在のユーザ設定を元にしてコードを生成する。コードはコミュニティ説明に貼ったり、コミュニティに参加した人の設定を可能にする。
+#Community Code Generator
+commugen :: コミュニティコードジェネレーター :: 現在の設定を元にしてコードを生成します。コードはコミュニティ作成時に入力するコメントに入力してください。コミュニティに参加した人に設定を適用します。
 def_spd :: 既定の速度
-som_tr_e :: いくつかの有効したコース
+som_tr_e :: 有効にしたCTのみ
 code :: コード
+
+#Change Round Number
+chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
+chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
+rounds :: Rounds
+rnd_sel :: Select the number of rounds.
