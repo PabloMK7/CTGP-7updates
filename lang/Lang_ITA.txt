@@ -165,3 +165,6 @@ chgrnd :: Numero di round :: Cambia il numero di round nelle modalità Corsa Sfi
 chgrnd_desc :: Seleziona il numero di round che verranno\ngiocati nelle modalità Corsa Sfida e Battaglia.\nNOTA: Non funziona in Modalità Download.\nIn multiplayer locale, tutti devono\navere le stesse impostazioni. :: Il numero deve essere compreso tra 1 e 32.
 rounds :: Round
 rnd_sel :: Selecziona il numero di round.
+
+#Enhanced Local Map
+enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.

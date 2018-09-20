@@ -166,3 +166,6 @@ chgrnd :: Changer le nombre de tours :: Change le nombre de tours\nen mode VS et
 chgrnd_desc :: Sélectionne le nombre de tours\nà jouer en mode VS et bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tous les\njoueurs doivent avoir les mêmes\nparamètres. :: Le nombre choisi doit être\nentre 1 et 32.
 rounds :: Tours
 rnd_sel :: Sélectionne le nombre de tours.
+
+#Enhanced Local Map
+enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.

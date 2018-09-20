@@ -167,3 +167,6 @@ chgrnd :: Wijzig aantal rondes :: Wijzigt het aantal rondes in VS en battle mode
 chgrnd_desc :: Kies het aantal rondes dat je\nwil spelen in VS en battle mode.\nLET OP: Werkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben :: Nummer moet tussen de 1 en 32 zitten.
 rounds :: Rondes
 rnd_sel :: Selecteer het aantal rondes.
+
+#Enhanced Local Map
+enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.

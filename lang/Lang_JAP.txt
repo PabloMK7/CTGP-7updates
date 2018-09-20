@@ -165,3 +165,6 @@ chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle m
 chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
 rounds :: Rounds
 rnd_sel :: Select the number of rounds.
+
+#Enhanced Local Map
+enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.

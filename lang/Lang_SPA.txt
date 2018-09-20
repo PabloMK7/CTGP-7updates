@@ -167,3 +167,6 @@ chgrnd :: Cambiar Número De Rondas :: Cambia el número de rondas en los modos 
 chgrnd_desc :: Selecciona el número de rondas\nde los modos VS y batalla.\nNOTA: No funciona en modo descarga.\nEn multijugador local, todos tienen\nque tener las mismas rondas. :: El número tiene que ser entre 1 y 32.
 rounds :: Rondas
 rnd_sel :: Selecciona el número de rondas.
+
+#Enhanced Local Map
+enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.

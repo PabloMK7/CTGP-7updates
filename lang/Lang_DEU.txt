@@ -167,3 +167,6 @@ chgrnd :: Rundenanzahl ändern :: Ändert die Anzahl der Runden in VS und Schlac
 chgrnd_desc :: Wähle die Anzahl der Runden,\ndie in VS oder Schlacht Modi\n gespielt werden sollen.\nHINWEIS: Funktioniert nicht im Download-Spiel.\nIm lokalem Mehrspieler muss jeder\ndie gleichen Einstellungen haben. :: Anzahl muss zwischen 1 und 32 sein.
 rounds :: Runden
 rnd_sel :: Wähle die Anzahl der Runden.
+
+#Enhanced Local Map
+enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.
