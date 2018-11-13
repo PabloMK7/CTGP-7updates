@@ -167,4 +167,4 @@ rounds :: Round
 rnd_sel :: Selecziona il numero di round.
 
 #Enhanced Local Map
-enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.
+enhmap :: Mappa locale migliorata :: Aggiunge la funzionalità di zoom alla mappa dello schermo inferiore usando il \uE058 touch screen.
