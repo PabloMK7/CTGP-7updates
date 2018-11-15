@@ -91,9 +91,9 @@ $138 :: エレメンタルケーブ
 $141 :: ミクのバースデースペース
 
 #Create new save data text
-%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
-%357 :: Creating extra save data...
-%358 :: Extra save data\nhas been created.
+%359 :: SDカードにCTGP-7せんようついかセーブデータをそうぞうします
+%357 :: ついかセーブデータをそうぞう中・・・
+%358 :: ついかセーブデータをついかしました
 
 ##Plugin text -----------------------------------------------
 
@@ -152,7 +152,7 @@ all_tr_d :: すべてのCTを無効にする
 nt_cup :: ニトロカップ
 rt_cup :: レトロカップ
 endis_all :: すべてを有効にする :: すべてを無効にする
-empty :: empty
+empty :: 空
 
 #Community Code Generator
 commugen :: コミュニティコードジェネレーター :: 現在の設定を元にしてコードを生成します。コードはコミュニティ作成時に入力するコメントに入力してください。コミュニティに参加した人に設定を適用します。

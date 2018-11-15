@@ -168,4 +168,4 @@ rounds :: Tours
 rnd_sel :: Sélectionne le nombre de tours.
 
 #Enhanced Local Map
-enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.
+enhmap :: Améliorations pour la carte locale :: Ajoute des fonctions zoom sur la carte disponible sur \uE058 l'écran tactile.
