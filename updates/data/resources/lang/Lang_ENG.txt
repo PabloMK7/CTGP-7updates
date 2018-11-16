@@ -1,4 +1,5 @@
-﻿##No need to translate lines starting with #, those are comments
+#
+##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
 #	GBA -> \uE024\uE025
@@ -89,6 +90,11 @@ $138 :: Elemental Cave
 # Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
 $141 :: Miku's Birthday Spec.
 
+#Create new save data text
+%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
+%357 :: Creating extra save data...
+%358 :: Extra save data\nhas been created.
+
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
@@ -139,9 +145,7 @@ cc_rang :: The value must be between 1 - 9999
 cc_entv :: Enter new CC value.
 cc_chgv :: Change value
 
-
-# To be Translated for 0.17.1
-
+#Course Manager
 comanager :: Course Manager :: Enable or disable custom tracks to your liking.
 cs_mng :: Course Manager
 all_tr_e :: All tracks enabled
@@ -151,7 +155,17 @@ rt_cup :: Retro Cups
 endis_all :: Enable All :: Disable All
 empty :: Empty
 
+#Community Code Generator
 commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
 def_spd :: Default speed
 som_tr_e :: Some tracks enabled
 code :: Code
+
+#Change Round Number
+chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
+chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
+rounds :: Rounds
+rnd_sel :: Select the number of rounds.
+
+#Enhanced Local Map
+enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.
