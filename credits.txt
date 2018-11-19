@@ -39,4 +39,5 @@ Terax=Translation
 RoyalClasher=Translation
 Ben Lea=Translation
 GalacticPirate=Translation
+Rafa10=Translation
 You=CTGP-7 Player
