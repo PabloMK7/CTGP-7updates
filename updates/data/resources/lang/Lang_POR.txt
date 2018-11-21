@@ -91,9 +91,9 @@ $138 :: Caverna Elemental
 $141 :: Aniversário da Miku
 
 #Create new save data text
-%359 :: Extra save data for CTGP-7\nwill be created in the SD card.
-%357 :: Creating extra save data...
-%358 :: Extra save data\nhas been created.
+%359 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
+%357 :: Escrita dos dados de gravação\nadicionais em curso...
+%358 :: Os dados de gravação adicionais\nforam criados.
 
 ##Plugin text -----------------------------------------------
 
@@ -128,10 +128,10 @@ err_home :: Menu \uE073 :: O \uE073 Menu HOME não pode ser aberto.\nSegure o bo
 spdmeter :: Velocímetro :: Mostra um velocímetro na tela de cima no canto inferior direito.
 ccsel :: Seletor CC :: Configura o CC para um certo valor (tem que ser abilitado antes da corrida).
 itemled :: Alertar Itens com LED :: A LED de notificação piscará Azul quando um Casco Azul for usado e Amarelo quando um Relâmpago for usado.
-backcam ::  Camera de Frente :: Aperte \uE002 para ver oque está atraz de você, igual em outros Mario Karts! (Nota: O botão \uE002 não utilizará itens.)
+backcam ::  Camera de Frente :: Aperte \uE002 para ver o que está atrás de você, igual em outros Mario Karts! (Nota: O botão \uE002 não utilizará itens.)
 
 #Speedometer text
-spd_set :: Obções do Velocímetro.
+spd_set :: Opções do Velocímetro.
 spd_unit :: Unidade
 spd_type :: Tipo
 spd_sunit :: Selecione a unidade do velocímetro.
@@ -162,10 +162,10 @@ som_tr_e :: Algumas tracks habilitadas
 code :: Código
 
 #Change Round Number
-chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
-chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
-rounds :: Rounds
-rnd_sel :: Select the number of rounds.
+chgrnd :: Alterar o Número de Rondas :: Altera o número de rondas nos modos VS ou batalha.
+chgrnd_desc :: Selecione o número de rondas para serem\njogadas nos modos VS ou batalha.\nNOTE: Não funciona no modo download.\nNo modo de multijogador local, todos os jogadores têm\nde ter as mesmas definições. :: O número tem de estar entre 1 e 32.
+rounds :: Rondas
+rnd_sel :: Selecione o número de rondas.
 
 #Enhanced Local Map
-enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.
+enhmap :: Mapa Local Melhorado :: Adiciona a funcionalidade de zoom ao mapa local do ecrã de baixo através do ecrã tátil \uE058.

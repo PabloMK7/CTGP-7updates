@@ -30,7 +30,7 @@ $58 :: Waluigi
 $59 :: G. Mario
 
 #Kart Body Parts
-$70 :: Silbener Pfeil
+$70 :: Silberpfeil
 $72 :: Schaufelbagger
 $73 :: Arkarde
 $74 :: Beuteldachs
