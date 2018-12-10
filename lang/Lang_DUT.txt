@@ -24,15 +24,15 @@ $13 :: Waluigi
 $14 :: Gouden Mario
 
 #Character race
-$46 :: Mr.L
+$46 :: Mr. L.
 $48 :: R. Yoshi
 $58 :: Waluigi
 $59 :: G. Mario
 
 #Kart Body Parts
 $70 :: Zilveren Pijl
-$72 :: Gouden Bidsprinkhanen
-$73 :: Zuilengang
+$72 :: Gouden Schepmachine
+$73 :: Arcade
 $74 :: Bandicoot Team
 
 #Kart Wheel Parts
@@ -40,90 +40,89 @@ $83 :: \uE033 Monster
 $87 :: Blauw Monster
 
 #Kart Glider Parts
-$96 :: Brand Swoop
+$96 :: Vuur Swooper
 
 ##Course Names
 #Mushroom Cup
-$113 :: \uE022\uE023 Marios Rennpiste
-$110 :: \uE033 Yoshi-Kaskaden
-$111 :: \uE024\uE025 Käseland
-$114 :: Verdrag Stad
+$113 :: \uE022\uE023 Mario's Piste
+$110 :: \uE033 Yoshi's Vallei
+$111 :: \uE024\uE025 Kaasland
+$114 :: Handelstad
 
 #Flower Cup
-$115 :: \uE022\uE023 Regenboog Weg
-$118 :: Melodie Heiligdom
+$115 :: \uE022\uE023 Regenboogbaan
+$118 :: Melodie Hemel
 $112 :: \uE024\uE025 Hemel Tuin
 
 #Star Cup
-$117 :: Banshee Boardwalk 2
+$117 :: Banshee Plankloop 2
 $116 :: \uE067 Wario's Goudmijn
 $119 :: Stortbui Stad
-$120 :: \uE026\uE027 Wario-Kolosseum
+$120 :: \uE026\uE027 Wario's Kolosseum
 
 #Special Cup
-$121 :: \uE033 Glühheiße Wüste
+$121 :: \uE033 Droge Woestijn
 $122 :: \uE022\uE023 Polar-Parcours
 $123 :: Bayside Boulevard
-$124 :: Kasteel van de tijd
+$124 :: Kasteel Van Tijd
 
 #Shell Cup
-$128 :: \uE022\uE023 Kuhmuh-Farm
-$127 :: \uE024\uE025 Bowsers Festung 3
-$137 :: Galvarny Falls
-$130 :: \uE031\uE032 Geistertal 2
+$128 :: \uE022\uE023 Boe Boe Boerenland
+$127 :: \uE024\uE025 Bowsers Kasteel 3
+$137 :: Galvarny Vallei
+$130 :: \uE031\uE032 Geestenvallei 2
 
 #Banana Cup
 $140 :: \uE026\uE027 Peach Beach
-$126 :: \uE031\uE032 Marios Piste 1
-$134 :: \uE024\uE025 Flussufer Park
-$131 :: \uE033 Ticktack-Trauma
-
+$126 :: \uE031\uE032 Mario's Piste 1
+$134 :: \uE024\uE025 Rivier Park
+$131 :: \uE033 Tik Tok Klok
 #Leaf Cup
-$129 :: \uE022\uE023 IJzige woestijn van Kalimary
-$132 :: Altijdgroene oversteek
-$139 :: Ruimteweg
-$136 :: Herfst bos
+$129 :: \uE022\uE023 Ijzige Woestijn
+$132 :: Altijdgroene Oversteek
+$139 :: Ruimtebaan
+$136 :: Herfstbos
 
 #Lightning Cup
 $135 :: \uE033 Cheep Cheep-Strand
-$138 :: Elementale grot
+$138 :: Elementale Grot
 # Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
-$141 :: Miku's verjaardag
-# Dutch = Miku's verjaardag spectaculair (As it's to long I put it in a comment)
+$141 :: Miku's Verjaardag
+# Full Dutch name is Miku's Verjaardag Spectaculair
 
 #Create new save data text
-%359 :: Extra save data voor CTGP-7\nzal worden aangemaakt op de SD kaart.
-%357 :: Extra save data aan het aanmaken...
+%359 :: Extra save data voor CTGP-7\nzal worden aangemaakt\nop de SD kaart.
+%357 :: Extra save data\naan het maken...
 %358 :: Extra save data\nis aangemaakt.
 
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
 welc_t :: Welkom bij CTGP-7
-welc_1 :: Hallo daar!\nAan het iname-menu kun je\nenkele interessante functies gebruiken\n\nKlik op de knop (SELECT) om het menu Iname te openen.
-welc_2 :: Om een functie te gebruiken, plaatst u de \ ncursor boven een invoer en\npress \uE000 om deze in te schakelen / in te stellen.
-welc_3 :: Om te weten wat een invoer doet, plaats\nde cursor op de invoer\nen raak \uE058 de blauwe "i" (info)\nknop in het onderste scherm aan.
-welc_4 :: Houd er rekening mee dat sommige functies\nzoals "CC Selector"\ndisabled kunnen worden tijdens het online spelen.
-welc_5 :: We hopen dat je geniet van de mod! ^ ω ^
+welc_1 :: Hallo daar!\nIn het In-Game-Menu kun je\nenkele interessante functies gebruiken\n\nDruk op de knop (SELECT) om het In-Game-Menu te openen.
+welc_2 :: Om een functie te gebruiken, plaats je de\ncursor boven een optie en\nEn druk je op \uE000 om deze in te schakelen / in te stellen.
+welc_3 :: Om te weten wat een optie doet,\nplaats de cursor op de invoer\nen tik op \uE058 de blauwe "i" (info)\nknop in het onderste scherm.
+welc_4 :: Houd er rekening mee dat sommige functies\nzoals "CC Selector"\nUitgezet kunnen worden tijdens online spelen.
+welc_5 :: We hopen dat je geniet van CTGP-7! ^ ω ^
 
 #General text
 warning :: WAARSCHUWING
 error :: FOUT
-state :: STATTE
-state_mode :: ingeschakeld :: invalide
-state_inf :: ingeschak :: onbruikbaar maken
-settings :: instellingen
-exit :: Uitgang
+state :: STATUS
+state_mode :: Ingeschakeld :: Uitgeschakeld
+state_inf :: Inschakelen :: Uitschakelen
+settings ::Instellingen
+exit :: Terug
 
 
 #Error when an incorrect version is installed
 err_ver :: Deze Mario Kart 7-versie\nwordt niet ondersteund! Controleer of\nde 1.1-patch is geïnstalleerd.\n(Downloaden vanuit de eShop)\nDetected: v %d
 
 #Error when the user has a card and a cia at the same time
-err_both :: Als u de game\nhet spel niet uitvoert vanuit de huidige\ninvoercassette, moet u deze\nvan houden tijdens het afspelen van de mod\nop een digitale kopie.\n(een reboot wordt ook aanbevolen.)
+err_both :: Als je de MK7 gamecard\nEn de geinstalleerde versie\nheeft, raden wij je aan\nom de gamecard uit je\n3DS te halen.\n\n(als het niet goed werkt, kan\nje ook je 3DS opnieuw opstarten.)
 
 #Message shown when the user presses the home button
-err_home :: \uE073 Menu :: Het menu \uE073 kan niet worden geopend.\nHoud de knop \uE078\nin om de console af te sluiten.
+err_home :: \uE073 Menu :: Het Homemenu kan niet worden geopend\n Houd de \uE078 knop ingedrukt\nOm de 3DS te herstarten.
 
 #Entries
 spdmeter :: Snelheidsmeter :: Toont een snelheidsmeter in het bovenste scherm rechtsonder.
@@ -132,17 +131,17 @@ itemled :: Warn Items With LED :: De meldings-LED knippert blauw wanneer een bla
 backcam :: Achteruit Camera :: Druk op \uE002 om te zien wat er achter je is, net als andere Mario Kart-spellen! (Opmerking: de knop \uE002 gebruikt geen items meer.)
 
 #Speedometer text
-spd_set :: Snelheidsmeter instellingen.
+spd_set :: Snelheidsmeter Istellingen.
 spd_unit :: Eenheid
 spd_type :: Type
-spd_sunit :: Select Snelheidsmeterr Eenheid.
-spd_stype :: Select Snelheidsmeter type.
-spd_types :: Numerical :: Graphical
+spd_sunit :: Selecteer Snelheidsmeter Eenheid
+spd_stype :: Selecteer Snelheidsmeter type.
+spd_types :: Nummers :: Grafisch
 
 #CC Selector text
-cc_set :: CC-selectorinstellingen
+cc_set :: CC-Selector
 cc_val :: Waarde
-cc_rang :: De waarde moet liggen tussen 1 - 9999
+cc_rang :: De waarde moet tussen 1 - 9999 liggen.
 cc_entv :: Voer nieuwe CC-waarde in.
 cc_chgv :: Verander waarde
 
@@ -164,9 +163,9 @@ code :: Code
 
 #Change Round Number
 chgrnd :: Wijzig aantal rondes :: Wijzigt het aantal rondes in VS en battle mode.
-chgrnd_desc :: Kies het aantal rondes dat je\nwil spelen in VS en battle mode.\nLET OP: Werkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben :: Nummer moet tussen de 1 en 32 zitten.
+chgrnd_desc :: Kies het aantal rondes dat je\nwil spelen in VS en battle mode.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben\n\nWAARSCHUWING: Werkt niet in Download Play. :: Nummer moet tussen de 1 en 32 zitten.
 rounds :: Rondes
 rnd_sel :: Selecteer het aantal rondes.
 
 #Enhanced Local Map
-enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.
+enhmap :: Betere Minimap :: Voegt zoom functionaliteit toe met gebruik van het \uE058 touch screen.
