@@ -20,12 +20,14 @@
 #Character menu
 $1 :: Mr. L
 $3 :: Rode Yoshi
+$5 :: Sonic
 $13 :: Waluigi
 $14 :: Gouden Mario
 
 #Character race
 $46 :: Mr. L.
 $48 :: R. Yoshi
+$50 :: Sonic
 $58 :: Waluigi
 $59 :: G. Mario
 
