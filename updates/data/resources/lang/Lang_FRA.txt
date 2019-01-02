@@ -20,12 +20,14 @@
 #Character menu
 $1 :: Monsieur L
 $3 :: Yoshi Rouge
+$5 :: Sonic
 $13 :: Waluigi
 $14 :: Mario d'or
 
 #Character race
 $46 :: M. L
 $48 :: Yoshi R.
+$50 :: Sonic
 $58 :: Waluigi
 $59 :: Mario Or
 

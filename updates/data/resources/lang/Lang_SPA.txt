@@ -20,12 +20,14 @@
 #Character menu
 $1 :: Sr. L
 $3 :: Yoshi Rojo
+$5 :: Sonic
 $13 :: Waluigi
 $14 :: Mario Dorado
 
 #Character race
 $46 :: Sr.L
 $48 :: Yoshi R.
+$50 :: Sonic
 $58 :: Waluigi
 $59 :: Mario D.
 
