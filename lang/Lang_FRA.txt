@@ -25,14 +25,14 @@ $1013 :: Waluigi
 $1014 :: Mario d'or
 
 #Character race
-$1051 :: M.L
-$1053 :: Yoshi
+$1051 :: M. L
+$1053 :: Yoshi R.
 $1055 :: Sonic
 $1063 :: Waluigi
 $1064 :: Mario Or
 
 #Kart Body Parts
-$1107 :: L'Aiguille Argentée
+$1107 :: Flèche Argentée
 $1109 :: Pelleteuse
 $1110 :: Arcade
 $1111 :: Kart Bandicoot

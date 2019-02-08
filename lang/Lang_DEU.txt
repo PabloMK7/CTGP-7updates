@@ -26,10 +26,10 @@ $1014 :: Gold Mario
 
 #Character race
 $1051 :: Mr.L
-$1053 :: Roter Yoshi
+$1053 :: R. Yoshi
 $1055 :: Sonic
 $1063 :: Waluigi
-$1064 :: Gold Mario
+$1064 :: G. Mario
 
 #Kart Body Parts
 $1107 :: Silbener Pfeil
