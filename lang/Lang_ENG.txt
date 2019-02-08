@@ -149,19 +149,14 @@ cc_entv :: Enter new CC value.
 cc_chgv :: Change value
 
 #Course Manager
-comanager :: Course Manager :: Enable or disable custom tracks to your liking.
-cs_mng :: Course Manager
+comanager :: Enable or disable custom tracks.
 all_tr_e :: All tracks enabled
 all_tr_d :: All tracks disabled
-nt_cup :: Nitro Cups
-rt_cup :: Retro Cups
 endis_all :: Enable All :: Disable All
-empty :: Empty
 
 #Community Code Generator
 commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
 def_spd :: Default speed
-som_tr_e :: Some tracks enabled
 code :: Code
 
 #Change Round Number

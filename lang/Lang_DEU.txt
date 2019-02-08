@@ -18,84 +18,85 @@
 ##Ingame text -----------------------------------------------
 
 #Character menu
-$1 :: Mr. L
-$3 :: Roter Yoshi
-$5 :: Sonic
-$13 :: Waluigi
-$14 :: Gold Mario
+$1001 :: Mr. L
+$1003 :: Roter Yoshi
+$1005 :: Sonic
+$1013 :: Waluigi
+$1014 :: Gold Mario
 
 #Character race
-$46 :: Mr.L
-$48 :: R. Yoshi
-$50 :: Sonic
-$58 :: Waluigi
-$59 :: G. Mario
+$1051 :: Mr.L
+$1053 :: Roter Yoshi
+$1055 :: Sonic
+$1063 :: Waluigi
+$1064 :: Gold Mario
 
 #Kart Body Parts
-$70 :: Silberpfeil
-$72 :: Schaufelbagger
-$73 :: Arkarde
-$74 :: Beuteldachs
+$1107 :: Silbener Pfeil
+$1109 :: Schaufelbagger
+$1110 :: Arkarde
+$1111 :: Beuteldachs
 
 #Kart Wheel Parts
-$83 :: \uE033 Monster
-$87 :: Blaue Monster
+$1202 :: \uE033 Monster
+$1206 :: Blaue Monster
 
 #Kart Glider Parts
-$96 :: Feuer-Flappflapp
+$1304 :: Feuer-Flappflapp
 
-##Course Names
-#Mushroom Cup
-$113 :: \uE022\uE023 Marios Rennpiste
-$110 :: \uE033 Yoshi-Kaskaden
-$111 :: \uE024\uE025 Käseland
-$114 :: Concord Stadt
+#Cups
+$700010 :: Glocken-Cup
+$710042 :: Concord Stadt
+$710043 :: \uE031\uE032 Marios Piste 1
+$710044 :: Galvarnyfälle
+$710045 :: \uE024\uE025 Wolkenpiste
 
-#Flower Cup
-$115 :: \uE022\uE023 Regenbogen-Boulevard
-$118 :: Melodien Heiligtum
-$112 :: \uE024\uE025 Wolkenpiste
+$700011 :: Super-Eichel-Cup
+$710046 :: Herbstwald
+$710047 :: \uE024\uE025 Käseland
+$710048 :: \uE022\uE023 Eisige Kalimari Wüste
+$710049 :: \uE024\uE025 Bowsers Festung 3
 
-#Star Cup
-$117 :: Spukpfad 2
-$116 :: \uE067 Warios Goldmine
-$119 :: Platzregen Stadt
-$120 :: \uE026\uE027 Wario-Kolosseum
+$700012 :: Wolken-Cup
+$710050 :: Immergrüner Wald
+$710051 :: \uE026\uE027 Peach Beach
+$710052 :: Buchtufer-Boulevard
+$710053 :: \uE022\uE023 Polar-Parcours
 
-#Special Cup
-$121 :: \uE033 Glühheiße Wüste
-$122 :: \uE022\uE023 Polar-Parcours
-$123 :: Buchtufer-Boulevard
-$124 :: Schloss der Zeit
+$700013 :: Buu-Huu-Cup
+$710054 :: \uE022\uE023 Kuhmuh-Farm
+$710055 :: Spukpfad 2
+$710056 :: \uE026\uE027 Wario-Kolosseum
+$710057 :: \uE031\uE032 Geistertal 2
 
-#Shell Cup
-$128 :: \uE022\uE023 Kuhmuh-Farm
-$127 :: \uE024\uE025 Bowsers Festung 3
-$137 :: Galvarnyfälle
-$130 :: \uE031\uE032 Geistertal 2
+$700014 :: Feder-Pilz-Cup
+$710058 :: Melodien Heiligtum
+$710059 :: \uE022\uE023 Marios Rennpiste
+$710060   :: Röhrenraserei
+$710061 :: \uE067 Warios Goldmine
 
-#Banana Cup
-$140 :: \uE026\uE027 Peach Beach
-$126 :: \uE031\uE032 Marios Piste 1
-$134 :: \uE024\uE025 Flussufer Park
-$131 :: \uE033 Ticktack-Trauma
+$700015 :: Eier-Cup
+$710062 :: Elementhöhle
+$710063 :: \uE033 Yoshi-Kaskaden
+$710064 :: Platzregen Stadt
+$710065 :: \uE033 Cheep-Cheep-Strand
 
-#Leaf Cup
-$129 :: \uE022\uE023 Eisige Kalimari Wüste
-$132 :: Immergrüner Wald
-$139 :: Weltraumstraße
-$136 :: Herbstwald
+$700016 :: Kugelwilli-Cup
+$710066 :: \uE033 Glühheiße Wüste
+$710067 :: \uE033 Ticktack-Trauma
+$710068 :: \uE024\uE025 Flussufer Park
+$710069 :: Schloss der Zeit
 
-#Lightning Cup
-$135 :: \uE033 Cheep-Cheep-Strand
-$138 :: Elementhöhle
-# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
-$141 :: Mikus Geburtstagsschausp.
+$700017 :: Regenbogen-Cup
+$710070 :: \uE022\uE023 Regenbogen-Boulevard
+$710071 :: Regenbogen-Boulevard
+$710072 :: Weltraumstraße
+$710073 :: Mikus Geburtstagsschausp.
 
 #Create new save data text
-%359 :: Zusatzdaten für CTGP-7\nwerden auf der\nSD-Karte erstellt.
-%357 :: Erstelle Zusatzdaten...
-%358 :: Zusatzdaten wurden erstellt.
+%7005 :: Zusatzdaten für CTGP-7\nwerden auf der\nSD-Karte erstellt.
+%7003 :: Erstelle Zusatzdaten...
+%7004 :: Zusatzdaten wurden erstellt.
 
 ##Plugin text -----------------------------------------------
 
@@ -149,19 +150,14 @@ cc_chgv :: Wert ändern
 
 
 #Course Manager
-comanager :: Strecken Manager :: Aktiviere oder deaktiviere Custom Strecken, so wie du möchtest.
-cs_mng :: Strecken Manager
+comanager :: Aktiviere oder deaktiviere Custom Strecken.
 all_tr_e :: Alle Strecken aktiviert
 all_tr_d :: Alle Strecken deaktiviert
-nt_cup :: Nitro Cups
-rt_cup :: Retro Cups
 endis_all :: Aktiviere alle :: Deaktiviere alle
-empty :: leer
 
 #Community Code Generator
 commugen :: Community-Code-Generator :: Generiert einen Code, basierend auf die momentanen Benutzereinstellungen . Wenn Sie den Code in eine Community-Beschreibung einfügen, werden die Einstellungen für alle in dieser Community aktiviert.
 def_spd :: Standart Geschwindigkeit
-som_tr_e :: Manche Strecken aktiviert
 code :: Code
 
  #Change Round Number
