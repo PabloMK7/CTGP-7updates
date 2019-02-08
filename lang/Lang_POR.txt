@@ -45,49 +45,49 @@ $1206 :: Monstro Azul
 $1304 :: Rajada de Fogo
 
 #Cups
-$700010 :: Bell Cup
+$700010 :: Taça Sino
 $710042 :: Cidade Concord
 $710043 :: Circuito do Mario 1 \uE031\uE032
 $710044 :: Cachoeiras Galvarny
 $710045 :: Jardim no Céu \uE024\uE025
 
-$700011 :: Acorn Cup
+$700011 :: Taça Bolota
 $710046 :: Floresta Outono
 $710047 :: Mundo do Queijo \uE024\uE025
 $710048 :: Deserto Gelado Kalimary \uE022\uE023
 $710049 :: Castlelo do Bowser 3 \uE024\uE025
 
-$700012 :: Cloud Cup
+$700012 :: Taça Nuvem
 $710050 :: Cruzamento Perene
 $710051 :: Praia da Peach \uE026\uE027
 $710052 :: Ilha Boulevard
 $710053 :: Circuito Nevado \uE022\uE023
 
-$700013 :: Boo Cup
+$700013 :: Taça Boo
 $710054 :: Fazenda Moo Moo \uE022\uE023
 $710055 :: Calçada da Alma Penada 2
 $710056 :: Coliseu do Wario \uE026\uE027
 $710057 :: Vale Fantasma 2 \uE031\uE032
 
-$700014 :: Spring Cup
+$700014 :: Taça Mola
 $710058 :: Santuário da Melodia
 $710059 :: Pista do Mario \uE022\uE023
 $710060 :: Canos Planta Piranha
 $710061 :: Mina de Ouro do Wario \uE067 
 
-$700015 :: Egg Cup
+$700015 :: Taça Ovo
 $710062 :: Caverna Elemental
 $710063 :: Cachoeiras Yoshi \uE033 
 $710064 :: Cidade Aguaceiro
 $710065 :: Praia Cheep Cheep \uE033
 
-$700016 :: Bullet Cup
+$700016 :: Taça Bala
 $710066 :: Colinas do Deserto \uE033
 $710067 :: Relógio Tiquetaque \uE033 
 $710068 :: Parque Riverside \uE024\uE025
 $710069 :: Castelo do Tempo
 
-$700017 :: Rainbow Cup
+$700017 :: Taça Arco-Íris
 $710070 :: Estrada Arco-Íris \uE022\uE023
 $710071 :: Estrada Arco-Íris
 $710072 :: Estrada Espacial
