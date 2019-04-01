@@ -1,4 +1,4 @@
-﻿#
+#
 ##No need to translate lines starting with #, those are comments
 # Symbols:
 #	SNES -> \uE031\uE032
