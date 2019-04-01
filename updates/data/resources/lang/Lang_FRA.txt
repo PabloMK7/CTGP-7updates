@@ -18,84 +18,85 @@
 ##Ingame text -----------------------------------------------
 
 #Character menu
-$1 :: Monsieur L
-$3 :: Yoshi Rouge
-$5 :: Sonic
-$13 :: Waluigi
-$14 :: Mario d'or
+$1001 :: Monsieur L
+$1003 :: Yoshi Rouge
+$1005 :: Sonic
+$1013 :: Waluigi
+$1014 :: Mario d'or
 
 #Character race
-$46 :: M. L
-$48 :: Yoshi R.
-$50 :: Sonic
-$58 :: Waluigi
-$59 :: Mario Or
+$1051 :: M. L
+$1053 :: Yoshi R.
+$1055 :: Sonic
+$1063 :: Waluigi
+$1064 :: Mario Or
 
 #Kart Body Parts
-$70 :: Flèche Argentée
-$72 :: Pelleteuse
-$73 :: Arcade
-$74 :: Kart Bandicoot
+$1107 :: Flèche Argentée
+$1109 :: Pelleteuse
+$1110 :: Arcade
+$1111 :: Kart Bandicoot
 
 #Kart Wheel Parts
-$83 :: \uE033 Mastodonte
-$87 :: Écrabouilleur
+$1202 :: \uE033 Mastodonte
+$1206 :: Écrabouilleur
 
 #Kart Glider Parts
-$96 :: Swooper de Feu
+$1304 :: Swooper de Feu
 
-##Course Names
-#Mushroom Cup
-$113 :: \uE022\uE023 Autodrome Mario
-$110 :: \uE033 Cascades Yoshi
-$111 :: \uE024\uE025 Pays de Fromage
-$114 :: Village Concorde
+#Cups
+$700010 :: Coupe Cloche
+$710042 :: Village Concorde
+$710043 :: \uE031\uE032 Circuit Mario 1
+$710044 :: Chutes Galvarny
+$710045 :: \uE024\uE025 Jardin Volant
 
-#Flower Cup
-$115 :: \uE022\uE023 Route Arc-en-ciel
-$118 :: Sanctuaire Mélodieuse
-$112 :: \uE024\uE025 Jardin des Cieux
+$700011 :: Coupe Noisette
+$710046 :: Forêt Automnale
+$710047 :: \uE024\uE025 Pays Fromage
+$710048 :: \uE022\uE023 Désert Kalimari Glacé
+$710049 :: \uE024\uE025 Château de Bowser 3
 
-#Star Cup
-$117 :: Ponton Lugubre 2
-$116 :: \uE067 Mine de Wario
-$119 :: Ville des Tempètes
-$120 :: \uE026\uE027 Arène Wario
+$700012 :: Coupe Nuage
+$710050 :: Evergreen Crossing
+$710051 :: \uE026\uE027 Plage Peach
+$710052 :: Boulevard Bayside
+$710053 :: \uE022\uE023 Route Glagla
 
-#Special Cup
-$121 :: \uE033 Désert du Soleil
-$122 :: \uE022\uE023 Route Glagla
-$123 :: Boulevard de la Baie
-$124 :: Château du Temps
+$700013 :: Coupe Boo
+$710054 :: \uE022\uE023 Ferme Meuh Meuh
+$710055 :: Ponton Lugubre 2
+$710056 :: \uE026\uE027 Arène Wario
+$710057 :: \uE031\uE032 Vallée Fantôme 2
 
-#Shell Cup
-$128 :: \uE022\uE023 Ferme Meuh Meuh
-$127 :: \uE024\uE025 Château de Bowser 3
-$137 :: Cascades Balvarny
-$130 :: \uE031\uE032 Vallée Fantôme 2
+$700014 :: Coupe Ressort
+$710058 :: Sanctuaire de Rythme
+$710059 :: \uE022\uE023 Autodrome Mario
+$710060 :: Égout Piranha
+$710061 :: \uE067 Mine d'Or de Wario
 
-#Banana Cup
-$140 :: \uE026\uE027 Plage Peach
-$126 :: \uE031\uE032 Circuit Mario 1
-$134 :: \uE024\uE025 Parc du Fleuve
-$131 :: \uE033 Horloge Tic-Tac
+$700015 :: Coupe Oeuf
+$710062 :: Elemental Cave
+$710063 :: \uE033 Cascades Yoshi
+$710064 :: Ville des Tempètes
+$710065 :: \uE033 Plage Aquazo
 
-#Leaf Cup
-$129 :: \uE022\uE023 Désert Kalimari Gelé
-$132 :: Evergreen Crossing
-$139 :: Route Spatiale
-$136 :: Forêt Automnale
+$700016 :: Coupe Bill Balle
+$710066 :: \uE033 Désert du Soleil
+$710067 :: \uE033 Horloge Tic-Tac
+$710068 :: \uE024\uE025 Bord du Fleuve
+$710069 :: Château Temporel
 
-#Lightning Cup
-$135 :: \uE033 Plage Cheep Cheep
-$138 :: Caverne Élémentaire
-# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
-$141 :: Spectacle de Miku
+$700017 :: Coupe Arc-En-Ciel
+$710070 :: \uE022\uE023 Route Arc-en-ciel
+$710071 :: Route Arc-en-ciel
+$710072 :: Route Spatiale
+$710073 :: Spectacle Miku
 
 #Create new save data text
-%359 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
-%357 :: Création du fichier\nde sauvegarde...
-%358 :: Le fichier de sauvegarde\nest créé.
+%7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
+%7003 :: Création du fichier\nde sauvegarde...
+%7004 :: Le fichier de sauvegarde\nest créé.
 
 ##Plugin text -----------------------------------------------
 
@@ -148,19 +149,14 @@ cc_entv :: Entrez une nouvelle valeur de CC.
 cc_chgv :: Changer la valeur
 
 #Course Manager
-comanager :: Gestion des circuits :: Activer ou désactiver les circuits modifiés.
-cs_mng :: Gestionnaire de circuits
+comanager :: Activer ou désactiver les circuits modifiés.
 all_tr_e :: Tous les circuits sont activés
 all_tr_d :: Tous les circuits sont desactivés
-nt_cup :: Coupes Nitro
-rt_cup :: Coupes Rétro
 endis_all :: Activer tout :: Désactiver tout
-empty :: Vide !
 
 #Community Code Generator
 commugen :: Générateur de Code Communautaire :: Génère un code basé sur les paramètres entrés. Entrer ce code activera ces paramêtres chez tous les utiliateurs.
 def_spd :: Vitesse par défaut
-som_tr_e :: Quelques circuits activés
 code :: Code
 
 #Change Round Number

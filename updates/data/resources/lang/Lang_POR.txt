@@ -18,84 +18,85 @@
 ##Ingame text -----------------------------------------------
 
 #Character menu
-$1 :: Sr. L
-$3 :: Yoshi Vermelho
-$5 :: Sonic
-$13 :: Waluigi
-$14 :: Mario Dourado
+$1001 :: Sr. L
+$1003 :: Yoshi Vermelho
+$1005 :: Sonic
+$1013 :: Waluigi
+$1014 :: Mario Dourado
 
 #Character race
-$46 :: Sr.L
-$48 :: Yoshi V.
-$50 :: Sonic
-$58 :: Waluigi
-$59 :: Mario D.
+$1051 :: Sr.L
+$1053 :: Yoshi V.
+$1055 :: Sonic
+$1063 :: Waluigi
+$1064 :: Mario D.
 
 #Kart Body Parts
-$70 :: Flecha Prata
-$72 :: Mantis Dourado
-$73 :: Arcade
-$74 :: Equipe Bandicoot
+$1107 :: Flecha Prata
+$1109 :: Mantis Dourado
+$1110 :: Arcade
+$1111 :: Equipe Bandicoot
 
 #Kart Wheel Parts
-$83 :: \uE033 Monstro
-$87 :: Monstro Azul
+$1202 :: \uE033 Monstro
+$1206 :: Monstro Azul
 
 #Kart Glider Parts
-$96 :: Rajada de Fogo
+$1304 :: Rajada de Fogo
 
-##Course Names
-#Mushroom Cup
-$113 :: Pista do Mario \uE022\uE023
-$110 :: Cachoeiras Yoshi \uE033 
-$111 :: Mundo do Queijo \uE024\uE025
-$114 :: Cidade Concord
+#Cups
+$700010 :: Taça Sino
+$710042 :: Cidade Concord
+$710043 :: Circuito do Mario 1 \uE031\uE032
+$710044 :: Cachoeiras Galvarny
+$710045 :: Jardim no Céu \uE024\uE025
 
-#Flower Cup
-$115 :: Estrada Arco-Íris \uE022\uE023
-$118 :: Santuário da Melodia
-$112 :: Jardim no Céu \uE024\uE025
+$700011 :: Taça Bolota
+$710046 :: Floresta Outono
+$710047 :: Mundo do Queijo \uE024\uE025
+$710048 :: Deserto Gelado Kalimary \uE022\uE023
+$710049 :: Castlelo do Bowser 3 \uE024\uE025
 
-#Star Cup
-$117 :: Calçada da Alma Penada 2
-$116 :: Mina de Ouro do Wario \uE067 
-$119 :: Cidade Aguaceiro
-$120 :: Coliseu do Wario \uE026\uE027
+$700012 :: Taça Nuvem
+$710050 :: Cruzamento Perene
+$710051 :: Praia da Peach \uE026\uE027
+$710052 :: Ilha Boulevard
+$710053 :: Circuito Nevado \uE022\uE023
 
-#Special Cup
-$121 :: Colinas do Deserto \uE033
-$122 :: Circuito Nevado \uE022\uE023
-$123 :: Ilha Boulevard
-$124 :: Castelo do Tempo
+$700013 :: Taça Boo
+$710054 :: Fazenda Moo Moo \uE022\uE023
+$710055 :: Calçada da Alma Penada 2
+$710056 :: Coliseu do Wario \uE026\uE027
+$710057 :: Vale Fantasma 2 \uE031\uE032
 
-#Shell Cup
-$128 :: Fazenda Moo Moo \uE022\uE023
-$127 :: Castlelo do Bowser 3 \uE024\uE025
-$137 :: Cachoeiras Galvarny
-$130 :: Vale Fantasma 2 \uE031\uE032
+$700014 :: Taça Mola
+$710058 :: Santuário da Melodia
+$710059 :: Pista do Mario \uE022\uE023
+$710060 :: Canos Planta Piranha
+$710061 :: Mina de Ouro do Wario \uE067 
 
-#Banana Cup
-$140 :: Praia da Peach \uE026\uE027
-$126 :: Circuito do Mario 1 \uE031\uE032
-$134 :: Parque Riverside \uE024\uE025
-$131 :: Relógio Tiquetaque \uE033 
+$700015 :: Taça Ovo
+$710062 :: Caverna Elemental
+$710063 :: Cachoeiras Yoshi \uE033 
+$710064 :: Cidade Aguaceiro
+$710065 :: Praia Cheep Cheep \uE033
 
-#Leaf Cup
-$129 :: Deserto Gelado Kalimary \uE022\uE023
-$132 :: Cruzamento Perene
-$139 :: Estrada Espacial
-$136 :: Floresta Outono
+$700016 :: Taça Bala
+$710066 :: Colinas do Deserto \uE033
+$710067 :: Relógio Tiquetaque \uE033 
+$710068 :: Parque Riverside \uE024\uE025
+$710069 :: Castelo do Tempo
 
-#Lightning Cup
-$135 :: Praia Cheep Cheep \uE033
-$138 :: Caverna Elemental
-# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
-$141 :: Aniversário da Miku
+$700017 :: Taça Arco-Íris
+$710070 :: Estrada Arco-Íris \uE022\uE023
+$710071 :: Estrada Arco-Íris
+$710072 :: Estrada Espacial
+$710073 :: Aniversário da Miku
 
 #Create new save data text
-%359 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
-%357 :: Escrita dos dados de gravação\nadicionais em curso...
-%358 :: Os dados de gravação adicionais\nforam criados.
+%7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
+%7003 :: Escrita dos dados de gravação\nadicionais em curso...
+%7004 :: Os dados de gravação adicionais\nforam criados.
 
 ##Plugin text -----------------------------------------------
 
@@ -148,19 +149,14 @@ cc_entv :: Atribua o novo valor CC.
 cc_chgv :: Trocar valor
 
 #Course Manager
-comanager :: Gerenciador de Pistas :: Ativa ou Desativa as tracks de sua linkagem.
-cs_mng :: Gerenciador de Pistas
+comanager :: Ativa ou Desativa as tracks.
 all_tr_e :: Todas as tracks ativadas
 all_tr_d :: Todas as tracks desativadas
-nt_cup :: Copas Nitro
-rt_cup :: Copas Retro
 endis_all :: Ativar Todos :: Desativar Todos
-empty :: Vazio
 
 #Community Code Generator
 commugen :: Gerador de Códigos da Comunidade :: Gera um código baseado nas atuais configurações de usuário. Colocando o código em uma descrição de comunidade vai habilitar as configurações para todos naquela comunidade.
 def_spd :: Velocidade padrão
-som_tr_e :: Algumas tracks habilitadas
 code :: Código
 
 #Change Round Number

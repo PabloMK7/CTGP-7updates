@@ -18,84 +18,86 @@
 ##Ingame text -----------------------------------------------
 
 #Character menu
-$1 :: Mr. L
-$3 :: Yoshi Rosso
-$5 :: Sonic
-$13 :: Waluigi
-$14 :: Mario Oro
+$1001 :: Mr. L
+$1003 :: Red Yoshi
+$1005 :: Sonic
+$1013 :: Waluigi
+$1014 :: Gold Mario
 
 #Character race
-$46 :: Mr. L
-$48 :: Yoshi R.
-$50 :: Sonic
-$58 :: Waluigi
-$59 :: Mario Oro
+$1051 :: Mr. L
+$1053 :: Yoshi R.
+$1055 :: Sonic
+$1063 :: Waluigi
+$1064 :: Mario Oro
 
 #Kart Body Parts
-$70 :: Freccia d'Argento
-$72 :: Mantide d'Oro
-$73 :: Arcade
-$74 :: Bandicoot Team
+$1107 :: Freccia d'Argento
+$1109 :: Mantide d'Oro
+$1110 :: Arcade
+$1111 :: Bandicoot Team
 
 #Kart Wheel Parts
-$83 :: \uE033 Maxi
-$87 :: Maxi Blu
+$1202 :: \uE033 Maxi
+$1206 :: Maxi Blu
 
 #Kart Glider Parts
-$96 :: Swooper Fuoco
+$1304 :: Swooper Fuoco
 
-##Course Names
-#Mushroom Cup
-$113 :: \uE022\uE023 Pista di Mario
-$110 :: \uE033 Cascate di Yoshi
-$111 :: \uE024\uE025 Terra del Formaggio
-$114 :: Città Concordia
+#Cups
+$700010 :: Trofeo Campanella
+$710042 :: Città Concordia
+$710043 :: \uE031\uE032 Circuito di Mario 1
+$710044 :: Cascate di Galvarny
+# I chose the DS one over the SC one
+$710045 :: \uE024\uE025 Giardino Nuvola
 
-#Flower Cup
-$115 :: \uE022\uE023 Pista Arcobaleno
-$118 :: Santuario Melodico
-$112 :: \uE024\uE025 Giardino Nuvola
+$700011 :: Trofeo Ghianda
+$710046 :: Foresta Autunnale
+$710047 :: \uE024\uE025 Terra del Formaggio
+$710048 :: \uE022\uE023 Deserto Kalimari Ghiacciato
+$710049 :: \uE024\uE025 Castello di Bowser 3
 
-#Star Cup
-$117 :: Pontile Stregato 2
-$116 :: \uE067 Miniera d'oro di Wario
-$119 :: Città dell'acquazzone
-$120 :: \uE026\uE027 Colosseo di Wario
+$700012 :: Trofeo Nuvola
+$710050 :: Attr. Sempreverde
+$710051 :: \uE026\uE027 Spiaggia di Peach
+$710052 :: Boulevard alla baia
+$710053 :: \uE022\uE023 Circuito Innevato
 
-#Special Cup
-$121 :: \uE033 Colline Deserte
-$122 :: \uE022\uE023 Circuito Innevato
-$123 :: Boulevard della Baia
-$124 :: Castello del Tempo
+$700013 :: Trofeo Boo
+$710054 :: \uE022\uE023 Fattoria Moo Moo
+$710055 :: Pontile Stregato 2
+$710056 :: \uE026\uE027 Colosseo di Wario
+$710057 :: \uE031\uE032 Valle Fantasma 2
 
-#Shell Cup
-$128 :: \uE022\uE023 Fattoria Moo Moo
-$127 :: \uE024\uE025 Castello di Bowser 3
-$137 :: Cascate di Galvarny
-$130 :: \uE031\uE032 Valle Fantasma 2
+$700014 :: Trofeo Molla
+$710058 :: Santuario Melodico
+$710059 :: \uE022\uE023 Pista di Mario
+$710060 :: Tubirinto Piranha
+$710061 :: \uE067 Miniera d'Oro di Wario
 
-#Banana Cup
-$140 :: \uE026\uE027 Spiaggia di Peach
-$126 :: \uE031\uE032 Circuito di Mario 1
-$134 :: \uE024\uE025 Parco Lungofiume
-$131 :: \uE033 Pista Tictac
+$700015 :: Trofeo Uovo
+$710062 :: Caverna degli Elementi
+$710063 :: \uE033 Cascate di Yoshi
+$710064 :: Città del Diluvio
+$710065 :: \uE033 Spiaggia Cheep Cheep
 
-#Leaf Cup
-$129 :: \uE022\uE023 Deserto Ghiac. Kalimari
-$132 :: Attr. Sempreverde
-$139 :: Strada Spaziale
-$136 :: Foresta Autunnale
+$700016 :: Trofeo Pallottolo Bill
+$710066 :: \uE033 Deserto Picchiasol
+$710067 :: \uE033 Pista Tictac
+$710068 :: \uE024\uE025 Parco Lungofiume
+$710069 :: Castello del Tempo
 
-#Lightning Cup
-$135 :: \uE033 Spiaggia Cheep Cheep
-$138 :: Caverna Elementale
-# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
-$141 :: Compleanno di Miku
+$700017 :: Trofeo Arcobaleno
+$710070 :: \uE022\uE023 Pista Arcobaleno
+$710071 :: Pista Arcobaleno
+$710072 :: Pista Spaziale
+$710073 :: Spett. Compleanno di Miku
 
 #Create new save data text
-%359 :: I dati di salvataggio\nextra di CTGP-7\nsaranno creati\nnella scheda SD.
-%357 :: Creazione dati di\nsalvataggio extra...
-%358 :: I dati di salvataggio\nextra sono stati creati.
+%7005 :: I dati di salvataggio\nextra di CTGP-7\nsaranno creati\nnella scheda SD.
+%7003 :: Creazione dati di\nsalvataggio extra...
+%7004 :: I dati di salvataggio\nextra sono stati creati.
 
 ##Plugin text -----------------------------------------------
 
@@ -125,11 +127,12 @@ err_both :: Se NON stai usando\nil gioco dalla schedina\ninserita, rimuovila men
 
 #Message shown when the user presses the home button
 err_home :: Menu uE073 :: Non è possibile aprire il Menu \uE073.\nTieni premuto il pulsante \uE078\nper spegnere la console.
+
 #Entries
 spdmeter :: Tachimetro :: Mostra un indicatore di velocità in basso a destra.
 ccsel :: Selettore CC :: Imposta i CC ad un certo valore (deve essere abilitato prima della gara).
 itemled :: Avverti con il LED :: Il LED di notifica lampeggia di Blu quando è stato usato un Guscio Spin., mentre di Giallo se è stato usato un fulmine.
-backcam :: Retrovisuale :: Premi uE002 per vedere dietro di te, proprio come gli altri Mario Kart! (Nota: uE002 non potrà più essere usato per gli oggetti.)
+backcam :: Retrovisuale :: Premi uE002 per vedere dietro di te, proprio come gli altri Mario Kart! (Nota: Il pulsante \uE002 non potrà più essere usato per gli oggetti.)
 
 #Speedometer text
 spd_set :: Impostazioni tachimetro.
@@ -147,19 +150,14 @@ cc_entv :: Inserisci valore CC.
 cc_chgv :: Cambia valore
 
 #Course Manager
-comanager :: Gestore Piste :: Abilita o disabilita le custom track secondo le tue preferenze.
-cs_mng :: Gestore Piste
+comanager :: Gestore Piste :: Abilita o disabilita le custom track.
 all_tr_e :: Tutte le custom track attivate
 all_tr_d :: Tutte le custom track disabilitate
-nt_cup :: Coppe Nitro
-rt_cup :: Coppe Retro
 endis_all :: Abilita tutte :: Disabilita tutte
-empty :: Vuoto
 
 #Community Code Generator
 commugen :: Generatore Codice Community :: Genera un codice basandosi sulle impostazioni. Inserendo il codice nella descrizione abiliterà le impostazioni per tutti in quella community.
 def_spd :: Velocità normale
-som_tr_e :: Qualche pista abilitata
 code :: Codice
 
 #Change Round Number

@@ -15,87 +15,92 @@
 # Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
 # Make sure you test the language file ingame to check if the line breaks are working properly.
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+# Translated to Dutch by: @Whippersnatch Pumpkinpatch#7516
+# I shouldn't be taking full credit, yet the state the previous translator left this file in is terrible.
+# The file contained grammatical, and spelling mistakes,
+# And the most worrying of all: It was translated from the German version and certain lines (like cheeseland) did not get translated.
 ##Ingame text -----------------------------------------------
 
 #Character menu
-$1 :: Mr. L
-$3 :: Rode Yoshi
-$5 :: Sonic
-$13 :: Waluigi
-$14 :: Gouden Mario
+$1001 :: Mr. L
+$1003 :: Rode Yoshi
+$1005 :: Sonic
+$1013 :: Waluigi
+$1014 :: Gouden Mario
 
 #Character race
-$46 :: Mr. L.
-$48 :: R. Yoshi
-$50 :: Sonic
-$58 :: Waluigi
-$59 :: G. Mario
+$1051 :: Mr. L.
+$1053 :: R. Yoshi
+$1055 :: Sonic
+$1063 :: Waluigi
+$1064 :: G. Mario
 
 #Kart Body Parts
-$70 :: Zilveren Pijl
-$72 :: Gouden Schepmachine
-$73 :: Arcade
-$74 :: Bandicoot Team
+$1107 :: Zilveren Pijl
+$1109 :: Graafmachine
+$1110 :: Arcade
+$1111 :: Bandicoot
 
 #Kart Wheel Parts
-$83 :: \uE033 Monster
-$87 :: Blauw Monster
+$1202 :: \uE033 Monster
+$1206 :: Blauw Monster
 
 #Kart Glider Parts
-$96 :: Vuur Swooper
+$1304 :: Vuur Swooper
 
-##Course Names
-#Mushroom Cup
-$113 :: \uE022\uE023 Mario's Piste
-$110 :: \uE033 Yoshi's Vallei
-$111 :: \uE024\uE025 Kaasland
-$114 :: Handelstad
+#Cups
+$700010 :: Bel Beker
+$710042 :: Handelstad
+$710043 :: \uE031\uE032 Mario Circuit 1
+$710044 :: Galvarny Vallei
+$710045 :: \uE024\uE025 Hemeltuin
 
-#Flower Cup
-$115 :: \uE022\uE023 Regenboogbaan
-$118 :: Melodie Hemel
-$112 :: \uE024\uE025 Hemel Tuin
+$700011 :: Eikel Beker
+$710046 :: Herfstbos
+$710047 :: \uE024\uE025 Kaasland
+$710048 :: \uE022\uE023 Kalimary Woestijn
+$710049 :: \uE024\uE025 Bowsers Kasteel 3
 
-#Star Cup
-$117 :: Banshee Plankloop 2
-$116 :: \uE067 Wario's Goudmijn
-$119 :: Stortbui Stad
-$120 :: \uE026\uE027 Wario's Kolosseum
+$700012 :: Wolken Beker
+$710050 :: Altijdgroene Oversteek
+$710051 :: \uE026\uE027 Peach Strand
+$710052 :: Bayside Boulevard
+$710053 :: \uE022\uE023 Frappe Sneeuwland
 
-#Special Cup
-$121 :: \uE033 Droge Woestijn
-$122 :: \uE022\uE023 Polar-Parcours
-$123 :: Bayside Boulevard
-$124 :: Kasteel Van Tijd
+$700013 :: Boo Beker
+$710054 :: \uE022\uE023 Boe Boe Boerenland
+$710055 :: Banshee Planklopen 2
+$710056 :: \uE026\uE027 Wario's Colosseum
+$710057 :: \uE031\uE032 Geestenvallei 2
 
-#Shell Cup
-$128 :: \uE022\uE023 Boe Boe Boerenland
-$127 :: \uE024\uE025 Bowsers Kasteel 3
-$137 :: Galvarny Vallei
-$130 :: \uE031\uE032 Geestenvallei 2
+$700014 :: Veer Beker
+$710058 :: Melodie Hemel
+$710059 :: \uE022\uE023 Mario Racebaan
+$710060   :: Piranha Plant Pijpweg
+$710061 :: \uE067 Wario's Goudmijn
 
-#Banana Cup
-$140 :: \uE026\uE027 Peach Beach
-$126 :: \uE031\uE032 Mario's Piste 1
-$134 :: \uE024\uE025 Rivier Park
-$131 :: \uE033 Tik Tok Klok
-#Leaf Cup
-$129 :: \uE022\uE023 Ijzige Woestijn
-$132 :: Altijdgroene Oversteek
-$139 :: Ruimtebaan
-$136 :: Herfstbos
+$700015 :: Ei Beker
+$710062 :: Elementale Grot
+$710063 :: \uE033 Yoshi's Vallei
+$710064 :: Regenstad
+$710065 :: \uE033 Cheep Cheep Strand
 
-#Lightning Cup
-$135 :: \uE033 Cheep Cheep-Strand
-$138 :: Elementale Grot
-# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
-$141 :: Miku's Verjaardag
-# Full Dutch name is Miku's Verjaardag Spectaculair
+$700016 :: Bullet Bill Beker
+$710066 :: \uE033 Woestijnheuvels
+$710067 :: \uE033 Tik Tak Klok
+$710068 :: \uE024\uE025 Rivierkant Park
+$710069 :: Kasteel Van Tijd
+
+$700017 :: Regenboog Beker
+$710070 :: \uE022\uE023 Regenboogbaan
+$710071 :: Regenboogbaan
+$710072 :: Ruimteweg
+$710073 :: Miku's Verjaardag
 
 #Create new save data text
-%359 :: Extra save data voor CTGP-7\nzal worden aangemaakt\nop de SD kaart.
-%357 :: Extra save data\naan het maken...
-%358 :: Extra save data\nis aangemaakt.
+%7005 :: Extra save data voor CTGP-7\nzal worden aangemaakt\nop de SD kaart.
+%7003 :: Extra save data\naan het maken...
+%7004 :: Extra save data\nis aangemaakt.
 
 ##Plugin text -----------------------------------------------
 
@@ -118,10 +123,10 @@ exit :: Terug
 
 
 #Error when an incorrect version is installed
-err_ver :: Deze Mario Kart 7-versie\nwordt niet ondersteund! Controleer of\nde 1.1-patch is geïnstalleerd.\n(Downloaden vanuit de eShop)\nDetected: v %d
+err_ver :: Deze Mario Kart 7-versie\nwordt niet ondersteund! Controleer of\nde 1.1-patch is geïnstalleerd.\n(Download het vanuit de eShop)\nDetected: v %d
 
 #Error when the user has a card and a cia at the same time
-err_both :: Als je de MK7 gamecard\nEn de geinstalleerde versie\nheeft, raden wij je aan\nom de gamecard uit je\n3DS te halen.\n\n(als het niet goed werkt, kan\nje ook je 3DS opnieuw opstarten.)
+err_both :: Als je de MK7 gamecard\nEn de geinstalleerde versie\nhebt, raden wij je aan\nom de gamecard uit je\n3DS te halen.\n\n(als het niet goed werkt, kan\nje ook je 3DS opnieuw opstarten.)
 
 #Message shown when the user presses the home button
 err_home :: \uE073 Menu :: Het Homemenu kan niet worden geopend\n Houd de \uE078 knop ingedrukt\nOm de 3DS te herstarten.
@@ -129,8 +134,8 @@ err_home :: \uE073 Menu :: Het Homemenu kan niet worden geopend\n Houd de \uE078
 #Entries
 spdmeter :: Snelheidsmeter :: Toont een snelheidsmeter in het bovenste scherm rechtsonder.
 ccsel :: CC Selector :: Stelt de huidige CC in op een bepaalde waarde (moet worden ingeschakeld voordat een race wordt geladen).
-itemled :: Warn Items With LED :: De meldings-LED knippert blauw wanneer een blauwe schaal wordt gebruikt en geel wanneer een bliksem wordt gebruikt.
-backcam :: Achteruit Camera :: Druk op \uE002 om te zien wat er achter je is, net als andere Mario Kart-spellen! (Opmerking: de knop \uE002 gebruikt geen items meer.)
+itemled :: Warn Items With LED :: De meldings-LED knippert blauw wanneer een blauwe schildpad wordt gebruikt en geel wanneer een bliksem wordt gebruikt.
+backcam :: Achteruitkijk Camera :: Druk op \uE002 om te zien wat er achter je is, net als andere Mario Kart-spellen! (Opmerking: de knop \uE002 gebruikt geen items meer.)
 
 #Speedometer text
 spd_set :: Snelheidsmeter Istellingen.
@@ -143,7 +148,7 @@ spd_types :: Nummers :: Grafisch
 #CC Selector text
 cc_set :: CC-Selector
 cc_val :: Waarde
-cc_rang :: De waarde moet tussen 1 - 9999 liggen.
+cc_rang :: De waarde moet tussen 1 en 9999 liggen.
 cc_entv :: Voer nieuwe CC-waarde in.
 cc_chgv :: Verander waarde
 
