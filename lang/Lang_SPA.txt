@@ -18,84 +18,85 @@
 ##Ingame text -----------------------------------------------
 
 #Character menu
-$1 :: Sr. L
-$3 :: Yoshi Rojo
-$5 :: Sonic
-$13 :: Waluigi
-$14 :: Mario Dorado
+$1001 :: Sr. L
+$1003 :: Yoshi Rojo
+$1005 :: Sonic
+$1013 :: Waluigi
+$1014 :: Mario Dorado
 
 #Character race
-$46 :: Sr.L
-$48 :: Yoshi R.
-$50 :: Sonic
-$58 :: Waluigi
-$59 :: Mario D.
+$1051 :: Sr.L
+$1053 :: Yoshi R.
+$1055 :: Sonic
+$1063 :: Waluigi
+$1064 :: Mario D.
 
 #Kart Body Parts
-$70 :: Flecha de Plata
-$72 :: Excavakart
-$73 :: Arcade
-$74 :: Equipo Bandicoot
+$1107 :: Flecha de Plata
+$1109 :: Excavakart
+$1110 :: Arcade
+$1111 :: Equipo Bandicoot
 
 #Kart Wheel Parts
-$83 :: \uE033 Monstruo
-$87 :: Monstruo Azul
+$1202 :: \uE033 Monstruo
+$1206 :: Monstruo Azul
 
 #Kart Glider Parts
-$96 :: Piroswooper
+$1304 :: Piroswooper
 
-##Course Names
-#Mushroom Cup
-$113 :: \uE022\uE023 Pista Mario
-$110 :: \uE033 Cataratas Yoshi
-$111 :: \uE024\uE025 Tierra de Queso
-$114 :: Ciudad Concordia
+#Cups
+$700010 :: Copa Campana
+$710042 :: Ciudad Concordia
+$710043 :: \uE031\uE032 Circuito de Mario 1
+$710044 :: Cataratas Galvarny
+$710045 :: \uE024\uE025 Jardín Celeste
 
-#Flower Cup
-$115 :: \uE022\uE023 Senda Arco Íris
-$118 :: Santuario Musical
-$112 :: \uE024\uE025 Jardín Celeste
+$700011 :: Copa Bellota
+$710046 :: Bosque Otoñal
+$710047 :: \uE024\uE025 Tierra de Queso
+$710048 :: \uE022\uE023 Desierto Gélido
+$710049 :: \uE024\uE025 Castillo de Bowser 3
 
-#Star Cup
-$117 :: Muelle Embrujado 2
-$116 :: \uE067 Mina de Wario
-$119 :: Ciudad Aguacero
-$120 :: \uE026\uE027 Coliseo Wario
+$700012 :: Copa Nube
+$710050 :: Paso Perenne
+$710051 :: \uE026\uE027 Playa Peach
+$710052 :: Bulevar de la Bahía
+$710053 :: \uE022\uE023 Circuito Nevado
 
-#Special Cup
-$121 :: \uE033 Desierto Sol-Sol
-$122 :: \uE022\uE023 Circuito Nevado
-$123 :: Bulevar de la Bahía
-$124 :: Castillo del Tiempo
+$700013 :: Copa Boo
+$710054 :: \uE022\uE023 Granja Mu-Mu
+$710055 :: Muelle Embrujado 2
+$710056 :: \uE026\uE027 Coliseo Wario
+$710057 :: \uE031\uE032 Valle Fantasma 2
 
-#Shell Cup
-$128 :: \uE022\uE023 Granja Mu-Mu
-$127 :: \uE024\uE025 Castillo de Bowser 3
-$137 :: Cataratas Galvarny
-$130 :: \uE031\uE032 Valle Fantasma 2
+$700014 :: Copa Muelle
+$710058 :: Santuario Musical
+$710059 :: \uE022\uE023 Pista Mario
+$710060 :: Tuberías Planta Piraña
+$710061 :: \uE067 Mina de Wario
 
-#Banana Cup
-$140 :: \uE026\uE027 Playa Peach
-$126 :: \uE031\uE032 Circuito de Mario 1
-$134 :: \uE024\uE025 Parque de la rivera
-$131 :: \uE033 Reloj TicTac
+$700015 :: Copa Huevo
+$710062 :: Cueva Elemental
+$710063 :: \uE033 Cataratas Yoshi
+$710064 :: Ciudad Aguacero
+$710065 :: \uE033 Playa Cheep Cheep
 
-#Leaf Cup
-$129 :: \uE022\uE023 Desierto Gélido
-$132 :: Paso Perenne
-$139 :: Senda Espacial
-$136 :: Bosque Otoñal
+$700016 :: Copa Bala
+$710066 :: \uE033 Desierto Sol-Sol
+$710067 :: \uE033 Reloj TicTac
+$710068 :: \uE024\uE025 Parque de la rivera
+$710069 :: Castillo del Tiempo
 
-#Lightning Cup
-$135 :: \uE033 Playa Cheep Cheep
-$138 :: Cueva Elemental
-# Full name is Miku's Birthday Spectacular (has to be cut because the name is too large)
-$141 :: Cumpleaños de Miku
+$700017 :: Copa Arco Íris
+$710070 :: \uE022\uE023 Senda Arco Íris
+$710071 :: Senda Arco Íris
+$710072 :: Senda Espacial
+$710073 :: Cumpleaños de Miku
 
 #Create new save data text
-%359 :: Datos de guardado extra\npara CTGP-7 serán creados\nen la tarjeta SD.
-%357 :: Creando datos...
-%358 :: Los datos de guardado\nhan sido creados.
+%7005 :: Datos de guardado extra\npara CTGP-7 serán creados\nen la tarjeta SD.
+%7003 :: Creando datos...
+%7004 :: Los datos de guardado\nhan sido creados.
 
 ##Plugin text -----------------------------------------------
 
@@ -131,7 +132,6 @@ spdmeter :: Velocímetro :: Muestra un velocímetro en la pantalla superior, esq
 ccsel :: Selector De CC :: Modifica los cc a un valor determinado (tiene que ser activado antes de empezar una carrera).
 itemled :: Avisar Objetos Con LED :: El LED de notificación se ilumina azul cuando se usa un caparazón con pinchos o amarillo cuando se usa un rayo.
 backcam :: Retrovisor :: Pulsa \uE002 para ver que hay detrás, como en otros Mario Kart! (Nota: El botón \uE002 dejará de usar objetos.)
-ntrmenu :: Abrir Menú NTR :: Abre el menú NTR.
 
 #Speedometer text
 spd_set :: Opciones de Velocímetro.
@@ -149,19 +149,14 @@ cc_entv :: Introduce valor de CC.
 cc_chgv :: Cambiar Valor
 
 #Course Manager
-comanager :: Configurar Circutos :: Activa o desactiva circuitos editados a tu gusto.
-cs_mng :: Configurar Circutos
+comanager :: Activa o desactiva circuitos editados.
 all_tr_e :: Todos los circuitos activados
 all_tr_d :: Todos los circuitos desactivados
-nt_cup :: Copas Nitro
-rt_cup :: Copas Retro
 endis_all :: Activar Todos :: Desactivar Todos
-empty :: Vacío
 
 #Community Code Generator
 commugen :: Generar Código Para Comunidad :: Genera un código basado en las opciones activadas. Al poner el código en la descripción de una comunidad hará que esas opciones se activen para todo el mundo.
 def_spd :: Velocidad por defecto.
-som_tr_e :: Algunos circuitos activados.
 code :: Código
 
 #Change Round Number

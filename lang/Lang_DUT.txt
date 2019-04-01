@@ -22,31 +22,31 @@
 ##Ingame text -----------------------------------------------
 
 #Character menu
-$1 :: Mr. L
-$3 :: Rode Yoshi
-$5 :: Sonic
-$13 :: Waluigi
-$14 :: Gouden Mario
+$1001 :: Mr. L
+$1003 :: Rode Yoshi
+$1005 :: Sonic
+$1013 :: Waluigi
+$1014 :: Gouden Mario
 
 #Character race
-$46 :: Mr. L.
-$48 :: R. Yoshi
-$50 :: Sonic
-$58 :: Waluigi
-$59 :: G. Mario
+$1051 :: Mr. L.
+$1053 :: R. Yoshi
+$1055 :: Sonic
+$1063 :: Waluigi
+$1064 :: G. Mario
 
 #Kart Body Parts
-$70 :: Zilveren Pijl
-$72 :: Graafmachine
-$73 :: Arcade
-$74 :: Bandicoot
+$1107 :: Zilveren Pijl
+$1109 :: Graafmachine
+$1110 :: Arcade
+$1111 :: Bandicoot
 
 #Kart Wheel Parts
-$83 :: \uE033 Monster
-$87 :: Blauw Monster
+$1202 :: \uE033 Monster
+$1206 :: Blauw Monster
 
 #Kart Glider Parts
-$96 :: Vuur Swooper
+$1304 :: Vuur Swooper
 
 #Cups
 $700010 :: Bel Beker
@@ -98,9 +98,9 @@ $710072 :: Ruimteweg
 $710073 :: Miku's Verjaardag
 
 #Create new save data text
-%359 :: Extra save data voor CTGP-7\nzal worden aangemaakt\nop de SD kaart.
-%357 :: Extra save data\naan het maken...
-%358 :: Extra save data\nis aangemaakt.
+%7005 :: Extra save data voor CTGP-7\nzal worden aangemaakt\nop de SD kaart.
+%7003 :: Extra save data\naan het maken...
+%7004 :: Extra save data\nis aangemaakt.
 
 ##Plugin text -----------------------------------------------
 
