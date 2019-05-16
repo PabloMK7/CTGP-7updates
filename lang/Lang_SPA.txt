@@ -101,8 +101,8 @@ $710073 :: Cumpleaños de Miku
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
-welc_t :: Bienvenido a CTGP-7!
-welc_1 :: Hola!\nDesde el menú ingame,\npodrás utilizar algunas\nfunciones interesantes.\n\nPara abrir el menú ingame,\nusa el botón (Select).
+welc_t :: ¡Bienvenido a CTGP-7!
+welc_1 :: ¡Hola!\nDesde el menú ingame,\npodrás utilizar algunas\nfunciones interesantes.\n\nPara abrir el menú ingame,\nusa el botón (Select).
 welc_2 :: Para usar cualquier función,\npon el cursor encima\ny pulsa \uE000.
 welc_3 :: Para saber lo que hace una función,\npon el cursor encima\ny toca \uE058 el botón azul "i"\nen la pantalla inferior.
 welc_4 :: Ten en cuenta que algunas\nfunciones como "Selector de CC"\nserán desactivadas en multijugador\nen línea.
@@ -119,7 +119,7 @@ exit :: Salir
 
 
 #Error when an incorrect version is installed
-err_ver :: Esta versión de Mario Kart 7\nno está soportada! Asegúrate\nde que la actualización 1.1 está\ninstalada. (Desacarga en la eShop)\nDetectado: v%d
+err_ver :: ¡Esta versión de Mario Kart 7\nno es compatible! Asegúrate\nde que la actualización 1.1 está\ninstalada. (Desacarga en la eShop)\nDetectado: v%d
 
 #Error when the user has a card and a cia at the same time
 err_both :: Si no estás jugando\nel juego desde el cartucho\nquítalo mientras juegas el mod\ndesde una copia digital.\n(Se recomienda reiniciar.)
@@ -169,5 +169,5 @@ rnd_sel :: Selecciona el número de rondas.
 enhmap :: Mapa Local Mejorado :: Añade la posibilidad de hacer zoom en el mapa local usando la \uE058 pantalla táctil.
 
 #CTWW
-cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?
+cntdwn :: Cuenta Regresiva
+CTWWtog :: ¿Quieres activar\nCustom Tracks Mundial?
