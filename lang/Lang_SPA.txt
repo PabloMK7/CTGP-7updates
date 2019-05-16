@@ -169,5 +169,5 @@ rnd_sel :: Selecciona el número de rondas.
 enhmap :: Mapa Local Mejorado :: Añade la posibilidad de hacer zoom en el mapa local usando la \uE058 pantalla táctil.
 
 #CTWW
-cntdwn :: Cuenta Regresiva
-CTWWtog :: ¿Quieres activar\nCustom Tracks Mundial?
+cntdwn :: Cuenta Atrás
+CTWWtog :: ¿Quieres activar\nCircuitos Editados En Línea?
