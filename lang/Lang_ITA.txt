@@ -168,3 +168,7 @@ rnd_sel :: Selecziona il numero di round.
 
 #Enhanced Local Map
 enhmap :: Mappa locale migliorata :: Aggiunge la funzionalità di zoom alla mappa dello schermo inferiore usando il \uE058 touch screen.
+
+#CTWW
+cntdwn :: Countdown
+CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?

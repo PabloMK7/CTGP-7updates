@@ -167,3 +167,7 @@ rnd_sel :: Sélectionne le nombre de tours.
 
 #Enhanced Local Map
 enhmap :: Améliorations pour la carte locale :: Ajoute des fonctions zoom sur la carte disponible sur \uE058 l'écran tactile.
+
+#CTWW
+cntdwn :: Countdown
+CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?

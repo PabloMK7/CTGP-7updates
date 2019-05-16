@@ -165,3 +165,7 @@ rnd_sel :: 試合数を設定してください
 
 #Enhanced Local Map
 enhmap :: ミニマップのズーム機能の設定 :: \uE058 下画面のマップにズーム機能を追加するかどうか設定します。
+
+#CTWW
+cntdwn :: Countdown
+CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?

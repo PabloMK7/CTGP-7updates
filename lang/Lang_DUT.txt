@@ -176,3 +176,7 @@ rnd_sel :: Selecteer het aantal rondes.
 
 #Enhanced Local Map
 enhmap :: Betere Minimap :: Voegt zoom functionaliteit toe met gebruik van het \uE058 touch screen.
+
+#CTWW
+cntdwn :: Countdown
+CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?
