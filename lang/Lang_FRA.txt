@@ -103,8 +103,8 @@ $710073 :: Spectacle Miku
 #First opening welcome message
 welc_t :: Bienvenue à CTGP-7!
 welc_1 :: Salut!\nDepuis le menu en jeu,\nvous pouvez\nutiliser certaines fonctions avancées.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
-welc_2 :: Pour utiliser une fonctionnalité, placez le\ncurseur sur une entrée et\nappuyez sur \uE000 pour changer ses valeurs.
-welc_3 :: Pour connaitre la fonction d'une entrée, placez\nle curseur dessus\nand et touchez \uE058 le bouton info ("i" bleu)\nsur l'écran tactile.
+welc_2 :: Pour utiliser une fonctionnalité, placez le\ncurseur sur une entrée et\nappuyez sur A pour changer ses valeurs.
+welc_3 :: Pour connaitre la fonction d'une entrée, placez\nle curseur dessus\nand et touchez le bouton info ("i" bleu)\nsur l'écran tactile.
 welc_4 :: Souvenez-vous que certaines fonctions, \ncomme le "Sélécteur de CC", seront \ndésactivées en ligne.
 welc_5 :: Nous espérons que vous apprécierez le mod! ^ω^
 
@@ -170,4 +170,4 @@ enhmap :: Améliorations pour la carte locale :: Ajoute des fonctions zoom sur l
 
 #CTWW
 cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?
+CTWWtog :: Would you like to activate\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?

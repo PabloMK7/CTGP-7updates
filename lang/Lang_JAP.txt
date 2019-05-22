@@ -101,12 +101,13 @@ $710073 :: ミクのバースデースペース
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
+# NEEDS FIXING, ONLY WELC_X CAN ONLY BE HIRAGANA OR KATAKANA
 welc_t :: ようこそCTGP-7へ
-welc_1 :: こんにちは!\nCTRPFメニューでは\n興味深い機能を\n使用することができます\n\nCTRPFメニューを開くには\nSELECTボタンを押して下さい。
-welc_2 :: 任意の機能を使用するには\nカーソルを合わせて\uE000 を押すことで有効/無効に出来ます。
-welc_3 :: 各メニューの内容を閲覧するには\nそれにカーソルを当てて\uE058 下画面にある青いボタンを押して下さい。
+welc_1 :: こんにちは!\nCTRPFメニューでは\n興味深い機能を\n使用することができます\nCTRPFメニューを開くには\nSELECTボタンを押して下さい。
+welc_2 :: 任意の機能を使用するには\nカーソルを合わせてA\nを押すことで有効/無効に出来ます。
+welc_3 :: 各メニューの内容を閲覧するには\nそれにカーソルを当てて\n下画面にある青いボタンを押して下さい。
 welc_4 :: オンラインでは\n"CC Selector"などの一部の機能が\n無効になります.
-welc_5 :: 楽しんでこのパックをプレイしてね! ^ω^(日本語翻訳 by Rhknl)
+welc_5 :: 楽しんでこのパックをプレイしてね! ^ω^
 
 #General text
 warning :: 警告
@@ -168,4 +169,4 @@ enhmap :: ミニマップのズーム機能の設定 :: \uE058 下画面のマ�
 
 #CTWW
 cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?
+CTWWtog :: Would you like to activate\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?

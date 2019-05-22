@@ -102,11 +102,11 @@ $710073 :: Cumpleaños de Miku
 
 #First opening welcome message
 welc_t :: ¡Bienvenido a CTGP-7!
-welc_1 :: ¡Hola!\nDesde el menú ingame,\npodrás utilizar algunas\nfunciones interesantes.\n\nPara abrir el menú ingame,\nusa el botón (Select).
-welc_2 :: Para usar cualquier función,\npon el cursor encima\ny pulsa \uE000.
-welc_3 :: Para saber lo que hace una función,\npon el cursor encima\ny toca \uE058 el botón azul "i"\nen la pantalla inferior.
-welc_4 :: Ten en cuenta que algunas\nfunciones como "Selector de CC"\nserán desactivadas en multijugador\nen línea.
-welc_5 :: Esperemos que disfrutes el mod! ^ω^
+welc_1 :: ¡Hola!\nDesde el menú ingame,\npodrás utilizar algunas\nfunciones interesantes.\nPara abrir el menú ingame,\nusa el botón (Select).
+welc_2 :: Para usar cualquier función,\npon el cursor encima\ny pulsa A.
+welc_3 :: Para saber lo que hace una\nfunción, pon el cursor encima\ny pulsa el botón azul "i"\nen la pantalla inferior.
+welc_4 :: Ten en cuenta que algunas\nfunciones como "Selector de CC"\nserán desactivadas en\nmultijugador en línea.
+welc_5 :: Esperemos que disfrutes el mod!\n^ω^
 
 #General text
 warning :: ADVERTENCIA
@@ -170,4 +170,4 @@ enhmap :: Mapa Local Mejorado :: Añade la posibilidad de hacer zoom en el mapa 
 
 #CTWW
 cntdwn :: Cuenta Atrás
-CTWWtog :: ¿Quieres activar\nCircuitos Editados En Línea?
+CTWWtog :: ¿Quieres activar\nCircuitos Editados En Línea? :: ¿Quieres desactivar\nCircuitos Editados En Línea?

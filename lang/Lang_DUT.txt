@@ -107,8 +107,8 @@ $710073 :: Miku's Verjaardag
 #First opening welcome message
 welc_t :: Welkom bij CTGP-7
 welc_1 :: Hallo daar!\nIn het In-Game-Menu kun je\nenkele interessante functies gebruiken\n\nDruk op de knop (SELECT) om het In-Game-Menu te openen.
-welc_2 :: Om een functie te gebruiken, plaats je de\ncursor boven een optie en\nEn druk je op \uE000 om deze in te schakelen / in te stellen.
-welc_3 :: Om te weten wat een optie doet,\nplaats de cursor op de invoer\nen tik op \uE058 de blauwe "i" (info)\nknop in het onderste scherm.
+welc_2 :: Om een functie te gebruiken, plaats je de\ncursor boven een optie en\nEn druk je op A om deze in te schakelen / in te stellen.
+welc_3 :: Om te weten wat een optie doet,\nplaats de cursor op de invoer\nen tik op de blauwe "i" (info)\nknop in het onderste scherm.
 welc_4 :: Houd er rekening mee dat sommige functies\nzoals "CC Selector"\nUitgezet kunnen worden tijdens online spelen.
 welc_5 :: We hopen dat je geniet van CTGP-7! ^ ω ^
 
@@ -179,4 +179,4 @@ enhmap :: Betere Minimap :: Voegt zoom functionaliteit toe met gebruik van het \
 
 #CTWW
 cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?
+CTWWtog :: Would you like to activate\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?

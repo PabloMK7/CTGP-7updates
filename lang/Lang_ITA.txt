@@ -104,8 +104,8 @@ $710073 :: Spett. Compleanno di Miku
 #First opening welcome message
 welc_t :: Benvenuto a CTGP-7
 welc_1 :: Ciao!\nDal menu interno al gioco, potrai\nusare delle funzioni interessanti.\n\nPer aprire il menu,nusa il pulsante (SELECT).
-welc_2 :: Per usare le funzioni, posiziona\nil cursore su una voce enpremi uE000 per attivarla/configurarla.
-welc_3 :: Per sapere ciò che attiva ogni voce,\nposizionaci il cursore sopra\ne tocca uE058 la "i" (info) blu\nnello schermo inferiore.
+welc_2 :: Per usare le funzioni, posiziona\nil cursore su una voce enpremi A per attivarla/configurarla.
+welc_3 :: Per sapere ciò che attiva ogni voce,\nposizionaci il cursore sopra\ne tocca la "i" (info) blu\nnello schermo inferiore.
 welc_4 :: Ricorda però che funzioni\ncome il "Selettore CC" saranno\ndisabilitate giocando online.
 welc_5 :: Speriamo che la mod ti piaccia! ^&#969;^
 
@@ -171,4 +171,4 @@ enhmap :: Mappa locale migliorata :: Aggiunge la funzionalità di zoom alla mapp
 
 #CTWW
 cntdwn :: Conto alla rovescia
-CTWWtog :: Vuoi attivare le\nPiste Personalizzate online?
+CTWWtog :: Vuoi attivare le\nPiste Personalizzate online? :: Vuoi disattivare le\nPiste Personalizzate online?

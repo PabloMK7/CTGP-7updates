@@ -103,8 +103,8 @@ $710073 :: Aniversário da Miku
 #First opening welcome message
 welc_t :: Bem vindo ao CTGP-7
 welc_1 :: Olá!\nPelo menu em jogo,\nvocê poderá\nusar algumas interessantes funções.\n\nPara abrir o menu em jogo,\nuse o botão (SELECT).
-welc_2 :: Para usar qualquer função, coloque o\ncursor sobre uma entrada e\naperte \uE000 para ativar/configurar.
-welc_3 :: Para saber oque uma entrada faz,\ncoloque o cursor sobre a entrada\ne toque \uE058 no botão "i" (info)\nazul na tela de baixo.
+welc_2 :: Para usar qualquer função, coloque o\ncursor sobre uma entrada e\naperte A para ativar/configurar.
+welc_3 :: Para saber oque uma entrada faz,\ncoloque o cursor sobre a entrada\ne toque no botão "i" (info)\nazul na tela de baixo.
 welc_4 :: Lembre-se que algumas funções\ncomo "Seletor CC" vão ser\ndesativadas no modo online.
 welc_5 :: Esperamos que goste do mod! ^ω^
 
@@ -170,4 +170,4 @@ enhmap :: Mapa Local Melhorado :: Adiciona a funcionalidade de zoom ao mapa loca
 
 #CTWW
 cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?
+CTWWtog :: Would you like to activate\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?

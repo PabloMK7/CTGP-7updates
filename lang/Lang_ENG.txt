@@ -102,11 +102,11 @@ $710073 :: Miku's Birthday Spec.
 
 #First opening welcome message
 welc_t :: Welcome to CTGP-7
-welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some interesting features.\n\nTo open the ingame menu,\nuse the (SELECT) button.
-welc_2 :: To use any feature, place the\ncursor over an entry and\npress \uE000 to enable/configure it.
-welc_3 :: To know what an entry does, place\nthe cursor over the entry\nand touch \uE058 the blue "i" (info)\nbutton in the bottom screen.
+welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some interesting features.\nTo open the ingame menu,\nuse the (SELECT) button.
+welc_2 :: To use any feature, place the\ncursor over an entry and\npress A to enable/configure it.
+welc_3 :: To know what an entry does,\nplace the cursor over the entry\nand touch the blue "i" (info)\nbutton in the bottom screen.
 welc_4 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.
-welc_5 :: We hope you enjoy the mod! ^ω^
+welc_5 :: We hope you enjoy the mod!\n^ω^
 
 #General text
 warning :: WARNING
@@ -170,4 +170,4 @@ enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen loc
 
 #CTWW
 cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?
+CTWWtog :: Would you like to enable\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?

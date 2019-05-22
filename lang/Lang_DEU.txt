@@ -103,8 +103,8 @@ $710073 :: Mikus Geburtstagsschausp.
 #First opening welcome message
 welc_t :: Willkommen bei CTGP-7
 welc_1 :: Grüß dich!\nVon dem Ingame-Menü aus, wirst\ndu in der Lage sein, ein paar\ninteressante Funktionen zu benutzen.\n\nUm das Ingame-Menü zu öffnen,\nbenutze den (SELECT) Knopf.
-welc_2 :: Um die Funktionen zu verwenden,\nplatziere den Zeiger über einen\nEintrag und drücke \uE000 , um es zu\naktivieren oder zu konfigurieren.
-welc_3 :: Um zu erfahren, was der Eintrag macht,\nplatziere den Zeiger über den Eintrag\nund berühre \uE058 den blauen "i" (Info)\nKnopf im unteren Bildschirm.
+welc_2 :: Um die Funktionen zu verwenden,\nplatziere den Zeiger über einen\nEintrag und drücke A , um es zu\naktivieren oder zu konfigurieren.
+welc_3 :: Um zu erfahren, was der Eintrag macht,\nplatziere den Zeiger über den Eintrag\nund berühre den blauen "i" (Info)\nKnopf im unteren Bildschirm.
 welc_4 :: Beachte aber, dass manche Funktionen,\nwie z.B. der "CC Wähler" deaktiviert\nwerden, während du Online spielst.
 welc_5 :: Wir hoffen, dir gefällt der Mod! ^ω^
 
@@ -171,4 +171,4 @@ enhmap :: Verbesserte Karte :: Fügt der Karte des unteren Bildschirms eine Zoom
 
 #CTWW
 cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide?
+CTWWtog :: Would you like to activate\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?
