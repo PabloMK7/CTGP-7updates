@@ -1,3 +1,11 @@
+DarkFlare=CT dev, Original Idea
+PabloMK7=CT dev, App, Plugin, Others
+Fishguy=Plugin, CTWW, Countdown
+Ermelber=CT dev, KMP Expander
+MKGirlism=CT dev
+MK7Tester=CT dev
+Stewie10=Beta Tester, CT dev
+SpyKid=CT dev
 Mence=CT dev
 MegaKart69=CT dev
 JorisMKW=CT dev
