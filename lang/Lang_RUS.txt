@@ -1,151 +1,155 @@
 #
-##Переводить строки начинающиеся с символа # не нужно. Это комментарии (facepalm)
-# Символы:
+##No need to translate lines starting with #, those are comments
+# Symbols:
 #	SNES -> \uE031\uE032
 #	GBA -> \uE024\uE025
 #	GCN -> \uE026\uE027
 #	DS -> \uE033
 #	Wii -> \uE067
-#	Кнопка А -> \uE000
-#	Кнопка Х -> \uE002
-#	Нажатие на тач скрин -> \uE058
-#	Кнопка HOME -> \uE073
-#	Кнопка POWER -> \uE078
-#	Красная строка -> \n
-# Изменять можно только текст после двух двоеточий, текст перед ними это уникальный идентификатор который менять нельзя.
-# Протестируйте свой перевод на факт правильного переноса строк в игре.
-# Файл должен быть сохранён в кодировке UTF-8. Для редактирования рекомендуется использовать Notepad++.
-##Внутриигровой текст----------------------------------------
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
 
-#Имена персонажей в меню
-$1001 :: Мистер L
-$1003 :: Красный Йоши
-$1005 :: Соник
-$1013 :: Валуиджи
-$1014 :: Золотой марио
+#Cups
+$700010 :: Bell Cup
+$710042 :: Concord Town
+$710059 :: \uE022\uE023 Mario Raceway
+$710044 :: Galvarny Falls
+$710045 :: \uE024\uE025 Sky Garden
 
-#Имена персонажей в гонке
-$1051 :: Мистер L
-$1053 :: К. Йоши
-$1055 :: Соник
-$1063 :: Валуиджи
-$1064 :: З. Марио
+$700011 :: Acorn Cup
+$710046 :: Autumn Forest
+$710068 :: \uE024\uE025 Riverside Park
+$710043 :: \uE031\uE032 Mario Circuit 1
+$710049 :: \uE024\uE025 Bowser Castle 3
 
-#Крпуса карта
-$1107 :: Серебр. Стрела
-$1109 :: Золотой Богомол
-$1110 :: Аркадный
-$1111 :: Команда Бандикут
+$700012 :: Cloud Cup
+$710050 :: Evergreen Crossing
+$710054 :: \uE022\uE023 Moo Moo Farm
+$710052 :: Bayside Boulevard
+$710053 :: \uE022\uE023 Frappe Snowland
 
-#Колёса карта
-$1202 :: \uE033 Монстр
-$1206 :: Синий Монстр
+$700013 :: Boo Cup
+$710055 :: Banshee Boardwalk 2
+$710062 :: Elemental Cave
+$710057 :: \uE031\uE032 Ghost Valley 2
+$710065 :: \uE033 Cheep Cheep Beach
 
-#Глайдеры карта
-$1304 :: Огненный глайдер
+$700014 :: Spring Cup
+$710067 :: \uE033 Tick Tock Clock
+$710058 :: Melody Sanctum
+$710066 :: \uE033 Desert Hills
+$710069 :: Castle Of Time
 
-#Кубок
-$700010 :: Кубок Колокол
-$710042 :: Город Конкорд
-$710043 :: \uE031\uE032 Трасса Марио 1
-$710044 :: Склоны Гальварни
-$710045 :: \uE024\uE025 Небесный Сад
+$700015 :: Egg Cup
+$710063 :: \uE033 Yoshi Falls
+$710047 :: \uE022\uE023 Choco Mountain
+$710048 :: \uE033 Shroom Ridge
+$710051 :: CTR Crash Cove
 
-$700011 :: Кубок Желудь
-$710046 :: Осенний Лес
-$710047 :: \uE024\uE025 Сырные земли
-$710048 :: \uE022\uE023 Ледяная Пустыня Калимари
-$710049 :: \uE024\uE025 Замок Баузера 3
+$700016 :: Bullet Cup
+$710056 :: CTR Cortex Castle
+$710060 :: \uE033 Dokan Course
+$710061 :: \uE031\uE032 Choco Island 2
+$710064 :: Star Slope
 
-$700012 :: Кубок Облако
-$710050 :: Вечнозеленый Перекресток
-$710051 :: \uE026\uE027 Пляж Пич
-$710052 :: Бульвар Бэйсайд
-$710053 :: \uE022\uE023 Снежные земли
+$700018 :: Blooper Cup
+$710074 :: Sandcastle Park
+$710075 :: \uE033 Mario Circuit
+$710076 :: \uE026\uE027 Luigi Circuit
+$710077 :: Volcano Beach Ruins
 
-$700013 :: Кубок Бу
-$710054 :: \uE022\uE023 Ферма Му-Му
-$710055 :: Пирс Банши 2
-$710056 :: \uE026\uE027 Колизей Варио
-$710057 :: \uE031\uE032 Долина Призраков 2
+$700019 :: Feather Cup
+$710078 :: \uE026\uE027 Yoshi Circuit
+$710079 :: \uE024\uE025 Peach Circuit
+$710080 :: Metro Madness
+$710081 :: \uE024\uE025 Luigi Circuit
 
-$700014 :: Кубок Пружина
-$710058 :: Святилище Мелодий
-$710059 :: \uE022\uE023 Трасса Марио
-$710060 :: Канал растения-пираньи
-$710061 :: \uE067 Золотые Рудники Варио
+$700020 :: Fireball Cup
+$710082 :: SMO RC Challenge
+$710083 :: \uE024\uE025 Bowser Castle 4
+$710084 :: \uE031\uE032 Donut Plains 1
+$710085 :: Secret Slide
 
-$700015 :: Кубок Яйца
-$710062 :: Пещера Элементов
-$710063 :: \uE033 Водопады Йоши
-$710064 :: Город Ливней
-$710065 :: \uE033 Пляж Чип-Чипов
+$700021 :: Bob-omb Cup
+$710086 :: \uE033 Wario Stadium
+$710087 :: Ermii Circuit
+$710088 :: \uE026\uE027 Baby Park
+$710089 :: Revo Circuit
 
-$700016 :: Кубок Пуля
-$710066 :: \uE033 Пустынные Холмы
-$710067 :: \uE033 Часы Тик-так
-$710068 :: \uE024\uE025 Парк Риверсайд
-$710069 :: Замок Времени
+$700022 :: Cherry Cup
+$710090 :: \uE031\uE032 Mario Circuit 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Shy Guy Beach
+$710093 :: Bingo Party
 
-$700017 :: Кубок Радуга
-$710070 :: \uE022\uE023 Радужная Дорога
-$710071 :: Радужная Дорога
-$710072 :: Космическая Дорога
-$710073 :: День рождения Мику
+$700023 :: Coin Cup
+$710094 :: Doge Desert
+$710095 :: \uE022\uE023 Banshee Boardwalk
+$710096 :: \uE026\uE027 Mario Circuit
+$710073 :: Miku's Birthday Spec.
+
+$700017 :: Rainbow Cup
+$710070 :: \uE022\uE023 Rainbow Road
+$710071 :: \uE024\uE025 Rainbow Road
+$710072 :: Space Road
+$710097 :: Rainbow Road DX
 
 #Create new save data text
 %7005 :: Extra save data for CTGP-7\nwill be created in the SD card.
 %7003 :: Creating extra save data...
 %7004 :: Extra save data\nhas been created.
- 
-##Текст плагина----------------------------------------------
 
-#Приветственное сообщение при первом запуске
-welc_t :: Добро пожаловать в CTGP-7
-welc_1 :: Из внутри-игрового меню вы\nсможете использовать функции\nмодификации.\nДля того что бы открыть меню\nиспользуйте кнопку (SELECT).
-welc_2 :: Для того что бы использовать\nфункцию, выберите нужную\nфункцию и нажмите A для её\nвключения или настройки.
-welc_3 :: Для того что бы узнать что\nделает функция, выберите её и\nнажмите синюю "i" (инфо)\nкнопку в нижней части экрана.
-welc_4 :: Учтите, что некоторые функции,\nвроде выбора куб.см, будут\nотключены во время игры по\nсети.
-welc_5 :: Мы надеемся что вам понравится\nнаша модификация! ^ω^
+##Plugin text -----------------------------------------------
 
-#Общий текст
-warning :: ВНИМАНИЕ
-error :: ОШИБКА
-state :: Статус
-state_mode :: Включен :: Выключен
-state_inf :: Включить :: Выключить
-settings :: Настройки
-exit :: Выход
+#First opening welcome message
+welc_t :: Welcome to CTGP-7
+welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some interesting features.\nTo open the ingame menu,\nuse the (SELECT) button.
+welc_2 :: To use any feature, place the\ncursor over an entry and\npress A to enable/configure it.
+welc_3 :: To know what an entry does,\nplace the cursor over the entry\nand touch the blue "i" (info)\nbutton in the bottom screen.
+welc_4 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.
+welc_5 :: We hope you enjoy the mod!\n^w^
 
-#Ошибка если установлена некорректная версия
-err_ver :: Данная версия Mario Kart 7\nне поддерживается! Убедитесь\nчто патч 1.1 установлен.\n(Установите его из eShop)\nОбнаружена версия: v%d
+#General text
+warning :: WARNING
+error :: ERROR
+state :: State
+state_mode :: Enabled :: Disabled
+state_inf :: Enable :: Disable
+settings :: Settings
+exit :: Exit
 
-#Ошибка в случае когда пользователь имеет и картридж и cia одновременно
-err_both :: Если вы НЕ запускаете игру со\nвставленного картриджа, выньте\nего на время игры с\nмодификацией для цифровой\nверсии. (Рекомендуется\nтак же перезагрузить консоль)
+#Entries
+gameplay_folder :: Gameplay Features
+settings_folder :: Game Settings
+spdmeter :: Speedometer :: Shows a speedometer in the top screen bottom right corner.
+ccsel :: CC Selector :: Sets the current CC to a certain value (has to be enabled before loading a race).
+itemled :: Warn Items With LED :: The notification LED blinks Blue when a Blue Shell is used and Yellow when a Lightning is used.
+backcam :: Backwards Camera :: Press \uE002 to see what's behind you, just like other Mario Kart games! (Note: The \uE002 button will no longer use items.)
+charman :: Custom Character Manager :: Switch between original and custom characters.
+trackorder :: Online Track Order :: Choose how the tracks will be ordered in cups online.
 
-#Сообщение при нажатии кнопки HOME пользователем
-err_home :: \uE073 Меню :: \uE073 Меню не может быть открыто.\nЗажмите кнопку \uE078 для\nвыключения консоли.
+#Speedometer text
+spd_set :: Speedometer settings.
+spd_unit :: Unit
+spd_type :: Type
+spd_sunit :: Select speedometer unit.
+spd_stype :: Select speedometer type.
+spd_types :: Numerical :: Graphical
 
-#Функции
-spdmeter :: Спидометр :: Показывать спидометр на верхнем экране в нижнем правом углу.
-ccsel :: Выбор куб.см :: Установить значение куб.см(должна быть включена перед стартом гонки).
-itemled :: LED предупреждения :: Лампочки уведомления мигают синим когда использован синий панцирь и желтым когда использована молния.
-backcam :: Камера заднего вида :: Нажмите \uE002, что бы увидеть что происходит позади вас, так же как в прошлых играх Mario Kart! (Внимание: Кнопка \uE002 больше не будет использовать предметы.)
-
-#Текст настроек спидометра
-spd_set :: Настройки спидометра
-spd_unit :: Единиц
-spd_type :: Тип
-spd_sunit :: Выбор единиц измерения:
-spd_stype :: Выбор типа спидометра:
-spd_types :: Цифровой :: Графический
-
-#Текст настроек куб.см
-cc_set :: Настройки куб.см
-cc_val :: Значение
-cc_rang :: Введите значение в пределах 1 - 9999
-cc_entv :: Введите новое значение куб.см
-cc_chgv :: Изменить значение
+#CC Selector text
+cc_set :: CC selector settings.
+cc_val :: Value
+cc_rang :: The value must be between 1 - 9999
+cc_entv :: Enter new CC value.
+cc_chgv :: Change value
 
 #Course Manager
 comanager :: Enable or disable custom tracks.
@@ -156,7 +160,6 @@ endis_all :: Enable All :: Disable All
 #Community Code Generator
 commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
 def_spd :: Default speed
-som_tr_e :: Some tracks enabled
 code :: Code
 
 #Change Round Number
@@ -168,6 +171,17 @@ rnd_sel :: Select the number of rounds.
 #Enhanced Local Map
 enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.
 
+#Custom character manager text
+char_select :: Select a character to configure.\n(Reboot required to apply changes.)
+char_replace :: Select a custom character for:\n
+green_info :: Green -> Current activated entry.
+
+#Online track order
+order_mode :: Default :: Alphabetical
+
+#Online update check
+update_check :: Checking for updates... :: The latest version of CTGP-7\nis required to play online.
+
 #CTWW
 cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?
+CTWWtog :: Would you like to enable\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?

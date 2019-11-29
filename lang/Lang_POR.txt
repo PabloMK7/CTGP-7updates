@@ -17,81 +17,90 @@
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
 ##Ingame text -----------------------------------------------
 
-#Character menu
-$1001 :: Sr. L
-$1003 :: Yoshi Vermelho
-$1005 :: Sonic
-$1013 :: Waluigi
-$1014 :: Mario Dourado
-
-#Character race
-$1051 :: Sr.L
-$1053 :: Yoshi V.
-$1055 :: Sonic
-$1063 :: Waluigi
-$1064 :: Mario D.
-
-#Kart Body Parts
-$1107 :: Flecha Prata
-$1109 :: Mantis Dourado
-$1110 :: Arcade
-$1111 :: Equipe Bandicoot
-
-#Kart Wheel Parts
-$1202 :: \uE033 Monstro
-$1206 :: Monstro Azul
-
-#Kart Glider Parts
-$1304 :: Rajada de Fogo
-
 #Cups
 $700010 :: Taça Sino
 $710042 :: Cidade Concord
-$710043 :: Circuito do Mario 1 \uE031\uE032
+$710059 :: Pista do Mario \uE022\uE023
 $710044 :: Cachoeiras Galvarny
-$710045 :: Jardim no Céu \uE024\uE025
+$710045 :: Jardim do Céu \uE024\uE025 
 
 $700011 :: Taça Bolota
 $710046 :: Floresta Outono
-$710047 :: Mundo do Queijo \uE024\uE025
-$710048 :: Deserto Gelado Kalimary \uE022\uE023
-$710049 :: Castlelo do Bowser 3 \uE024\uE025
+$710068 :: Parque Riverside \uE024\uE025
+$710043 :: Circuito do Mario 1 \uE031\uE032
+$710049 :: Castelo do Bowser 3 \uE024\uE025
 
 $700012 :: Taça Nuvem
 $710050 :: Cruzamento Perene
-$710051 :: Praia da Peach \uE026\uE027
+$710054 :: Fazenda Moo Moo \uE022\uE023
 $710052 :: Ilha Boulevard
 $710053 :: Circuito Nevado \uE022\uE023
 
 $700013 :: Taça Boo
-$710054 :: Fazenda Moo Moo \uE022\uE023
 $710055 :: Calçada da Alma Penada 2
-$710056 :: Coliseu do Wario \uE026\uE027
-$710057 :: Vale Fantasma 2 \uE031\uE032
-
-$700014 :: Taça Mola
-$710058 :: Santuário da Melodia
-$710059 :: Pista do Mario \uE022\uE023
-$710060 :: Canos Planta Piranha
-$710061 :: Mina de Ouro do Wario \uE067 
-
-$700015 :: Taça Ovo
 $710062 :: Caverna Elemental
-$710063 :: Cachoeiras Yoshi \uE033 
-$710064 :: Cidade Aguaceiro
+$710057 :: Vale Fantasma 2 \uE031\uE032
 $710065 :: Praia Cheep Cheep \uE033
 
-$700016 :: Taça Bala
+$700014 :: Taça Mola
+$710067 :: Relógio Tiquetaque \uE033
+$710058 :: Santuário da Melodia
 $710066 :: Colinas do Deserto \uE033
-$710067 :: Relógio Tiquetaque \uE033 
-$710068 :: Parque Riverside \uE024\uE025
 $710069 :: Castelo do Tempo
 
-$700017 :: Taça Arco-Íris
-$710070 :: Estrada Arco-Íris \uE022\uE023
-$710071 :: Estrada Arco-Íris
-$710072 :: Estrada Espacial
-$710073 :: Aniversário da Miku
+$700015 :: Taça Ovo
+$710063 :: Cachoeiras Yoshi \uE033
+$710047 :: Montanha Choco \uE022\uE023
+$710048 :: Cume de Cogumelos \uE033
+$710051 :: CTR Cova de Crash
+
+$700016 :: Taça Bala
+$710056 :: CTR Castelo de Cortex
+$710060 :: Curso Dokan \uE033
+$710061 :: Ilha Choco 2 \uE031\uE032
+$710064 :: Ladeira da Estrela
+
+$700018 :: Taça Lula
+$710074 :: Parque Sandcastle
+$710075 :: Circuito do Mario \uE033
+$710076 :: Circuito do Luigi \uE026\uE027
+$710077 :: Ruinas Volcano Beach
+
+$700019 :: Taça Pena
+$710078 :: Circuito do Yoshi \uE026\uE027
+$710079 :: Circuito da Peach \uE024\uE025
+$710080 :: Loucuras no Metrô
+$710081 :: Circuito do Luigi \uE024\uE025
+
+$700020 :: Taça Bola de Fogo
+$710082 :: Desafio SMO RC
+$710083 :: Castelo do Bowser 4 \uE024\uE025
+$710084 :: Planíce Donut 1 \uE031\uE032
+$710085 :: Escorregador Secreto
+
+$700021 :: Taça Bob-omb
+$710086 :: Estádio do Wario \uE033
+$710087 :: Circuito do Ermii
+$710088 :: Parque Bebê \uE026\uE027
+$710089 :: Circuito Revo
+
+$700022 :: Cherry Cup
+$710090 :: \uE031\uE032 Mario Circuit 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Shy Guy Beach
+$710093 :: Bingo Party
+
+$700023 :: Coin Cup
+$710094 :: Doge Desert
+$710095 :: \uE022\uE023 Banshee Boardwalk
+$710096 :: \uE026\uE027 Mario Circuit
+$710073 :: Miku's Birthday Spec.
+
+$700017 :: Rainbow Cup
+$710070 :: \uE022\uE023 Rainbow Road
+$710071 :: \uE024\uE025 Rainbow Road
+$710072 :: Space Road
+$710097 :: Rainbow Road DX
 
 #Create new save data text
 %7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
@@ -103,8 +112,8 @@ $710073 :: Aniversário da Miku
 #First opening welcome message
 welc_t :: Bem vindo ao CTGP-7
 welc_1 :: Olá!\nPelo menu em jogo,\nvocê poderá\nusar algumas interessantes funções.\n\nPara abrir o menu em jogo,\nuse o botão (SELECT).
-welc_2 :: Para usar qualquer função, coloque o\ncursor sobre uma entrada e\naperte A para ativar/configurar.
-welc_3 :: Para saber oque uma entrada faz,\ncoloque o cursor sobre a entrada\ne toque no botão "i" (info)\nazul na tela de baixo.
+welc_2 :: Para usar qualquer função, coloque o\ncursor sobre uma entrada e\naperte \uE000 para ativar/configurar.
+welc_3 :: Para saber oque uma entrada faz,\ncoloque o cursor sobre a entrada\ne toque \uE058 no botão "i" (info)\nazul na tela de baixo.
 welc_4 :: Lembre-se que algumas funções\ncomo "Seletor CC" vão ser\ndesativadas no modo online.
 welc_5 :: Esperamos que goste do mod! ^ω^
 
@@ -118,20 +127,15 @@ settings :: Opções
 exit :: Sair
 
 
-#Error when an incorrect version is installed
-err_ver :: Essa versão do Mario Kart 7\nnão é suportada! Certifique-se\nque o patch 1.1 esteja instalado.\n(Baixe pela eShop)\nDetectado: v%d
-
-#Error when the user has a card and a cia at the same time
-err_both :: Se você NÃO estiver jogando\no jogo pelo cartucho inserido\ndeixe-o\nremovido enquanto estiver usando o mod\npela cópia digital.\n(É recomendado reiniciar o console.)
-
-#Message shown when the user presses the home button
-err_home :: Menu \uE073 :: O \uE073 Menu HOME não pode ser aberto.\nSegure o botão \uE078 \npara desligar o console.
-
 #Entries
+gameplay_folder :: Recursos de Jogabilidade
+settings_folder :: Opções de Jogo
 spdmeter :: Velocímetro :: Mostra um velocímetro na tela de cima no canto inferior direito.
-ccsel :: Seletor CC :: Configura o CC para um certo valor (tem que ser abilitado antes da corrida).
+ccsel :: Seletor CC :: Configura o CC para um certo valor (tem que ser habilitado antes da corrida).
 itemled :: Alertar Itens com LED :: A LED de notificação piscará Azul quando um Casco Azul for usado e Amarelo quando um Relâmpago for usado.
 backcam ::  Camera de Frente :: Aperte \uE002 para ver o que está atrás de você, igual em outros Mario Karts! (Nota: O botão \uE002 não utilizará itens.)
+charman :: Gerenciador de Personagens Personalizados :: Troca entre personagens originais e personalizados.
+trackorder :: Ordem de Pistas Online :: Escolha como as pistas serão organizadas em taças online.
 
 #Speedometer text
 spd_set :: Opções do Velocímetro.
@@ -168,6 +172,17 @@ rnd_sel :: Selecione o número de rondas.
 #Enhanced Local Map
 enhmap :: Mapa Local Melhorado :: Adiciona a funcionalidade de zoom ao mapa local do ecrã de baixo através do ecrã tátil \uE058.
 
+#Custom character manager text
+char_select :: Selecione um personagem para configurar.\n(Reinicio requirido para aplicar configurações.)
+char_replace :: Selecione um personagem personalizado para:\n
+green_info :: Verde -> Entrada atual ativada.
+
+#Online track order
+order_mode :: Padrão :: Alfabético
+
+#Online update check
+update_check :: A procurar por actualizações... :: A última versão de CTGP-7\né requerida para jogar online.
+
 #CTWW
-cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?
+cntdwn :: Contagem Regressiva
+CTWWtog :: Deseja habilitar\nCustom Tracks Worldwide? :: Deseja desabilitar\nCustom Tracks Worldwide?

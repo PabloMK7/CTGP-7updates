@@ -17,81 +17,90 @@
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
 ##Ingame text -----------------------------------------------
 
-#Character menu
-$1001 :: Sr. L
-$1003 :: Yoshi Rojo
-$1005 :: Sonic
-$1013 :: Waluigi
-$1014 :: Mario Dorado
-
-#Character race
-$1051 :: Sr.L
-$1053 :: Yoshi R.
-$1055 :: Sonic
-$1063 :: Waluigi
-$1064 :: Mario D.
-
-#Kart Body Parts
-$1107 :: Flecha de Plata
-$1109 :: Excavakart
-$1110 :: Arcade
-$1111 :: Equipo Bandicoot
-
-#Kart Wheel Parts
-$1202 :: \uE033 Monstruo
-$1206 :: Monstruo Azul
-
-#Kart Glider Parts
-$1304 :: Piroswooper
-
 #Cups
 $700010 :: Copa Campana
-$710042 :: Ciudad Concordia
-$710043 :: \uE031\uE032 Circuito de Mario 1
+$710042 :: Ciudad Cocordia
+$710059 :: \uE022\uE023 Pista Mario
 $710044 :: Cataratas Galvarny
 $710045 :: \uE024\uE025 Jardín Celeste
 
 $700011 :: Copa Bellota
 $710046 :: Bosque Otoñal
-$710047 :: \uE024\uE025 Tierra de Queso
-$710048 :: \uE022\uE023 Desierto Gélido
+$710068 :: \uE024\uE025 Parque de la Rivera
+$710043 :: \uE031\uE032 Circuito Mario 1
 $710049 :: \uE024\uE025 Castillo de Bowser 3
 
 $700012 :: Copa Nube
 $710050 :: Paso Perenne
-$710051 :: \uE026\uE027 Playa Peach
+$710054 :: \uE022\uE023 Granja Mu-Mu
 $710052 :: Bulevar de la Bahía
 $710053 :: \uE022\uE023 Circuito Nevado
 
 $700013 :: Copa Boo
-$710054 :: \uE022\uE023 Granja Mu-Mu
 $710055 :: Muelle Embrujado 2
-$710056 :: \uE026\uE027 Coliseo Wario
-$710057 :: \uE031\uE032 Valle Fantasma 2
-
-$700014 :: Copa Muelle
-$710058 :: Santuario Musical
-$710059 :: \uE022\uE023 Pista Mario
-$710060 :: Tuberías Planta Piraña
-$710061 :: \uE067 Mina de Wario
-
-$700015 :: Copa Huevo
 $710062 :: Cueva Elemental
-$710063 :: \uE033 Cataratas Yoshi
-$710064 :: Ciudad Aguacero
+$710057 :: \uE031\uE032 Valle Fantasma 2
 $710065 :: \uE033 Playa Cheep Cheep
 
-$700016 :: Copa Bala
-$710066 :: \uE033 Desierto Sol-Sol
+$700014 :: Copa Muelle
 $710067 :: \uE033 Reloj TicTac
-$710068 :: \uE024\uE025 Parque de la rivera
+$710058 :: Santuario Musical
+$710066 :: \uE033 Desierto Sol-Sol
 $710069 :: Castillo del Tiempo
 
-$700017 :: Copa Arco Íris
-$710070 :: \uE022\uE023 Senda Arco Íris
-$710071 :: Senda Arco Íris
-$710072 :: Senda Espacial
+$700015 :: Copa Huevo
+$710063 :: \uE033 Cataratas Yoshi
+$710047 :: \uE022\uE023 Monte Chocolate
+$710048 :: \uE033 Colinas Champiñón
+$710051 :: CTR Cueva Crash
+
+$700016 :: Copa Bala
+$710056 :: CTR Castillo de Cortex
+$710060 :: \uE033 Circuito Dokan
+$710061 :: \uE031\uE032 Isla Chocolate 2
+$710064 :: Tobogán Estelar
+
+$700018 :: Copa Blooper
+$710074 :: Fortaleza de Arena
+$710075 :: \uE033 Circuito Mario
+$710076 :: \uE026\uE027 Circuito Luigi
+$710077 :: Ruinas de Playa Volcánica
+
+$700019 :: Copa Pluma
+$710078 :: \uE026\uE027 Circuito Yoshi
+$710079 :: \uE024\uE025 Circuito Peach
+$710080 :: Metro Madness
+$710081 :: \uE024\uE025 Circuito Luigi
+
+$700020 :: Copa Fuego
+$710082 :: SMO Desafío RC
+$710083 :: \uE024\uE025 Castillo de Bowser 4
+$710084 :: \uE031\uE032 Prado Rosquilla 1
+$710085 :: Tobogán Secreto
+
+$700021 :: Copa Bob-omb
+$710086 :: \uE033 Estadio Wario
+$710087 :: Circuito Ermii
+$710088 :: \uE026\uE027 Parque Bebé
+$710089 :: Circuito Revo
+
+$700022 :: Copa Cereza
+$710090 :: \uE031\uE032 Circuito Mario 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Playa Shy Guy
+$710093 :: Bingo Party
+
+$700023 :: Copa Moneda
+$710094 :: Desierto Doge
+$710095 :: \uE022\uE023 Muelle Embrujado
+$710096 :: \uE026\uE027 Circuito Mario
 $710073 :: Cumpleaños de Miku
+
+$700017 :: Copa Arco Iris
+$710070 :: \uE022\uE023 Senda Arco Iris
+$710071 :: \uE024\uE025 Senda Arco Iris
+$710072 :: Senda Espacial
+$710097 :: Senda Arco Iris DX
 
 #Create new save data text
 %7005 :: Datos de guardado extra\npara CTGP-7 serán creados\nen la tarjeta SD.
@@ -106,7 +115,7 @@ welc_1 :: ¡Hola!\nDesde el menú ingame,\npodrás utilizar algunas\nfunciones i
 welc_2 :: Para usar cualquier función,\npon el cursor encima\ny pulsa A.
 welc_3 :: Para saber lo que hace una\nfunción, pon el cursor encima\ny pulsa el botón azul "i"\nen la pantalla inferior.
 welc_4 :: Ten en cuenta que algunas\nfunciones como "Selector de CC"\nserán desactivadas en\nmultijugador en línea.
-welc_5 :: Esperemos que disfrutes el mod!\n^ω^
+welc_5 :: Esperamos que disfrutes el mod!\n^ω^
 
 #General text
 warning :: ADVERTENCIA
@@ -117,21 +126,15 @@ state_inf :: Activar :: Desactivar
 settings :: Opciones
 exit :: Salir
 
-
-#Error when an incorrect version is installed
-err_ver :: ¡Esta versión de Mario Kart 7\nno es compatible! Asegúrate\nde que la actualización 1.1 está\ninstalada. (Desacarga en la eShop)\nDetectado: v%d
-
-#Error when the user has a card and a cia at the same time
-err_both :: Si no estás jugando\nel juego desde el cartucho\nquítalo mientras juegas el mod\ndesde una copia digital.\n(Se recomienda reiniciar.)
-
-#Message shown when the user presses the home button
-err_home :: Menu \uE073 :: The Menu \uE073 no se puede abrir.\nMantén pulsado el botón \uE078\npara apagar la consola.
-
 #Entries
+gameplay_folder :: Funciones del Juego
+settings_folder :: Configuración del Juego
 spdmeter :: Velocímetro :: Muestra un velocímetro en la pantalla superior, esquina inferior derecha.
 ccsel :: Selector De CC :: Modifica los cc a un valor determinado (tiene que ser activado antes de empezar una carrera).
 itemled :: Avisar Objetos Con LED :: El LED de notificación se ilumina azul cuando se usa un caparazón con pinchos o amarillo cuando se usa un rayo.
 backcam :: Retrovisor :: Pulsa \uE002 para ver que hay detrás, como en otros Mario Kart! (Nota: El botón \uE002 dejará de usar objetos.)
+charman :: Gestor de Personajes :: Elige entre personajes editados o originales.
+trackorder :: Orden de Circuitos :: Elige como aparecen ordenados los circuitos en linea.
 
 #Speedometer text
 spd_set :: Opciones de Velocímetro.
@@ -155,18 +158,29 @@ all_tr_d :: Todos los circuitos desactivados
 endis_all :: Activar Todos :: Desactivar Todos
 
 #Community Code Generator
-commugen :: Generar Código Para Comunidad :: Genera un código basado en las opciones activadas. Al poner el código en la descripción de una comunidad hará que esas opciones se activen para todo el mundo.
+commugen :: Generar Código de Comunidad :: Genera un código basado en las opciones activadas. Al poner el código en la descripción de una comunidad hará que esas opciones se activen para todo el mundo.
 def_spd :: Velocidad por defecto.
 code :: Código
 
 #Change Round Number
-chgrnd :: Cambiar Número De Rondas :: Cambia el número de rondas en los modos VS y batalla.
+chgrnd :: Cambiar Número de Rondas :: Cambia el número de rondas en los modos VS y batalla.
 chgrnd_desc :: Selecciona el número de rondas\nde los modos VS y batalla.\nNOTA: No funciona en modo descarga.\nEn multijugador local, todos tienen\nque tener las mismas rondas. :: El número tiene que ser entre 1 y 32.
 rounds :: Rondas
 rnd_sel :: Selecciona el número de rondas.
 
 #Enhanced Local Map
 enhmap :: Mapa Local Mejorado :: Añade la posibilidad de hacer zoom en el mapa local usando la \uE058 pantalla táctil.
+
+#Custom character manager text
+char_select :: Elige un personaje para configurar.\n(Se requiere un reinicio para aplicar cambios.)
+char_replace :: Selecciona un personaje para:\n
+green_info :: Verde -> Opción activa.
+
+#Online track order
+order_mode :: Por defecto :: Alfabético
+
+#Online update check
+update_check :: Buscando actualizaciones... :: La última versión de CTGP-7\nes necesaria para jugar en línea.
 
 #CTWW
 cntdwn :: Cuenta Atrás

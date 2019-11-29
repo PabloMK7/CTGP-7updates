@@ -1,174 +1,187 @@
 #
 ##No need to translate lines starting with #, those are comments
 # Symbols:
-#	SNES -> uE031uE032
-#	GBA -> uE024uE025
-#	GCN -> uE026uE027
-#	DS -> uE033
-#	Wii -> uE067
-#	A button -> uE000
-#	X button -> uE002
-#	Touch button -> uE058
-#	HOME button -> uE073
-#	POWER button -> uE078
-#	Line Break -> n
+#	SNES -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
 # Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
 # Make sure you test the language file ingame to check if the line breaks are working properly.
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
 ##Ingame text -----------------------------------------------
 
-#Character menu
-$1001 :: Mr. L
-$1003 :: Red Yoshi
-$1005 :: Sonic
-$1013 :: Waluigi
-$1014 :: Gold Mario
-
-#Character race
-$1051 :: Mr. L
-$1053 :: Yoshi R.
-$1055 :: Sonic
-$1063 :: Waluigi
-$1064 :: Mario Oro
-
-#Kart Body Parts
-$1107 :: Freccia d'Argento
-$1109 :: Mantide d'Oro
-$1110 :: Arcade
-$1111 :: Bandicoot Team
-
-#Kart Wheel Parts
-$1202 :: \uE033 Maxi
-$1206 :: Maxi Blu
-
-#Kart Glider Parts
-$1304 :: Swooper Fuoco
-
 #Cups
 $700010 :: Trofeo Campanella
 $710042 :: Città Concordia
-$710043 :: \uE031\uE032 Circuito di Mario 1
+$710059 :: \uE022\uE023 Pista di Mario
 $710044 :: Cascate di Galvarny
-# I chose the DS one over the SC one
 $710045 :: \uE024\uE025 Giardino Nuvola
 
 $700011 :: Trofeo Ghianda
-$710046 :: Foresta Autunnale
-$710047 :: \uE024\uE025 Terra del Formaggio
-$710048 :: \uE022\uE023 Deserto Kalimari Ghiacciato
+$710046 :: Foresta d'autunno
+$710068 :: \uE024\uE025 Parco Lungofiume
+$710043 :: \uE031\uE032 Circuito di Mario 1
 $710049 :: \uE024\uE025 Castello di Bowser 3
 
 $700012 :: Trofeo Nuvola
-$710050 :: Attr. Sempreverde
-$710051 :: \uE026\uE027 Spiaggia di Peach
-$710052 :: Boulevard alla baia
+$710050 :: Incrocio Sempreverde
+$710054 :: \uE022\uE023 Fattoria Muu Muu
+$710052 :: Via Lungomare
 $710053 :: \uE022\uE023 Circuito Innevato
 
 $700013 :: Trofeo Boo
-$710054 :: \uE022\uE023 Fattoria Moo Moo
 $710055 :: Pontile Stregato 2
-$710056 :: \uE026\uE027 Colosseo di Wario
+$710062 :: Caverna Elementale
 $710057 :: \uE031\uE032 Valle Fantasma 2
+$710065 :: \uE033 Spiaggia Smack
 
 $700014 :: Trofeo Molla
-$710058 :: Santuario Melodico
-$710059 :: \uE022\uE023 Pista di Mario
-$710060 :: Tubirinto Piranha
-$710061 :: \uE067 Miniera d'Oro di Wario
+$710067 :: \uE033 Pista Tictac
+$710058 :: Santuario Melodia
+$710066 :: \uE033 Deserto Picchiasol
+$710069 :: Castello del Tempo
 
-$700015 :: Trofeo Uovo
-$710062 :: Caverna degli Elementi
+$700015 :: Trofeo Wovo
 $710063 :: \uE033 Cascate di Yoshi
-$710064 :: Città del Diluvio
-$710065 :: \uE033 Spiaggia Cheep Cheep
+$710047 :: \uE022\uE023 Cioccocanyon
+$710048 :: \uE033 Colli Fungo
+$710051 :: CTR Crash Cove
 
 $700016 :: Trofeo Pallottolo Bill
-$710066 :: \uE033 Deserto Picchiasol
-$710067 :: \uE033 Pista Tictac
-$710068 :: \uE024\uE025 Parco Lungofiume
-$710069 :: Castello del Tempo
+$710056 :: CTR Cortex Castle
+$710060 :: \uE033 Circuito Dokan
+$710061 :: \uE031\uE032 Cioccoisola 2
+$710064 :: Pendio Stellare
+
+$700018 :: Trofeo Calamako
+$710074 :: Parco Castello di Sabbia
+$710075 :: \uE033 Circuito di Mario
+$710076 :: \uE026\uE027 Circuito do Luigi
+$710077 :: Rovine di Spiaggia Vulcano
+
+$700019 :: Trofeo Piuma
+$710078 :: \uE026\uE027 Circuito di Yoshi
+$710079 :: \uE024\uE025 Circuito di Peach
+$710080 :: Folle Città
+$710081 :: \uE024\uE025 Circuito di Luigi
+
+$700020 :: Trofeo Palla di Fuoco
+$710082 :: SMO Sfida Minicar
+$710083 :: \uE024\uE025 Castello di Bowser 4
+$710084 :: \uE031\uE032 Pianura Ciambella 1
+$710085 :: Scivolo Segreto
+
+$700021 :: Trofeo Bob-omba
+$710086 :: \uE033 Stadio di Wario
+$710087 :: Circuito di Ermii
+$710088 :: \uE026\uE027 Baby Park
+$710089 :: Circuito di Revo
+
+$700022 :: Trofeo Doppia Ciliegia
+$710090 :: \uE031\uE032 Circuito di Mario 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Spiaggia Tipo Timido
+$710093 :: Bingo Party
+
+$700023 :: Trofeo Moneta
+$710094 :: Deserto di Doge
+$710095 :: \uE022\uE023 Pontile Stregato
+$710096 :: \uE026\uE027 Circuito di Mario
+$710073 :: Speciale di Compleanno di Miku
 
 $700017 :: Trofeo Arcobaleno
 $710070 :: \uE022\uE023 Pista Arcobaleno
-$710071 :: Pista Arcobaleno
-$710072 :: Pista Spaziale
-$710073 :: Spett. Compleanno di Miku
+$710071 :: \uE024\uE025 Pista Arcobaleno
+$710072 :: Strada Spaziale
+$710097 :: Pista Arcobaleno DX
 
 #Create new save data text
-%7005 :: I dati di salvataggio\nextra di CTGP-7\nsaranno creati\nnella scheda SD.
-%7003 :: Creazione dati di\nsalvataggio extra...
-%7004 :: I dati di salvataggio\nextra sono stati creati.
+%7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
+%7003 :: Creazione dei dati di salvataggio...
+%7004 :: I Dati di salvataggio\nsono stati creati.
 
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
 welc_t :: Benvenuto a CTGP-7
-welc_1 :: Ciao!\nDal menu interno al gioco, potrai\nusare delle funzioni interessanti.\n\nPer aprire il menu,nusa il pulsante (SELECT).
-welc_2 :: Per usare le funzioni, posiziona\nil cursore su una voce enpremi A per attivarla/configurarla.
-welc_3 :: Per sapere ciò che attiva ogni voce,\nposizionaci il cursore sopra\ne tocca la "i" (info) blu\nnello schermo inferiore.
-welc_4 :: Ricorda però che funzioni\ncome il "Selettore CC" saranno\ndisabilitate giocando online.
-welc_5 :: Speriamo che la mod ti piaccia! ^&#969;^
+welc_1 :: Ciao!\nDal menu di gioco, potrai usare\ndelle funzioni speciali.\nPer aprire il menu di gioco,\npremi (SELECT).
+welc_2 :: Per user unable fanzine, muovi\nil cursore sulla funzione e\npremi A per abilitarlo o configurarlo.
+welc_3 :: Se non sei sicuro dell'utilità,\ndi uno funzione, muovi il cursore\nsulla funzione e premi il pulsante (i)\nblu sul touch screen.
+welc_4 :: Ricorda che alcune funzioni,\ncome il "Selettore classe CC", saranno\ndisabilitate durante il gioco online.
+welc_5 :: Speriamo ti piaccia!\n^w^
 
 #General text
-warning :: AVVERTENZA
+warning :: AVVISO
 error :: ERRORE
 state :: Stato
 state_mode :: Abilitato :: Disabilitato
-state_inf :: Abilita :: Disabilita
+state_inf :: Ailita :: Disabilita
 settings :: Impostazioni
 exit :: Esci
 
-
-#Error when an incorrect version is installed
-err_ver :: Questa versione di Mario Kart 7\nnon è supportata! Assicurati\nche la patch 1.1 sia installata.\n(Download dall'eShop)\nTrovata: v%d
-
-#Error when the user has a card and a cia at the same time
-err_both :: Se NON stai usando\nil gioco dalla schedina\ninserita, rimuovila mentre\ngiochi la mod\nsu una copia digitale.\n(Un riavvio è raccomandato.)
-
-#Message shown when the user presses the home button
-err_home :: Menu uE073 :: Non è possibile aprire il Menu \uE073.\nTieni premuto il pulsante \uE078\nper spegnere la console.
-
 #Entries
-spdmeter :: Tachimetro :: Mostra un indicatore di velocità in basso a destra.
-ccsel :: Selettore CC :: Imposta i CC ad un certo valore (deve essere abilitato prima della gara).
-itemled :: Avverti con il LED :: Il LED di notifica lampeggia di Blu quando è stato usato un Guscio Spin., mentre di Giallo se è stato usato un fulmine.
-backcam :: Retrovisuale :: Premi uE002 per vedere dietro di te, proprio come gli altri Mario Kart! (Nota: Il pulsante \uE002 non potrà più essere usato per gli oggetti.)
+gameplay_folder :: Funzioni di Gameplay
+settings_folder :: Opzioni di Gioco
+spdmeter :: Accelerometro :: mostra un accelerometro al lato dello schermo.
+ccsel :: Selettore classe CC :: Imposta il valore della classe CC ad un numero arbitrario (imposta prima dell'inizio di una gara per abilitare).
+itemled :: Avviso LED per oggetti :: Il LED della console lampeggerà di blu se un Guscio Blu è usato, e giallo se un Fulmine è usato.
+backcam :: Retrovisore :: Premi \uE002 per vedette dieter di te, esattamente come gli altri giochi della serie! (Nota: Il pulsante \uE002 non potrà più essere usato per attivare gli oggetti.)
+charman :: Gestore Personaggi :: Gestisci i personaggi custom e quelli originali.
+trackorder :: Ordine Delle piste online :: Gestisci l'ordine in cui le piste appariranno nel gioco online.
 
 #Speedometer text
-spd_set :: Impostazioni tachimetro.
+spd_set :: Accelerometro.
 spd_unit :: Unità
 spd_type :: Tipo
-spd_sunit :: Seleziona unità.
-spd_stype :: Seleziona tipo.
+spd_sunit :: Seleziona l'unità di misura.
+spd_stype :: Seleziona il tipo di accelerometro.
 spd_types :: Numerico :: Grafico
 
 #CC Selector text
-cc_set :: Impos. selett. CC.
+cc_set :: Opzioni Selettore classe CC.
 cc_val :: Valore
-cc_rang :: Il valore deve essere tra 1 e 9999
-cc_entv :: Inserisci valore CC.
+cc_rang :: Deve essere compreso tra 1 e 9999
+cc_entv :: Inserisci il nuovo valore.
 cc_chgv :: Cambia valore
 
 #Course Manager
-comanager :: Gestore Piste :: Abilita o disabilita le custom track.
-all_tr_e :: Tutte le custom track attivate
-all_tr_d :: Tutte le custom track disabilitate
+comanager :: Abilita o disabilita le piste custom.
+all_tr_e :: Tutte le piste sono attive
+all_tr_d :: Tutte le piste sono disattive
 endis_all :: Abilita tutte :: Disabilita tutte
 
 #Community Code Generator
-commugen :: Generatore Codice Community :: Genera un codice basandosi sulle impostazioni. Inserendo il codice nella descrizione abiliterà le impostazioni per tutti in quella community.
-def_spd :: Velocità normale
+commugen :: Generatore Codice Community :: Genera un codice dipendente dalle impostazioni. Impostando un codice in una community, tutti i giocatori useranno le stesse impostazioni.
+def_spd :: Velocità di default
 code :: Codice
 
 #Change Round Number
-chgrnd :: Numero di round :: Cambia il numero di round nelle modalità Corsa Sfida e Battaglia.
-chgrnd_desc :: Seleziona il numero di round che verranno\ngiocati nelle modalità Corsa Sfida e Battaglia.\nNOTA: Non funziona in Modalità Download.\nIn multiplayer locale, tutti devono\navere le stesse impostazioni. :: Il numero deve essere compreso tra 1 e 32.
+chgrnd :: Cambia numero round :: Cambia il numero di round nelle modalità Sfida e Battaglia.
+chgrnd_desc :: Seleziona il numero di round da\ngiocare nelle modalità Sfida e Battaglia.\nNOTA: non funziona nella modalità Download.\nIn multigiocatore locale, tutti devono\nusare le stesse impostazioni. :: Il numero di round deve essere compreso tra 1 e 32.
 rounds :: Round
-rnd_sel :: Selecziona il numero di round.
+rnd_sel :: Seleeziona il numero di round.
 
 #Enhanced Local Map
-enhmap :: Mappa locale migliorata :: Aggiunge la funzionalità di zoom alla mappa dello schermo inferiore usando il \uE058 touch screen.
+enhmap :: Mappa Migliorata :: Aggiunge la funzionalità di zoom alla mappa usando il \uE058 touch screen.
+
+#Custom character manager text
+char_select :: Seleziona un personaggio da configurare.\n(Riavvia il gioco per applicare i cambiamenti.)
+char_replace :: Seleziona un personaggio custom per:\n
+green_info :: Verde -> Personaggio abilitato.
+
+#Online track order
+order_mode :: Di default :: Alfabetico
+
+#Online update check
+update_check :: Controllo aggiornamenti... :: L'ultima versione di CTGP-7\nè richiesta per giocare online.
 
 #CTWW
 cntdwn :: Conto alla rovescia
-CTWWtog :: Vuoi attivare le\nPiste Personalizzate online? :: Vuoi disattivare le\nPiste Personalizzate online?
+CTWWtog :: Vuoi abilitare le piste\ncustom mondiali? :: Vuoi disabilitare le piste\ncustom mondiali?

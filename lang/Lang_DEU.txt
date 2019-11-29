@@ -17,158 +17,171 @@
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
 ##Ingame text -----------------------------------------------
 
-#Character menu
-$1001 :: Mr. L
-$1003 :: Roter Yoshi
-$1005 :: Sonic
-$1013 :: Waluigi
-$1014 :: Gold Mario
-
-#Character race
-$1051 :: Mr.L
-$1053 :: R. Yoshi
-$1055 :: Sonic
-$1063 :: Waluigi
-$1064 :: G. Mario
-
-#Kart Body Parts
-$1107 :: Silbener Pfeil
-$1109 :: Schaufelbagger
-$1110 :: Arkarde
-$1111 :: Beuteldachs
-
-#Kart Wheel Parts
-$1202 :: \uE033 Monster
-$1206 :: Blaue Monster
-
-#Kart Glider Parts
-$1304 :: Feuer-Flappflapp
-
 #Cups
 $700010 :: Glocken-Cup
-$710042 :: Concord Stadt
-$710043 :: \uE031\uE032 Marios Piste 1
-$710044 :: Galvarnyfälle
+$710042 :: Harmoniestadt 
+$710059 :: \uE022\uE023 Marios Piste
+$710044 :: Galvarnyfälle 
 $710045 :: \uE024\uE025 Wolkenpiste
 
-$700011 :: Super-Eichel-Cup
+$700011 :: Supereichel-Cup
 $710046 :: Herbstwald
-$710047 :: \uE024\uE025 Käseland
-$710048 :: \uE022\uE023 Eisige Kalimari Wüste
+$710068 :: \uE024\uE025 Flussufer Park
+$710043 :: \uE031\uE032 Marios Piste 1
 $710049 :: \uE024\uE025 Bowsers Festung 3
 
 $700012 :: Wolken-Cup
 $710050 :: Immergrüner Wald
-$710051 :: \uE026\uE027 Peach Beach
-$710052 :: Buchtufer-Boulevard
+$710054 :: \uE022\uE023 Kuhmuh-Farm
+$710052 :: Bayside-Promenade
 $710053 :: \uE022\uE023 Polar-Parcours
 
 $700013 :: Buu-Huu-Cup
-$710054 :: \uE022\uE023 Kuhmuh-Farm
 $710055 :: Spukpfad 2
-$710056 :: \uE026\uE027 Wario-Kolosseum
+$710062 :: Elementare Höhle
 $710057 :: \uE031\uE032 Geistertal 2
-
-$700014 :: Feder-Pilz-Cup
-$710058 :: Melodien Heiligtum
-$710059 :: \uE022\uE023 Marios Rennpiste
-$710060   :: Röhrenraserei
-$710061 :: \uE067 Warios Goldmine
-
-$700015 :: Eier-Cup
-$710062 :: Elementhöhle
-$710063 :: \uE033 Yoshi-Kaskaden
-$710064 :: Platzregen Stadt
 $710065 :: \uE033 Cheep-Cheep-Strand
 
-$700016 :: Kugelwilli-Cup
-$710066 :: \uE033 Glühheiße Wüste
+$700014 :: Feder-Pilz-Cup
 $710067 :: \uE033 Ticktack-Trauma
-$710068 :: \uE024\uE025 Flussufer Park
+$710058 :: Melodien Heiligtum
+$710066 :: \uE033 Glühheiße Wüste
 $710069 :: Schloss der Zeit
+
+$700015 :: Ei-Cup
+$710063 :: \uE033 Yoshi-Kaskaden
+$710047 :: \uE022\uE023 Schoko-Sumpf
+$710048 :: \uE033 Pilz-Pass
+$710051 :: CTR Crash Bucht
+
+$700016 :: Kugelwilli-Cup
+$710056 :: CTR Burg Cortex
+$710060 :: \uE033 Dokan-Kurs
+$710061 :: \uE031\uE032 Schoko-Insel 2
+$710064 :: Sternenhang
+
+$700018 :: Blooper-Cup
+$710074 :: Sandburg Park
+$710075 :: \uE033 Marios Piste 1
+$710076 :: \uE026\uE027 Luigis Piste
+$710077 :: Vulkan Strand Ruinen
+
+$700019 :: Feder-Cup
+$710078 :: \uE026\uE027 Yoshis Piste
+$710079 :: \uE024\uE025 Peachs Piste
+$710080 :: Metro Wahnsinn 
+$710081 :: \uE024\uE025 Luigis Piste
+
+$700020 :: Feuerball-Cup
+$710082 :: SMO RC Herausforderung
+$710083 :: \uE024\uE025 Bowsers Festung 4
+$710084 :: \uE031\uE032 Donut-Ebene 1 
+$710085 :: Geheime Rutschbahn
+
+$700021 :: Bob-omb-Cup
+$710086 :: \uE033 Wario Stadium
+$710087 :: Ermiis Piste 
+$710088 :: \uE026\uE027 Baby-Park
+$710089 :: Revos Piste
+
+$700022 :: Doppelkirschen-Cup
+$710090 :: \uE031\uE032 Marios Piste 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Shy Guy-Strand
+$710093 :: Bingo Party
+
+$700023 :: Münz-Cup
+$710094 :: Dogen Wüste
+$710095 :: \uE022\uE023 Spukpfad
+$710096 :: \uE026\uE027 Marios Piste
+$710073 :: Mikus Geburtstagsspecial
 
 $700017 :: Regenbogen-Cup
 $710070 :: \uE022\uE023 Regenbogen-Boulevard
-$710071 :: Regenbogen-Boulevard
+$710071 :: \uE024\uE025 Regenbogen-Boulevard
 $710072 :: Weltraumstraße
-$710073 :: Mikus Geburtstagsschausp.
+$710097 :: Regenbogen-Boulevard Deluxe
 
 #Create new save data text
-%7005 :: Zusatzdaten für CTGP-7\nwerden auf der\nSD-Karte erstellt.
-%7003 :: Erstelle Zusatzdaten...
-%7004 :: Zusatzdaten wurden erstellt.
+%7005 :: Extra Spielstände für CTGP-7 \nwerden auf der SD-Karte erstellt.
+%7003 :: Erstelle extra Spielstände...
+%7004 :: Extra Spielstände \nwurden erstellt.
 
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
-welc_t :: Willkommen bei CTGP-7
-welc_1 :: Grüß dich!\nVon dem Ingame-Menü aus, wirst\ndu in der Lage sein, ein paar\ninteressante Funktionen zu benutzen.\n\nUm das Ingame-Menü zu öffnen,\nbenutze den (SELECT) Knopf.
+welc_t :: Wilkommen bei CTGP-7
+welc_1 :: Hallo!\nVom Ingame-Menü aus\nkannst du verschiedene\ninteressante Funktionen nutzen.\nZum Öffnen des Menüs,\nbenutze den (SELECT) Knopf.
 welc_2 :: Um die Funktionen zu verwenden,\nplatziere den Zeiger über einen\nEintrag und drücke A , um es zu\naktivieren oder zu konfigurieren.
-welc_3 :: Um zu erfahren, was der Eintrag macht,\nplatziere den Zeiger über den Eintrag\nund berühre den blauen "i" (Info)\nKnopf im unteren Bildschirm.
-welc_4 :: Beachte aber, dass manche Funktionen,\nwie z.B. der "CC Wähler" deaktiviert\nwerden, während du Online spielst.
-welc_5 :: Wir hoffen, dir gefällt der Mod! ^ω^
+welc_3 :: Um mehr Infos zu bekommen,\nplatziere den Cursor auf der Funktion \nund berühre den blauen "i" (Info)\nKnopf auf dem Touchscreen.
+welc_4 :: Beachte aber, dass manche Funktionen \nwie die "CCM Einstellung" nicht \nim Online Modus funktionieren.
+welc_5 :: Wir hoffen dir gefällt die Mod!\n^w^
 
 #General text
 warning :: WARNUNG
 error :: FEHLER
 state :: Status
 state_mode :: Aktiviert :: Deaktiviert
-state_inf :: Aktivieren :: Deaktivieren
+state_inf :: Aktiviert :: Deaktiviert
 settings :: Einstellungen
 exit :: Zurück
 
-
-#Error when an incorrect version is installed
-err_ver :: Diese Mario Kart 7 Version\nwird nicht unterstützt! Stelle\nsicher, dass das 1.1 Update\n installiert ist.\n(Download vom eShop)\nEntdeckt: v%d
-
-#Error when the user has a card and a cia at the same time
-err_both :: Wenn du das Spiel NICHT mit\nder gerade eingesteckten Cartridge\ngestartest hast, dann lasse sie draußen,\nwährend du den Mod von\neiner digitalen Kopie aus spielst.\n(Ein Neustart wird empfohlen.)
-
-#Message shown when the user presses the home button
-err_home :: \uE073 Menü :: Das \uE073 kann nicht geöffnet werden.\nHalte den \uE078 Knopf gedrückt,\num die Konsole auszuschalten.
-
 #Entries
-spdmeter :: Tachometer :: Zeigt ein Tachometer auf dem oberen Bildschirm in der rechten unteren Ecke.
-ccsel :: CC Wähler :: Stellt den momentanen CC-Wert zu einem bestimmten Wert ein (muss aktiviert werden, bevor das Rennen geladen wird).
-itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer verwendet wird und gelb, wenn ein Blitz verwendet wird.
-backcam :: Rückspiegel :: Drücke \uE002 ,um zu sehen, was hinter dir ist, so wie in anderen Mario Kart Spielen! (Anmerkung: Der \uE002 Knopf wird keine Items mehr aktivieren.)
+gameplay_folder :: Gameplay Funktionen
+settings_folder :: Spiele Einstellungen
+spdmeter :: Tachometer :: Zeigt ein Tachometer in der rechten unteren Ecke des oberen Bildschirms.
+ccsel :: CCM Einstellungen :: Stellt den aktuelen Hubraum zu einem bestimmt Wert. (Muss geändert werden, bevor ein Rennen beginnt).
+itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer benutzt wird und gelb, wenn ein Blitz benutzt wird.
+backcam :: Rückspiegel :: Drücke \uE002, um zu sehen was hinter dir ist, wie in anderen Mario Kart-Ableger! (Bedenke: Der \uE002 Knopf wird keine Items mehr aktivieren.)
+charman :: Custom Fahrer Einstellungen :: Wechsle zwischen originalen und neuen Fahrern.
+trackorder :: Online Strecken Ordner :: Wähle aus, wie die Strecken im Online Modus geordnet sein sollen.
 
 #Speedometer text
 spd_set :: Tachometer Einstellungen.
 spd_unit :: Einheit
 spd_type :: Typ
-spd_sunit :: Wähle die Tachometer Einheit.
-spd_stype :: Wähle den Tachometer Typ.
-spd_types :: numerisch :: grafisch
+spd_sunit :: Wähle die Einheit.
+spd_stype :: Wähle den Typ.
+spd_types :: Numerisch :: Graphisch
 
 #CC Selector text
-cc_set :: CC Wähler Einstellungen.
+cc_set :: CCM Einstellungen.
 cc_val :: Wert
 cc_rang :: Der Wert muss zwischen 1 - 9999 sein.
-cc_entv :: Gib einen neuen CC Wert ein.
-cc_chgv :: Wert ändern
-
+cc_entv :: Neuer CCM Werte.
+cc_chgv :: Ändere den Wert.
 
 #Course Manager
-comanager :: Aktiviere oder deaktiviere Custom Strecken.
-all_tr_e :: Alle Strecken aktiviert
-all_tr_d :: Alle Strecken deaktiviert
-endis_all :: Aktiviere alle :: Deaktiviere alle
+comanager :: Aktiviere oder deaktiviere "Custom Tracks".
+all_tr_e :: Alle Strecken aktivieren
+all_tr_d :: Alle Strecken deaktivieren
+endis_all :: Alle aktivieren :: Alle deaktivieren 
 
 #Community Code Generator
-commugen :: Community-Code-Generator :: Generiert einen Code, basierend auf die momentanen Benutzereinstellungen . Wenn Sie den Code in eine Community-Beschreibung einfügen, werden die Einstellungen für alle in dieser Community aktiviert.
-def_spd :: Standart Geschwindigkeit
+commugen :: Community Code Generator :: Generiert einen Code, basierend zu den aktuellen Einstellungen. Das einfügen in eine Community-Beschreibung aktiviert die Einstellungen für jeden Spieler.
+def_spd :: Normale Geschwindigkeit
 code :: Code
 
- #Change Round Number
-chgrnd :: Rundenanzahl ändern :: Ändert die Anzahl der Runden in VS und Schlacht Modi.
-chgrnd_desc :: Wähle die Anzahl der Runden,\ndie in VS oder Schlacht Modi\n gespielt werden sollen.\nHINWEIS: Funktioniert nicht im Download-Spiel.\nIm lokalem Mehrspieler muss jeder\ndie gleichen Einstellungen haben. :: Anzahl muss zwischen 1 und 32 sein.
+#Change Round Number
+chgrnd :: Ändere die Rundenanzahl :: Ändert die Rundenzahl im VS und im Wettkampf-Modus.
+chgrnd_desc :: Wähle die Anzahl an Runden,\ndie gespielt werden soll.\nHINWEIS: Funktioniert nicht beim Download-Spiel.\nIm lokalen Multiplayer muss \njeder die selben Einstellungen haben. :: Nummer muss zwischen 1 und 32 sein.
 rounds :: Runden
 rnd_sel :: Wähle die Anzahl der Runden.
 
 #Enhanced Local Map
-enhmap :: Verbesserte Karte :: Fügt der Karte des unteren Bildschirms eine Zoomfunktion hinzu, indem der \uE058 Touchscreen verwendet wird.
+enhmap :: Verbesserte Karte :: Fügt eine Zoomfunktion der Karte hinzu. Sie kann über den \uE058 Touchscreen verwendet werden.
+
+#Custom character manager text
+char_select :: Wähle einen Fahrer um ihn zu ändern.\n(Neustart benötigt, um Änderungen zu speichern.)
+char_replace :: Wähle einen neuen Fahrer für:\n
+green_info :: Grün -> Momentan aktiviert.
+
+#Online track order
+order_mode :: Normal :: Alphabetisch
+
+#Online update check
+update_check :: Suche nach Updates... :: Die neueste Version von CTGP-7\nwird benötigt, um Online zu spielen.
 
 #CTWW
 cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?
+CTWWtog :: Willst du \nCustom Tracks Worldwide aktivieren? :: Willst du \nCustom Tracks Worldwide deaktivieren?
