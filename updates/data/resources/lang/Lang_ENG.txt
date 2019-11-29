@@ -17,81 +17,90 @@
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
 ##Ingame text -----------------------------------------------
 
-#Character menu
-$1001 :: Mr. L
-$1003 :: Red Yoshi
-$1005 :: Sonic
-$1013 :: Waluigi
-$1014 :: Gold Mario
-
-#Character race
-$1051 :: Mr.L
-$1053 :: R. Yoshi
-$1055 :: Sonic
-$1063 :: Waluigi
-$1064 :: G. Mario
-
-#Kart Body Parts
-$1107 :: Silver Arrow
-$1109 :: Gold Mantis
-$1110 :: Arcade
-$1111 :: Bandicoot Team
-
-#Kart Wheel Parts
-$1202 :: \uE033 Monster
-$1206 :: Blue Monster
-
-#Kart Glider Parts
-$1304 :: Fire Swoop
-
 #Cups
 $700010 :: Bell Cup
 $710042 :: Concord Town
-$710043 :: \uE031\uE032 Mario Circuit 1
+$710059 :: \uE022\uE023 Mario Raceway
 $710044 :: Galvarny Falls
 $710045 :: \uE024\uE025 Sky Garden
 
 $700011 :: Acorn Cup
 $710046 :: Autumn Forest
-$710047 :: \uE024\uE025 Cheese Land
-$710048 :: \uE022\uE023 Kalimary Icy Desert
+$710068 :: \uE024\uE025 Riverside Park
+$710043 :: \uE031\uE032 Mario Circuit 1
 $710049 :: \uE024\uE025 Bowser Castle 3
 
 $700012 :: Cloud Cup
 $710050 :: Evergreen Crossing
-$710051 :: \uE026\uE027 Peach Beach
+$710054 :: \uE022\uE023 Moo Moo Farm
 $710052 :: Bayside Boulevard
 $710053 :: \uE022\uE023 Frappe Snowland
 
 $700013 :: Boo Cup
-$710054 :: \uE022\uE023 Moo Moo Farm
 $710055 :: Banshee Boardwalk 2
-$710056 :: \uE026\uE027 Wario Colosseum
-$710057 :: \uE031\uE032 Ghost Valley 2
-
-$700014 :: Spring Cup
-$710058 :: Melody Sanctum
-$710059 :: \uE022\uE023 Mario Raceway
-$710060   :: Piranha Plant Pipeway
-$710061 :: \uE067 Wario's Gold Mine
-
-$700015 :: Egg Cup
 $710062 :: Elemental Cave
-$710063 :: \uE033 Yoshi Falls
-$710064 :: Downpour City
+$710057 :: \uE031\uE032 Ghost Valley 2
 $710065 :: \uE033 Cheep Cheep Beach
 
-$700016 :: Bullet Cup
-$710066 :: \uE033 Desert Hills
+$700014 :: Spring Cup
 $710067 :: \uE033 Tick Tock Clock
-$710068 :: \uE024\uE025 Riverside Park
+$710058 :: Melody Sanctum
+$710066 :: \uE033 Desert Hills
 $710069 :: Castle Of Time
+
+$700015 :: Egg Cup
+$710063 :: \uE033 Yoshi Falls
+$710047 :: \uE022\uE023 Choco Mountain
+$710048 :: \uE033 Shroom Ridge
+$710051 :: CTR Crash Cove
+
+$700016 :: Bullet Cup
+$710056 :: CTR Cortex Castle
+$710060 :: \uE033 Dokan Course
+$710061 :: \uE031\uE032 Choco Island 2
+$710064 :: Star Slope
+
+$700018 :: Blooper Cup
+$710074 :: Sandcastle Park
+$710075 :: \uE033 Mario Circuit
+$710076 :: \uE026\uE027 Luigi Circuit
+$710077 :: Volcano Beach Ruins
+
+$700019 :: Feather Cup
+$710078 :: \uE026\uE027 Yoshi Circuit
+$710079 :: \uE024\uE025 Peach Circuit
+$710080 :: Metro Madness
+$710081 :: \uE024\uE025 Luigi Circuit
+
+$700020 :: Fireball Cup
+$710082 :: SMO RC Challenge
+$710083 :: \uE024\uE025 Bowser Castle 4
+$710084 :: \uE031\uE032 Donut Plains 1
+$710085 :: Secret Slide
+
+$700021 :: Bob-omb Cup
+$710086 :: \uE033 Wario Stadium
+$710087 :: Ermii Circuit
+$710088 :: \uE026\uE027 Baby Park
+$710089 :: Revo Circuit
+
+$700022 :: Cherry Cup
+$710090 :: \uE031\uE032 Mario Circuit 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Shy Guy Beach
+$710093 :: Bingo Party
+
+$700023 :: Coin Cup
+$710094 :: Doge Desert
+$710095 :: \uE022\uE023 Banshee Boardwalk
+$710096 :: \uE026\uE027 Mario Circuit
+$710073 :: Miku's Birthday Spec.
 
 $700017 :: Rainbow Cup
 $710070 :: \uE022\uE023 Rainbow Road
-$710071 :: Rainbow Road
+$710071 :: \uE024\uE025 Rainbow Road
 $710072 :: Space Road
-$710073 :: Miku's Birthday Spec.
+$710097 :: Rainbow Road DX
 
 #Create new save data text
 %7005 :: Extra save data for CTGP-7\nwill be created in the SD card.
@@ -102,11 +111,11 @@ $710073 :: Miku's Birthday Spec.
 
 #First opening welcome message
 welc_t :: Welcome to CTGP-7
-welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some interesting features.\n\nTo open the ingame menu,\nuse the (SELECT) button.
-welc_2 :: To use any feature, place the\ncursor over an entry and\npress \uE000 to enable/configure it.
-welc_3 :: To know what an entry does, place\nthe cursor over the entry\nand touch \uE058 the blue "i" (info)\nbutton in the bottom screen.
+welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some interesting features.\nTo open the ingame menu,\nuse the (SELECT) button.
+welc_2 :: To use any feature, place the\ncursor over an entry and\npress A to enable/configure it.
+welc_3 :: To know what an entry does,\nplace the cursor over the entry\nand touch the blue "i" (info)\nbutton in the bottom screen.
 welc_4 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.
-welc_5 :: We hope you enjoy the mod! ^ω^
+welc_5 :: We hope you enjoy the mod!\n^w^
 
 #General text
 warning :: WARNING
@@ -117,21 +126,15 @@ state_inf :: Enable :: Disable
 settings :: Settings
 exit :: Exit
 
-
-#Error when an incorrect version is installed
-err_ver :: This Mario Kart 7 version\nisn't supported! Make sure\nthe 1.1 patch is installed.\n(Download from eShop)\nDetected: v%d
-
-#Error when the user has a card and a cia at the same time
-err_both :: If you are NOT running\nthe game from the current\ninserted cartridge, keep it\nremoved while playing the mod\nfrom a digital copy.\n(A reboot is also recommended.)
-
-#Message shown when the user presses the home button
-err_home :: \uE073 Menu :: The \uE073 Menu cannot be opened.\nHold the \uE078 button\nto shut down the console.
-
 #Entries
+gameplay_folder :: Gameplay Features
+settings_folder :: Game Settings
 spdmeter :: Speedometer :: Shows a speedometer in the top screen bottom right corner.
 ccsel :: CC Selector :: Sets the current CC to a certain value (has to be enabled before loading a race).
 itemled :: Warn Items With LED :: The notification LED blinks Blue when a Blue Shell is used and Yellow when a Lightning is used.
 backcam :: Backwards Camera :: Press \uE002 to see what's behind you, just like other Mario Kart games! (Note: The \uE002 button will no longer use items.)
+charman :: Custom Character Manager :: Switch between original and custom characters.
+trackorder :: Online Track Order :: Choose how the tracks will be ordered in cups online.
 
 #Speedometer text
 spd_set :: Speedometer settings.
@@ -167,3 +170,18 @@ rnd_sel :: Select the number of rounds.
 
 #Enhanced Local Map
 enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.
+
+#Custom character manager text
+char_select :: Select a character to configure.\n(Reboot required to apply changes.)
+char_replace :: Select a custom character for:\n
+green_info :: Green -> Current activated entry.
+
+#Online track order
+order_mode :: Default :: Alphabetical
+
+#Online update check
+update_check :: Checking for updates... :: The latest version of CTGP-7\nis required to play online.
+
+#CTWW
+cntdwn :: Countdown
+CTWWtog :: Would you like to enable\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?

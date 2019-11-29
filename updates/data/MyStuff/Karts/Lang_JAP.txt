@@ -1,0 +1,38 @@
+#
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#       SFC -> \uE020\uE021
+#	SNES -> \uE031\uE032
+#       64 -> \uE035
+#       N64 -> \uE022\uE023
+#	GBA -> \uE024\uE025
+#       GC -> \uE034
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+
+# Characters to add
+# 興味深機置構何下画面
+##Ingame text -----------------------------------------------
+
+#Kart Body Parts
+$1107 :: W 25 シルバーアロー
+$1109 :: ゴールドマンティス
+$1110 :: アーケードスタンダード
+$1111 :: バンディクーチームカート
+
+#Kart Wheel Parts
+$1202 :: \uE033 ワイルドタイヤ
+$1206 :: ワイルドブルー
+
+#Kart Glider Parts
+$1304 :: ファイアバサバサカイト

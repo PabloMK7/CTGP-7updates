@@ -15,164 +15,173 @@
 # Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
 # Make sure you test the language file ingame to check if the line breaks are working properly.
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
-# Translated to Dutch by: @Whippersnatch Pumpkinpatch#7516
-# I shouldn't be taking full credit, yet the state the previous translator left this file in is terrible.
-# The file contained grammatical, and spelling mistakes,
-# And the most worrying of all: It was translated from the German version and certain lines (like cheeseland) did not get translated.
 ##Ingame text -----------------------------------------------
-
-#Character menu
-$1001 :: Mr. L
-$1003 :: Rode Yoshi
-$1005 :: Sonic
-$1013 :: Waluigi
-$1014 :: Gouden Mario
-
-#Character race
-$1051 :: Mr. L.
-$1053 :: R. Yoshi
-$1055 :: Sonic
-$1063 :: Waluigi
-$1064 :: G. Mario
-
-#Kart Body Parts
-$1107 :: Zilveren Pijl
-$1109 :: Graafmachine
-$1110 :: Arcade
-$1111 :: Bandicoot
-
-#Kart Wheel Parts
-$1202 :: \uE033 Monster
-$1206 :: Blauw Monster
-
-#Kart Glider Parts
-$1304 :: Vuur Swooper
 
 #Cups
 $700010 :: Bel Beker
-$710042 :: Handelstad
-$710043 :: \uE031\uE032 Mario Circuit 1
-$710044 :: Galvarny Vallei
+$710042 :: Handel Stad
+$710059 :: \uE022\uE023 Mario's Racebaan
+$710044 :: Galvarny Falls
 $710045 :: \uE024\uE025 Hemeltuin
 
 $700011 :: Eikel Beker
 $710046 :: Herfstbos
-$710047 :: \uE024\uE025 Kaasland
-$710048 :: \uE022\uE023 Kalimary Woestijn
-$710049 :: \uE024\uE025 Bowsers Kasteel 3
+$710068 :: \uE024\uE025 Riverside Park
+$710043 :: \uE031\uE032 Mario's Circuit 1
+$710049 :: \uE024\uE025 Bowser's Kasteel 3
 
 $700012 :: Wolken Beker
 $710050 :: Altijdgroene Oversteek
-$710051 :: \uE026\uE027 Peach Strand
+$710054 :: \uE022\uE023 Boe Boe Boederij
 $710052 :: Bayside Boulevard
 $710053 :: \uE022\uE023 Frappe Sneeuwland
 
 $700013 :: Boo Beker
-$710054 :: \uE022\uE023 Boe Boe Boerenland
-$710055 :: Banshee Planklopen 2
-$710056 :: \uE026\uE027 Wario's Colosseum
+$710055 :: Banshee Boardwalk 2
+$710062 :: Elementale Grot
 $710057 :: \uE031\uE032 Geestenvallei 2
+$710065 :: \uE033 Cheep Cheep-Strand
 
-$700014 :: Veer Beker
-$710058 :: Melodie Hemel
-$710059 :: \uE022\uE023 Mario Racebaan
-$710060   :: Piranha Plant Pijpweg
-$710061 :: \uE067 Wario's Goudmijn
+$700014 :: Springveer Beker
+$710067 :: \uE033 Tik Tok Klok
+$710058 :: Melodie Heiligdom
+$710066 :: \uE033 Woestijnheuvels
+$710069 :: Kasteel van Tijd
 
 $700015 :: Ei Beker
-$710062 :: Elementale Grot
-$710063 :: \uE033 Yoshi's Vallei
-$710064 :: Regenstad
-$710065 :: \uE033 Cheep Cheep Strand
+$710063 :: \uE033 Yoshi Waterval
+$710047 :: \uE022\uE023 Choco Berg
+$710048 :: \uE033 Shroom Ridge
+$710051 :: CTR Crash Cove
 
 $700016 :: Bullet Bill Beker
-$710066 :: \uE033 Woestijnheuvels
-$710067 :: \uE033 Tik Tak Klok
-$710068 :: \uE024\uE025 Rivierkant Park
-$710069 :: Kasteel Van Tijd
+$710056 :: CTR Cortex Kasteel
+$710060 :: \uE033 Dokan Baan
+$710061 :: \uE031\uE032 Choco Eiland 2
+$710064 :: Star Slope
+
+$700018 :: Blooper Beker
+$710074 :: Zandkasteel Park
+$710075 :: \uE033 Mario's Circuit
+$710076 :: \uE026\uE027 Luigi's Circuit
+$710077 :: Volcano Beach Ruins
+
+$700019 :: Veer Beker
+$710078 :: \uE026\uE027 Yoshi's Circuit
+$710079 :: \uE024\uE025 Peach's Circuit
+$710080 :: Metro Gekheid
+$710081 :: \uE024\uE025 Luigi's Circuit
+
+$700020 :: Vuurbal Beker
+$710082 :: SMO RC Uitdaging
+$710083 :: \uE024\uE025 Bowser's Kasteel 4
+$710084 :: \uE031\uE032 Donut Plains 1
+$710085 :: Geheime Glijbaan
+
+$700021 :: Bob-omb Beker
+$710086 :: \uE033 Wario's Stadium
+$710087 :: Ermii Circuit
+$710088 :: \uE026\uE027 Baby Park
+$710089 :: Revo Circuit
+
+$700022 :: Kers Beker
+$710090 :: \uE031\uE032 Mario's Circuit 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Shy Guy Strand
+$710093 :: Bingo Party
+
+$700023 :: Munt Beker
+$710094 :: Doge Woestijn
+$710095 :: \uE022\uE023 Banshee Boardwalk
+$710096 :: \uE026\uE027 Mario's Circuit
+$710073 :: Miku's Verjaardag Spec.
 
 $700017 :: Regenboog Beker
 $710070 :: \uE022\uE023 Regenboogbaan
-$710071 :: Regenboogbaan
+$710071 :: \uE024\uE025 Regenboogbaan
 $710072 :: Ruimteweg
-$710073 :: Miku's Verjaardag
+$710097 :: Regenboogbaan DX
 
 #Create new save data text
-%7005 :: Extra save data voor CTGP-7\nzal worden aangemaakt\nop de SD kaart.
-%7003 :: Extra save data\naan het maken...
-%7004 :: Extra save data\nis aangemaakt.
+%7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt
+%7003 :: Extra save data maken...
+%7004 :: Exta save data\nis gemaakt
 
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
-welc_t :: Welkom bij CTGP-7
-welc_1 :: Hallo daar!\nIn het In-Game-Menu kun je\nenkele interessante functies gebruiken\n\nDruk op de knop (SELECT) om het In-Game-Menu te openen.
-welc_2 :: Om een functie te gebruiken, plaats je de\ncursor boven een optie en\nEn druk je op \uE000 om deze in te schakelen / in te stellen.
-welc_3 :: Om te weten wat een optie doet,\nplaats de cursor op de invoer\nen tik op \uE058 de blauwe "i" (info)\nknop in het onderste scherm.
-welc_4 :: Houd er rekening mee dat sommige functies\nzoals "CC Selector"\nUitgezet kunnen worden tijdens online spelen.
-welc_5 :: We hopen dat je geniet van CTGP-7! ^ ω ^
+welc_t :: Welkom bij CTGP-7!
+welc_1 :: Hallo daar!\nVanaf het in-game menu\nkan je wat interessante functies gebruiken.\nGebruik de (SELECT) knop\nom het in-game menu te openen
+welc_2 :: Om een functie te gebruiken, plaats je de\ncursor over een item\nen druk je op A om het aan te zetten/te configureren.
+welc_3 :: Om te weten wat een item doet,\nplaats je de cursor over een item\nen tik je op de blauwe "i" (info)\nknop in het onderste scherm.
+welc_4 :: Sommige functies zoals\n"CC Selector" zullen uitgeschakeld\nzijn tijdens een online spel.
+welc_5 :: We hopen dat je de mod leuk vind!\n^w^
 
 #General text
 warning :: WAARSCHUWING
 error :: FOUT
-state :: STATUS
-state_mode :: Ingeschakeld :: Uitgeschakeld
-state_inf :: Inschakelen :: Uitschakelen
-settings ::Instellingen
+state :: Status
+state_mode :: Aan :: Uit
+state_inf :: Zet aan :: Zet uit
+settings :: Instellingen
 exit :: Terug
 
-
-#Error when an incorrect version is installed
-err_ver :: Deze Mario Kart 7-versie\nwordt niet ondersteund! Controleer of\nde 1.1-patch is geïnstalleerd.\n(Download het vanuit de eShop)\nDetected: v %d
-
-#Error when the user has a card and a cia at the same time
-err_both :: Als je de MK7 gamecard\nEn de geinstalleerde versie\nhebt, raden wij je aan\nom de gamecard uit je\n3DS te halen.\n\n(als het niet goed werkt, kan\nje ook je 3DS opnieuw opstarten.)
-
-#Message shown when the user presses the home button
-err_home :: \uE073 Menu :: Het Homemenu kan niet worden geopend\n Houd de \uE078 knop ingedrukt\nOm de 3DS te herstarten.
-
 #Entries
-spdmeter :: Snelheidsmeter :: Toont een snelheidsmeter in het bovenste scherm rechtsonder.
-ccsel :: CC Selector :: Stelt de huidige CC in op een bepaalde waarde (moet worden ingeschakeld voordat een race wordt geladen).
-itemled :: Warn Items With LED :: De meldings-LED knippert blauw wanneer een blauwe schildpad wordt gebruikt en geel wanneer een bliksem wordt gebruikt.
-backcam :: Achteruitkijk Camera :: Druk op \uE002 om te zien wat er achter je is, net als andere Mario Kart-spellen! (Opmerking: de knop \uE002 gebruikt geen items meer.)
+gameplay_folder :: Gameplay Functies
+settings_folder :: Game Opties
+spdmeter :: Snelheidsmeter :: Laat een snelheidsmeter zien rechstonder op het bovenste scherm
+ccsel :: CC Selector :: Zet de huidige CC op een andere waarde (moet aanstaan voor het starten van een race).
+itemled :: Waarschuw voor voorwerpen met LED :: De notificatie LED knippert blauw waneer een Blue Shell is gebruikt en Geel waneer bliksem is gebruikt.
+backcam :: Achteruit Kijken :: Druk op \uE002 om te zien wat er achter je zit, net zoals in andere Mario Kart spellen! (De \uE002 knop zal geen voorwerpen meer gebruiken)
+charman :: Custom Character Manager :: Wissel tussen de originele en nieuwe karakters
+trackorder :: Online Baan Volgorde :: Kies in welke volgorde de banen zitten in bekers online.
 
 #Speedometer text
-spd_set :: Snelheidsmeter Istellingen.
-spd_unit :: Eenheid
+spd_set :: Snelheidsmeter opties
+spd_unit :: Meting
 spd_type :: Type
-spd_sunit :: Selecteer Snelheidsmeter Eenheid
-spd_stype :: Selecteer Snelheidsmeter type.
-spd_types :: Nummers :: Grafisch
+spd_sunit :: Selecteer snelheidsmeter meting.
+spd_stype :: Selecteer snelheidsmeter type.
+spd_types :: Met getallen :: Graphisch
 
 #CC Selector text
-cc_set :: CC-Selector
+cc_set :: CC selector opties.
 cc_val :: Waarde
-cc_rang :: De waarde moet tussen 1 en 9999 liggen.
-cc_entv :: Voer nieuwe CC-waarde in.
+cc_rang :: De waarde moet tussen 1 - 9999 zitten
+cc_entv :: Voer een nieuwe CC waarde in.
 cc_chgv :: Verander waarde
 
 #Course Manager
-comanager :: Racebaan Beheerder :: Activeer of deactiveer racebanen zoals jij dat wil.
-cs_mng :: Racebaan beheerder
-all_tr_e :: Alle racebanen geactiveerd
-all_tr_d :: Alle racebanen gedeactiveerd
-nt_cup :: Nitro Bekers
-rt_cup :: Retro Bekers
-endis_all :: Activeer alles :: Deactiveer alles
-empty :: Leeg
+comanager :: Zet custom tracks aan of uit.
+all_tr_e :: Alle tracks staan aan
+all_tr_d :: Alle tracks staan uit
+endis_all :: Alles Aan :: Alles Uit
 
 #Community Code Generator
-commugen :: Community Code Generator :: Genereert een code gebaseerd op de huidige gebruikersinstellingen. Als je deze code in de beschrijving van een community zet, zullen de instellingen voor iedereen in de community geactiveerd worden.
-def_spd :: Standaard snelheid
-som_tr_e :: Sommige racebanen geactiveerd
+commugen :: Community Code Generator :: Genereert een code gebaseert op de huidige gebruiker instellingen. Als je de code in de beschrijving van een community zet zal het de instellingen voor iedereen toepassen.
+def_spd :: Standaard Snelheid
 code :: Code
 
 #Change Round Number
-chgrnd :: Wijzig aantal rondes :: Wijzigt het aantal rondes in VS en battle mode.
-chgrnd_desc :: Kies het aantal rondes dat je\nwil spelen in VS en battle mode.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben\n\nWAARSCHUWING: Werkt niet in Download Play. :: Nummer moet tussen de 1 en 32 zitten.
-rounds :: Rondes
-rnd_sel :: Selecteer het aantal rondes.
+chgrnd :: Verander Ronde Aantal :: Verandert het aantal ronden in race en gevecht modus.
+chgrnd_desc :: Selecteer het aantal ronden\die gespeeld worden in VS of battle modus.\nWerkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben. :: Nummer moet tussen 1 en 32 zitten
+rounds :: Ronden
+rnd_sel :: Selecteer het aantal ronden
 
 #Enhanced Local Map
-enhmap :: Betere Minimap :: Voegt zoom functionaliteit toe met gebruik van het \uE058 touch screen.
+enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scherm met gebruik van het \uE058 touch screen.
+
+#Custom character manager text
+char_select :: Selecteer een karakter om te configureren.\n(Herstart nodig om veranderingen toe te passen.)
+char_replace :: Selecteer een karakter voor:\n
+green_info :: Groen -> Huidige geactiveerde item.
+
+#Online track order
+order_mode :: Standaard :: Alphabetisch
+
+#Online update check
+update_check :: Zoeken naar updates... :: De nieuwste versie van CTGP-7\nis nodig om online te spelen.
+
+#CTWW
+cntdwn :: Countdown
+CTWWtog :: Wil je Aangepaste Banen Wereldwijd aanzetten? :: Wil je Aangepaste Banen Wereldwijd uitzetten?

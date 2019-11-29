@@ -17,96 +17,105 @@
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
 ##Ingame text -----------------------------------------------
 
-#Character menu
-$1001 :: Monsieur L
-$1003 :: Yoshi Rouge
-$1005 :: Sonic
-$1013 :: Waluigi
-$1014 :: Mario d'or
-
-#Character race
-$1051 :: M. L
-$1053 :: Yoshi R.
-$1055 :: Sonic
-$1063 :: Waluigi
-$1064 :: Mario Or
-
-#Kart Body Parts
-$1107 :: Flèche Argentée
-$1109 :: Pelleteuse
-$1110 :: Arcade
-$1111 :: Kart Bandicoot
-
-#Kart Wheel Parts
-$1202 :: \uE033 Mastodonte
-$1206 :: Écrabouilleur
-
-#Kart Glider Parts
-$1304 :: Swooper de Feu
-
 #Cups
-$700010 :: Coupe Cloche
+$700010 :: Coupe Clochette
 $710042 :: Village Concorde
-$710043 :: \uE031\uE032 Circuit Mario 1
+$710059 :: \uE022\uE023 Autodrome Mario
 $710044 :: Chutes Galvarny
 $710045 :: \uE024\uE025 Jardin Volant
 
 $700011 :: Coupe Noisette
 $710046 :: Forêt Automnale
-$710047 :: \uE024\uE025 Pays Fromage
-$710048 :: \uE022\uE023 Désert Kalimari Glacé
+$710068 :: \uE024\uE025 Bord du Fleuve
+$710043 :: \uE031\uE032 Circuit Mario 1
 $710049 :: \uE024\uE025 Château de Bowser 3
 
 $700012 :: Coupe Nuage
-$710050 :: Evergreen Crossing
-$710051 :: \uE026\uE027 Plage Peach
-$710052 :: Boulevard Bayside
+$710050 :: Traversée Enneigée
+$710054 :: \uE022\uE023 Ferme Meuh Meuh
+$710052 :: Boulevard de la Baie
 $710053 :: \uE022\uE023 Route Glagla
 
 $700013 :: Coupe Boo
-$710054 :: \uE022\uE023 Ferme Meuh Meuh
 $710055 :: Ponton Lugubre 2
-$710056 :: \uE026\uE027 Arène Wario
+$710062 :: Grotte Élémentaire
 $710057 :: \uE031\uE032 Vallée Fantôme 2
+$710065 :: \uE033 Plage Cheep Cheep
 
 $700014 :: Coupe Ressort
-$710058 :: Sanctuaire de Rythme
-$710059 :: \uE022\uE023 Autodrome Mario
-$710060 :: Égout Piranha
-$710061 :: \uE067 Mine d'Or de Wario
+$710067 :: \uE033 Horloge Tic-Tac
+$710058 :: Sanctuaire Mélodique
+$710066 :: \uE033 Désert du Soleil
+$710069 :: Château du Temps
 
-$700015 :: Coupe Oeuf
-$710062 :: Elemental Cave
+$700015 :: Coupe Œuf
 $710063 :: \uE033 Cascades Yoshi
-$710064 :: Ville des Tempètes
-$710065 :: \uE033 Plage Aquazo
+$710047 :: \uE022\uE023 Montagne Choco
+$710048 :: \uE033 Corniche Champignon
+$710051 :: CTR Crique Crash
 
 $700016 :: Coupe Bill Balle
-$710066 :: \uE033 Désert du Soleil
-$710067 :: \uE033 Horloge Tic-Tac
-$710068 :: \uE024\uE025 Bord du Fleuve
-$710069 :: Château Temporel
+$710056 :: CTR Château Cortex
+$710060 :: \uE033 Circuit Dokan
+$710061 :: \uE031\uE032 Île Choco 2
+$710064 :: Pente Étoilée
 
-$700017 :: Coupe Arc-En-Ciel
+$700018 :: Coupe Bloups
+$710074 :: Parc Château de Sable
+$710075 :: \uE033 Circuit Mario
+$710076 :: \uE026\uE027 Circuit Luigi
+$710077 :: Plage Volcanique en Ruines
+
+$700019 :: Coupe Plume
+$710078 :: \uE026\uE027 Circuit Yoshi
+$710079 :: \uE024\uE025 Circuit Peach
+$710080 :: Métro Madness
+$710081 :: \uE024\uE025 Circuit Luigi
+
+$700020 :: Coupe Boule de Feu
+$710082 :: SMO Défi Voiture Téléguidée
+$710083 :: \uE024\uE025 Château de Bowser 4
+$710084 :: \uE031\uE032 Plaine Donut 1 	
+$710085 :: Glissade Secrète
+
+$700021 :: Coupe Bob-Omb
+$710086 :: \uE033 Stade Wario
+$710087 :: Circuit Ermii
+$710088 :: \uE026\uE027 Parc Baby
+$710089 :: Circuit Revo
+
+$700022 :: Coupe Cerise
+$710090 :: \uE031\uE032 Circuit Mario 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Plage Maskass
+$710093 :: Bingo Party
+
+$700023 :: Coupe Pièce
+$710094 :: Désert Doge
+$710095 :: \uE022\uE023 Ponton Lugubre
+$710096 :: \uE026\uE027 Circuit Mario
+$710073 :: Spec. d'Anniversaire de Miku
+
+$700017 :: Coupe Arc-en-ciel
 $710070 :: \uE022\uE023 Route Arc-en-ciel
-$710071 :: Route Arc-en-ciel
+$710071 :: \uE024\uE025 Route Arc-en-ciel
 $710072 :: Route Spatiale
-$710073 :: Spectacle Miku
+$710097 :: Route Arc-en-ciel Deluxe
 
 #Create new save data text
 %7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 %7003 :: Création du fichier\nde sauvegarde...
-%7004 :: Le fichier de sauvegarde\nest créé.
+%7004 :: Le fichier de sauvegarde\na été créé.
 
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
-welc_t :: Bienvenue à CTGP-7!
-welc_1 :: Salut!\nDepuis le menu en jeu,\nvous pouvez\nutiliser certaines fonctions avancées.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
-welc_2 :: Pour utiliser une fonctionnalité, placez le\ncurseur sur une entrée et\nappuyez sur \uE000 pour changer ses valeurs.
-welc_3 :: Pour connaitre la fonction d'une entrée, placez\nle curseur dessus\nand et touchez \uE058 le bouton info ("i" bleu)\nsur l'écran tactile.
-welc_4 :: Souvenez-vous que certaines fonctions, \ncomme le "Sélécteur de CC", seront \ndésactivées en ligne.
-welc_5 :: Nous espérons que vous apprécierez le mod! ^ω^
+welc_t :: Bienvenue sur CTGP-7 !
+welc_1 :: Bonjour !\nDepuis le menu en jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
+welc_2 :: Pour utiliser une fonctionnalité, placez le\ncurseur sur une entrée et\nappuyez sur A pour l'activer\nou la configurer.
+welc_3 :: Pour connaitre la fonction d'une entrée, placez\nle curseur dessus\net appuyez sur bouton info ("i" bleu)\nsur l'écran tactile.
+welc_4 :: Gardez à l'esprit que certaines fonctionnalités,\ncomme le "Sélécteur de CC", seront \ndésactivées en ligne.
+welc_5 :: Nous espérons que vous apprécierez le mod ! ^ω^
 
 #General text
 warning :: ATTENTION
@@ -117,53 +126,62 @@ state_inf :: Activer :: Désactiver
 settings :: Paramètres
 exit :: Fermer
 
-
-#Error when an incorrect version is installed
-err_ver :: Cette version de Mario Kart 7\nn'est pas supportée! Assurez-vous que\nle patch 1.1 est installé.\n(Téléchargez-le sur l'eShop)\nVersion Détectée: v%d
-
-#Error when the user has a card and a cia at the same time
-err_both :: Si vous ne jouez pas au mod\ndepuis la cartouche insérée, gardez-la\nenlevée pendant que vous jouez\nsur une copie digitale.\n(Un redémarrage est nessécaire.)
-
-#Message shown when the user presses the home button
-err_home :: Menu \uE073 :: Le Menu \uE073 ne peut pas être ouvert.\nMaintenez le bouton \uE078 appuyé\npour éteindre la console.
-
 #Entries
-spdmeter :: Indicateur de Vitesse :: Montre un indicateur de vitesse au coin inférieur droit de l'écran du haut.
-ccsel :: Sélecteur de CC :: Selectionne le CC des Karts à une certaine valeur (doit être activé avant la course).
-itemled :: Avertir des objets avec LED :: La LED de notification clignote en bleu quand une carapace à épines est utilisée et en jaune quand un éclair est utilisé.
-backcam :: Caméra arrière :: Appuyez sur \uE002 pour voir derrière vous, comme dans les autres Mario Kart! (Note: Le bouton \uE002 ne servira plus à utiliser les objets.)
+gameplay_folder :: Fonctionnalités du Jeu
+settings_folder :: Paramètres
+spdmeter :: Compteur de Vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran du haut.
+ccsel :: Sélecteur de CC :: Règle les CC de la course sur une certaine valeur (doit être activé avant de commencer une course).
+itemled :: Signaler les Objects avec LED :: La diode de notification clignotera en bleu quand une carapace à épines est utilisée et en jaune lorqu'un éclair sera utilisé.
+backcam :: Vue Arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Note: Vous ne pourrer plus appuyer sur \uE002 pour utiliser vos objets.)
+charman :: Gestionnaire de Personnages :: Choisissez entre les personnage par défaut et personnalisés.
+trackorder :: Ordre des Courses en Ligne :: Changez l'organisation des coupes pour le jeu en ligne.
 
 #Speedometer text
-spd_set :: Paramètres de l'indicateur de vitesse.
+spd_set :: Paramètres du compteur de vitesse
 spd_unit :: Unité
 spd_type :: Type
-spd_sunit :: Sélectionnez l'unité pour l'indicateur de vitesse.
-spd_stype :: Sélectionnez le type d'indicateur de vitesse.
+spd_sunit :: Choisissez l'unité du compteur de vitesse.
+spd_stype :: Choisissez le type de compteur de vitesse.
 spd_types :: Numérique :: Graphique
 
 #CC Selector text
 cc_set :: Paramètres du sélecteur de CC
 cc_val :: Valeur
-cc_rang :: La valeur doit se situer entre 1 et 9999.
+cc_rang :: La valeur doit être comprise entre 1 et 9999.
 cc_entv :: Entrez une nouvelle valeur de CC.
-cc_chgv :: Changer la valeur
+cc_chgv :: Modifier la valeur
 
 #Course Manager
-comanager :: Activer ou désactiver les circuits modifiés.
+comanager :: Activer ou désactiver les Custom Tracks.
 all_tr_e :: Tous les circuits sont activés
 all_tr_d :: Tous les circuits sont desactivés
-endis_all :: Activer tout :: Désactiver tout
+endis_all :: Activer Tout :: Désactiver Tout
 
 #Community Code Generator
-commugen :: Générateur de Code Communautaire :: Génère un code basé sur les paramètres entrés. Entrer ce code activera ces paramêtres chez tous les utiliateurs.
+commugen :: Générateur de Code Communautaire :: Génère un code basé sur vos paramètres actuels. Entrer ce code activera les mêmes paramètres chez tous les utiliateurs qui participeront à la communauté.
 def_spd :: Vitesse par défaut
 code :: Code
 
 #Change Round Number
-chgrnd :: Changer le nombre de tours :: Change le nombre de tours\nen mode VS et bataille.
-chgrnd_desc :: Sélectionne le nombre de tours\nà jouer en mode VS et bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tous les\njoueurs doivent avoir les mêmes\nparamètres. :: Le nombre choisi doit être\nentre 1 et 32.
-rounds :: Tours
-rnd_sel :: Sélectionne le nombre de tours.
+chgrnd :: Changer le Nombre de Manches :: Change le nombre de manches dans les modes VS et Bataille.
+chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode VS ou Bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tout le monde\ndoivent avoir les mêmes paramètres. :: La valeur doit être comprise entre 1 et 32.
+rounds :: Manches
+rnd_sel :: Sélectionnez un nombre de manches.
 
 #Enhanced Local Map
-enhmap :: Améliorations pour la carte locale :: Ajoute des fonctions zoom sur la carte disponible sur \uE058 l'écran tactile.
+enhmap :: Carte améliorée :: Ajoute une option de zoom pour la carte en touchant \uE058 l'écran tactile.
+
+#Custom character manager text
+char_select :: Sélectionnez un personnage à configurer\n(Redémarrage nécessaire pour appliquer les changements.)
+char_replace :: Sélectionnez un personnage customisé pour :\n
+green_info :: L'entrée en vert est l'entrée actuellement activée.
+
+#Online track order
+order_mode :: Par défaut :: Alphabétique
+
+#Online update check
+update_check :: Vérification des mises à jour... :: La dernière version de CTGP-7\nest nécessaire pour jouer en ligne.
+
+#CTWW
+cntdwn :: Compte à Rebours
+CTWWtog :: Souhaitez-vous activer les\nCustom Tracks en Mondial ? :: Souhaitez-vous désactiver les\nCustom Tracks en Mondial ?

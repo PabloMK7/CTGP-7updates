@@ -1,0 +1,31 @@
+#
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Kart Body Parts
+$1107 :: W 25 Flèche d'Argent
+$1109 :: Pelleteuse
+$1110 :: Arcade
+$1111 :: Kart Bandicoot
+
+#Kart Wheel Parts
+$1202 :: \uE033 Mastodonte
+$1206 :: Écrabouilleur Bleu
+
+#Kart Glider Parts
+$1304 :: Swooper de Feu
