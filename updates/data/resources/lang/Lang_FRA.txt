@@ -33,12 +33,12 @@ $710049 :: \uE024\uE025 Château de Bowser 3
 $700012 :: Coupe Nuage
 $710050 :: Traversée Enneigée
 $710054 :: \uE022\uE023 Ferme Meuh Meuh
-$710052 :: Boulevard de la Baie
+$710052 :: Boulevard Bayside
 $710053 :: \uE022\uE023 Route Glagla
 
 $700013 :: Coupe Boo
 $710055 :: Ponton Lugubre 2
-$710062 :: Grotte Élémentaire
+$710062 :: Caverne Élémentaire
 $710057 :: \uE031\uE032 Vallée Fantôme 2
 $710065 :: \uE033 Plage Cheep Cheep
 
@@ -64,7 +64,7 @@ $700018 :: Coupe Bloups
 $710074 :: Parc Château de Sable
 $710075 :: \uE033 Circuit Mario
 $710076 :: \uE026\uE027 Circuit Luigi
-$710077 :: Plage Volcanique en Ruines
+$710077 :: Plage Volc. en Ruines
 
 $700019 :: Coupe Plume
 $710078 :: \uE026\uE027 Circuit Yoshi
@@ -73,7 +73,7 @@ $710080 :: Métro Madness
 $710081 :: \uE024\uE025 Circuit Luigi
 
 $700020 :: Coupe Boule de Feu
-$710082 :: SMO Défi Voiture Téléguidée
+$710082 :: SMO Défi Voiture Télé.
 $710083 :: \uE024\uE025 Château de Bowser 4
 $710084 :: \uE031\uE032 Plaine Donut 1 	
 $710085 :: Glissade Secrète
@@ -94,7 +94,7 @@ $700023 :: Coupe Pièce
 $710094 :: Désert Doge
 $710095 :: \uE022\uE023 Ponton Lugubre
 $710096 :: \uE026\uE027 Circuit Mario
-$710073 :: Spec. d'Anniversaire de Miku
+$710073 :: Spectacle Miku
 
 $700017 :: Coupe Arc-en-ciel
 $710070 :: \uE022\uE023 Route Arc-en-ciel
@@ -112,10 +112,10 @@ $710097 :: Route Arc-en-ciel Deluxe
 #First opening welcome message
 welc_t :: Bienvenue sur CTGP-7 !
 welc_1 :: Bonjour !\nDepuis le menu en jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
-welc_2 :: Pour utiliser une fonctionnalité, placez le\ncurseur sur une entrée et\nappuyez sur A pour l'activer\nou la configurer.
-welc_3 :: Pour connaitre la fonction d'une entrée, placez\nle curseur dessus\net appuyez sur bouton info ("i" bleu)\nsur l'écran tactile.
-welc_4 :: Gardez à l'esprit que certaines fonctionnalités,\ncomme le "Sélécteur de CC", seront \ndésactivées en ligne.
-welc_5 :: Nous espérons que vous apprécierez le mod ! ^ω^
+welc_2 :: Pour utiliser une fonctionnalité,\nplacez lecurseur sur une\nentrée et appuyez sur A pour\nl'activerou la configurer.
+welc_3 :: Pour connaitre la fonction d'une\nentrée, placez le curseur\ndessus et appuyez sur bouton\ninfo ("i" bleu)sur l'écran tactile.
+welc_4 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
+welc_5 :: Nous espérons que vous\napprécierez le mod ! ^ω^
 
 #General text
 warning :: ATTENTION
