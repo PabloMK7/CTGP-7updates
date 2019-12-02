@@ -103,17 +103,17 @@ $710072 :: Strada Spaziale
 $710097 :: Pista Arcobaleno DX
 
 #Create new save data text
-%7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
+%7005 :: I dati di salvataggio per CTGP-7\nsaranno creati nella\nscheda SD.
 %7003 :: Creazione dei dati di salvataggio...
-%7004 :: I Dati di salvataggio\nsono stati creati.
+%7004 :: I dati di salvataggio\nsono stati creati.
 
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
 welc_t :: Benvenuto a CTGP-7
 welc_1 :: Ciao!\nDal menu di gioco, potrai usare\ndelle funzioni speciali.\nPer aprire il menu di gioco,\npremi (SELECT).
-welc_2 :: Per user unable fanzine, muovi\nil cursore sulla funzione e\npremi A per abilitarlo o configurarlo.
-welc_3 :: Se non sei sicuro dell'utilità,\ndi uno funzione, muovi il cursore\nsulla funzione e premi il pulsante (i)\nblu sul touch screen.
+welc_2 :: Per usare una funzione, muovi\nil cursore sulla funzione e\npremi A per abilitarla o configurarla.
+welc_3 :: Se non sei sicuro dell'utilità\ndi una funzione, muovi il cursore\nsulla funzione e premi il pulsante (i)\nblu sul touch screen.
 welc_4 :: Ricorda che alcune funzioni,\ncome il "Selettore classe CC", saranno\ndisabilitate durante il gioco online.
 welc_5 :: Speriamo ti piaccia!\n^w^
 
@@ -122,26 +122,26 @@ warning :: AVVISO
 error :: ERRORE
 state :: Stato
 state_mode :: Abilitato :: Disabilitato
-state_inf :: Ailita :: Disabilita
+state_inf :: Abilita :: Disabilita
 settings :: Impostazioni
 exit :: Esci
 
 #Entries
 gameplay_folder :: Funzioni di Gameplay
 settings_folder :: Opzioni di Gioco
-spdmeter :: Accelerometro :: mostra un accelerometro al lato dello schermo.
+spdmeter :: Tachimetro :: mostra un tachimetro al lato dello schermo.
 ccsel :: Selettore classe CC :: Imposta il valore della classe CC ad un numero arbitrario (imposta prima dell'inizio di una gara per abilitare).
 itemled :: Avviso LED per oggetti :: Il LED della console lampeggerà di blu se un Guscio Blu è usato, e giallo se un Fulmine è usato.
-backcam :: Retrovisore :: Premi \uE002 per vedette dieter di te, esattamente come gli altri giochi della serie! (Nota: Il pulsante \uE002 non potrà più essere usato per attivare gli oggetti.)
+backcam :: Retrovisore :: Premi \uE002 per vedere dietro di te, esattamente come gli altri giochi della serie! (Nota: Il pulsante \uE002 non potrà più essere usato per attivare gli oggetti.)
 charman :: Gestore Personaggi :: Gestisci i personaggi custom e quelli originali.
-trackorder :: Ordine Delle piste online :: Gestisci l'ordine in cui le piste appariranno nel gioco online.
+trackorder :: Ordine delle piste online :: Gestisci l'ordine in cui le piste appariranno nel gioco online.
 
 #Speedometer text
-spd_set :: Accelerometro.
+spd_set :: Tachimetro
 spd_unit :: Unità
 spd_type :: Tipo
 spd_sunit :: Seleziona l'unità di misura.
-spd_stype :: Seleziona il tipo di accelerometro.
+spd_stype :: Seleziona il tipo di tachimetro.
 spd_types :: Numerico :: Grafico
 
 #CC Selector text
@@ -166,7 +166,7 @@ code :: Codice
 chgrnd :: Cambia numero round :: Cambia il numero di round nelle modalità Sfida e Battaglia.
 chgrnd_desc :: Seleziona il numero di round da\ngiocare nelle modalità Sfida e Battaglia.\nNOTA: non funziona nella modalità Download.\nIn multigiocatore locale, tutti devono\nusare le stesse impostazioni. :: Il numero di round deve essere compreso tra 1 e 32.
 rounds :: Round
-rnd_sel :: Seleeziona il numero di round.
+rnd_sel :: Seleziona il numero di round.
 
 #Enhanced Local Map
 enhmap :: Mappa Migliorata :: Aggiunge la funzionalità di zoom alla mappa usando il \uE058 touch screen.
