@@ -46,7 +46,7 @@ $700014 :: Spring Cup
 $710067 :: \uE033 Tick Tock Clock
 $710058 :: Melody Sanctum
 $710066 :: \uE033 Desert Hills
-$710069 :: Castle Of Time
+$710069 :: Castle of Time
 
 $700015 :: Egg Cup
 $710063 :: \uE033 Yoshi Falls
