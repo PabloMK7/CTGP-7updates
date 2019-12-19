@@ -159,10 +159,11 @@ cc_entv :: 新しいCCの値を入力してください。
 cc_chgv :: 値の変更
 
 #Course Manager
-comanager :: カスタムトラックを有効または無効にします。
-all_tr_e :: 有効な全てのトラック
-all_tr_d :: 無効な全てのトラック
-endis_all :: 全て有効 :: 全て無効
+comanager :: Enable or disable tracks.
+endis_ct :: Enable Custom Tracks :: Disable Custom Tracks
+endis_ori :: Enable Original Tracks :: Disable Original Tracks
+ct_endis :: Custom Tracks enabled :: Custom Tracks disabled
+ori_endis :: Original Tracks enabled :: Original Tracks disabled
 
 #Community Code Generator
 commugen :: コミュニティコードジェネレーター :: 現在のユーザー設定に基づいてコードを生成します。コミュニティの説明にコードを入力すると、そのコミュニティの全員の設定が有効になります。

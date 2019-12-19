@@ -152,10 +152,11 @@ cc_entv :: Introduce valor de CC.
 cc_chgv :: Cambiar Valor
 
 #Course Manager
-comanager :: Activa o desactiva circuitos editados.
-all_tr_e :: Todos los circuitos activados
-all_tr_d :: Todos los circuitos desactivados
-endis_all :: Activar Todos :: Desactivar Todos
+comanager :: Activa o desactiva circuitos.
+endis_ct :: Activar Cicuitos Editados:: Desactivar Circuitos Editados
+endis_ori :: Activar Circuitos Originales :: Desactivar Circuitos Originales
+ct_endis :: Circuitos Editados activados :: Circuitos Editados desactivados
+ori_endis :: Circuitos Originales activados :: Circuitos Originales desactivados
 
 #Community Code Generator
 commugen :: Generar Código de Comunidad :: Genera un código basado en las opciones activadas. Al poner el código en la descripción de una comunidad hará que esas opciones se activen para todo el mundo.
