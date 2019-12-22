@@ -153,10 +153,10 @@ cc_chgv :: Modifier la valeur
 
 #Course Manager
 comanager :: Activer ou désactiver des circuits.
-endis_ct :: Activer les Custom Tracks :: Désactiver les Custom Tracks
-endis_ori :: Activer les circuits originaux :: Désactiver les circuits originaux
+endis_ct :: Activer Cutom Tracks :: Désactiver Custom Tracks
+endis_ori :: Activer circuits originaux :: Désactiver circuits originaux
 ct_endis :: Les Custom Tracks sont activés :: Les Custom Tracks sont désactivés
-ori_endis :: Les circuits originaux sont activés :: Les circuits originaux sont désactivés
+ori_endis :: Les circuits standardsont activés :: Les circuits standards sont désactivés
 
 #Community Code Generator
 commugen :: Générateur de code communautaire :: Génère un code basé sur vos paramètres actuels. Entrer ce code activera les mêmes paramètres chez tous les utiliateurs qui participeront à la communauté.
