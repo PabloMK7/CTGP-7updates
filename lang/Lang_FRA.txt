@@ -112,7 +112,7 @@ $710097 :: Route Arc-en-ciel Deluxe
 #First opening welcome message
 welc_t :: Bienvenue sur CTGP-7 !
 welc_1 :: Bonjour !\nDepuis le menu en jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
-welc_2 :: Pour utiliser une fonctionnalité,\nplacez lecurseur sur une\nentrée et appuyez sur A pour\nl'activerou la configurer.
+welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
 welc_3 :: Pour connaitre la fonction d'une\nentrée, placez le curseur\ndessus et appuyez sur bouton\ninfo ("i" bleu)sur l'écran tactile.
 welc_4 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
 welc_5 :: Nous espérons que vous\napprécierez le mod ! ^ω^
@@ -127,14 +127,14 @@ settings :: Paramètres
 exit :: Fermer
 
 #Entries
-gameplay_folder :: Fonctionnalités du Jeu
+gameplay_folder :: Fonctionnalités du jeu
 settings_folder :: Paramètres
-spdmeter :: Compteur de Vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran du haut.
+spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran du haut.
 ccsel :: Sélecteur de CC :: Règle les CC de la course sur une certaine valeur (doit être activé avant de commencer une course).
-itemled :: Signaler les Objects avec LED :: La diode de notification clignotera en bleu quand une carapace à épines est utilisée et en jaune lorqu'un éclair sera utilisé.
-backcam :: Vue Arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Note: Vous ne pourrer plus appuyer sur \uE002 pour utiliser vos objets.)
-charman :: Gestionnaire de Personnages :: Choisissez entre les personnage par défaut et personnalisés.
-trackorder :: Ordre des Courses en Ligne :: Changez l'organisation des coupes pour le jeu en ligne.
+itemled :: Signaler les objets avec LED :: La diode de notification clignotera en bleu quand une carapace à épines est utilisée et en jaune lorqu'un éclair sera utilisé.
+backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Note: Vous ne pourrez plus appuyer sur \uE002 pour utiliser vos objets.)
+charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
+trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -152,19 +152,19 @@ cc_entv :: Entrez une nouvelle valeur de CC.
 cc_chgv :: Modifier la valeur
 
 #Course Manager
-comanager :: Enable or disable tracks.
-endis_ct :: Enable Custom Tracks :: Disable Custom Tracks
-endis_ori :: Enable Original Tracks :: Disable Original Tracks
-ct_endis :: Custom Tracks enabled :: Custom Tracks disabled
-ori_endis :: Original Tracks enabled :: Original Tracks disabled
+comanager :: Activer ou désactiver des circuits.
+endis_ct :: Activer Cutom Tracks :: Désactiver Custom Tracks
+endis_ori :: Activer circuits originaux :: Désactiver circuits originaux
+ct_endis :: Les Custom Tracks sont activés :: Les Custom Tracks sont désactivés
+ori_endis :: Les circuits standardsont activés :: Les circuits standards sont désactivés
 
 #Community Code Generator
-commugen :: Générateur de Code Communautaire :: Génère un code basé sur vos paramètres actuels. Entrer ce code activera les mêmes paramètres chez tous les utiliateurs qui participeront à la communauté.
+commugen :: Générateur de code communautaire :: Génère un code basé sur vos paramètres actuels. Entrer ce code activera les mêmes paramètres chez tous les utiliateurs qui participeront à la communauté.
 def_spd :: Vitesse par défaut
 code :: Code
 
 #Change Round Number
-chgrnd :: Changer le Nombre de Manches :: Change le nombre de manches dans les modes VS et Bataille.
+chgrnd :: Changer le nombre de manches :: Change le nombre de manches dans les modes VS et Bataille.
 chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode VS ou Bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tout le monde\ndoivent avoir les mêmes paramètres. :: La valeur doit être comprise entre 1 et 32.
 rounds :: Manches
 rnd_sel :: Sélectionnez un nombre de manches.
