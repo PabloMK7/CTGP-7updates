@@ -122,7 +122,7 @@ warning :: AVVISO
 error :: ERRORE
 state :: Stato
 state_mode :: Abilitato :: Disabilitato
-state_inf :: Ailita :: Disabilita
+state_inf :: Abilita :: Disabilita
 settings :: Impostazioni
 exit :: Esci
 
@@ -152,10 +152,11 @@ cc_entv :: Inserisci il nuovo valore.
 cc_chgv :: Cambia valore
 
 #Course Manager
-comanager :: Abilita o disabilita le piste custom.
-all_tr_e :: Tutte le piste sono attive
-all_tr_d :: Tutte le piste sono disattive
-endis_all :: Abilita tutte :: Disabilita tutte
+comanager :: Abilita o disabilita le piste.
+endis_ct :: Abilita piste custom :: Disabilita piste custom
+endis_ori :: Abilita piste originali :: Disabilita piste originali
+ct_endis :: Piste custom abilitate :: Piste custom disabilitate
+ori_endis :: Piste originali abilitate :: Piste originali disabilitate
 
 #Community Code Generator
 commugen :: Generatore Codice Community :: Genera un codice dipendente dalle impostazioni. Impostando un codice in una community, tutti i giocatori useranno le stesse impostazioni.
