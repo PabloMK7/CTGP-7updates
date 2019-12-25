@@ -153,7 +153,7 @@ cc_chgv :: Modifier la valeur
 
 #Course Manager
 comanager :: Activer ou désactiver des circuits.
-endis_ct :: Activer Cutom Tracks :: Désactiver Custom Tracks
+endis_ct :: Activer Custom Tracks :: Désactiver Custom Tracks
 endis_ori :: Activer circuits originaux :: Désactiver circuits originaux
 ct_endis :: Les Custom Tracks sont activés :: Les Custom Tracks sont désactivés
 ori_endis :: Les circuits standardsont activés :: Les circuits standards sont désactivés
