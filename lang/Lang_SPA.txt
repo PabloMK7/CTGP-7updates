@@ -153,8 +153,8 @@ cc_chgv :: Cambiar Valor
 
 #Course Manager
 comanager :: Activa o desactiva circuitos.
-endis_ct :: Activar Cicuitos Editados:: Desactivar Circuitos Editados
-endis_ori :: Activar Circuitos Originales :: Desactivar Circuitos Originales
+endis_ct :: Activar Editados:: Desactivar Editados
+endis_ori :: Activar Originales :: Desactivar Originales
 ct_endis :: Circuitos Editados activados :: Circuitos Editados desactivados
 ori_endis :: Circuitos Originales activados :: Circuitos Originales desactivados
 

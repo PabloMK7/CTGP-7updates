@@ -153,11 +153,11 @@ cc_entv :: Atribua o novo valor CC.
 cc_chgv :: Trocar valor
 
 #Course Manager
-comanager :: Enable or disable tracks.
-endis_ct :: Enable Custom Tracks :: Disable Custom Tracks
-endis_ori :: Enable Original Tracks :: Disable Original Tracks
-ct_endis :: Custom Tracks enabled :: Custom Tracks disabled
-ori_endis :: Original Tracks enabled :: Original Tracks disabled
+comanager :: Habilita ou desabilita tracks.
+endis_ct :: Habilitar Custom :: Desabilitar Custom
+endis_ori :: Habilitar Originais :: Desabilitar Originais
+ct_endis :: Custom Tracks habilitadas :: Custom Tracks desabilitadas
+ori_endis :: Tracks Originais habilitadas :: Tracks Originais desabilitadas
 
 #Community Code Generator
 commugen :: Gerador de Códigos da Comunidade :: Gera um código baseado nas atuais configurações de usuário. Colocando o código em uma descrição de comunidade vai habilitar as configurações para todos naquela comunidade.
