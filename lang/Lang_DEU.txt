@@ -121,6 +121,7 @@ welc_5 :: Wir hoffen, dir gefällt der Mod!\n^w^
 warning :: Warnung
 error :: Fehler
 state :: Status
+next :: Nächste
 state_mode :: Aktiviert :: Deaktiviert
 state_inf :: Aktivieren :: Deaktivieren
 settings :: Einstellungen
@@ -152,9 +153,8 @@ cc_entv :: Neuer CCM-Wert
 cc_chgv :: Ändere den Wert.
 
 #Course Manager
-comanager :: Aktiviere oder deaktiviere Strecken.
-endis_ct :: Aktiviere custom :: Deaktiviere custom
-endis_ori :: Aktiviere originale :: Deaktiviere originale
+track_ct :: Benutzerdef. Strecken
+track_ori :: Originale Strecken
 ct_endis :: Benutzerdef. Strecken aktiviert :: Benutzerdef. Strecken deaktiviert
 ori_endis :: Originale Strecken aktiviert :: Originale Strecken deaktiviert
 

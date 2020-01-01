@@ -128,6 +128,7 @@ welc_5 :: modをおたのしみください！\n^w^
 warning :: 警告
 error :: エラー
 state :: 状態
+next :: つぎ
 state_mode :: 有効 :: 無効
 state_inf :: 有効 :: 無効
 settings :: 設定
@@ -159,9 +160,8 @@ cc_entv :: 新しいCCの値を入力してください。
 cc_chgv :: 値の変更
 
 #Course Manager
-comanager :: トラックを有効または無効にします。
-endis_ct :: カスタムトラックを有効 :: カスタムトラックを無効
-endis_ori :: オリジナルトラックを有効 :: オリジナルトラックを無効
+track_ct :: カスタムトラック
+track_ori :: オリジナルトラック
 ct_endis :: カスタムトラックを有効にしました :: カスタムトラックを無効にしました
 ori_endis :: オリジナルトラックを有効にしました :: オリジナルトラックを無効にしました
 

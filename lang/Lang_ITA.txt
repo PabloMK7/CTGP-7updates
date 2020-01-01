@@ -121,6 +121,7 @@ welc_5 :: Speriamo ti piaccia!\n^w^
 warning :: AVVISO
 error :: ERRORE
 state :: Stato
+next :: Seguente
 state_mode :: Abilitato :: Disabilitato
 state_inf :: Abilita :: Disabilita
 settings :: Impostazioni
@@ -152,9 +153,8 @@ cc_entv :: Inserisci il nuovo valore.
 cc_chgv :: Cambia valore
 
 #Course Manager
-comanager :: Abilita o disabilita le piste.
-endis_ct :: Abilita piste custom :: Disabilita piste custom
-endis_ori :: Abilita piste originali :: Disabilita piste originali
+track_ct :: Piste Custom
+track_ori :: Piste Originali
 ct_endis :: Piste custom abilitate :: Piste custom disabilitate
 ori_endis :: Piste originali abilitate :: Piste originali disabilitate
 

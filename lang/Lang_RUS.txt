@@ -121,6 +121,7 @@ welc_5 :: We hope you enjoy the mod!\n^w^
 warning :: WARNING
 error :: ERROR
 state :: State
+next :: Next
 state_mode :: Enabled :: Disabled
 state_inf :: Enable :: Disable
 settings :: Settings
@@ -152,9 +153,8 @@ cc_entv :: Enter new CC value.
 cc_chgv :: Change value
 
 #Course Manager
-comanager :: Enable or disable tracks.
-endis_ct :: Enable Custom Tracks :: Disable Custom Tracks
-endis_ori :: Enable Original Tracks :: Disable Original Tracks
+track_ct :: Custom Tracks
+track_ori :: Original Tracks
 ct_endis :: Custom Tracks enabled :: Custom Tracks disabled
 ori_endis :: Original Tracks enabled :: Original Tracks disabled
 
