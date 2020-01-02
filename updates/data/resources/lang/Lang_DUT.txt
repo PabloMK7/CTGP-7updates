@@ -121,6 +121,7 @@ welc_5 :: We hopen dat je de mod leuk vind!\n^w^
 warning :: WAARSCHUWING
 error :: FOUT
 state :: Status
+next :: Volgende
 state_mode :: Aan :: Uit
 state_inf :: Zet aan :: Zet uit
 settings :: Instellingen
@@ -152,11 +153,10 @@ cc_entv :: Voer een nieuwe CC waarde in.
 cc_chgv :: Verander waarde
 
 #Course Manager
-comanager :: Enable or disable tracks.
-endis_ct :: Enable Custom Tracks :: Disable Custom Tracks
-endis_ori :: Enable Original Tracks :: Disable Original Tracks
-ct_endis :: Custom Tracks enabled :: Custom Tracks disabled
-ori_endis :: Original Tracks enabled :: Original Tracks disabled
+track_ct :: Aangepaste Banen
+track_ori :: Originele Banen
+ct_endis :: Aangepaste banen aangezet :: Aangepaste banen uitgezet
+ori_endis :: Originele banen aangezet :: Originele banen uitgezet
 
 #Community Code Generator
 commugen :: Community Code Generator :: Genereert een code gebaseert op de huidige gebruiker instellingen. Als je de code in de beschrijving van een community zet zal het de instellingen voor iedereen toepassen.

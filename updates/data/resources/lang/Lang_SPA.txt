@@ -121,6 +121,7 @@ welc_5 :: Esperamos que disfrutes el mod!\n^ω^
 warning :: ADVERTENCIA
 error :: ERROR
 state :: Estado
+next :: Siguiente
 state_mode :: Activado :: Desactivado
 state_inf :: Activar :: Desactivar
 settings :: Opciones
@@ -152,9 +153,8 @@ cc_entv :: Introduce valor de CC.
 cc_chgv :: Cambiar Valor
 
 #Course Manager
-comanager :: Activa o desactiva circuitos.
-endis_ct :: Activar Editados:: Desactivar Editados
-endis_ori :: Activar Originales :: Desactivar Originales
+track_ct :: Circuitos Editados
+track_ori :: Circuitos Originales
 ct_endis :: Circuitos Editados activados :: Circuitos Editados desactivados
 ori_endis :: Circuitos Originales activados :: Circuitos Originales desactivados
 
