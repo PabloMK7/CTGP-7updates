@@ -459,7 +459,7 @@ $1876 :: Final Round
 #(Empty)
 $1899 :: 
 
-#StreetPass titles (male)
+#StreetPass titles
 $1900 :: Shell Shark (<null>)
 $1901 :: Banana Blitzer (<null>)
 $1902 :: Bob-omb Ace (<null>)
@@ -480,7 +480,7 @@ $1915 :: Star Racer (<null>)
 #(Empty)
 $1916 :: 
 
-#StreetPass titles (female)
+#StreetPass titles again
 $1050 :: Shell Shark (<null>)
 $1051 :: Banana Blitzer (<null>)
 $1052 :: Bob-omb Ace (<null>)
@@ -635,25 +635,25 @@ $1992 ::
 
 #(Empty)
 %2324 :: 
-%2230 :: 
-%2231 :: 
-%2232 :: 
-%2233 :: 
-%2234 :: 
-%2235 :: 
-%2236 :: 
-%2237 :: 
-%2238 :: 
-%2239 :: 
+%2330 :: 
+%2331 :: 
+%2332 :: 
+%2333 :: 
+%2334 :: 
+%2335 :: 
+%2336 :: 
+%2337 :: 
+%2338 :: 
+%2339 :: 
 
 #Teams setting
-%2240 :: Teams
-%2241 :: On
-%2242 :: Off
+%2340 :: Teams
+%2341 :: On
+%2342 :: Off
 
 #(Empty)
-%2243 :: 
-%2244 :: 
+%2343 :: 
+%2344 :: 
 
 #Stage setting
 %2350 :: Stage
