@@ -481,25 +481,25 @@ $1915 :: Sztárvezető - <null>
 $1916 :: 
 
 #StreetPass titles (female)
-$1050 :: Páncél párduc - <null>
-$1051 :: Banán bingó - <null>
-$1052 :: Bob-omb bingó - <null>
-$1053 :: Profi védő - <null>
-$1054 :: Lármás egyén - <null>
-$1055 :: Ugratós - <null>
-$1056 :: Pilóta - <null>
-$1057 :: Delfin - <null>
-$1058 :: Rafinált faroló - <null>
-$1059 :: Gyorskezdő - <null>
-$1060 :: Felhozó - <null>
-$1061 :: Szabálytisztelő - <null>
-$1062 :: Szlalomozó - <null>
-$1063 :: Biztonságos vezető - <null>
-$1064 :: Zöldfülű - <null>
-$1065 :: Sztárvezető - <null>
+$1950 :: Páncél párduc - <null>
+$1951 :: Banán bingó - <null>
+$1952 :: Bob-omb bingó - <null>
+$1953 :: Profi védő - <null>
+$1954 :: Lármás egyén - <null>
+$1955 :: Ugratós - <null>
+$1956 :: Pilóta - <null>
+$1957 :: Delfin - <null>
+$1958 :: Rafinált faroló - <null>
+$1959 :: Gyorskezdő - <null>
+$1960 :: Felhozó - <null>
+$1961 :: Szabálytisztelő - <null>
+$1962 :: Szlalomozó - <null>
+$1963 :: Biztonságos vezető - <null>
+$1964 :: Zöldfülű - <null>
+$1965 :: Sztárvezető - <null>
 
 #(Empty)
-$1066 :: 
+$1966 :: 
 
 #Controls (demo cart-only)
 $1980 :: Tárgy használata
@@ -753,39 +753,39 @@ $1992 ::
 %2501 :: 
 
 #Nitro cup unlock messages
-%2502 :: Feloldottad a\n<null><null><null>virág kupát<null>ÿÿ!
-%2503 :: Feloldottad a\n<null><null><null>csillag kupát<null>ÿÿ!
-%2504 :: Feloldottad a\n<null><null><null>különleges kupát<null>ÿÿ!
+%2502 :: Feloldottad a\nvirág kupát!
+%2503 :: Feloldottad a\ncsillag kupát!
+%2504 :: Feloldottad a\nkülönleges kupát!
 
 #(Empty)
 %2505 :: 
 
 #Retro cup unlock messages
-%2506 :: Feloldottad a\n<null><null><null>banán kupát<null>ÿÿ!
-%2507 :: Feloldottad a\n<null><null><null>levél kupát<null>ÿÿ!
-%2508 :: Feloldottad a\n<null><null><null>villám kupát<null>ÿÿ!
+%2506 :: Feloldottad a\nbanán kupát!
+%2507 :: Feloldottad a\nlevél kupát!
+%2508 :: Feloldottad a\nvillám kupát!
 
 #Mirror class unlock message
-%2509 :: Feloldottad a\n<null><null><null>fordított osztályt<null>ÿÿ!
+%2509 :: Feloldottad a\nfordított osztályt!
 
 #(Empty)
 %2510 :: 
 
 #Character / kart part unlock messages
-%2511 :: Befejezted a\n150cc-s gomba kupát.\n\nFeloldottál egy új <null><null><null>\nkaraktert <null>ÿÿ!
-%2512 :: Befejezted a\n150cc-s virág kupát.\n\nFeloldottál egy új <null><null><null>\nkaraktert <null>ÿÿ!
-%2513 :: Befejezted a\n150cc-s csillag kupát.\n\nFeloldottál egy új <null><null><null>\nkaraktert <null>ÿÿ!
-%2514 :: Befejezted a\n150cc-s különleges kupát.\n\nFeloldottál egy új <null><null><null>\nkaraktert <null>ÿÿ!
-%2515 :: Befejezted a\n150cc-s páncél kupát.\n\nFeloldottál egy új <null><null><null>\nkaraktert <null>ÿÿ!
-%2516 :: Befejezted a\n150cc-s banán kupát.\n\nFeloldottál egy új <null><null><null>\nkaraktert <null>ÿÿ!
-%2517 :: Befejezted a\n150cc-s levél kupát.\n\nFeloldottál egy új <null><null><null>\nkaraktert <null>ÿÿ!
-%2518 :: Befejezted a\n150cc-s villám kupát.\n\nFeloldottál egy új <null><null><null>\nkaraktert <null>ÿÿ!
-%2519 :: Most már játszatsz a\n<null><null><null>Mii<null>ÿÿ-dként!
-%2520 :: Összegyűjtöttél <null><null><null><null> érmét.\n\nFeloldottál egy új<null><null><null>\nalkatrészt<null>ÿÿ!
-%2521 :: Összegyűjtöttél 10,000 VR-t.\n\nFeloldottál egy új<null><null><null>\nalkatrészt<null>ÿÿ!
-%2522 :: Elértél legalább egy\ncsillagot minden nagydíjban.\n\nFeloldottál egy új<null><null><null>\nalkatrészt<null>ÿÿ!
-%2523 :: Találkoztál 100\nemberrel StreetPass-on.\n\nFeloldottál egy új<null><null><null>\nalkatrészt<null>ÿÿ!
-%2524 :: Legyőztél egy StreetPass Mii-t.\n\nFeloldottál egy új<null><null><null>\nalkatrészt<null>ÿÿ!
+%2511 :: Befejezted a\n150cc-s gomba kupát.\n\nFeloldottál egy új\nkaraktert!
+%2512 :: Befejezted a\n150cc-s virág kupát.\n\nFeloldottál egy új\nkaraktert!
+%2513 :: Befejezted a\n150cc-s csillag kupát.\n\nFeloldottál egy új\nkaraktert!
+%2514 :: Befejezted a\n150cc-s különleges kupát.\n\nFeloldottál egy új\nkaraktert!
+%2515 :: Befejezted a\n150cc-s páncél kupát.\n\nFeloldottál egy új\nkaraktert!
+%2516 :: Befejezted a\n150cc-s banán kupát.\n\nFeloldottál egy új\nkaraktert!
+%2517 :: Befejezted a\n150cc-s levél kupát.\n\nFeloldottál egy új\nkaraktert!
+%2518 :: Befejezted a\n150cc-s villám kupát.\n\nFeloldottál egy új\nkaraktert!
+%2519 :: Most már játszatsz a\nMii-dként!
+%2520 :: Összegyűjtöttél <null><null><null><null> érmét.\n\nFeloldottál egy új\nalkatrészt!
+%2521 :: Összegyűjtöttél 10,000 VR-t.\n\nFeloldottál egy új\nalkatrészt!
+%2522 :: Elértél legalább egy\ncsillagot minden nagydíjban.\n\nFeloldottál egy új\nalkatrészt!
+%2523 :: Találkoztál 100\nemberrel StreetPass-on.\n\nFeloldottál egy új\nalkatrészt!
+%2524 :: Legyőztél egy StreetPass Mii-t.\n\nFeloldottál egy új\nalkatrészt!
 
 #(Empty)
 %2899 :: 

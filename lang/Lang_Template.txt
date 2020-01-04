@@ -481,25 +481,25 @@ $1915 :: Star Racer (<null>)
 $1916 :: 
 
 #StreetPass titles again
-$1050 :: Shell Shark (<null>)
-$1051 :: Banana Blitzer (<null>)
-$1052 :: Bob-omb Ace (<null>)
-$1053 :: Pro Defender (<null>)
-$1054 :: Rowdy Racer (<null>)
-$1055 :: Boost Jumper (<null>)
-$1056 :: Aviator (<null>)
-$1057 :: Dolphin (<null>)
-$1058 :: Drift Wizard (<null>)
-$1059 :: Quick Starter (<null>)
-$1060 :: Comeback Queen (<null>)
-$1061 :: Model Driver (<null>)
-$1062 :: Zig-Zagger (<null>)
-$1063 :: Safe Driver (<null>)
-$1064 :: Rookie (<null>)
-$1065 :: Star Racer (<null>)
+$1950 :: Shell Shark (<null>)
+$1951 :: Banana Blitzer (<null>)
+$1952 :: Bob-omb Ace (<null>)
+$1953 :: Pro Defender (<null>)
+$1954 :: Rowdy Racer (<null>)
+$1955 :: Boost Jumper (<null>)
+$1956 :: Aviator (<null>)
+$1957 :: Dolphin (<null>)
+$1958 :: Drift Wizard (<null>)
+$1959 :: Quick Starter (<null>)
+$1960 :: Comeback Queen (<null>)
+$1961 :: Model Driver (<null>)
+$1962 :: Zig-Zagger (<null>)
+$1963 :: Safe Driver (<null>)
+$1964 :: Rookie (<null>)
+$1965 :: Star Racer (<null>)
 
 #(Empty)
-$1066 :: 
+$1966 :: 
 
 #Controls (demo cart-only)
 $1980 :: Use item
