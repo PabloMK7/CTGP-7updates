@@ -460,43 +460,43 @@ $1876 :: Utolsó kör
 $1899 :: 
 
 #StreetPass titles (male)
-$1900 :: Páncél párduc (<null>)
-$1901 :: Banán bingó (<null>)
-$1902 :: Bob-omb bingó (<null>)
-$1903 :: Profi védő (<null>)
-$1904 :: Lármás egyén (<null>)
-$1905 :: Ugratós (<null>)
-$1906 :: Pilóta (<null>)
-$1907 :: Delfin (<null>)
-$1908 :: Rafinált faroló (<null>)
-$1909 :: Gyorskezdő (<null>)
-$1910 :: Felhozó (<null>)
-$1911 :: Szabálytisztelő (<null>)
-$1912 :: Szlalomozó (<null>)
-$1913 :: Biztonságos vezető (<null>)
-$1914 :: Zöldfülű (<null>)
-$1915 :: Vezető csillag (<null>)
+$1900 :: Páncél párduc - <null>
+$1901 :: Banán bingó - <null>
+$1902 :: Bob-omb bingó - <null>
+$1903 :: Profi védő - <null>
+$1904 :: Lármás egyén - <null>
+$1905 :: Ugratós - <null>
+$1906 :: Pilóta - <null>
+$1907 :: Delfin - <null>
+$1908 :: Rafinált faroló - <null>
+$1909 :: Gyorskezdő - <null>
+$1910 :: Felhozó - <null>
+$1911 :: Szabálytisztelő - <null>
+$1912 :: Szlalomozó - <null>
+$1913 :: Biztonságos vezető - <null>
+$1914 :: Zöldfülű - <null>
+$1915 :: Sztárvezető - <null>
 
 #(Empty)
 $1916 :: 
 
 #StreetPass titles (female)
-$1050 :: Páncél párduc (<null>)
-$1051 :: Banán bingó (<null>)
-$1052 :: Bob-omb bingó (<null>)
-$1053 :: Profi védő (<null>)
-$1054 :: Lármás egyén (<null>)
-$1055 :: Ugratós (<null>)
-$1056 :: Pilóta (<null>)
-$1057 :: Delfin (<null>)
-$1058 :: Rafinált faroló (<null>)
-$1059 :: Gyorskezdő (<null>)
-$1060 :: Felhozó (<null>)
-$1061 :: Szabálytisztelő (<null>)
-$1062 :: Szlalomozó (<null>)
-$1063 :: Biztonságos vezető (<null>)
-$1064 :: Zöldfülű (<null>)
-$1065 :: Vezető csillag (<null>)
+$1050 :: Páncél párduc - <null>
+$1051 :: Banán bingó - <null>
+$1052 :: Bob-omb bingó - <null>
+$1053 :: Profi védő - <null>
+$1054 :: Lármás egyén - <null>
+$1055 :: Ugratós - <null>
+$1056 :: Pilóta - <null>
+$1057 :: Delfin - <null>
+$1058 :: Rafinált faroló - <null>
+$1059 :: Gyorskezdő - <null>
+$1060 :: Felhozó - <null>
+$1061 :: Szabálytisztelő - <null>
+$1062 :: Szlalomozó - <null>
+$1063 :: Biztonságos vezető - <null>
+$1064 :: Zöldfülű - <null>
+$1065 :: Sztárvezető - <null>
 
 #(Empty)
 $1066 :: 
@@ -727,12 +727,12 @@ $1992 ::
 %2470 :: 
 
 #Items setting
-%2471 :: Items: Mind
-%2472 :: Items: Páncélok
-%2473 :: Items: Banánok
-%2474 :: Items: Gombák
-%2475 :: Items: Bob-ombok
-%2476 :: Items: Nincs
+%2471 :: Tárgyak: Mind
+%2472 :: Tárgyak: Páncélok
+%2473 :: Tárgyak: Banánok
+%2474 :: Tárgyak: Gombák
+%2475 :: Tárgyak: Bob-ombok
+%2476 :: Tárgyak: Nincs
 
 #(Empty)
 %2480 :: 
@@ -943,8 +943,8 @@ $1992 ::
 %6316 :: OK
 %6317 :: Add meg a\nközösség leírását.\n\nA leírásban szerepeljen,\nhogy miről is szól\nez a közösség.
 %6318 :: A közösség a fenti\nbeállításokkal fog\nlétrejönni.\nEzeket a beállításokat\nkésőbb nem változtathatod\nmeg. Rendben?
-%6319 :: A(z)\n<null><null><null><null><null>ÿÿ\nnevű közösséged\nlétrejött!
-%6320 :: A közösséged kódja\na következő:\n<null><null><null><null><null>ÿÿ\nOszd meg a barátaiddal,\nhogy csatlakozhassanak!
+%6319 :: A közösséged\nlétrejött!
+%6320 :: A közösséged kódját\na neve alatt találod.\nOszd meg a barátaiddal,\nhogy csatlakozhassanak!
 %6321 :: A közösség nem található.
 %6322 :: Ezt a közösséget\ntörölték.
 %6323 :: Mielőtt egy közösségben\njátszhatnál, létre kell\nhozni a Mario Kart\ncsatorna adatait.
@@ -1135,14 +1135,6 @@ Egy Mii sem létezik\na Mii Makerben.\n\nNyisd meg a Mii Makert a\n\uE073HOME me
 
 #(Empty)
 %7504 :: 
-
-#Staff credits
-%7900 :: \n\n\nMARIO KART 7\n\nSTÁBLISTA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTECHNIKAI TÁMOGATÁS\n\n\n\n\n\n\n\nPROGRAMOZÁSI TÁMOGATÁS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKÖNYVTÁRI TÁMOGATÁS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHÁLÓZATI TÁMOGATÁS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDIZÁJN TÁMOGATÁS\n\n\n\n\n\n\nHANGI TÁMOGATÁS\n\n\n\n\nBEMUTATÓ FILM\n\n\n\nKARAKTERFELÜGYELŐK\n\n\n\n\n\nILLUSZTRÁCIÓ\n\n\n\n\n\nILLUSZTRÁCIÓ FELÜGYELŐ\n\n\n\nKÉPEK\n\n\n\n\nHIBAELHÁRÍTÁS\n\n\n\n\n\n\nNOA LOKALIZÁCIÓS VEZETŐSÉG\n\n\n\n\n\n\nNOA LOKALIZÁCIÓ\n\n\n\n\n\n\n\n\n\nNOA TESZTELÉS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOE LOKALIZÁCIÓS VEZETŐSÉG\n\n\n\n\n\nNOE FORDÍTÁS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOE MINŐSÉGELLENŐRZÉS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOE ELEKTRONIKUS KÉZIKÖNYV\n\n\n\n\n\nKÜLÖN KÖSZÖNET\n\n\n\n\n\n\n\n\n\n\nÁLTALÁNOS PRODUCER\n\n\n\VÉGREHAJTÓ PRODUCER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-%7901 :: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHideki Konno\n\n\n\nYasuyuki Oyagi\n\n\n\nKosuke Yabuki\n\n\n\nYuji Ichijo\nTaku Matoba\nHokWai Ng\nShintaro Jikumaru\nKoji Kitagawa\n\n\n\nYusuke Shiraiwa\n\n\n\nIchiro Suzuki\nYoshinori Konishi\nShoichi Obayashi\nMifune Hayata\nHideaki Nishihara\nYoshihiko Sakuraba\nTakeshi Miyamoto\nMasahiro Nakamura\nToyoki Kataoka\nTatsuya Takadera\nAtsushi Asakura\nKeiko Kinoshita\n\n\n\nYoshihisa Morimoto\n\n\n\nJun Takamura\n\n\n\nEisuke Sasaki\nMiki Aoki\nMasahiro Kawanishi\nShunichi Shirai\n\n\n\nMasaaki Ishikawa\n\n\n\nYuko Miyakawa\nSatomi Asakawa\nTomomi Iwasaki\n\n\n\nChiharu Takabayashi\n\n\n\nSayaka Nishimura\nHiroshi Ueda\n\n\n\nKenta Nagata\nSatomi Terui\n\n\n\nTakahiro Watanabe\nTaro Bando\n\n\n\n\n\nMichael Kelbaugh\n\n\n\nBryan Walker\n\n\n\nRyan Harris\n\n\n\nShane Lewis\n\n\n\nAkiko Furukawa-Laban\n\n\n\nTom Ivey\n\n\n\nAndy Schwalenberg\nBill Vandervoort\nBrandon Salinas\nJay Fuller\nRussell O'Henly\nStephen Dupree\n\n\n\nVince Joly\n\n\n\nRyan Powell\n\n\n\nAmanda Rotella\nChuck Crist\nElben Schafers\nMatt Manchester\nQuinn Smith\nReed Ketcham\nRussell Lingo\nSean Horton\nTeague Schultz\nTed Anderson\nThomas Robins\n\n\n\nChris Voellmann\n\n\n\nWill Bate\n\n\n\nCarlos Mendieta\nDax Pallotta\nDerek Bonikowski\n\n\n\nTim Little\n\n\n\nAkintunde Omitowoju\nJesse Spears\n\n\n\nKotaro Hiromatsu\nShingo Okamoto\nYasuhiro Kawaguchi\nYoshito Yasuda\nHironobu Kakui\n\n\n\nKenji Yamamoto\nKatsuhisa Sato\nJun Ito\nTakuhiro Dohta\nTakahiro Takayama\nTomohisa Saito\nMasato Kimura\nTetsuya Nakata\nShinji Watanabe\nDaisuke Hiratsu\nMasashi Mifune\nRyuhei Matsuura\nNao Ueda\nYosuke Oshino\n\n\n\nTakashi Endo\nYasushi Ida\nYasuki Tawaraishi\nTakuya Maekawa\nShunsaku Kitamura\nMakoto Takano\nToshikazu Kitani\nAtsushi Masaki\nJumpei Otani\nYasuhiro Yoshioka\nKazuhiro Nishizawa\nMotoi Tanaka\nYasutoshi Maegawa\nHisahiko Takeuchi\nTomohiro Nakatani\nHiroshi Mitsui\nTakashi Yoneyama\nDaisuke Yamatoki\nAtsushi Kobata\n\n\n\nHaruhiko Imatake\nTaisuke Kawahara \nRyo Yamaguchi\nTakumi Masuda\nKenichi Takemoto\nYusuke Inoue\nKeigo Nakano\nKazutomo Niwa\nHideto Yuzawa\nMasayuki Kimura\nRyota Nadatomo\nMasaki Hara\nNorihiro Kozawa\nSatoshi Matsuyama\nTakeshi Kawasaki\nKyohei Nakano\nIppei Ogiwara\nMotoki Yano\nYu Nishikawa\n\n\n\nYoshiki Haruhana\nKeijiro Inoue\nTakahiro Hamaguchi\nYoshifumi Masaki\n\n\n\nRyoji Yoshitomi\nToru Minegishi\n\n\n\nHiroki Hirano\n\n\n\nYo Ohnishi\nSota Kagino\nTsuyoshi Watanabe\n\n\n\nYuri Adachi\nNaoya Hasegawa\nTakumi Wada\n\n\n\nYusuke Nakano\n\n\n\nYoshitomo Kitamura\nRyosuke Hirayama\n\n\n\nYuuki Tanikawa\nWataru Hinoshita\nTsuyoshi Komura\nMario Club Co., Ltd.\n\n\n\nNate Bihldorff\nReiko Ninomiya\nTim O'Leary\nLeslie Swan\n\n\n\nCamilo Alba Navarro\nHélène Bisson-Pelland\nLars Knudson\nGalia Rodríguez Hornedo\nEric M. Smith\nKevin Sullivan\nLaurence Tanen\n\n\n\nMichael Sahlin\nChristopher Hicks\nJesse Nickel\nAya Pickard\nKindra Timmerwilke\nStéphane Arlot\nSara Hoad\nJosh Mueller\nKyle Hudson\nEric Bush\nSean Egan\nRandy Shoemake\nMasayasu Nakata\n\n\n\nAndy Fey\nMartin Weers\nStefan Kashani-Matin\n\n\n\nAna Reis\nAnastasia Golovanova\nCarsten Harmans\nChiara Botta\nCristina Solà Picas\nDaniel Costa\nElsa Kindt\nGiuseppe Tangerini\nJanine Wetherell\nJessica Ferlmann\nMoos Boulogne\nNicolas Sciotti\nPatrick Shields\nPedro José Moreno Villar\nPierre Galmiche\nPolly Barton\n\n\n\nPetra Gyarmaty\nAndrejs Doronins\nCristiano Fernandes\nIbon Díez Maeztu\nJames Greenwood\nJoachim Lust\nJohan Malherbe\nJohn Boudewijn\nManuel Tants\nManuela Patano\nMargarita Jabner\nMario Maldonado R.\nMathieu Springinsfeld\nMatteo Marras\nRicardo V. Gonçalves\nSean Keoghan\nSwen Harder\n\n\n\nSebastian Schürg\nMark Kourtoglou\nZuber Anzaghe\n\n\n\nKensuke Tanabe\nRisa Tabata\nKaori Miyachi\nTakumi Kawagoe\nJin Ikeda\nShunsuke Makita\nKeizo Kato\nAll EAD\n\n\n\nShigeru Miyamoto\n\n\n\nSatoru Iwata\n\n\nNintendo is the author of this\nsoftware for the purpose of\ncopyright. All rights reserved.\n© 2011 Nintendo\n\n\n\n\n\n\n\n\n\n
-%7902 :: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNINTENDO\n\nPRODUCER\n\n\n\nCOPRODUCER\n\n\n\nRENDEZŐ\n\n\n\nTERVEZÉS\n\n\n\n\n\n\n\nPROGRAMOZÁSI RENDEZŐ\n\n\n\nPROGRAMOZÁS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDIZÁJNFELÜGYELŐ\n\n\n\nPÁLYADIZÁJN FELELŐS\n\n\n\nPÁLYADIZÁJN\n\n\n\n\n\n\nKARAKTERDIZÁJN FELELŐS\n\n\n\nKARAKTERDIZÁJN\n\n\n\n\n\nFELÜLETDIZÁJN\n\n\n\nEFFEKT DIZÁJN\n\n\n\n\nZENE\n\n\n\n\nHANGEFFEKTEK\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-%7903 :: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRETRO STUDIOS\n\nIGAZGATÓ\n\n\n\nFEJLESZTÉSI RENDEZŐ\n\n\n\nPRODUKCIÓS MENEDZSER\n\n\n\nPRODUKCIÓ EGYEZTETÉS\n\n\n\nFORDÍTÁS ÉS ADMINISZTRÁCIÓ\n\n\n\nDIZÁJNFELELŐS\n\n\n\nDIZÁJN\n\n\n\n\n\n\n\n\nMŰVÉSZI RENDEZŐ\n\n\n\nMŰVÉSZI FELELŐS\n\n\n\nRAJZ\n\n\n\n\n\n\n\n\n\n\n\n\n\nTECHNIKAI RAJZ\n\n\n\nANIMÁCIÓ FELELŐS\n\n\n\nANIMÁCIÓ\n\n\n\n\n\nMÉRNÖKI RENDEZŐ\n\n\n\nMÉRNÖK\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-
-#(Empty)
 &9000 :: 
 &9001 :: 
 &9002 :: 
