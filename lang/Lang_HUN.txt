@@ -409,7 +409,7 @@ $1828 ::
 
 #???
 $1829 :: <null> <null><null> Cup
-$1830 :: \n\n\n\n\n\n\n\n\n\n
+$1830 :: \u80A0\u80A1\n\u80A2\u80A3\n\u80A4\u80A5\n\u80A6\u80A7\n\u80B1\u80B2\n\u80B3\n\u80B4\n\u80B5\n\u81A7\n\u80B0\n\u81AC\u81AD\u81AE\u81AF
 
 #Race #
 $1831 :: 1. verseny
@@ -509,7 +509,7 @@ $1983 :: Farolás
 $1984 :: Gáz
 $1985 :: Fék
 $1986 :: Demó verzió
-$1987 :: Nyomd meg az -t
+$1987 :: Nyomd meg a \u8080 gombot
 
 #(Empty)
 $1988 :: 

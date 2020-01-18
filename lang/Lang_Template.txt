@@ -409,7 +409,7 @@ $1828 ::
 
 #???
 $1829 :: <null> <null><null> Cup
-$1830 :: \n\n\n\n\n\n\n\n\n\n
+$1830 :: \u80A0\u80A1\n\u80A2\u80A3\n\u80A4\u80A5\n\u80A6\u80A7\n\u80B1\u80B2\n\u80B3\n\u80B4\n\u80B5\n\u81A7\n\u80B0\n\u81AC\u81AD\u81AE\u81AF
 
 #Race #
 $1831 :: 1st Race
@@ -509,7 +509,7 @@ $1983 :: Drift
 $1984 :: Accelerate
 $1985 :: Brake
 $1986 :: Demo Version
-$1987 :: Press 
+$1987 :: Press \u8080
 
 #(Empty)
 $1988 :: 
@@ -758,7 +758,7 @@ $1992 ::
 %2504 :: You have unlocked the\n<null><null><null>Special Cup<null>ÿÿ!
 
 #(Empty)
-%2505 :: 
+%2505 ::  
 
 #Retro cup unlock messages
 %2506 :: You have unlocked the\n<null><null><null>Banana Cup<null>ÿÿ!
@@ -838,7 +838,7 @@ $1992 ::
 %5908 :: A communication error\nhas occurred.
 %5909 :: Please wait...
 %5910 :: Preparing to watch the match\nin progress...
-%5911 :: A communication error\nhas occurred.\n\nPress HOME to return\nto the HOME Menu.
+%5911 :: A communication error\nhas occurred.\n\nPress \uE073HOME to return\nto the HOME Menu.
 
 #(Empty)
 %5990 :: 
