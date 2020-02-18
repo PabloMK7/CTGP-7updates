@@ -186,3 +186,14 @@ update_check :: Controllo aggiornamenti... :: L'ultima versione di CTGP-7\nè ri
 #CTWW
 cntdwn :: Conto alla rovescia
 CTWWtog :: Vuoi abilitare le piste\ncustom mondiali? :: Vuoi disabilitare le piste\ncustom mondiali?
+
+#VS Mode
+VSSet :: VS Settings
+CourOrd :: Course Order
+RacAm :: Race Amount
+RanCT :: Random (CTs)
+RanOri :: Random (Original)
+RanAll :: Random (All)
+OrderH :: Horizontal Order
+OrderV :: Vertical Order
+NextRac :: Select next track. Remaining races:

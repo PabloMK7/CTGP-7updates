@@ -186,3 +186,15 @@ update_check :: Zoeken naar updates... :: De nieuwste versie van CTGP-7\nis nodi
 #CTWW
 cntdwn :: Countdown
 CTWWtog :: Wil je Aangepaste Banen Wereldwijd aanzetten? :: Wil je Aangepaste Banen Wereldwijd uitzetten?
+
+
+#VS Mode
+VSSet :: VS Settings
+CourOrd :: Course Order
+RacAm :: Race Amount
+RanCT :: Random (CTs)
+RanOri :: Random (Original)
+RanAll :: Random (All)
+OrderH :: Horizontal Order
+OrderV :: Vertical Order
+NextRac :: Select next track. Remaining races:

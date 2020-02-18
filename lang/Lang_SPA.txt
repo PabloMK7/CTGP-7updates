@@ -186,3 +186,14 @@ update_check :: Buscando actualizaciones... :: La última versión de CTGP-7\nes
 #CTWW
 cntdwn :: Cuenta Atrás
 CTWWtog :: ¿Quieres activar\nCircuitos Editados En Línea? :: ¿Quieres desactivar\nCircuitos Editados En Línea?
+
+#VS Mode
+VSSet :: Opciones VS
+CourOrd :: Orden de Circuitos
+RacAm :: Número de Rondas
+RanCT :: Aleatorio (CTs)
+RanOri :: Aleatorio (Orig.)
+RanAll :: Aleatorio (Todos)
+OrderH :: Orden Horizontal
+OrderV :: Orden Vertical
+NextRac :: Elige el próximo circuito. Rondas restantes:

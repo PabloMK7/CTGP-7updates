@@ -186,3 +186,14 @@ update_check :: Nach Updates wird gesucht... :: Die neueste Version von CTGP-7\n
 #CTWW
 cntdwn :: Countdown
 CTWWtog :: Möchtest du benutzerdef.\nStrecken für den Weltweit-\nModus aktivieren? :: Möchtest du benutzerdef.\nStrecken für den Weltweit-\nModus deaktivieren?
+
+#VS Mode
+VSSet :: VS Settings
+CourOrd :: Course Order
+RacAm :: Race Amount
+RanCT :: Random (CTs)
+RanOri :: Random (Original)
+RanAll :: Random (All)
+OrderH :: Horizontal Order
+OrderV :: Vertical Order
+NextRac :: Select next track. Remaining races:

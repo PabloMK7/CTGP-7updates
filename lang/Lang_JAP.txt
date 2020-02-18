@@ -193,3 +193,14 @@ update_check :: アップデートの確認をしています... :: オンライ
 #CTWW
 cntdwn :: カウントダウン
 CTWWtog :: カスタムトラックを\n有効にしますか？ :: カスタムトラックを\n無効にしますか？
+
+#VS Mode
+VSSet :: VS Settings
+CourOrd :: Course Order
+RacAm :: Race Amount
+RanCT :: Random (CTs)
+RanOri :: Random (Original)
+RanAll :: Random (All)
+OrderH :: Horizontal Order
+OrderV :: Vertical Order
+NextRac :: Select next track. Remaining races:

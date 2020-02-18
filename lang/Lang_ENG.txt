@@ -186,3 +186,14 @@ update_check :: Checking for updates... :: The latest version of CTGP-7\nis requ
 #CTWW
 cntdwn :: Countdown
 CTWWtog :: Would you like to enable\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?
+
+#VS Mode
+VSSet :: VS Settings
+CourOrd :: Course Order
+RacAm :: Race Amount
+RanCT :: Random (CTs)
+RanOri :: Random (Original)
+RanAll :: Random (All)
+OrderH :: Horizontal Order
+OrderV :: Vertical Order
+NextRac :: Select next track. Remaining races:

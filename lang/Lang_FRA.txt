@@ -186,3 +186,15 @@ update_check :: Vérification des mises à jour... :: La dernière version de CT
 #CTWW
 cntdwn :: Compte à Rebours
 CTWWtog :: Souhaitez-vous activer les\nCustom Tracks en Mondial ? :: Souhaitez-vous désactiver les\nCustom Tracks en Mondial ?
+
+
+#VS Mode
+VSSet :: VS Settings
+CourOrd :: Course Order
+RacAm :: Race Amount
+RanCT :: Random (CTs)
+RanOri :: Random (Original)
+RanAll :: Random (All)
+OrderH :: Horizontal Order
+OrderV :: Vertical Order
+NextRac :: Select next track. Remaining races:
