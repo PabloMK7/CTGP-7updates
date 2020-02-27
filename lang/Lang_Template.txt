@@ -13,6 +13,8 @@
 #	HOME button -> \uE073
 #	POWER button -> \uE078
 #	Line Break -> \n
+# Identical entry (only works if same msbt) ->\r(otherentryid)
+# Special format (Don't change!)-> \u000E
 # Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
 # Make sure you test the language file ingame to check if the line breaks are working properly.
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
@@ -207,9 +209,6 @@ $1014 :: Metal Mario
 $1015 :: Mii
 $1016 :: Shy Guy
 
-#(Empty)
-$1017 :: 
-
 #Items
 $1018 :: Dash Mushroom
 $1019 :: Fire Flower
@@ -231,19 +230,12 @@ $1034 :: Triple Green Shell
 $1035 :: Triple Banana
 $1036 :: Triple Red Shell
 
-#(Empty)
-$1037 :: 
-
 #Icons
 $1043 :: Flag
 $1044 :: Balloons
 $1045 :: Coin
 $1046 :: Steering Wheel
 $1047 :: Golden Steering Wheel
-
-#(Empty)
-$1048 :: 
-$1049 :: 
 
 #Characters (short)
 $1050 :: Mario
@@ -264,9 +256,6 @@ $1064 :: M. Mario
 $1065 :: Mii
 $1066 :: Shy Guy
 
-#(Empty)
-$1099 :: 
-
 #Karts
 $1100 :: Standard
 $1101 :: Bolt Buggy
@@ -286,9 +275,6 @@ $1114 :: Barrel Train
 $1115 :: Soda Jet
 $1116 :: Gold Kart
 
-#(Empty)
-$1199 :: 
-
 #Tyres
 $1200 :: Normal
 $1201 :: Roller
@@ -301,9 +287,6 @@ $1207 :: Mushroom
 $1208 :: Wooden
 $1209 :: Gold Wheels
 
-#(Empty)
-$1299 :: 
-
 #Gliders
 $1300 :: Super Glider
 $1301 :: Parafoil
@@ -312,9 +295,6 @@ $1303 :: Flower Glider
 $1304 :: Swoop
 $1305 :: Ghastly Glider
 $1306 :: Gold Glider
-
-#(Empty)
-$1499 :: 
 
 #Original cups
 $1500 :: Mushroom Cup
@@ -325,9 +305,6 @@ $1504 :: Shell Cup
 $1505 :: Banana Cup
 $1506 :: Leaf Cup
 $1507 :: Lightning Cup
-
-#(Empty)
-$1599 :: 
 
 #Nitro tracks
 $1600 :: Mario Circuit
@@ -347,9 +324,6 @@ $1613 :: Rosalina's Ice World
 $1614 :: Bowser's Castle
 $1615 :: Rainbow Road
 
-#(Empty)
-$1699 :: 
-
 #Retro tracks
 $1700 :: \uE031\uE032 Mario Circuit 2
 $1701 :: \uE024\uE025 Bowser Castle 1
@@ -368,9 +342,6 @@ $1713 :: \uE026\uE027 Daisy Cruiser
 $1714 :: \uE022\uE023 Koopa Troopa Beach
 $1715 :: \uE031\uE032 Rainbow Road
 
-#(Empty)
-$1799 :: 
-
 #Balloon battle tracks
 $1800 :: Honeybee House
 $1801 :: Sherbet Rink
@@ -382,9 +353,6 @@ $1805 :: \uE033 Palm Shore
 #Random track
 $1806 :: ?
 
-#(Empty)
-$1807 :: 
-
 #Class select
 $1810 :: 50cc
 $1811 :: 100cc
@@ -394,22 +362,8 @@ $1813 :: Mirror
 #(Empty)
 $1814 :: 
 
-#???
-$1820 :: <null>
-$1821 :: <null> <null>
-$1822 :: <null> <null>
-$1823 :: <null> <null>
-$1824 :: <null> <null>
-$1825 :: <null> <null>
-
-#(Empty)
-$1826 :: 
-$1827 :: 
-$1828 :: 
-
-#???
-$1829 :: <null> <null><null> Cup
-$1830 :: \u80A0\u80A1\n\u80A2\u80A3\n\u80A4\u80A5\n\u80A6\u80A7\n\u80B1\u80B2\n\u80B3\n\u80B4\n\u80B5\n\u81A7\n\u80B0\n\u81AC\u81AD\u81AE\u81AF
+#StreetPass cup name
+$1829 :: \u000E\u0001\u0002\u0000 \u000E\u0001\u0000\u0000 Cup
 
 #Race #
 $1831 :: 1st Race
@@ -456,74 +410,37 @@ $1874 :: 4th Round
 $1875 :: 5th Round
 $1876 :: Final Round
 
-#(Empty)
-$1899 :: 
-
 #StreetPass titles
-$1900 :: Shell Shark (<null>)
-$1901 :: Banana Blitzer (<null>)
-$1902 :: Bob-omb Ace (<null>)
-$1903 :: Pro Defender (<null>)
-$1904 :: Rowdy Racer (<null>)
-$1905 :: Boost Jumper (<null>)
-$1906 :: Aviator (<null>)
-$1907 :: Dolphin (<null>)
-$1908 :: Drift Wizard (<null>)
-$1909 :: Quick Starter (<null>)
-$1910 :: Comeback King (<null>)
-$1911 :: Model Driver (<null>)
-$1912 :: Zig-Zagger (<null>)
-$1913 :: Safe Driver (<null>)
-$1914 :: Rookie (<null>)
-$1915 :: Star Racer (<null>)
-
-#(Empty)
-$1916 :: 
-
-#StreetPass titles again
-$1950 :: Shell Shark (<null>)
-$1951 :: Banana Blitzer (<null>)
-$1952 :: Bob-omb Ace (<null>)
-$1953 :: Pro Defender (<null>)
-$1954 :: Rowdy Racer (<null>)
-$1955 :: Boost Jumper (<null>)
-$1956 :: Aviator (<null>)
-$1957 :: Dolphin (<null>)
-$1958 :: Drift Wizard (<null>)
-$1959 :: Quick Starter (<null>)
-$1960 :: Comeback Queen (<null>)
-$1961 :: Model Driver (<null>)
-$1962 :: Zig-Zagger (<null>)
-$1963 :: Safe Driver (<null>)
-$1964 :: Rookie (<null>)
-$1965 :: Star Racer (<null>)
-
-#(Empty)
-$1966 :: 
+$1900 :: Shell Shark (\u000E\u0001\u0008\u0000)
+$1901 :: Banana Blitzer (\u000E\u0001\u0008\u0000)
+$1902 :: Bob-omb Ace (\u000E\u0001\u0008\u0000)
+$1903 :: Pro Defender (\u000E\u0001\u0008\u0000)
+$1904 :: Rowdy Racer (\u000E\u0001\u0008\u0000)
+$1905 :: Boost Jumper (\u000E\u0001\u0008\u0000)
+$1906 :: Aviator (\u000E\u0001\u0008\u0000)
+$1907 :: Dolphin (\u000E\u0001\u0008\u0000)
+$1908 :: Drift Wizard (\u000E\u0001\u0008\u0000)
+$1909 :: Quick Starter (\u000E\u0001\u0008\u0000)
+$1910 :: Comeback King (\u000E\u0001\u0008\u0000)
+$1911 :: Model Driver (\u000E\u0001\u0008\u0000)
+$1912 :: Zig-Zagger (\u000E\u0001\u0008\u0000)
+$1913 :: Safe Driver (\u000E\u0001\u0008\u0000)
+$1914 :: Rookie (\u000E\u0001\u0008\u0000)
+$1915 :: Star Racer (\u000E\u0001\u0008\u0000)
 
 #Controls (demo cart-only)
-$1980 :: Use item
-$1981 :: Steer
-$1982 :: Switch view
-$1983 :: Drift
-$1984 :: Accelerate
-$1985 :: Brake
-$1986 :: Demo Version
-$1987 :: Press \u8080
-
-#(Empty)
-$1988 :: 
-$1989 :: 
-$1990 :: 
-$1991 :: 
-$1992 :: 
+#$1980 :: Use item
+#$1981 :: Steer
+#$1982 :: Switch view
+#$1983 :: Drift
+#$1984 :: Accelerate
+#$1985 :: Brake
+#$1986 :: Demo Version
+#$1987 :: Press \uE000
 
 #Dialogues?
 %2000 :: MARIO KART 7
 %2001 :: OK
-
-#(Empty)
-%2002 :: 
 
 #Dialogue buttons
 %2003 :: Yes
@@ -531,16 +448,9 @@ $1992 ::
 %2005 :: Cancel
 %2006 :: Next
 
-#(Empty)
-%2007 :: 
-%2008 :: 
-
 #Update dialogue
 %2080 :: In order to play online,\nMario Kart 7 update data\nmust be downloaded first.
 %2081 :: Mario Kart 7 has been updated.\n\nThe software will now restart.
-
-#(Empty)
-%2089 :: 
 
 #Main menu
 %2090 :: Single Player
@@ -551,22 +461,14 @@ $1992 ::
 %2095 :: Friends/Opponents
 %2096 :: Communities
 
-#(Empty)
-%2097 :: 
-%2098 :: 
-%2199 :: 
-
 #Single Player & Online Multiplayer menus
 %2200 :: Grand Prix
 %2201 :: Time Trials
 %2202 :: Balloon Battle
 %2203 :: Coin Battle
 %2204 :: VS Race
-%2205 :: VS Race
+%2205 :: \r%2204
 %2206 :: Battle
-
-#(Empty)
-%2209 :: 
 
 #Single Player mode descriptions
 %2210 :: Race for first place in cups of four courses.
@@ -575,26 +477,17 @@ $1992 ::
 %2213 :: Grab as many coins as you can.
 %2214 :: Race using custom rules.
 
-#(Empty)
-%2219 :: 
-
-#Class select again
+#Class select
 %2220 :: 50cc
 %2221 :: 100cc
 %2222 :: 150cc
 %2223 :: Mirror
-
-#(Empty)
-%2229 :: 
 
 #Class select descriptions
 %2230 :: Easy
 %2231 :: Average
 %2232 :: Challenging
 %2233 :: Flipped Courses
-
-#(Empty)
-%2239 :: 
 
 #Kart build stats
 %2240 :: Speed
@@ -603,18 +496,12 @@ $1992 ::
 %2243 :: Handling
 %2244 :: Off-road
 
-#(Empty)
-%2299 :: 
-
 #Class setting
 %2300 :: Class
-%2301 :: 50cc
-%2302 :: 100cc
-%2303 :: 150cc
-%2304 :: Mirror
-
-#(Empty)
-%2305 :: 
+%2301 :: \r%2220
+%2302 :: \r%2221
+%2303 :: \r%2222
+%2304 :: \r%2223
 
 #CPU setting
 %2310 :: CPU
@@ -624,52 +511,22 @@ $1992 ::
 %2314 :: Off
 %2315 :: On
 
-#(Empty)
-%2316 :: 
-
 #Courses setting
 %2320 :: Courses
 %2321 :: Choose
 %2322 :: Random
 %2323 :: In Order
 
-#(Empty)
-%2324 :: 
-%2330 :: 
-%2331 :: 
-%2332 :: 
-%2333 :: 
-%2334 :: 
-%2335 :: 
-%2336 :: 
-%2337 :: 
-%2338 :: 
-%2339 :: 
-
 #Teams setting
 %2340 :: Teams
-%2341 :: On
-%2342 :: Off
-
-#(Empty)
-%2343 :: 
-%2344 :: 
+%2341 :: \r%2315
+%2342 :: \r%2314
 
 #Stage setting
 %2350 :: Stage
-%2351 :: Choose
-%2352 :: Random
-%2353 :: In Order
-
-#(Empty)
-%2354 :: 
-%2360 :: 
-%2361 :: 
-%2362 :: 
-%2363 :: 
-%2364 :: 
-%2365 :: 
-%2369 :: 
+%2351 :: \r%2321
+%2352 :: \r%2322
+%2353 :: \r%2323
 
 #Items setting
 %2370 :: Items
@@ -680,9 +537,6 @@ $1992 ::
 %2375 :: Bob-ombs
 %2376 :: None
 
-#(Empty)
-%2379 :: 
-
 #Mode setting
 %2380 :: Mode
 %2381 :: 50cc Race
@@ -691,13 +545,6 @@ $1992 ::
 %2384 :: Mirror Race
 %2385 :: Balloon Battle
 %2386 :: Coin Battle
-
-#(Empty)
-%2387 :: 
-%2390 :: 
-%2391 :: 
-%2392 :: 
-%2399 :: 
 
 #Start buttons
 %2400 :: Start Race
@@ -708,23 +555,14 @@ $1992 ::
 %2403 :: None
 %2404 :: Ghost Data × 7
 
-#(Empty)
-%2405 :: 
-
 #Quit dialogue
 %2406 :: Quit battle?
 
 #Local Multiplayer menu
-%2407 :: Groups playing: <null><null><null><null>
+%2407 :: Groups playing: \u000E\u0001\u0004\u0004\u0000\u0000
 
 #Ghost select
 %2408 :: Select Ghost Data
-
-#(Empty)
-%2440 :: 
-%2441 :: 
-%2442 :: 
-%2470 :: 
 
 #Items setting
 %2471 :: Items: All
@@ -734,74 +572,52 @@ $1992 ::
 %2475 :: Items: Bob-ombs
 %2476 :: Items: None
 
-#(Empty)
-%2480 :: 
-
 #Mode select
 %2481 :: 50cc Grand Prix
 %2482 :: 100cc Grand Prix
 %2483 :: 150cc Grand Prix
 %2484 :: Mirror Grand Prix
-%2485 :: Balloon Battle
-%2486 :: Coin Battle
-
-#(Empty)
-%2490 :: 
-%2491 :: 
-%2492 :: 
-%2500 :: 
-%2501 :: 
+%2485 :: \r%2385
+%2486 :: \r%2386
 
 #Nitro cup unlock messages
-%2502 :: You have unlocked the\n<null><null><null>Flower Cup<null>ÿÿ!
-%2503 :: You have unlocked the\n<null><null><null>Star Cup<null>ÿÿ!
-%2504 :: You have unlocked the\n<null><null><null>Special Cup<null>ÿÿ!
+%2502 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Flower Cup\u000E\u0000\u0003\u0002\uFFFF!
+%2503 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Star Cup\u000E\u0000\u0003\u0002\uFFFF!
+%2504 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Special Cup\u000E\u0000\u0003\u0002\uFFFF!
 
 #(Empty)
 %2505 ::  
 
 #Retro cup unlock messages
-%2506 :: You have unlocked the\n<null><null><null>Banana Cup<null>ÿÿ!
-%2507 :: You have unlocked the\n<null><null><null>Leaf Cup<null>ÿÿ!
-%2508 :: You have unlocked the\n<null><null><null>Lightning Cup<null>ÿÿ!
+%2506 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Banana Cup\u000E\u0000\u0003\u0002\uFFFF!
+%2507 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Leaf Cup\u000E\u0000\u0003\u0002\uFFFF!
+%2508 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Lightning Cup\u000E\u0000\u0003\u0002\uFFFF!
 
 #Mirror class unlock message
-%2509 :: You have unlocked the\n<null><null><null>Mirror class<null>ÿÿ!
+%2509 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Mirror class\u000E\u0000\u0003\u0002\uFFFF!
 
 #(Empty)
 %2510 :: 
 
 #Character / kart part unlock messages
-%2511 :: You have completed the\n150cc Mushroom Cup.\n\nA new <null><null><null>character <null>ÿÿhas\nbeen unlocked!
-%2512 :: You have completed the\n150cc Flower Cup.\n\nA new <null><null><null>character <null>ÿÿhas\nbeen unlocked!
-%2513 :: You have completed the\n150cc Star Cup.\n\nA new <null><null><null>character <null>ÿÿhas\nbeen unlocked!
-%2514 :: You have completed the\n150cc Special Cup.\n\nA new <null><null><null>character <null>ÿÿhas\nbeen unlocked!
-%2515 :: You have completed the\n150cc Shell Cup.\n\nA new <null><null><null>character <null>ÿÿhas\nbeen unlocked!
-%2516 :: You have completed the\n150cc Banana Cup.\n\nA new <null><null><null>character <null>ÿÿhas\nbeen unlocked!
-%2517 :: You have completed the\n150cc Leaf Cup.\n\nA new <null><null><null>character <null>ÿÿhas\nbeen unlocked!
-%2518 :: You have completed the\n150cc Lightning Cup.\n\nA new <null><null><null>character <null>ÿÿhas\nbeen unlocked!
-%2519 :: You can now race as your\n<null><null><null>Mii<null>ÿÿ!
-%2520 :: You have collected <null><null><null><null> coins.\n\nA new <null><null><null>vehicle customisation\noption <null>ÿÿhas been unlocked!
-%2521 :: You have earned 10,000 VR.\n\nA new <null><null><null>vehicle customisation\noption<null>ÿÿ has been unlocked!
-%2522 :: You have earned a rating\nof at least one star in\nevery Grand Prix.\n\nA new <null><null><null>vehicle customisation\noption<null>ÿÿ has been unlocked!
-%2523 :: You have met 100 players\nvia StreetPass.\n\nA new <null><null><null>vehicle customisation\noption<null>ÿÿ has been unlocked!
-%2524 :: You beat a Mii met via\nStreetPass.\n\nA new <null><null><null>vehicle customisation\noption<null>ÿÿ has been unlocked!
-
-#(Empty)
-%2899 :: 
-%2900 :: 
-%2901 :: 
-%5000 :: 
+%2511 :: You have completed the\n150cc Mushroom Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2512 :: You have completed the\n150cc Flower Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2513 :: You have completed the\n150cc Star Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2514 :: You have completed the\n150cc Special Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2515 :: You have completed the\n150cc Shell Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2516 :: You have completed the\n150cc Banana Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2517 :: You have completed the\n150cc Leaf Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2518 :: You have completed the\n150cc Lightning Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2519 :: You can now race as your\n\u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
+%2520 :: You have collected \u000E\u0001\u0004\u0004\u0000\u0000 coins.\n\nA new \u000E\u0000\u0003\u0002\u0000vehicle customisation\noption \u000E\u0000\u0003\u0002\uFFFFhas been unlocked!
+%2521 :: You have earned 10,000 VR.\n\nA new \u000E\u0000\u0003\u0002\u0000vehicle customisation\noption\u000E\u0000\u0003\u0002\uFFFF has been unlocked!
+%2522 :: You have earned a rating\nof at least one star in\nevery Grand Prix.\n\nA new \u000E\u0000\u0003\u0002\u0000vehicle customisation\noption\u000E\u0000\u0003\u0002\uFFFF has been unlocked!
+%2523 :: You have met 100 players\nvia StreetPass.\n\nA new \u000E\u0000\u0003\u0002\u0000vehicle customisation\noption\u000E\u0000\u0003\u0002\uFFFF has been unlocked!
+%2524 :: You beat a Mii met via\nStreetPass.\n\nA new \u000E\u0000\u0003\u0002\u0000vehicle customisation\noption\u000E\u0000\u0003\u0002\uFFFF has been unlocked!
 
 #Local Multiplayer menu
 %5001 :: Choose a group. \n\nTouch Create a Group if\nyou want to make a new\ngroup or there are no\ngroups displayed.
 %5002 :: Create a Group
-
-#(Empty)
-%5003 :: 
-%5004 :: 
-%5005 :: 
-%5006 :: 
 
 #Local Multiplayer menu
 %5007 :: Finding players...
@@ -820,8 +636,8 @@ $1992 ::
 
 #Friend Registration menu
 %5905 :: Friend Registration
-%5901 :: You are now friends\nwith <null><null>!
-%5902 :: You are now friends\nwith <null><null>!
+%5901 :: You are now friends\nwith \u000E\u0001\u0000\u0000!
+%5902 :: \r%5901
 %5903 :: Delete this player's data?
 
 #Communities
@@ -840,16 +656,10 @@ $1992 ::
 %5910 :: Preparing to watch the match\nin progress...
 %5911 :: A communication error\nhas occurred.\n\nPress \uE073HOME to return\nto the HOME Menu.
 
-#(Empty)
-%5990 :: 
-
 #Friends/Opponents menu
 %5991 :: Friends
 %5992 :: Recent Opponents
 %5993 :: StreetPass Hits
-
-#(Empty)
-%6000 :: 
 
 #More Online Multiplayer messages
 %6001 :: Connecting to\nNintendo Network...
@@ -862,35 +672,22 @@ $1992 ::
 %6008 :: Preparing for the battle...
 %6009 :: Players for Next Match
 %6010 :: No players found.
-%6011 :: Joining\n<null><null>...
-%6012 :: You were unable to join\n<null><null>'s group.\n\nPlease wait and try\nagain later.
+%6011 :: Joining\n\u000E\u0001\u0000\u0000...
+%6012 :: You were unable to join\n\u000E\u0001\u0000\u0000's group.\n\nPlease wait and try\nagain later.
 %6014 :: Next Round: Balloon Battle
 %6015 :: Next Round: Coin Battle
 
-#(Empty)
-%6013 :: 
-
 #Friends/Opponents menu
 %6100 :: Join
-
-#(Empty)
-%6101 :: 
-%6102 :: 
-%6103 :: 
-%6104 :: 
 
 #Friends Status?
 %6105 :: Racing online
 %6106 :: Battling online
 %6107 :: Playing community game
-%6108 :: <null><null><null><null>
 %6109 :: -
-%6150 :: Racing online\nVR: <null><null><null><null>
-%6151 :: Battling online\nVR: <null><null><null><null>
-%6152 :: Playing with community\n<null>
-
-#(Empty)
-%6199 :: 
+%6150 :: Racing online\nVR: \u000E\u0001\u0004\u0004\u0000\u0000
+%6151 :: Battling online\nVR: \u000E\u0001\u0004\u0004\u0000\u0000
+%6152 :: Playing with community\n\u000E\u0001\u0005\u0000\u0000
 
 #Sendable Community messages
 %6200 :: Send Message
@@ -919,9 +716,6 @@ $1992 ::
 %6223 :: Goodnight!
 %6224 :: Bye!
 
-#(Empty)
-%6225 :: 
-
 #Communities
 %6299 :: Menu
 %6300 :: Favourites
@@ -929,7 +723,7 @@ $1992 ::
 %6302 :: Enter Code
 %6303 :: Create Community
 %6304 :: Join
-%6305 :: <null>\n\nJoin this community now?
+%6305 :: \u000E\u0001\u0005\u0000\u0000\n\nJoin this community now?
 %6306 :: Searching for groups...
 %6307 :: Leave this group?
 %6308 :: Continue playing?
@@ -943,14 +737,14 @@ $1992 ::
 %6316 :: OK
 %6317 :: Enter the community\ndescription.\n\nYour description should make\nit clear to other players what\nkind of community this is.
 %6318 :: The community will be created\nusing the settings above.\nThese settings cannot be\nchanged later. Is this OK?
-%6319 :: Your community\n\n<null><null><null><null><null>ÿÿ\n\nhas been created!
-%6320 :: Your community code is:\n\n<null><null><null><null><null>ÿÿ\n\nShare it with your friends so\nthey can join your community!
+%6319 :: Your community\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0005\u0000\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nhas been created!
+%6320 :: Your community code is:\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0001\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nShare it with your friends so\nthey can join your community!
 %6321 :: Community not found.
 %6322 :: This community has been\ndeleted from the server.
 %6323 :: Mario Kart Channel data must\nbe created before you can\nplay as part of a community.
 %6324 :: Communities\n\nPlay against other players\nwho are part of the same\ncommunity.
-%6325 :: <null><null> <null><null><null><null> <null>p<null>t<null><null>p<null>t<null>s<null><null><null><null><null>
-%6326 :: Players\n<null><null><null><null>
+%6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
+%6326 :: Players\n\u000E\u0001\u0004\u0004\u0000\u0000
 %6327 :: Select an icon for your\ncommunity.
 %6328 :: Items
 %6329 :: Characters
@@ -961,19 +755,12 @@ $1992 ::
 %6334 :: SD Card error.\n\nPlease check the data in\nthe Mario Kart Channel.
 %6335 :: Items are required in\norder to play battles.
 
-#(Empty)
-%6399 :: 
-
 #Communities
 %6400 :: StreetPass List
 %6401 :: Community recommendations\nhave been updated.\n\nView now?
 
 #SpotPass
 %6402 :: Ghost data has arrived\nvia SpotPass!\n\nRace against it now?
-
-#(Empty)
-%6403 :: 
-%6404 :: 
 
 #Player profile
 %6405 :: VR
@@ -991,17 +778,11 @@ $1992 ::
 #SpotPass
 %6417 :: Ghost data has arrived via SpotPass.
 
-#(Empty)
-%6409 :: 
-
 #Menus
 %6410 :: Play
 %6411 :: Grand Prix
 %6412 :: Time Trials
 %6413 :: Join Online
-
-#(Empty)
-%6420 :: 
 
 #Player profile
 %6421 :: Change Mii
@@ -1010,24 +791,15 @@ $1992 ::
 %6424 :: Create Grand Prix
 %6425 :: Settings
 
-#(Empty)
-%6426 :: 
-
 #Note about player profile messages
 %6427 :: Please note that messages\nyou enter in Mario Kart 7\nwill be visible to anyone\nyou play with wirelessly,\nand may be edited or\nforwarded to others.
 %6428 :: Please do not include any\noffensive language, personal\ninformation, or content that\nis illegal or infringes upon\nthe rights of others.
-
-#(Empty)
-%6430 :: 
 
 #Rankings
 %6431 :: 1st
 %6432 :: 2nd
 %6433 :: 3rd
 %6434 :: 4th
-
-#(Empty)
-%6439 :: 
 
 #StreetPass setting
 %6440 :: StreetPass
@@ -1036,8 +808,8 @@ $1992 ::
 
 #SpotPass setting
 %6450 :: SpotPass
-%6451 :: Activated
-%6452 :: Deactivated
+%6451 :: \r%6441
+%6452 :: \r%6442
 
 #Region display setting
 %6460 :: Region
@@ -1054,10 +826,6 @@ $1992 ::
 %6481 :: Use
 %6482 :: Don't Use
 
-#(Empty)
-%6483 :: 
-%7000 :: 
-
 #Save data reset dialogue
 %7001 :: Reset your save data?
 %7002 :: If you reset your save data,\nyou will permanently lose\nall records and progress.\n\nAre you sure this is OK?
@@ -1071,9 +839,6 @@ $1992 ::
 #Generic error
 %7007 :: An error has occurred.\n\nHold down the POWER Button\nto turn off the power, then\nturn it on and try again.
 
-#(Empty)
-%7100 :: 
-
 #R/W errors
 %7101 :: The SD Card has been\nremoved.\n\nPlease turn off the power\nbefore removing SD Cards.
 %7102 :: Please wait...\n\nDo not turn off the power\nor remove the SD Card.
@@ -1084,58 +849,40 @@ $1992 ::
 %7107 :: SD Card error.
 %7108 :: The Mario Kart Channel\ndata is corrupted and\nwill now be reset.
 
-#(Empty)
-%7200 :: 
-
 #Mario Kart Channel explanation
-%7201 :: The Mario Kart Channel can\nuse <null><null>StreetPass<null>ÿÿ and <null><null>SpotPass\n<null>ÿÿto receive various data.
-%7202 :: <null><null>StreetPass<null>ÿÿ\nExchange profiles with people\nyou pass by so you can\nchallenge them online.
-%7203 :: <null><null>SpotPass<null>ÿÿ\nReceive ghost data from\nplayers around the globe,\nand recommendations for\ncommunities you might like.
-%7204 :: <null><null>StreetPass <null>ÿÿand <null><null>SpotPass <null>ÿÿwill\nremain active even while you\nare not playing Mario Kart 7.
+%7201 :: The Mario Kart Channel can\nuse \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF and \u000E\u0000\u0003\u0002\u0001SpotPass\n\u000E\u0000\u0003\u0002\uFFFFto receive various data.
+%7202 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\nExchange profiles with people\nyou pass by so you can\nchallenge them online.
+%7203 :: \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nReceive ghost data from\nplayers around the globe,\nand recommendations for\ncommunities you might like.
+%7204 :: \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFand \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFwill\nremain active even while you\nare not playing Mario Kart 7.
 %7205 :: Data received by the\nMario Kart Channel is\nsaved to the SD Card.
-
-#(Empty)
-%7300 :: 
 
 #Mario Kart Channel first time setup
 %7301 :: Mario Kart Channel data will\nbe created on the SD Card.
-%7302 :: Mario Kart Channel data will\nbe created on the SD Card.\n\n<null><null>StreetPass<null>ÿÿ and <null><null>SpotPass<null>ÿÿ will be\nactivated for this software. 
-%7303 :: Mario Kart Channel data will\nbe created on the SD Card.\n\n<null><null>StreetPass<null>ÿÿ will be activated for\nthis software.
-%7304 :: Mario Kart Channel data will\nbe created on the SD Card.\n\n<null><null>SpotPass <null>ÿÿwill be activated for\nthis software.
-%7305 :: <null><null>StreetPass<null>ÿÿ and <null><null>SpotPass <null>ÿÿwill be\nactivated for this software.
-%7306 :: <null><null>StreetPass <null>ÿÿwill be activated for\nthis software.
-%7307 :: <null><null>SpotPass <null>ÿÿwill be activated for\nthis software.
-
-#(Empty)
-%7400 :: 
+%7302 :: Mario Kart Channel data will\nbe created on the SD Card.\n\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF and \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF will be\nactivated for this software. 
+%7303 :: Mario Kart Channel data will\nbe created on the SD Card.\n\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF will be activated for\nthis software.
+%7304 :: Mario Kart Channel data will\nbe created on the SD Card.\n\n\u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFwill be activated for\nthis software.
+%7305 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF and \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFwill be\nactivated for this software.
+%7306 :: \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFwill be activated for\nthis software.
+%7307 :: \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFwill be activated for\nthis software.
 
 #Mario Kart Channel first time setup
 %7401 :: The Mario Kart Channel\nis ready to be used!
-%7402 :: <null><null>StreetPass<null>ÿÿ and <null><null>SpotPass <null>ÿÿhave\nbeen activated for this software.
-%7403 :: <null><null>StreetPass <null>ÿÿhas been activated\nfor this software.
-%7404 :: <null><null>SpotPass <null>ÿÿhas been activated for\nthis software.
+%7402 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF and \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFhave\nbeen activated for this software.
+%7403 :: \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFhas been activated\nfor this software.
+%7404 :: \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFhas been activated for\nthis software.
 
 #Permission errors
-%7405 :: Use of <null><null>StreetPass\n<null>ÿÿis restricted by\nParental Controls.\n\nPlease check the\nSystem Settings.
-%7406 :: You must agree to the\nNintendo 3DS Service User\nAgreement before you can\nuse <null><null>StreetPass<null>ÿÿ or <null><null>SpotPass<null>ÿÿ. \nPlease check the\nSystem Settings.
-%7407 :: You cannot activate <null><null>StreetPass<null>ÿÿ \nfor any more software titles\non this system. Deactivate\n<null><null>StreetPass<null>ÿÿ for another title in\nthe System Settings.
+%7405 :: Use of \u000E\u0000\u0003\u0002\u0002StreetPass\n\u000E\u0000\u0003\u0002\uFFFFis restricted by\nParental Controls.\n\nPlease check the\nSystem Settings.
+%7406 :: You must agree to the\nNintendo 3DS Service User\nAgreement before you can\nuse \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF or \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF. \nPlease check the\nSystem Settings.
+%7407 :: You cannot activate \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF \nfor any more software titles\non this system. Deactivate\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF for another title in\nthe System Settings.
 %7408 :: In order to race online, you\nmust accept the terms of\nthe Nintendo 3DS Service\nUser Agreement and Privacy\nPolicy. You can view this\nin the System Settings.
 
-#(Empty)
-%7500 :: 
-
 #Wireless switch off error
-%7501 :: Push the wireless switch to\n<null><null><null>enable <null>ÿÿwireless communication.
+%7501 :: Push the wireless switch to\n\u000E\u0000\u0003\u0002\u0000enable \u000E\u0000\u0003\u0002\uFFFFwireless communication.
 
 #Permission errors
 %7502 :: Online interaction\nis restricted by\nParental Controls.\nPlease check the\nSystem Settings.
 %7503 :: You must agree to the\nNintendo 3DS Service User\nAgreement before you can\nplay online. Please check\nthe System Settings.
-
-#(Empty)
-%7504 :: 
-&9000 :: 
-&9001 :: 
-&9002 :: 
 
 #Pause menu
 &9003 :: Continue
@@ -1143,9 +890,6 @@ $1992 ::
 &9005 :: Change Course
 &9006 :: Change Character
 &9007 :: Restart
-
-#(Empty)
-&9008 :: 
 
 #Post-race menu
 &9009 :: Next Race
@@ -1158,41 +902,20 @@ $1992 ::
 &9016 :: Next Race
 &9017 :: Next Round
 
-#(Empty)
-&9018 :: 
-&9019 :: 
-&9020 :: 
-&9021 :: 
-&9022 :: 
-&9100 :: 
-
 #Dialogue button
 &9101 :: OK
-
-#(Empty)
-&9102 :: 
 
 #Dialogue buttons
 &9103 :: Yes
 &9104 :: No
 
-#(Empty)
-&9110 :: 
-
 #Quit dialogue
 &9111 :: Are you sure you want to quit?
-
-#(Empty)
-&9112 :: 
-&9150 :: 
 
 #Ghost creation dialogues
 &9151 :: New ghost data created.
 &9152 :: Could not create ghost data.
 &9153 :: Unable to create ghost data.
-
-#(Empty)
-&9160 :: 
 
 #Premature ending messages
 &9161 :: You have placed last. The race is over.
@@ -1201,18 +924,12 @@ $1992 ::
 
 #Communication error messages
 &9164 :: A communication error has occurred.
-&9165 :: A communication error has occurred.
-
-#(Empty)
-&9170 :: 
+&9165 :: \r&9164
 
 #Multiplayer pre-race info messages
 &9171 :: You will join the next race. Please wait.
 &9172 :: You will join the next battle. Please wait.
 &9173 :: The group is full. Please wait. 
-
-#(Empty)
-&9200 :: 
 
 #Results screen
 &9201 :: RESULTS
@@ -1220,26 +937,17 @@ $1992 ::
 &9203 :: FINAL STANDINGS
 &9204 :: BEST RECORDS
 
-#(Empty)
-&9800 :: 
-&9801 :: 
-
-#Lap #
+#Lap number
 &9817 :: LAP
 
-#(Empty)
-&9818 :: 
-&9827 :: 
-&9828 :: 
-
-#Section #
+#Section number
 &9829 :: SECTION 
 
-#???
-&9830 :: <null>p<null>t<null><null>p<null>t<null>s<null><null><null><null><null>
+#Points
+&9830 :: \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
 
 #VR amount
 &9831 :: VR
 
-#???
-&9833 :: <null><null><null><null> <null>p<null>t<null><null>p<null>t<null>s<null><null><null><null><null>
+#Points again
+&9833 :: \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
