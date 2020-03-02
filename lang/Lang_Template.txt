@@ -13,8 +13,6 @@
 #	HOME button -> \uE073
 #	POWER button -> \uE078
 #	Line Break -> \n
-# Identical entry (only works if same msbt) ->\r(otherentryid)
-# Special format (Don't change!)-> \u000E
 # Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
 # Make sure you test the language file ingame to check if the line breaks are working properly.
 # The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
@@ -410,7 +408,7 @@ $1874 :: 4th Round
 $1875 :: 5th Round
 $1876 :: Final Round
 
-#StreetPass titles
+#StreetPass titles (male)
 $1900 :: Shell Shark (\u000E\u0001\u0008\u0000)
 $1901 :: Banana Blitzer (\u000E\u0001\u0008\u0000)
 $1902 :: Bob-omb Ace (\u000E\u0001\u0008\u0000)
@@ -427,6 +425,24 @@ $1912 :: Zig-Zagger (\u000E\u0001\u0008\u0000)
 $1913 :: Safe Driver (\u000E\u0001\u0008\u0000)
 $1914 :: Rookie (\u000E\u0001\u0008\u0000)
 $1915 :: Star Racer (\u000E\u0001\u0008\u0000)
+
+#StreetPass titles (female)
+$1950 :: Shell Shark (\u000E\u0001\u0008\u0000)
+$1951 :: Banana Blitzer (\u000E\u0001\u0008\u0000)
+$1952 :: Bob-omb Ace (\u000E\u0001\u0008\u0000)
+$1953 :: Pro Defender (\u000E\u0001\u0008\u0000)
+$1954 :: Rowdy Racer (\u000E\u0001\u0008\u0000)
+$1955 :: Boost Jumper (\u000E\u0001\u0008\u0000)
+$1956 :: Aviator (\u000E\u0001\u0008\u0000)
+$1957 :: Dolphin (\u000E\u0001\u0008\u0000)
+$1958 :: Drift Wizard (\u000E\u0001\u0008\u0000)
+$1959 :: Quick Starter (\u000E\u0001\u0008\u0000)
+$1960 :: Comeback King (\u000E\u0001\u0008\u0000)
+$1961 :: Model Driver (\u000E\u0001\u0008\u0000)
+$1962 :: Zig-Zagger (\u000E\u0001\u0008\u0000)
+$1963 :: Safe Driver (\u000E\u0001\u0008\u0000)
+$1964 :: Rookie (\u000E\u0001\u0008\u0000)
+$1965 :: Star Racer (\u000E\u0001\u0008\u0000)
 
 #Controls (demo cart-only)
 #$1980 :: Use item
@@ -943,11 +959,17 @@ $1915 :: Star Racer (\u000E\u0001\u0008\u0000)
 #Section number
 &9829 :: SECTION 
 
-#Points
-&9830 :: \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
-
 #VR amount
 &9831 :: VR
 
-#Points again
+#Points
+#These two strings have a special format, in the following order (pt = points in singular, pts = points in plural):
+# - \u000E\u0001\u0006
+# - \u00XX : XX = pt characters * 2 + pts characters * 2 + 8 (in hexadecimal)
+# - \u00YY : YY = pt characters * 2 (in hexadecimal)
+# - pt string
+# - \u00ZZ : ZZ = pts characters * 2 (in hexadecimal)
+# - pts string
+# - \u0000\u0000
+&9830 :: \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
 &9833 :: \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
