@@ -487,7 +487,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %2201 :: Időmérő
 %2202 :: Luficsata
 %2203 :: Érmecsata
-%2204 :: Verseny
+%2204 :: Egyéni verseny
 %2205 :: \r%2204
 %2206 :: Csata
 
@@ -920,7 +920,7 @@ Egy Mii sem létezik\na Mii Makerben.\n\nNyisd meg a Mii Makert a\n\uE073HOME me
 %7503 :: Az online játékhoz el kell\nfogadnod a Nintendo 3DS\nfelhasználói licenszszerződést\nés az adatvédelmi irányelveket.\nKérjük, nézd meg a beállításokban.
 
 #Pause menu
-&9003 :: Tovább
+&9003 :: Folytatás
 &9004 :: Kilépés
 &9005 :: Pályaváltás
 &9006 :: Karakterváltás
@@ -930,10 +930,10 @@ Egy Mii sem létezik\na Mii Makerben.\n\nNyisd meg a Mii Makert a\n\uE073HOME me
 &9009 :: Következő verseny
 &9010 :: Eredmények megtekintése
 &9011 :: Újrakezdés
-&9012 :: Visszajátszás megtekintése
-&9013 :: Visszajátszás folytatása
-&9014 :: Visszajátszás újrakezdése
-&9015 :: Kilépés a visszajátszásból
+&9012 :: Visszaj. megtekintése
+&9013 :: Visszaj. folytatása
+&9014 :: Visszaj. újrakezdése
+&9015 :: Kilépés a visszaj.-ból
 &9016 :: Következő verseny
 &9017 :: Következő kör
 
