@@ -979,10 +979,10 @@ Egy Mii sem létezik\na Mii Makerben.\n\nNyisd meg a Mii Makert a\n\uE073HOME me
 &9829 :: SZAKASZ: 
 
 #Points
-&9830 :: \u000E\u0001\u0006\u0012\u0004pont\u0006pont\u0000\u0000
+&9830 :: \u000E\u0001\u0006\u0018\u0008pont\u0008pont\u0000\u0000
 
 #VR amount
 &9831 :: VR
 
 #Points again
-&9833 :: \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pont\u0006pont\u0000\u0000
+&9833 :: \u000E\u0001\u0006\u0018\u0008pont\u0008pont\u0000\u0000
