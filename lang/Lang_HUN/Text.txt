@@ -1,0 +1,988 @@
+#
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	N64 -> \uE022\uE023
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Identical entry (only works if same msbt) ->\r(otherentryid)
+# Special format (Don't change!)-> \u000E
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Cups
+$700010 :: Harang kupa
+$710042 :: Békésfalva
+$710059 :: \uE022\uE023 Mario versenypálya
+$710044 :: Galvarny-vízesés
+$710045 :: \uE024\uE025 Felhőkert
+
+$700011 :: Makk kupa
+$710046 :: Őszi-erdő
+$710068 :: \uE024\uE025 Folyóparti park
+$710043 :: \uE031\uE032 Mario pálya 1
+$710049 :: \uE024\uE025 Bowser vára 3
+
+$700012 :: Felhő kupa
+$710050 :: Örökzöld-átkelő
+$710054 :: \uE022\uE023 Mú mú farm
+$710052 :: Öbölszéli körút
+$710053 :: \uE022\uE023 Frappé hóföld
+
+$700013 :: Boo kupa
+$710055 :: Banshee stég 2
+$710062 :: Elementál barlang
+$710057 :: \uE031\uE032 Szellem-völgy 2
+$710065 :: \uE033 Cheep Cheep-part
+
+$700014 :: Rugó kupa
+$710067 :: \uE033 Tikk takk óra
+$710058 :: Dallam szentély
+$710066 :: \uE033 Sivatagi buckák
+$710069 :: Az idő temploma
+
+$700015 :: Tojás kupa
+$710063 :: \uE033 Yoshi-vízesés
+$710047 :: \uE022\uE023 Csoki-hegy
+$710048 :: \uE033 Gomba-gerinc
+$710051 :: CTR Crash-medence
+
+$700016 :: Rakéta kupa
+$710056 :: CTR Cortex vára
+$710060 :: \uE033 Csöves pálya
+$710061 :: \uE031\uE032 Csoki-sziget 2
+$710064 :: Csillag-lejtő
+
+$700018 :: Blooper kupa
+$710074 :: Homokvár park
+$710075 :: \uE033 Mario pálya
+$710076 :: \uE026\uE027 Luigi pálya
+$710077 :: Vulkán-part romok
+
+$700019 :: Toll kupa
+$710078 :: \uE026\uE027 Yoshi pálya
+$710079 :: \uE024\uE025 Peach pálya
+$710080 :: Őrült metró
+$710081 :: \uE024\uE025 Luigi pálya
+
+$700020 :: Tűzlabda kupa
+$710082 :: SMO Játékautó kihívás
+$710083 :: \uE024\uE025 Bowser vára 4
+$710084 :: \uE031\uE032 Fánkföld 1
+$710085 :: Rejtett csúszda
+
+$700021 :: Bob-omb kupa
+$710086 :: \uE033 Wario stadion
+$710087 :: Ermii pálya
+$710088 :: \uE026\uE027 Baba park
+$710089 :: Revo pálya
+
+$700022 :: Cseresznye kupa
+$710090 :: \uE031\uE032 Mario pálya 3
+$710091 :: A nagy kék
+$710092 :: \uE024\uE025 Shy Guy part
+$710093 :: Bingó parti
+
+$700023 :: Érme kupa
+$710094 :: Doge-sivatag
+$710095 :: \uE022\uE023 Banshee stég
+$710096 :: \uE026\uE027 Mario pálya
+$710073 :: Miku szülinapi látv.
+
+$700017 :: Szivárvány kupa
+$710070 :: \uE022\uE023 Szivárvány út
+$710071 :: \uE024\uE025 Szivárvány út
+$710072 :: Világűr út
+$710097 :: Szivárvány út DX
+
+#Create new save data text
+%7005 :: Az SD kártyán egy extra\njátékmentés lesz létrehozva.
+%7003 :: Extra mentés létrehozása...
+%7004 :: Extra mentés létrehozva.
+
+##Plugin text -----------------------------------------------
+
+#First opening welcome message
+welc_t :: Üdv a CTGP-7-ben
+welc_1 :: Szervusz!\nA pluginmenüből néhány\nérdekes funkciót használhatsz.\nA menü megnyitásához nyomd\nmeg a (SELECT) gombot.
+welc_2 :: Egy funkció használatához\nválassz ki egy opciót és\nengedélyezd/konfiguráld\naz A-val.
+welc_3 :: Ha többet szeretnél megtudni\negy kiválasztott funkcióról,\nkoppints az „i” (infó)\ngombra az alsó képernyőn.
+welc_4 :: Megjegyzés: néhány funkció,\nmint például a „CC választó”\nle lesz tiltva online játék\nközben.
+welc_5 :: Jó szórakozást\na modhoz!\n^w^
+
+#General text
+warning :: FIGYELMEZTETÉS
+error :: HIBA
+state :: Érték
+next :: Tovább
+state_mode :: Engedélyezve :: Letiltva
+state_inf :: Engedélyezés :: Letiltás
+settings :: Beállítások
+exit :: Kilépés
+
+#Entries
+gameplay_folder :: Játékfunkciók
+settings_folder :: Beállítások
+spdmeter :: Sebességmérő :: Mutatja a sebességet a felső képernyő jobb alsó sarkában.
+ccsel :: CC választó :: Egy adott értékre állítja a CC-t (ezt a verseny kezdete előtt kell engedélyezni).
+itemled :: Figyelmeztető LED :: Az értesítési LED kéken villog, ha valaki elindít egy Kék páncélt, illetve sárgán, ha valaki Villámcsapást használ.
+backcam :: Visszapillantó :: Nyomd meg az \uE002 gombot a hátra pillantáshoz, mint a többi Mario Kart játékban! (Megjegyzés: az \uE002 gomb nem fog tárgyakat használni.)
+charman :: Egyéni karakter-kezelő :: Válts eredeti és egyéni karakterek között.
+trackorder :: Online pálya rendezés :: Válaszd ki a pályák rendezését online.
+
+#Speedometer text
+spd_set :: Sebességmérő beállításai.
+spd_unit :: Mértékegység
+spd_type :: Típus
+spd_sunit :: Válaszd ki a sebességmérő mértékegységét.
+spd_stype :: Válaszd ki a sebességmérő típusát.
+spd_types :: Számszerű :: Grafikus
+
+#CC Selector text
+cc_set :: CC választó beállításai.
+cc_val :: Érték
+cc_rang :: Az értéknek 1 és 9999 között kell lennie.
+cc_entv :: Add meg az új értéket.
+cc_chgv :: Érték megváltoztatása
+
+#Course Manager
+track_ct :: Egyéni pályák
+track_ori :: Eredeti pályák
+ct_endis :: Egyéni pályák engedélyezése :: Egyéni pályák letiltása
+ori_endis :: Eredeti pályák engedélyezése :: Eredeti pályák letiltása
+
+#Community Code Generator
+commugen :: Közösségi kód generátor :: Generál egy kódot a beállításaid alapján. A kód megadása egy közösség leírásában mindenki számára engedélyezni fogja ugyanezeket a beállításokat.
+def_spd :: Alapértelmezett sebesség
+code :: Kód
+
+#Change Round Number
+chgrnd :: Körök száma :: Megváltoztatja a körök számát verseny és csata módban.
+chgrnd_desc :: Válaszd ki a verseny és csata\nmódokban játszandó körök számát.\nMEGJEGYZÉS: Download Play-ben\nnem működik.\nHelyi többjátékos játékban\nmindenkinek ugyanazon\nbeállításokkal kell rendelkeznie. :: Az értéknek 1 és 32 között kell lennie.
+rounds :: Körök
+rnd_sel :: Válaszd ki a körök számát.
+
+#Enhanced Local Map
+enhmap :: Javított helyi térkép :: Zoom-olhatóvá teszi a helyi térképet az \uE058 érintőképernyőn.
+
+#Custom character manager text
+char_select :: Válaszd ki a beállítandó karaktert.\nA változtatások érvényesítéséhez\nújrainsítás szükséges.
+char_replace :: Válassz ki egy egyéni karaktert helyette:\n
+green_info :: Zöld -> Jelenlegi beállítás.
+
+#Online track order
+order_mode :: Alapértelmezett :: ABC-sorrend
+
+#Online update check
+update_check :: Frissítések keresése... :: A CTGP-7 legújabb verziója\nszükséges az online játékhoz.
+
+#CTWW
+cntdwn :: Visszaszámlálás
+CTWWtog :: Szeretnéd engedélyezni az egyéni\npályákat világszerte (CTWW)? :: Szeretnéd letiltani az egyéni\npályákat világszerte (CTWW)?
+
+#Characters
+$1000 :: Mario
+$1001 :: Luigi
+$1002 :: Peach
+$1003 :: Yoshi
+$1004 :: Bowser
+$1005 :: Donkey Kong
+$1006 :: Toad
+$1007 :: Koopa katona
+$1008 :: Wario
+$1009 :: Daisy
+$1010 :: Lakitu
+$1011 :: Rosalina
+$1012 :: Wiggler
+$1013 :: Mézkirálynő
+$1014 :: Fém Mario
+$1015 :: Mii
+$1016 :: Shy Guy
+
+#Items
+$1018 :: Gyorsgomba
+$1019 :: Tűzvirág
+$1020 :: Szupercsillag
+$1021 :: Arany gyorsgomba
+$1022 :: Zöld páncél
+$1023 :: Banán
+$1024 :: Szuperlevél
+$1025 :: Villámcsapás
+$1026 :: Vörös páncél
+$1027 :: Bob-omb
+$1028 :: Kék páncél
+$1029 :: Blooper
+$1030 :: Bullet Bill
+$1031 :: Szerencsés hetes
+$1032 :: Dupla gyorsgomba
+$1033 :: Tripla gyorsgomba
+$1034 :: Tripla zöld páncél
+$1035 :: Tripla banán
+$1036 :: Tripla vörös páncél
+
+#Icons
+$1043 :: Zászló
+$1044 :: Lufik
+$1045 :: Érme
+$1046 :: Kormány
+$1047 :: Arany kormány
+
+#Characters (short)
+$1050 :: Mario
+$1051 :: Luigi
+$1052 :: Peach
+$1053 :: Yoshi
+$1054 :: Bowser
+$1055 :: DK
+$1056 :: Toad
+$1057 :: Koopa
+$1058 :: Wario
+$1059 :: Daisy
+$1060 :: Lakitu
+$1061 :: Rosalina
+$1062 :: Wiggler
+$1063 :: Mézk.
+$1064 :: F. Mario
+$1065 :: Mii
+$1066 :: Shy Guy
+
+#Karts
+$1100 :: Alapértelmezett
+$1101 :: Villámbricska
+$1102 :: Tojás 1
+$1103 :: Játékhajó
+$1104 :: Felhő 9
+$1105 :: Cukkini
+$1106 :: Gyorsító B
+$1107 :: Morgó
+$1108 :: Fullánk
+$1109 :: Koopa Bohóc
+$1110 :: Keretes
+$1111 :: Kék Hetes
+$1112 :: Királyi Szalag
+$1113 :: Kakt-X
+$1114 :: Hordómozdony
+$1115 :: Sugárszóda
+$1116 :: Arany Gokart
+
+#Tyres
+$1200 :: Normális
+$1201 :: Roller
+$1202 :: Monster
+$1203 :: Sima
+$1204 :: Vékony
+$1205 :: Szivacsos
+$1206 :: Vörös Monster
+$1207 :: Gombás
+$1208 :: Fa
+$1209 :: Arany
+
+#Gliders
+$1300 :: Szupervitorla
+$1301 :: Sárkányrepülő
+$1302 :: Napellenző
+$1303 :: Virágvitorla
+$1304 :: Huss
+$1305 :: Bestia
+$1306 :: Aranyvitorla
+
+#Original cups
+$1500 :: Gomba kupa
+$1501 :: Virág kupa
+$1502 :: Csillag kupa
+$1503 :: Különleges kupa
+$1504 :: Páncél kupa
+$1505 :: Banán kupa
+$1506 :: Levél kupa
+$1507 :: Villám kupa
+
+#Nitro tracks
+$1600 :: Mario pálya
+$1601 :: Daisy-domb
+$1602 :: Cheep Cheep-fok
+$1603 :: Alpesi-szoros
+$1604 :: Toad pálya
+$1605 :: Shy Guy bazár
+$1606 :: Wuhu-sziget körút
+$1607 :: Wario vitorlása
+$1608 :: Piranhanövény csatorna
+$1609 :: Dallamos autópálya
+$1610 :: Koopa város
+$1611 :: Wuhu-hegy körút
+$1612 :: DK-dzsungel
+$1613 :: Rosalina jégvilága
+$1614 :: Bowser vára
+$1615 :: Szivárvány út
+
+#Retro tracks
+$1700 :: \uE031\uE032 Mario pálya 2
+$1701 :: \uE024\uE025 Bowser vára 1
+$1702 :: \uE022\uE023 Luigi versenypálya
+$1703 :: \uE022\uE023 Tintahal-sivatag
+$1704 :: \uE033 Luigi kúriája
+$1705 :: \uE033 Waluigi flipper
+$1706 :: \uE033 DK-szoros
+$1707 :: \uE033 Léghajó vár
+$1708 :: \uE067 Kókusz áruház
+$1709 :: \uE067 Koopa-fok
+$1710 :: \uE067 Juhar fasor
+$1711 :: \uE067 Gomba-torok
+$1712 :: \uE026\uE027 Dínó Dínó-dzsungel
+$1713 :: \uE026\uE027 Daisy cirkáló
+$1714 :: \uE022\uE023 Koopa katona-part
+$1715 :: \uE031\uE032 Szivárvány út
+
+#Balloon battle tracks
+$1800 :: Mézesméz ház
+$1801 :: Sörbet korcsolyapálya
+$1802 :: Wuhufalva
+$1803 :: \uE024\uE025 Csatapálya 1
+$1804 :: \uE022\uE023 Nagy fánk
+$1805 :: \uE033 Pálma-part
+
+#Random track
+$1806 :: ?
+
+#Class select
+$1810 :: 50cc
+$1811 :: 100cc
+$1812 :: 150cc
+$1813 :: Fordított
+
+#(Empty)
+$1814 :: 
+
+#StreetPass cup name
+$1829 :: \u000E\u0001\u0002\u0000 \u000E\u0001\u0000\u0000 kupa
+
+#Race #
+$1831 :: 1. verseny
+$1832 :: 2. verseny
+$1833 :: 3. verseny
+$1834 :: 4. verseny
+$1835 :: 5. verseny
+$1836 :: 6. verseny
+$1837 :: 7. verseny
+$1838 :: 8. verseny
+$1839 :: 9. verseny
+$1840 :: 10. verseny
+$1841 :: 11. verseny
+$1842 :: 12. verseny
+$1843 :: 13. verseny
+$1844 :: 14. verseny
+$1845 :: 15. verseny
+$1846 :: 16. verseny
+$1847 :: 17. verseny
+$1848 :: 18. verseny
+$1849 :: 19. verseny
+$1850 :: 20. verseny
+$1851 :: 21. verseny
+$1852 :: 22. verseny
+$1853 :: 23. verseny
+$1854 :: 24. verseny
+$1855 :: 25. verseny
+$1856 :: 26. verseny
+$1857 :: 27. verseny
+$1858 :: 28. verseny
+$1859 :: 29. verseny
+$1860 :: 30. verseny
+$1861 :: 31. verseny
+$1862 :: Utolsó verseny
+
+#(Empty)
+$1863 :: 
+
+#Round #
+$1871 :: 1. kör
+$1872 :: 2. kör
+$1873 :: 3. kör
+$1874 :: 4. kör
+$1875 :: 5. kör
+$1876 :: Utolsó kör
+
+#StreetPass titles (male)
+$1900 :: Páncél párduc - (\u000E\u0001\u0008\u0000)
+$1901 :: Banán bingó - (\u000E\u0001\u0008\u0000)
+$1902 :: Bob-omb bingó - (\u000E\u0001\u0008\u0000)
+$1903 :: Profi védő - (\u000E\u0001\u0008\u0000)
+$1904 :: Lármás egyén - (\u000E\u0001\u0008\u0000)
+$1905 :: Ugratós - (\u000E\u0001\u0008\u0000)
+$1906 :: Pilóta - (\u000E\u0001\u0008\u0000)
+$1907 :: Delfin - (\u000E\u0001\u0008\u0000)
+$1908 :: Rafinált faroló - (\u000E\u0001\u0008\u0000)
+$1909 :: Gyorskezdő - (\u000E\u0001\u0008\u0000)
+$1910 :: Felhozó - (\u000E\u0001\u0008\u0000)
+$1911 :: Szabálytisztelő - (\u000E\u0001\u0008\u0000)
+$1912 :: Szlalomozó - (\u000E\u0001\u0008\u0000)
+$1913 :: Biztonságos vezető - (\u000E\u0001\u0008\u0000)
+$1914 :: Zöldfülű - (\u000E\u0001\u0008\u0000)
+$1915 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
+
+#StreetPass titles (female)
+$1950 :: Páncél párduc - (\u000E\u0001\u0008\u0000)
+$1951 :: Banán bingó - (\u000E\u0001\u0008\u0000)
+$1952 :: Bob-omb bingó - (\u000E\u0001\u0008\u0000)
+$1953 :: Profi védő - (\u000E\u0001\u0008\u0000)
+$1954 :: Lármás egyén - (\u000E\u0001\u0008\u0000)
+$1955 :: Ugratós - (\u000E\u0001\u0008\u0000)
+$1956 :: Pilóta - (\u000E\u0001\u0008\u0000)
+$1957 :: Delfin - (\u000E\u0001\u0008\u0000)
+$1958 :: Rafinált faroló - (\u000E\u0001\u0008\u0000)
+$1959 :: Gyorskezdő - (\u000E\u0001\u0008\u0000)
+$1960 :: Felhozó - (\u000E\u0001\u0008\u0000)
+$1961 :: Szabálytisztelő - (\u000E\u0001\u0008\u0000)
+$1962 :: Szlalomozó - (\u000E\u0001\u0008\u0000)
+$1963 :: Biztonságos vezető - (\u000E\u0001\u0008\u0000)
+$1964 :: Zöldfülű - (\u000E\u0001\u0008\u0000)
+$1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
+
+#Controls (demo cart-only)
+#$1980 :: Tárgy használata
+#$1981 :: Kormányzás
+#$1982 :: Nézetváltás
+#$1983 :: Farolás
+#$1984 :: Gáz
+#$1985 :: Fék
+#$1986 :: Demó verzió
+#$1987 :: Nyomd meg a \u8080 gombot
+
+#Dialogues?
+%2000 :: MARIO KART 7
+%2001 :: OK
+
+#(Empty)
+%2002 :: 
+
+#Dialogue buttons
+%2003 :: Igen
+%2004 :: Nem
+%2005 :: Mégse
+%2006 :: Tovább
+
+#Update dialogue
+%2080 :: Az online játékhoz le kell\ntöltened egy frissítést.
+%2081 :: Frissítés kész.\n\nA Mario Kart 7 most újraindul.
+
+#Main menu
+%2090 :: Egyjátékos
+%2091 :: Helyi többjátékos
+%2092 :: Online többjátékos
+%2093 :: Mario Kart csatorna
+%2094 :: Világszerte
+%2095 :: Barátok/ellenfelek
+%2096 :: Közösségek
+
+#Single Player & Online Multiplayer menus
+%2200 :: Nagydíj
+%2201 :: Időmérő
+%2202 :: Luficsata
+%2203 :: Érmecsata
+%2204 :: Verseny
+%2205 :: \r%2204
+%2206 :: Csata
+
+#Single Player mode descriptions
+%2210 :: Versenyezz az első helyért.
+%2211 :: Versenyezz egyedül a legjobb időért.
+%2212 :: Durrantsd ki az ellenfeleid lufijait.
+%2213 :: Szedj össze annyi érmét, amennyit csak tudsz.
+%2214 :: Versenyezz saját szabályokkal.
+
+#Class select
+%2220 :: 50cc
+%2221 :: 100cc
+%2222 :: 150cc
+%2223 :: Fordított
+
+#Class select descriptions
+%2230 :: Könnyű
+%2231 :: Átlagos
+%2232 :: Kihívást jelentő
+%2233 :: Fordított versenypályák
+
+#Kart build stats
+%2240 :: Sebesség
+%2241 :: Gyorsulás
+%2242 :: Súly
+%2243 :: Kezelés
+%2244 :: Terep
+
+#Class setting
+%2300 :: Osztály
+%2301 :: \r%2220
+%2302 :: \r%2221
+%2303 :: \r%2222
+%2304 :: \r%2223
+
+#(Empty)
+%2305 :: 
+
+#CPU setting
+%2310 :: Gép
+%2311 :: Könnyű
+%2312 :: Normál
+%2313 :: Nehéz
+%2314 :: Ki
+%2315 :: Be
+
+#Courses setting
+%2320 :: Pályák
+%2321 :: Választott
+%2322 :: Véletlenszerű
+%2323 :: Sorban
+
+#Teams setting
+%2340 :: Csapatok
+%2341 :: \r%2315
+%2342 :: \r%2314
+
+#Stage setting
+%2350 :: Pálya
+%2351 :: \r%2321
+%2352 :: \r%2322
+%2353 :: \r%2323
+
+#Items setting
+%2370 :: Tárgyak
+%2371 :: Mind
+%2372 :: Páncélok
+%2373 :: Banánok
+%2374 :: Gombák
+%2375 :: Bob-ombok
+%2376 :: Nincs
+
+#Mode setting
+%2380 :: Mód
+%2381 :: 50cc verseny
+%2382 :: 100cc verseny
+%2383 :: 150cc verseny
+%2384 :: Fordított verseny
+%2385 :: Luficsata
+%2386 :: Érmecsata
+
+#Start buttons
+%2400 :: Rajt
+%2401 :: Rajt
+%2402 :: Rajt
+
+#Ghost select
+%2403 :: Nincs
+%2404 :: 7 szellem
+
+#Quit dialogue
+%2406 :: Kilépsz a csatából?
+
+#Local Multiplayer menu
+%2407 :: Csapatok játékban: \u000E\u0001\u0004\u0004\u0000\u0000
+
+#Ghost select
+%2408 :: Válaszd ki a szellemet
+
+#Items setting
+%2471 :: Tárgyak: Mind
+%2472 :: Tárgyak: Páncélok
+%2473 :: Tárgyak: Banánok
+%2474 :: Tárgyak: Gombák
+%2475 :: Tárgyak: Bob-ombok
+%2476 :: Tárgyak: Nincs
+
+#Mode select
+%2481 :: 50cc nagydíj
+%2482 :: 100cc nagydíj
+%2483 :: 150cc nagydíj
+%2484 :: Fordított nagydíj
+%2485 :: \r%2385
+%2486 :: \r%2386
+
+#Nitro cup unlock messages
+%2502 :: Feloldottad a\n\u000E\u0000\u0003\u0002\u0000virág kupát\u000E\u0000\u0003\u0002\uFFFF!
+%2503 :: Feloldottad a\n\u000E\u0000\u0003\u0002\u0000csillag kupát\u000E\u0000\u0003\u0002\uFFFF!
+%2504 :: Feloldottad a\n\u000E\u0000\u0003\u0002\u0000különleges kupát\u000E\u0000\u0003\u0002\uFFFF!
+
+#(Empty)
+%2505 :: 
+
+#Retro cup unlock messages
+%2506 :: Feloldottad a\n\u000E\u0000\u0003\u0002\u0000banán kupát\u000E\u0000\u0003\u0002\uFFFF!
+%2507 :: Feloldottad a\n\u000E\u0000\u0003\u0002\u0000levél kupát\u000E\u0000\u0003\u0002\uFFFF!
+%2508 :: Feloldottad a\n\u000E\u0000\u0003\u0002\u0000villám kupát\u000E\u0000\u0003\u0002\uFFFF!
+
+#Mirror class unlock message
+%2509 :: Feloldottad a\n\u000E\u0000\u0003\u0002\u0000fordított osztályt\u000E\u0000\u0003\u0002\uFFFF!
+
+#(Empty)
+%2510 :: 
+
+#Character / kart part unlock messages
+%2511 :: Befejezted a\n150cc-s gomba kupát.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000karaktert\u000E\u0000\u0003\u0002\uFFFF!
+%2512 :: Befejezted a\n150cc-s virág kupát.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000karaktert\u000E\u0000\u0003\u0002\uFFFF!
+%2513 :: Befejezted a\n150cc-s csillag kupát.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000karaktert\u000E\u0000\u0003\u0002\uFFFF!
+%2514 :: Befejezted a\n150cc-s különleges kupát.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000karaktert\u000E\u0000\u0003\u0002\uFFFF!
+%2515 :: Befejezted a\n150cc-s páncél kupát.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000karaktert\u000E\u0000\u0003\u0002\uFFFF!
+%2516 :: Befejezted a\n150cc-s banán kupát.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000karaktert\u000E\u0000\u0003\u0002\uFFFF!
+%2517 :: Befejezted a\n150cc-s levél kupát.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000karaktert\u000E\u0000\u0003\u0002\uFFFF!
+%2518 :: Befejezted a\n150cc-s villám kupát.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000karaktert\u000E\u0000\u0003\u0002\uFFFF!
+%2519 :: Most már játszatsz a\n\u000E\u0000\u0003\u0002\u0000Mii-dként\u000E\u0000\u0003\u0002\uFFFF!
+%2520 :: Összegyűjtöttél \u000E\u0001\u0004\u0004\u0000\u0000 érmét.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000alkatrészt\u000E\u0000\u0003\u0002\uFFFF!
+%2521 :: Összegyűjtöttél 10,000 VR-t.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000alkatrészt\u000E\u0000\u0003\u0002\uFFFF!
+%2522 :: Elértél legalább egy\ncsillagot minden nagydíjban.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000alkatrészt\u000E\u0000\u0003\u0002\uFFFF!
+%2523 :: Találkoztál 100\nemberrel StreetPass-on.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000alkatrészt\u000E\u0000\u0003\u0002\uFFFF!
+%2524 :: Legyőztél egy StreetPass Mii-t.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000alkatrészt\u000E\u0000\u0003\u0002\uFFFF!
+
+#Local Multiplayer menu
+%5001 :: Válassz egy csoportot.\n\nKoppints az Új csoport gombra,\nha új csoportot\nszeretnél készíteni.
+%5002 :: Új csoport
+
+#(Empty)
+%5003 :: 
+%5004 :: 
+%5005 :: 
+%5006 :: 
+
+#Local Multiplayer menu
+%5007 :: Játékosok keresése...
+%5008 :: Várd meg, míg minden játékos\ncsatlakozik a csoporthoz.
+%5009 :: Összesen hét másik\njátékossal játszhatsz.\n\nKoppints a Rajtra, ha\nmindenki csatlakozott.
+%5010 :: Rajt
+%5011 :: Kérjük, várj...
+%5012 :: Kommunikációs\nhiba történt.
+%5013 :: Feloszlatod\na csoportot?
+%5014 :: Véletlenszerű
+%5015 :: Várakozás a\ntöbbiek döntésére...
+%5016 :: Pálya eldöntve!
+%5017 :: Ha valakinek nincs Mario\nKart 7 játékkártyája, akkor a\n\uE073HOME menüből a Download\nPlay-en keresztül csatlakozhat.
+%5018 :: Érintsétek meg az \uE030 ikont\naz egymást barátlistára\nhelyezéshez.
+%5019 :: Pálya eldöntve!
+
+#Friend Registration menu
+%5905 :: Barát hozzáadása
+%5901 :: \u000E\u0001\u0000\u0000\nmostantól a barátod!
+%5902 :: \r%5901
+%5903 :: Kitörlöd ennek a\njátékosnak az adatait?
+
+#Communities
+%5904 :: Eltávolítod ezt\na közösséget?
+
+#Download Play
+%5900 :: Download Play
+
+#Communities
+%5906 :: Törlöd ezt a közösséget\na szerverről?
+%5907 :: Ha törölsz egy közösséget a\nszerverről, már nem fogod\ntudni visszaállítani.\n\nBiztosan törölni akarod?
+
+#Online Multiplayer messages
+%5908 :: Kommunikációs\nhiba történt.
+%5909 :: Kérjük, várj...
+%5910 :: Felkészülés a verseny\nnézésére...
+%5911 :: Kommunikációs\nhiba történt.\n\nNyomd meg a \uE073HOME-ot a\nHOME menübe való visszatéréshez.
+
+#Friends/Opponents menu
+%5991 :: Barátok
+%5992 :: Legutóbbi ellenfelek
+%5993 :: StreetPass kézfogások
+
+#More Online Multiplayer messages
+%6001 :: Csatlakozás a\nNintendo Network-höz...
+%6002 :: Megszakítod a kapcsolatot\na Nintendo Network-kel?
+%6003 :: Játékosok keresése...
+%6004 :: Játékosokra leltünk!
+%6005 :: Megszakadt a kapcsolat\na többi játékossal.
+%6006 :: Egy pillanat.
+%6007 :: Felkészülés a versenyre...
+%6008 :: Felkészülés a csatára...
+%6009 :: A következő meccs játékosai
+%6010 :: Nem találtunk játékosokat.
+%6011 :: Csatlakozás\n\u000E\u0001\u0000\u0000\njátékához...
+%6012 :: A(z) \u000E\u0001\u0000\u0000\njátékához való csatlakozás\nsikertelen.\n\nVárj egy kicsit és\npróbáld újra később.
+%6014 :: Következő kör: Luficsata
+%6015 :: Következő kör: Érmecsata
+
+#Friends/Opponents menu
+%6100 :: Csatlakozás
+
+#Friends Status?
+%6105 :: Online versenyez
+%6106 :: Online csatázik
+%6107 :: Közösségben játszik
+%6109 :: -
+%6150 :: Online versenyez\nVR: \u000E\u0001\u0004\u0004\u0000\u0000
+%6151 :: Online csatázik\nVR: \u000E\u0001\u0004\u0004\u0000\u0000
+%6152 :: Közösségben játszik:\n\u000E\u0001\u0005\u0000\u0000
+
+#Sendable Community messages
+%6200 :: Üzenet küldése
+%6201 :: Kezdődjön a játék!
+%6202 :: Kezdhetjük?
+%6203 :: Helló!
+%6204 :: Sok szerencsét!
+%6205 :: Üdvözlet!
+%6206 :: Kímélet!
+%6207 :: Mindent beleadok!
+%6208 :: Várjunk több játékosra.
+%6209 :: Oké!
+%6210 :: Izgulok egy kicsit...
+%6211 :: Izgatott vagyok!
+%6212 :: Giroszkópot fogok használni!
+%6213 :: Hurrá!
+%6214 :: Ez jó móka volt!
+%6215 :: Ezt élveztem!
+%6216 :: Nem fair!
+%6217 :: Mégegyszer!
+%6218 :: Legközelebb elkaplak!
+%6219 :: Ez az utolsó köröm.
+%6220 :: Megyek...
+%6221 :: Köszi a játékot!
+%6222 :: Köszönöm szépen!
+%6223 :: Jó'ccakát!
+%6224 :: Pápá!
+
+#Communities
+%6299 :: Menü
+%6300 :: Kedvencek
+%6301 :: Ajánlott
+%6302 :: Kód beírása
+%6303 :: Új közösség
+%6304 :: Csatlakozás
+%6305 :: \u000E\u0001\u0005\u0000\u0000\n\nCsatlakozol a közösséghez?
+%6306 :: Csoportok keresése...
+%6307 :: Elhagyod ezt a csoportot?
+%6308 :: Folytatod a játékot?
+%6309 :: Írd be a közösség kódját.
+%6310 :: Érvénytelen kód.
+%6311 :: Miért nem próbálod ki\nvalaki más közösségét,\nmielőtt sajátot\nindítasz?
+%6312 :: Nem indíthatsz\ntöbb közösséget.
+%6313 :: Még nem indíthatsz\nközösséget.\n\nPróbáld újra később.
+%6314 :: Nevezd el\na közösséget.\n\nEgyszerre nyolc\nsaját közösséged lehet.
+%6315 :: Állítsd be a\nközösséget.\n\nPróbálj olyan\nbeállításokat választani,\namelyeket a többiek\nis élvezni fognak.
+%6316 :: OK
+%6317 :: Add meg a\nközösség leírását.\n\nA leírásban szerepeljen,\nhogy miről is szól\nez a közösség.
+%6318 :: A közösség a fenti\nbeállításokkal fog\nlétrejönni.\nEzeket a beállításokat\nkésőbb nem változtathatod\nmeg. Rendben?
+%6319 :: A(z)\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0005\u0000\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nnevű közösséged\nlétrejött!
+%6320 :: A közösséged kódja:\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0001\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nOszd meg a barátaiddal,\nhogy csatlakozhassanak!
+%6321 :: A közösség nem található.
+%6322 :: Ezt a közösséget\ntörölték.
+%6323 :: Mielőtt egy közösségben\njátszhatnál, létre kell\nhozni a Mario Kart\ncsatorna adatait.
+%6324 :: Közösségek\n\nJátssz a közösség\ntöbbi tagja ellen.
+%6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
+%6326 :: Játékosok száma:\n\u000E\u0001\u0004\u0004\u0000\u0000
+%6327 :: Válassz egy ikont\na közösségednek.
+%6328 :: Tárgyak
+%6329 :: Karakterek
+%6330 :: Gokartok
+%6331 :: Abroncsok
+%6332 :: Vitorlák
+%6333 :: Egyéb
+%6334 :: Hiba az SD kártyával.\n\nKérjük, ellenőrizd a\nMario Kart csatorna adatait.
+%6335 :: A csatákhoz szükség van tárgyakra.
+
+#Communities
+%6400 :: StreetPass lista
+%6401 :: Community recommendations\nhave been updated.\n\nView now?
+Az ajánlott közösségek\nfrissültek.\n\nSzeretnéd őket\nmost megtekinteni?
+
+#SpotPass
+%6402 :: Érkezett egy szellem\nSpotPass-on keresztül!\n\nSzeretnél versenyezni\nvele most?
+
+#Player profile
+%6405 :: VR
+%6406 :: Győzelmek
+%6407 :: Vereségek
+%6408 :: Érmék száma
+%6414 :: StreetPass kézfogások
+
+#Mario Kart Channel
+%6415 :: Ha találkozol más Mario Kart 7\njátékosokkal StreetPass-on\nkeresztül, felkerülnek a\nStreetPass listádra.
+
+#Communities
+%6416 :: Az ajánlott közösségek frissültek.
+
+#SpotPass
+%6417 :: Érkezett egy szellem\nSpotPass-on keresztül.
+
+#Menus
+%6410 :: Játék
+%6411 :: Nagydíj
+%6412 :: Időmérő
+%6413 :: Online csatlakozás
+
+#Player profile
+%6421 :: Mii cseréje
+%6422 :: Üzenet szerkesztése
+%6423 :: Gokart szerkesztése
+%6424 :: Nagydíj létrehozása
+%6425 :: Beállítások
+
+#Note about player profile messages
+%6427 :: Az itt megadott üzeneteket\nbárki megnézheti, szerkesztheti,\nés továbbíthatja másoknak,\nakivel játszol.
+%6428 :: Az üzeneted ne tartalmazzon\nsértő szavakat, személyes\ninformációt, illetve illegális,\nvagy személyi jogokat\nsértő tartalmakat.
+
+#Rankings
+%6431 :: 1.
+%6432 :: 2.
+%6433 :: 3.
+%6434 :: 4.
+
+#StreetPass setting
+%6440 :: StreetPass
+%6441 :: Bekapcsolva
+%6442 :: Kikapcsolva
+
+#SpotPass setting
+%6450 :: SpotPass
+%6451 :: \r%6441
+%6452 :: \r%6442
+
+#Region display setting
+%6460 :: Régió
+%6461 :: Megjelenítés
+%6462 :: Elrejtés
+
+#Online status setting
+%6470 :: Elérhetőség
+%6471 :: Megjelenítés
+%6472 :: Elrejtés
+
+#Gyro setting
+%6480 :: Giroszkóp
+%6481 :: Bekapcsolva
+%6482 :: Kikapcsolva
+
+#Save data reset dialogue
+%7001 :: Törlöd a mentésed?
+%7002 :: Ha törlöd a mentésed,\nminden haladásod elveszik.\n\nEgészen biztos vagy benne?
+%7003 :: Mentés törlése...
+%7004 :: Mentés törölve.
+%7005 :: A mentés sérült,\nezért most törlődni fog.
+
+#No Mii dialogue
+%7006 :: There are currently no Mii\ncharacters in Mii Maker.\n\nOpen Mii Maker from the\n\uE073HOME Menu and create\nat least one Mii character.
+Egy Mii sem létezik\na Mii Makerben.\n\nNyisd meg a Mii Makert a\n\uE073HOME menüből és készíts\nlegalább egy Mii-t.
+
+#Generic error
+%7007 :: Hiba történt.\n\nTartsd nyomva a bekapcsológombot\namíg a rendszer ki nem kapcsol,\nmajd kapcsold be és próbáld újra.
+
+#R/W errors
+%7101 :: Az SD kártyát\neltávolították.\n\nKérjük, kapcsold ki a\nrendszert, mielőtt kivennéd\naz SD kártyát.
+%7102 :: Kérjük, várj.\n\nNe kapcsold ki a rendszert,\nvagy távolítsd el az SD kártyát.
+%7103 :: Nem található SD kártya.
+%7104 :: Az SD nyílásba illesztett\neszköz nem használható.
+%7105 :: Az SD kártya írásvédett.\n\nKérjük, kapcsold le az\nírásvédő kapcsolót.
+%7106 :: A Mario Kart csatorna adatainak\nlétrehozása sikertelen, mivel\nnincs elég hely az SD kártyán.
+%7107 :: Hiba az SD kártyával.
+%7108 :: A Mario Kart csatorna adatai\nsérültek, ezért most\ntörlésre kerülnek.
+
+#Mario Kart Channel explanation
+%7201 :: A Mario kart csatorna \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF-on\nés \u000E\u0000\u0003\u0002\u0001SpotPass\n\u000E\u0000\u0003\u0002\uFFFF-on keresztül\nkülönböző adatokat kaphat.
+%7202 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\nAdatcsere olyan emberekkel,\nakik mellett elmész, hogy\nkésőbb online versenyezhess\nvelük.
+%7203 :: \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nSzellemek fogadása világszerte\nés közösségek ajánlása.
+%7204 :: A \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFés \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFakkor\n is aktívak maradnak,\namikor épp nem játszol.
+%7205 :: A Mario Kart csatorna által\nfogadott adatok az SD kártyára\nmentődnek.
+
+#Mario Kart Channel first time setup
+%7301 :: A Mario Kart csatorna adatai\naz SD kártyán lesznek létrehozva.
+%7302 :: A Mario Kart csatorna adatai\naz SD kártyán lesznek létrehozva.\n\nA \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF és \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nbe lesznek kapcsolva\nezen a játékon.
+%7303 :: A Mario Kart csatorna adatai\naz SD kártyán lesznek létrehozva.\n\nA \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\nbe lesz kapcsolva\nezen a játékon.
+%7304 :: A Mario Kart csatorna adatai\naz SD kártyán lesznek létrehozva.\n\nA \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFF\nbe lesz kapcsolva\nezen a játékon.
+%7305 :: A \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF és \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFF\nbe lesznek kapcsolva\nezen a játékon.
+%7306 :: A \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFF\nbe lesz kapcsolva\nezen a játékon.
+%7307 :: A \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFF\nbe lesz kapcsolva\nezen a játékon.
+
+#(Empty)
+%7400 :: 
+
+#Mario Kart Channel first time setup
+%7401 :: A Mario Kart csatorna\nhasználatra kész!
+%7402 :: A \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF és \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFF\nbe lett kapcsolva\nezen a játékon.
+%7403 :: A \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFF\nbe lett kapcsolva\nezen a játékon.
+%7404 :: A \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFF\nbe lett kapcsolva\nezen a játékon.
+
+#Permission errors
+%7405 :: A \u000E\u0000\u0003\u0002\u0002StreetPass\n\u000E\u0000\u0003\u0002\uFFFFhasználatát a szülői felügyelet\nkorlátozza.\n\nKérjük, nézd meg\na beállításokban.
+%7406 :: A \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF és \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nhasználata előtt el kell fogadnod\na Nintendo 3DS felhasználói\nlicenszszerződest.\nKérjük, nézd meg\na beállításokban.
+%7407 :: Elérted a \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF-t\nhasználó szoftverek maximum\nszámát. Menj a beállításokba\nés kapcsold ki azt egy másik\nszoftvernek.
+%7408 :: Az online versenyzéshez el kell\nfogadnod a Nintendo 3DS\nfelhasználói licenszszerződést\nés az adatvédelmi irányelveket.\nEzeket a beállításokban\ntekintheted meg.
+
+#Wireless switch off error
+%7501 :: Kapcsold át a vezeték nélküli\nkapcsolót a vezeték nélküli\nadatátvitel \u000E\u0000\u0003\u0002\u0000engedélyezéséhez\u000E\u0000\u0003\u0002\uFFFF.
+
+#Permission errors
+%7502 :: Az online interakció le van\ntiltva a szülői felügyeletben.\nKérjük, nézd meg a beállításokban.
+%7503 :: Az online játékhoz el kell\nfogadnod a Nintendo 3DS\nfelhasználói licenszszerződést\nés az adatvédelmi irányelveket.\nKérjük, nézd meg a beállításokban.
+
+#Pause menu
+&9003 :: Tovább
+&9004 :: Kilépés
+&9005 :: Pályaváltás
+&9006 :: Karakterváltás
+&9007 :: Újrakezdés
+
+#Post-race menu
+&9009 :: Következő verseny
+&9010 :: Eredmények megtekintése
+&9011 :: Újrakezdés
+&9012 :: Visszajátszás megtekintése
+&9013 :: Visszajátszás folytatása
+&9014 :: Visszajátszás újrakezdése
+&9015 :: Kilépés a visszajátszásból
+&9016 :: Következő verseny
+&9017 :: Következő kör
+
+#Dialogue button
+&9101 :: OK
+
+#Dialogue buttons
+&9103 :: Igen
+&9104 :: Nem
+
+#Quit dialogue
+&9111 :: Biztosan ki akarsz lépni?
+
+#Ghost creation dialogues
+&9151 :: Új szellem létrehozva.
+&9152 :: A szellem létrehozása sikertelen.
+&9153 :: A szellem létrehozása sikertelen.
+
+#Premature ending messages
+&9161 :: Utolsó lettél. A verseny véget ért.
+&9162 :: Eltelt öt perc. A verseny véget ért.
+&9163 :: A győztes fél perce futott be.
+
+#Communication error messages
+&9164 :: Kommunikációs\nhiba történt.
+&9165 :: \r&9164
+
+#Multiplayer pre-race info messages
+&9171 :: A következő versenyhez fogsz csatlakozni. Kérjük várj.
+&9172 :: A következő csatához fogsz csatlakozni. Kérjük várj.
+&9173 :: A csoport tele van. Kérjük várj.
+
+#Results screen
+&9201 :: EREDMÉNY
+&9202 :: ÖSSZPONTSZÁM
+&9203 :: VÉGEREDMÉNY
+&9204 :: LEGJOBB EREDMÉNYEK
+
+#Lap number
+&9817 :: KÖR:
+
+#Section number
+&9829 :: SZAKASZ: 
+
+#Points
+&9830 :: \u000E\u0001\u0006\u0012\u0004pont\u0006pont\u0000\u0000
+
+#VR amount
+&9831 :: VR
+
+#Points again
+&9833 :: \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pont\u0006pont\u0000\u0000
