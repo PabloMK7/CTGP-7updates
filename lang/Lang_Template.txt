@@ -1,0 +1,975 @@
+#
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	N64 -> \uE022\uE023
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Cups
+$700010 :: Bell Cup
+$710042 :: Concord Town
+$710059 :: \uE022\uE023 Mario Raceway
+$710044 :: Galvarny Falls
+$710045 :: \uE024\uE025 Sky Garden
+
+$700011 :: Acorn Cup
+$710046 :: Autumn Forest
+$710068 :: \uE024\uE025 Riverside Park
+$710043 :: \uE031\uE032 Mario Circuit 1
+$710049 :: \uE024\uE025 Bowser Castle 3
+
+$700012 :: Cloud Cup
+$710050 :: Evergreen Crossing
+$710054 :: \uE022\uE023 Moo Moo Farm
+$710052 :: Bayside Boulevard
+$710053 :: \uE022\uE023 Frappe Snowland
+
+$700013 :: Boo Cup
+$710055 :: Banshee Boardwalk 2
+$710062 :: Elemental Cave
+$710057 :: \uE031\uE032 Ghost Valley 2
+$710065 :: \uE033 Cheep Cheep Beach
+
+$700014 :: Spring Cup
+$710067 :: \uE033 Tick Tock Clock
+$710058 :: Melody Sanctum
+$710066 :: \uE033 Desert Hills
+$710069 :: Castle of Time
+
+$700015 :: Egg Cup
+$710063 :: \uE033 Yoshi Falls
+$710047 :: \uE022\uE023 Choco Mountain
+$710048 :: \uE033 Shroom Ridge
+$710051 :: CTR Crash Cove
+
+$700016 :: Bullet Cup
+$710056 :: CTR Cortex Castle
+$710060 :: \uE033 Dokan Course
+$710061 :: \uE031\uE032 Choco Island 2
+$710064 :: Star Slope
+
+$700018 :: Blooper Cup
+$710074 :: Sandcastle Park
+$710075 :: \uE033 Mario Circuit
+$710076 :: \uE026\uE027 Luigi Circuit
+$710077 :: Volcano Beach Ruins
+
+$700019 :: Feather Cup
+$710078 :: \uE026\uE027 Yoshi Circuit
+$710079 :: \uE024\uE025 Peach Circuit
+$710080 :: Metro Madness
+$710081 :: \uE024\uE025 Luigi Circuit
+
+$700020 :: Fireball Cup
+$710082 :: SMO RC Challenge
+$710083 :: \uE024\uE025 Bowser Castle 4
+$710084 :: \uE031\uE032 Donut Plains 1
+$710085 :: Secret Slide
+
+$700021 :: Bob-omb Cup
+$710086 :: \uE033 Wario Stadium
+$710087 :: Ermii Circuit
+$710088 :: \uE026\uE027 Baby Park
+$710089 :: Revo Circuit
+
+$700022 :: Cherry Cup
+$710090 :: \uE031\uE032 Mario Circuit 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Shy Guy Beach
+$710093 :: Bingo Party
+
+$700023 :: Coin Cup
+$710094 :: Doge Desert
+$710095 :: \uE022\uE023 Banshee Boardwalk
+$710096 :: \uE026\uE027 Mario Circuit
+$710073 :: Miku's Birthday Spec.
+
+$700017 :: Rainbow Cup
+$710070 :: \uE022\uE023 Rainbow Road
+$710071 :: \uE024\uE025 Rainbow Road
+$710072 :: Space Road
+$710097 :: Rainbow Road DX
+
+#Create new save data text
+%7005 :: Extra save data for CTGP-7\nwill be created in the SD card.
+%7003 :: Creating extra save data...
+%7004 :: Extra save data\nhas been created.
+
+##Plugin text -----------------------------------------------
+
+#First opening welcome message
+welc_t :: Welcome to CTGP-7
+welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some interesting features.\nTo open the ingame menu,\nuse the (SELECT) button.
+welc_2 :: To use any feature, place the\ncursor over an entry and\npress A to enable/configure it.
+welc_3 :: To know what an entry does,\nplace the cursor over the entry\nand touch the blue "i" (info)\nbutton in the bottom screen.
+welc_4 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.
+welc_5 :: We hope you enjoy the mod!\n^w^
+
+#General text
+warning :: WARNING
+error :: ERROR
+state :: State
+next :: Next
+state_mode :: Enabled :: Disabled
+state_inf :: Enable :: Disable
+settings :: Settings
+exit :: Exit
+
+#Entries
+gameplay_folder :: Gameplay Features
+settings_folder :: Game Settings
+spdmeter :: Speedometer :: Shows a speedometer in the top screen bottom right corner.
+ccsel :: CC Selector :: Sets the current CC to a certain value (has to be enabled before loading a race).
+itemled :: Warn Items With LED :: The notification LED blinks Blue when a Blue Shell is used and Yellow when a Lightning is used.
+backcam :: Backwards Camera :: Press \uE002 to see what's behind you, just like other Mario Kart games! (Note: The \uE002 button will no longer use items.)
+charman :: Custom Character Manager :: Switch between original and custom characters.
+trackorder :: Online Track Order :: Choose how the tracks will be ordered in cups online.
+
+#Speedometer text
+spd_set :: Speedometer settings.
+spd_unit :: Unit
+spd_type :: Type
+spd_sunit :: Select speedometer unit.
+spd_stype :: Select speedometer type.
+spd_types :: Numerical :: Graphical
+
+#CC Selector text
+cc_set :: CC selector settings.
+cc_val :: Value
+cc_rang :: The value must be between 1 - 9999
+cc_entv :: Enter new CC value.
+cc_chgv :: Change value
+
+#Course Manager
+track_ct :: Custom Tracks
+track_ori :: Original Tracks
+ct_endis :: Custom Tracks enabled :: Custom Tracks disabled
+ori_endis :: Original Tracks enabled :: Original Tracks disabled
+
+#Community Code Generator
+commugen :: Community Code Generator :: Generates a code based on the current user settings. Putting the code in a community description will enable the settings for everyone in that community.
+def_spd :: Default speed
+code :: Code
+
+#Change Round Number
+chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
+chgrnd_desc :: Select the number of rounds to be\nplayed in VS or battle modes.\nNOTE: Doesn't work in download play.\nIn local multiplayer, everyone has\nto have the same settings. :: Number must be between 1 and 32.
+rounds :: Rounds
+rnd_sel :: Select the number of rounds.
+
+#Enhanced Local Map
+enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.
+
+#Custom character manager text
+char_select :: Select a character to configure.\n(Reboot required to apply changes.)
+char_replace :: Select a custom character for:\n
+green_info :: Green -> Current activated entry.
+
+#Online track order
+order_mode :: Default :: Alphabetical
+
+#Online update check
+update_check :: Checking for updates... :: The latest version of CTGP-7\nis required to play online.
+
+#CTWW
+cntdwn :: Countdown
+CTWWtog :: Would you like to enable\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?
+
+#Characters
+$1000 :: Mario
+$1001 :: Luigi
+$1002 :: Peach
+$1003 :: Yoshi
+$1004 :: Bowser
+$1005 :: Donkey Kong
+$1006 :: Toad
+$1007 :: Koopa Troopa
+$1008 :: Wario
+$1009 :: Daisy
+$1010 :: Lakitu
+$1011 :: Rosalina
+$1012 :: Wiggler
+$1013 :: Honey Queen
+$1014 :: Metal Mario
+$1015 :: Mii
+$1016 :: Shy Guy
+
+#Items
+$1018 :: Dash Mushroom
+$1019 :: Fire Flower
+$1020 :: Super Star
+$1021 :: Golden Dash Mushroom
+$1022 :: Green Shell
+$1023 :: Banana
+$1024 :: Super Leaf
+$1025 :: Lightning
+$1026 :: Red Shell
+$1027 :: Bob-omb
+$1028 :: Spiny Shell
+$1029 :: Blooper
+$1030 :: Bullet Bill
+$1031 :: Lucky Seven
+$1032 :: Double Dash Mushroom
+$1033 :: Triple Dash Mushroom
+$1034 :: Triple Green Shell
+$1035 :: Triple Banana
+$1036 :: Triple Red Shell
+
+#Icons
+$1043 :: Flag
+$1044 :: Balloons
+$1045 :: Coin
+$1046 :: Steering Wheel
+$1047 :: Golden Steering Wheel
+
+#Characters (short)
+$1050 :: Mario
+$1051 :: Luigi
+$1052 :: Peach
+$1053 :: Yoshi
+$1054 :: Bowser
+$1055 :: DK
+$1056 :: Toad
+$1057 :: Koopa
+$1058 :: Wario
+$1059 :: Daisy
+$1060 :: Lakitu
+$1061 :: Rosalina
+$1062 :: Wiggler
+$1063 :: H. Queen
+$1064 :: M. Mario
+$1065 :: Mii
+$1066 :: Shy Guy
+
+#Karts
+$1100 :: Standard
+$1101 :: Bolt Buggy
+$1102 :: Egg 1
+$1103 :: Tiny Tug
+$1104 :: Cloud 9
+$1105 :: Gherkin
+$1106 :: B Dasher
+$1107 :: Growlster
+$1108 :: Bumble V
+$1109 :: Koopa Clown
+$1110 :: Pipe Frame
+$1111 :: Blue Seven
+$1112 :: Royal Ribbon
+$1113 :: Cact-X
+$1114 :: Barrel Train
+$1115 :: Soda Jet
+$1116 :: Gold Kart
+
+#Tyres
+$1200 :: Normal
+$1201 :: Roller
+$1202 :: Monster
+$1203 :: Slick
+$1204 :: Slim
+$1205 :: Sponge
+$1206 :: Red Monster
+$1207 :: Mushroom
+$1208 :: Wooden
+$1209 :: Gold Wheels
+
+#Gliders
+$1300 :: Super Glider
+$1301 :: Parafoil
+$1302 :: Peach Parasol
+$1303 :: Flower Glider
+$1304 :: Swoop
+$1305 :: Ghastly Glider
+$1306 :: Gold Glider
+
+#Original cups
+$1500 :: Mushroom Cup
+$1501 :: Flower Cup
+$1502 :: Star Cup
+$1503 :: Special Cup
+$1504 :: Shell Cup
+$1505 :: Banana Cup
+$1506 :: Leaf Cup
+$1507 :: Lightning Cup
+
+#Nitro tracks
+$1600 :: Mario Circuit
+$1601 :: Daisy Hills
+$1602 :: Cheep Cheep Cape
+$1603 :: Alpine Pass
+$1604 :: Toad Circuit
+$1605 :: Shy Guy Bazaar
+$1606 :: Wuhu Island Loop
+$1607 :: Wario's Galleon
+$1608 :: Piranha Plant Pipeway
+$1609 :: Melody Motorway
+$1610 :: Koopa City
+$1611 :: Wuhu Mountain Loop
+$1612 :: DK Jungle
+$1613 :: Rosalina's Ice World
+$1614 :: Bowser's Castle
+$1615 :: Rainbow Road
+
+#Retro tracks
+$1700 :: \uE031\uE032 Mario Circuit 2
+$1701 :: \uE024\uE025 Bowser Castle 1
+$1702 :: \uE022\uE023 Luigi Raceway
+$1703 :: \uE022\uE023 Kalimari Desert
+$1704 :: \uE033 Luigi's Mansion
+$1705 :: \uE033 Waluigi Pinball
+$1706 :: \uE033 DK Pass
+$1707 :: \uE033 Airship Fortress
+$1708 :: \uE067 Coconut Mall
+$1709 :: \uE067 Koopa Cape
+$1710 :: \uE067 Maple Treeway
+$1711 :: \uE067 Mushroom Gorge
+$1712 :: \uE026\uE027 Dino Dino Jungle
+$1713 :: \uE026\uE027 Daisy Cruiser
+$1714 :: \uE022\uE023 Koopa Troopa Beach
+$1715 :: \uE031\uE032 Rainbow Road
+
+#Balloon battle tracks
+$1800 :: Honeybee House
+$1801 :: Sherbet Rink
+$1802 :: Wuhu Town
+$1803 :: \uE024\uE025 Battle Course 1
+$1804 :: \uE022\uE023 Big Donut
+$1805 :: \uE033 Palm Shore
+
+#Random track
+$1806 :: ?
+
+#Class select
+$1810 :: 50cc
+$1811 :: 100cc
+$1812 :: 150cc
+$1813 :: Mirror
+
+#(Empty)
+$1814 :: 
+
+#StreetPass cup name
+$1829 :: \u000E\u0001\u0002\u0000 \u000E\u0001\u0000\u0000 Cup
+
+#Race #
+$1831 :: 1st Race
+$1832 :: 2nd Race
+$1833 :: 3rd Race
+$1834 :: 4th Race
+$1835 :: 5th Race
+$1836 :: 6th Race
+$1837 :: 7th Race
+$1838 :: 8th Race
+$1839 :: 9th Race
+$1840 :: 10th Race
+$1841 :: 11th Race
+$1842 :: 12th Race
+$1843 :: 13th Race
+$1844 :: 14th Race
+$1845 :: 15th Race
+$1846 :: 16th Race
+$1847 :: 17th Race
+$1848 :: 18th Race
+$1849 :: 19th Race
+$1850 :: 20th Race
+$1851 :: 21st Race
+$1852 :: 22nd Race
+$1853 :: 23rd Race
+$1854 :: 24th Race
+$1855 :: 25th Race
+$1856 :: 26th Race
+$1857 :: 27th Race
+$1858 :: 28th Race
+$1859 :: 29th Race
+$1860 :: 30th Race
+$1861 :: 31st Race
+$1862 :: Final Race
+
+#(Empty)
+$1863 :: 
+
+#Round #
+$1871 :: 1st Round
+$1872 :: 2nd Round
+$1873 :: 3rd Round
+$1874 :: 4th Round
+$1875 :: 5th Round
+$1876 :: Final Round
+
+#StreetPass titles (male)
+$1900 :: Shell Shark (\u000E\u0001\u0008\u0000)
+$1901 :: Banana Blitzer (\u000E\u0001\u0008\u0000)
+$1902 :: Bob-omb Ace (\u000E\u0001\u0008\u0000)
+$1903 :: Pro Defender (\u000E\u0001\u0008\u0000)
+$1904 :: Rowdy Racer (\u000E\u0001\u0008\u0000)
+$1905 :: Boost Jumper (\u000E\u0001\u0008\u0000)
+$1906 :: Aviator (\u000E\u0001\u0008\u0000)
+$1907 :: Dolphin (\u000E\u0001\u0008\u0000)
+$1908 :: Drift Wizard (\u000E\u0001\u0008\u0000)
+$1909 :: Quick Starter (\u000E\u0001\u0008\u0000)
+$1910 :: Comeback King (\u000E\u0001\u0008\u0000)
+$1911 :: Model Driver (\u000E\u0001\u0008\u0000)
+$1912 :: Zig-Zagger (\u000E\u0001\u0008\u0000)
+$1913 :: Safe Driver (\u000E\u0001\u0008\u0000)
+$1914 :: Rookie (\u000E\u0001\u0008\u0000)
+$1915 :: Star Racer (\u000E\u0001\u0008\u0000)
+
+#StreetPass titles (female)
+$1950 :: Shell Shark (\u000E\u0001\u0008\u0000)
+$1951 :: Banana Blitzer (\u000E\u0001\u0008\u0000)
+$1952 :: Bob-omb Ace (\u000E\u0001\u0008\u0000)
+$1953 :: Pro Defender (\u000E\u0001\u0008\u0000)
+$1954 :: Rowdy Racer (\u000E\u0001\u0008\u0000)
+$1955 :: Boost Jumper (\u000E\u0001\u0008\u0000)
+$1956 :: Aviator (\u000E\u0001\u0008\u0000)
+$1957 :: Dolphin (\u000E\u0001\u0008\u0000)
+$1958 :: Drift Wizard (\u000E\u0001\u0008\u0000)
+$1959 :: Quick Starter (\u000E\u0001\u0008\u0000)
+$1960 :: Comeback King (\u000E\u0001\u0008\u0000)
+$1961 :: Model Driver (\u000E\u0001\u0008\u0000)
+$1962 :: Zig-Zagger (\u000E\u0001\u0008\u0000)
+$1963 :: Safe Driver (\u000E\u0001\u0008\u0000)
+$1964 :: Rookie (\u000E\u0001\u0008\u0000)
+$1965 :: Star Racer (\u000E\u0001\u0008\u0000)
+
+#Controls (demo cart-only)
+#$1980 :: Use item
+#$1981 :: Steer
+#$1982 :: Switch view
+#$1983 :: Drift
+#$1984 :: Accelerate
+#$1985 :: Brake
+#$1986 :: Demo Version
+#$1987 :: Press \uE000
+
+#Dialogues?
+%2000 :: MARIO KART 7
+%2001 :: OK
+
+#Dialogue buttons
+%2003 :: Yes
+%2004 :: No
+%2005 :: Cancel
+%2006 :: Next
+
+#Update dialogue
+%2080 :: In order to play online,\nMario Kart 7 update data\nmust be downloaded first.
+%2081 :: Mario Kart 7 has been updated.\n\nThe software will now restart.
+
+#Main menu
+%2090 :: Single Player
+%2091 :: Local Multiplayer
+%2092 :: Online Multiplayer
+%2093 :: Mario Kart Channel
+%2094 :: Worldwide
+%2095 :: Friends/Opponents
+%2096 :: Communities
+
+#Single Player & Online Multiplayer menus
+%2200 :: Grand Prix
+%2201 :: Time Trials
+%2202 :: Balloon Battle
+%2203 :: Coin Battle
+%2204 :: VS Race
+%2205 :: \r%2204
+%2206 :: Battle
+
+#Single Player mode descriptions
+%2210 :: Race for first place in cups of four courses.
+%2211 :: Race alone to achieve your best time.
+%2212 :: Pop your opponents' balloons.
+%2213 :: Grab as many coins as you can.
+%2214 :: Race using custom rules.
+
+#Class select
+%2220 :: 50cc
+%2221 :: 100cc
+%2222 :: 150cc
+%2223 :: Mirror
+
+#Class select descriptions
+%2230 :: Easy
+%2231 :: Average
+%2232 :: Challenging
+%2233 :: Flipped Courses
+
+#Kart build stats
+%2240 :: Speed
+%2241 :: Acceleration
+%2242 :: Weight
+%2243 :: Handling
+%2244 :: Off-road
+
+#Class setting
+%2300 :: Class
+%2301 :: \r%2220
+%2302 :: \r%2221
+%2303 :: \r%2222
+%2304 :: \r%2223
+
+#CPU setting
+%2310 :: CPU
+%2311 :: Easy
+%2312 :: Normal
+%2313 :: Hard
+%2314 :: Off
+%2315 :: On
+
+#Courses setting
+%2320 :: Courses
+%2321 :: Choose
+%2322 :: Random
+%2323 :: In Order
+
+#Teams setting
+%2340 :: Teams
+%2341 :: \r%2315
+%2342 :: \r%2314
+
+#Stage setting
+%2350 :: Stage
+%2351 :: \r%2321
+%2352 :: \r%2322
+%2353 :: \r%2323
+
+#Items setting
+%2370 :: Items
+%2371 :: All
+%2372 :: Shells
+%2373 :: Bananas
+%2374 :: Mushrooms
+%2375 :: Bob-ombs
+%2376 :: None
+
+#Mode setting
+%2380 :: Mode
+%2381 :: 50cc Race
+%2382 :: 100cc Race
+%2383 :: 150cc Race
+%2384 :: Mirror Race
+%2385 :: Balloon Battle
+%2386 :: Coin Battle
+
+#Start buttons
+%2400 :: Start Race
+%2401 :: Start Round
+%2402 :: Start Time Trial
+
+#Ghost select
+%2403 :: None
+%2404 :: Ghost Data × 7
+
+#Quit dialogue
+%2406 :: Quit battle?
+
+#Local Multiplayer menu
+%2407 :: Groups playing: \u000E\u0001\u0004\u0004\u0000\u0000
+
+#Ghost select
+%2408 :: Select Ghost Data
+
+#Items setting
+%2471 :: Items: All
+%2472 :: Items: Shells
+%2473 :: Items: Bananas
+%2474 :: Items: Mushrooms
+%2475 :: Items: Bob-ombs
+%2476 :: Items: None
+
+#Mode select
+%2481 :: 50cc Grand Prix
+%2482 :: 100cc Grand Prix
+%2483 :: 150cc Grand Prix
+%2484 :: Mirror Grand Prix
+%2485 :: \r%2385
+%2486 :: \r%2386
+
+#Nitro cup unlock messages
+%2502 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Flower Cup\u000E\u0000\u0003\u0002\uFFFF!
+%2503 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Star Cup\u000E\u0000\u0003\u0002\uFFFF!
+%2504 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Special Cup\u000E\u0000\u0003\u0002\uFFFF!
+
+#(Empty)
+%2505 ::  
+
+#Retro cup unlock messages
+%2506 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Banana Cup\u000E\u0000\u0003\u0002\uFFFF!
+%2507 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Leaf Cup\u000E\u0000\u0003\u0002\uFFFF!
+%2508 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Lightning Cup\u000E\u0000\u0003\u0002\uFFFF!
+
+#Mirror class unlock message
+%2509 :: You have unlocked the\n\u000E\u0000\u0003\u0002\u0000Mirror class\u000E\u0000\u0003\u0002\uFFFF!
+
+#(Empty)
+%2510 :: 
+
+#Character / kart part unlock messages
+%2511 :: You have completed the\n150cc Mushroom Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2512 :: You have completed the\n150cc Flower Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2513 :: You have completed the\n150cc Star Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2514 :: You have completed the\n150cc Special Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2515 :: You have completed the\n150cc Shell Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2516 :: You have completed the\n150cc Banana Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2517 :: You have completed the\n150cc Leaf Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2518 :: You have completed the\n150cc Lightning Cup.\n\nA new \u000E\u0000\u0003\u0002\u0000character \u000E\u0000\u0003\u0002\uFFFFhas\nbeen unlocked!
+%2519 :: You can now race as your\n\u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
+%2520 :: You have collected \u000E\u0001\u0004\u0004\u0000\u0000 coins.\n\nA new \u000E\u0000\u0003\u0002\u0000vehicle customisation\noption \u000E\u0000\u0003\u0002\uFFFFhas been unlocked!
+%2521 :: You have earned 10,000 VR.\n\nA new \u000E\u0000\u0003\u0002\u0000vehicle customisation\noption\u000E\u0000\u0003\u0002\uFFFF has been unlocked!
+%2522 :: You have earned a rating\nof at least one star in\nevery Grand Prix.\n\nA new \u000E\u0000\u0003\u0002\u0000vehicle customisation\noption\u000E\u0000\u0003\u0002\uFFFF has been unlocked!
+%2523 :: You have met 100 players\nvia StreetPass.\n\nA new \u000E\u0000\u0003\u0002\u0000vehicle customisation\noption\u000E\u0000\u0003\u0002\uFFFF has been unlocked!
+%2524 :: You beat a Mii met via\nStreetPass.\n\nA new \u000E\u0000\u0003\u0002\u0000vehicle customisation\noption\u000E\u0000\u0003\u0002\uFFFF has been unlocked!
+
+#Local Multiplayer menu
+%5001 :: Choose a group. \n\nTouch Create a Group if\nyou want to make a new\ngroup or there are no\ngroups displayed.
+%5002 :: Create a Group
+
+#Local Multiplayer menu
+%5007 :: Finding players...
+%5008 :: Please wait for all players\nto join the group.
+%5009 :: You can play with up to\nseven other players.\n\nTouch Start when all\nplayers have joined.
+%5010 :: Start
+%5011 :: Please wait...
+%5012 :: A communication error\nhas occurred.
+%5013 :: Disband the group?
+%5014 :: Random
+%5015 :: Waiting for everyone\nto make a selection...
+%5016 :: The course\nhas been selected!
+%5017 :: Players who do not have a\nMario Kart 7 Game Card can\njoin in via Download Play on\nthe \uE073HOME Menu.
+%5018 :: Touch the \uE030 icon to\nadd each other to\nyour friend lists.
+%5019 :: The stage\nhas been selected!
+
+#Friend Registration menu
+%5905 :: Friend Registration
+%5901 :: You are now friends\nwith \u000E\u0001\u0000\u0000!
+%5902 :: \r%5901
+%5903 :: Delete this player's data?
+
+#Communities
+%5904 :: Remove this community?
+
+#Download Play
+%5900 :: Download Play
+
+#Communities
+%5906 :: Delete this community from the\nserver?
+%5907 :: Once you delete a community\nfrom the server, you will not be\nable to restore it.\n\nAre you sure you want to \ndelete this community?
+
+#Online Multiplayer messages
+%5908 :: A communication error\nhas occurred.
+%5909 :: Please wait...
+%5910 :: Preparing to watch the match\nin progress...
+%5911 :: A communication error\nhas occurred.\n\nPress \uE073HOME to return\nto the HOME Menu.
+
+#Friends/Opponents menu
+%5991 :: Friends
+%5992 :: Recent Opponents
+%5993 :: StreetPass Hits
+
+#More Online Multiplayer messages
+%6001 :: Connecting to\nNintendo Network...
+%6002 :: Disconnect from\nNintendo Network?
+%6003 :: Searching for players...
+%6004 :: Found players!
+%6005 :: You were disconnected\nfrom the other players.
+%6006 :: Please wait a moment.
+%6007 :: Preparing for the race...
+%6008 :: Preparing for the battle...
+%6009 :: Players for Next Match
+%6010 :: No players found.
+%6011 :: Joining\n\u000E\u0001\u0000\u0000...
+%6012 :: You were unable to join\n\u000E\u0001\u0000\u0000's group.\n\nPlease wait and try\nagain later.
+%6014 :: Next Round: Balloon Battle
+%6015 :: Next Round: Coin Battle
+
+#Friends/Opponents menu
+%6100 :: Join
+
+#Friends Status?
+%6105 :: Racing online
+%6106 :: Battling online
+%6107 :: Playing community game
+%6109 :: -
+%6150 :: Racing online\nVR: \u000E\u0001\u0004\u0004\u0000\u0000
+%6151 :: Battling online\nVR: \u000E\u0001\u0004\u0004\u0000\u0000
+%6152 :: Playing with community\n\u000E\u0001\u0005\u0000\u0000
+
+#Sendable Community messages
+%6200 :: Send Message
+%6201 :: Let's start the game!
+%6202 :: Shall we get started?
+%6203 :: Hello!
+%6204 :: Good luck!
+%6205 :: Welcome!
+%6206 :: Go easy on me!
+%6207 :: I'll give it my best shot!
+%6208 :: Let's wait for more players.
+%6209 :: OK!
+%6210 :: I'm a little nervous...
+%6211 :: I'm excited!
+%6212 :: I'll be using the gyro!
+%6213 :: Hooray!
+%6214 :: That was fun!
+%6215 :: Good game!
+%6216 :: Not fair!
+%6217 :: One more time!
+%6218 :: I'll get you next time!
+%6219 :: This is my last game.
+%6220 :: I'm heading off...
+%6221 :: Thanks for playing!
+%6222 :: Thanks very much!
+%6223 :: Goodnight!
+%6224 :: Bye!
+
+#Communities
+%6299 :: Menu
+%6300 :: Favourites
+%6301 :: Recommendations
+%6302 :: Enter Code
+%6303 :: Create Community
+%6304 :: Join
+%6305 :: \u000E\u0001\u0005\u0000\u0000\n\nJoin this community now?
+%6306 :: Searching for groups...
+%6307 :: Leave this group?
+%6308 :: Continue playing?
+%6309 :: Enter a community code.
+%6310 :: Invalid community code.
+%6311 :: Why not have a go at\nplaying in communities\nbefore creating your own?
+%6312 :: You cannot create any\nmore communities.
+%6313 :: You cannot create\na community yet.\n\nPlease try again later.
+%6314 :: Enter a name for\nthis community.\n\nYou can create up\nto eight communities.
+%6315 :: Choose the game settings\nfor this community.\n\nTry to pick settings\nthat the community\nmembers will enjoy.
+%6316 :: OK
+%6317 :: Enter the community\ndescription.\n\nYour description should make\nit clear to other players what\nkind of community this is.
+%6318 :: The community will be created\nusing the settings above.\nThese settings cannot be\nchanged later. Is this OK?
+%6319 :: Your community\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0005\u0000\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nhas been created!
+%6320 :: Your community code is:\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0001\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nShare it with your friends so\nthey can join your community!
+%6321 :: Community not found.
+%6322 :: This community has been\ndeleted from the server.
+%6323 :: Mario Kart Channel data must\nbe created before you can\nplay as part of a community.
+%6324 :: Communities\n\nPlay against other players\nwho are part of the same\ncommunity.
+%6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
+%6326 :: Players\n\u000E\u0001\u0004\u0004\u0000\u0000
+%6327 :: Select an icon for your\ncommunity.
+%6328 :: Items
+%6329 :: Characters
+%6330 :: Frames
+%6331 :: Tyres
+%6332 :: Gliders
+%6333 :: Other
+%6334 :: SD Card error.\n\nPlease check the data in\nthe Mario Kart Channel.
+%6335 :: Items are required in\norder to play battles.
+
+#Communities
+%6400 :: StreetPass List
+%6401 :: Community recommendations\nhave been updated.\n\nView now?
+
+#SpotPass
+%6402 :: Ghost data has arrived\nvia SpotPass!\n\nRace against it now?
+
+#Player profile
+%6405 :: VR
+%6406 :: Wins
+%6407 :: Losses
+%6408 :: Coins Collected
+%6414 :: StreetPass Hits
+
+#Mario Kart Channel
+%6415 :: Other Mario Kart 7 players met\nvia StreetPass will be added\nto your StreetPass list.
+
+#Communities
+%6416 :: Community recommendations have been updated.
+
+#SpotPass
+%6417 :: Ghost data has arrived via SpotPass.
+
+#Menus
+%6410 :: Play
+%6411 :: Grand Prix
+%6412 :: Time Trials
+%6413 :: Join Online
+
+#Player profile
+%6421 :: Change Mii
+%6422 :: Edit Message
+%6423 :: Customise Vehicle
+%6424 :: Create Grand Prix
+%6425 :: Settings
+
+#Note about player profile messages
+%6427 :: Please note that messages\nyou enter in Mario Kart 7\nwill be visible to anyone\nyou play with wirelessly,\nand may be edited or\nforwarded to others.
+%6428 :: Please do not include any\noffensive language, personal\ninformation, or content that\nis illegal or infringes upon\nthe rights of others.
+
+#Rankings
+%6431 :: 1st
+%6432 :: 2nd
+%6433 :: 3rd
+%6434 :: 4th
+
+#StreetPass setting
+%6440 :: StreetPass
+%6441 :: Activated
+%6442 :: Deactivated
+
+#SpotPass setting
+%6450 :: SpotPass
+%6451 :: \r%6441
+%6452 :: \r%6442
+
+#Region display setting
+%6460 :: Region
+%6461 :: Display
+%6462 :: Hide
+
+#Online status setting
+%6470 :: Online Status
+%6471 :: Display
+%6472 :: Hide
+
+#Gyro setting
+%6480 :: Gyro Sensor
+%6481 :: Use
+%6482 :: Don't Use
+
+#Save data reset dialogue
+%7001 :: Reset your save data?
+%7002 :: If you reset your save data,\nyou will permanently lose\nall records and progress.\n\nAre you sure this is OK?
+%7003 :: Resetting save data...
+%7004 :: The save data has been reset.
+%7005 :: The save data is corrupted\nand will now be reset.
+
+#No Mii dialogue
+%7006 :: There are currently no Mii\ncharacters in Mii Maker.\n\nOpen Mii Maker from the\n\uE073HOME Menu and create\nat least one Mii character.
+
+#Generic error
+%7007 :: An error has occurred.\n\nHold down the POWER Button\nto turn off the power, then\nturn it on and try again.
+
+#R/W errors
+%7101 :: The SD Card has been\nremoved.\n\nPlease turn off the power\nbefore removing SD Cards.
+%7102 :: Please wait...\n\nDo not turn off the power\nor remove the SD Card.
+%7103 :: There is no SD Card inserted.
+%7104 :: The device inserted\nin the SD Card slot\ncannot be used.
+%7105 :: Cannot write to the SD Card.\n\nPlease move the\nwrite-protection switch\nto the off position.
+%7106 :: Unable to create data for\nthe Mario Kart Channel.\nThere is not enough free\nspace on the SD Card.
+%7107 :: SD Card error.
+%7108 :: The Mario Kart Channel\ndata is corrupted and\nwill now be reset.
+
+#Mario Kart Channel explanation
+%7201 :: The Mario Kart Channel can\nuse \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF and \u000E\u0000\u0003\u0002\u0001SpotPass\n\u000E\u0000\u0003\u0002\uFFFFto receive various data.
+%7202 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\nExchange profiles with people\nyou pass by so you can\nchallenge them online.
+%7203 :: \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nReceive ghost data from\nplayers around the globe,\nand recommendations for\ncommunities you might like.
+%7204 :: \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFand \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFwill\nremain active even while you\nare not playing Mario Kart 7.
+%7205 :: Data received by the\nMario Kart Channel is\nsaved to the SD Card.
+
+#Mario Kart Channel first time setup
+%7301 :: Mario Kart Channel data will\nbe created on the SD Card.
+%7302 :: Mario Kart Channel data will\nbe created on the SD Card.\n\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF and \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF will be\nactivated for this software. 
+%7303 :: Mario Kart Channel data will\nbe created on the SD Card.\n\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF will be activated for\nthis software.
+%7304 :: Mario Kart Channel data will\nbe created on the SD Card.\n\n\u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFwill be activated for\nthis software.
+%7305 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF and \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFwill be\nactivated for this software.
+%7306 :: \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFwill be activated for\nthis software.
+%7307 :: \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFwill be activated for\nthis software.
+
+#Mario Kart Channel first time setup
+%7401 :: The Mario Kart Channel\nis ready to be used!
+%7402 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF and \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFhave\nbeen activated for this software.
+%7403 :: \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFhas been activated\nfor this software.
+%7404 :: \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFhas been activated for\nthis software.
+
+#Permission errors
+%7405 :: Use of \u000E\u0000\u0003\u0002\u0002StreetPass\n\u000E\u0000\u0003\u0002\uFFFFis restricted by\nParental Controls.\n\nPlease check the\nSystem Settings.
+%7406 :: You must agree to the\nNintendo 3DS Service User\nAgreement before you can\nuse \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF or \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF. \nPlease check the\nSystem Settings.
+%7407 :: You cannot activate \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF \nfor any more software titles\non this system. Deactivate\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF for another title in\nthe System Settings.
+%7408 :: In order to race online, you\nmust accept the terms of\nthe Nintendo 3DS Service\nUser Agreement and Privacy\nPolicy. You can view this\nin the System Settings.
+
+#Wireless switch off error
+%7501 :: Push the wireless switch to\n\u000E\u0000\u0003\u0002\u0000enable \u000E\u0000\u0003\u0002\uFFFFwireless communication.
+
+#Permission errors
+%7502 :: Online interaction\nis restricted by\nParental Controls.\nPlease check the\nSystem Settings.
+%7503 :: You must agree to the\nNintendo 3DS Service User\nAgreement before you can\nplay online. Please check\nthe System Settings.
+
+#Pause menu
+&9003 :: Continue
+&9004 :: Quit
+&9005 :: Change Course
+&9006 :: Change Character
+&9007 :: Restart
+
+#Post-race menu
+&9009 :: Next Race
+&9010 :: View Results
+&9011 :: Retry
+&9012 :: View Replay
+&9013 :: Continue Replay
+&9014 :: Restart Replay
+&9015 :: Quit Replay
+&9016 :: Next Race
+&9017 :: Next Round
+
+#Dialogue button
+&9101 :: OK
+
+#Dialogue buttons
+&9103 :: Yes
+&9104 :: No
+
+#Quit dialogue
+&9111 :: Are you sure you want to quit?
+
+#Ghost creation dialogues
+&9151 :: New ghost data created.
+&9152 :: Could not create ghost data.
+&9153 :: Unable to create ghost data.
+
+#Premature ending messages
+&9161 :: You have placed last. The race is over.
+&9162 :: Five minutes have passed. The race is over.
+&9163 :: The winner finished the race 30 seconds ago.
+
+#Communication error messages
+&9164 :: A communication error has occurred.
+&9165 :: \r&9164
+
+#Multiplayer pre-race info messages
+&9171 :: You will join the next race. Please wait.
+&9172 :: You will join the next battle. Please wait.
+&9173 :: The group is full. Please wait. 
+
+#Results screen
+&9201 :: RESULTS
+&9202 :: TOTAL POINTS
+&9203 :: FINAL STANDINGS
+&9204 :: BEST RECORDS
+
+#Lap number
+&9817 :: LAP
+
+#Section number
+&9829 :: SECTION 
+
+#VR amount
+&9831 :: VR
+
+#Points
+#These two strings have a special format, in the following order (pt = points in singular, pts = points in plural):
+# - \u000E\u0001\u0006
+# - \u00XX : XX = pt characters * 2 + pts characters * 2 + 8 (in hexadecimal)
+# - \u00YY : YY = pt characters * 2 (in hexadecimal)
+# - pt string
+# - \u00ZZ : ZZ = pts characters * 2 (in hexadecimal)
+# - pts string
+# - \u0000\u0000
+&9830 :: \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
+&9833 :: \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
