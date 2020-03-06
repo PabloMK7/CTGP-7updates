@@ -1,0 +1,978 @@
+#
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+#Cups
+$700010 :: Copa Campana
+$710042 :: Ciutat Concòrdia
+$710059 :: \uE022\uE023 Pista Mario
+$710044 :: Catarates Galvarny
+$710045 :: \uE024\uE025 Jardí Celeste
+
+$700011 :: Copa Bellota
+$710046 :: Bosc Tardorenc
+$710068 :: \uE024\uE025 Parc de la Ribera
+$710043 :: \uE031\uE032 Circuit Mario 1
+$710049 :: \uE024\uE025 Castell de Bowser 3
+
+$700012 :: Copa Núvol
+$710050 :: Pas Perenne
+$710054 :: \uE022\uE023 Granja Mu-Mu
+$710052 :: Bulevard de la Badia
+$710053 :: \uE022\uE023 Circuit Nevat
+
+$700013 :: Copa Boo
+$710055 :: Moll Embruixat 2
+$710062 :: Cova Elemental
+$710057 :: \uE031\uE032 Vall Fantasma 2
+$710065 :: \uE033 Platja Cheep Cheep
+
+$700014 :: Copa Moll
+$710067 :: \uE033 Rellotge TicTac
+$710058 :: Santuari Musical
+$710066 :: \uE033 Desert Sol-Sol
+$710069 :: Castell del Temps
+
+$700015 :: Copa Ou
+$710063 :: \uE033 Catarates Yoshi
+$710047 :: \uE022\uE023 Mont Xocolata
+$710048 :: \uE033 Turons Xampinyó
+$710051 :: CTR Cova Crash
+
+$700016 :: Copa Bala
+$710056 :: CTR Castell de Cortex
+$710060 :: \uE033 Circuit Dokan
+$710061 :: \uE031\uE032 Illa Xocolata 2
+$710064 :: Tobogan Estel·lar
+
+$700018 :: Copa Blooper
+$710074 :: Fortalesa de Sorra
+$710075 :: \uE033 Circuit Mario
+$710076 :: \uE026\uE027 Circuit Luigi
+$710077 :: Ruïnes de Platja Volcànica
+
+$700019 :: Copa Ploma
+$710078 :: \uE026\uE027 Circuit Yoshi
+$710079 :: \uE024\uE025 Circuit Peach
+$710080 :: Metro Madness
+$710081 :: \uE024\uE025 Circuit Luigi
+
+$700020 :: Copa Foc
+$710082 :: SMO Desafiament RC
+$710083 :: \uE024\uE025 Castell de Bowser 4
+$710084 :: \uE031\uE032 Prat Rosquilla 1
+$710085 :: Tobogan Secret
+
+$700021 :: Copa Bob-omb
+$710086 :: \uE033 Estadi Wario
+$710087 :: Circuit Ermii
+$710088 :: \uE026\uE027 Parc Bebè
+$710089 :: Circuit Revo
+
+$700022 :: Copa Cirera
+$710090 :: \uE031\uE032 Circuit Mario 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Platja Shy Guy
+$710093 :: Bingo Party
+
+$700023 :: Copa Moneda
+$710094 :: Desert Doge
+$710095 :: \uE022\uE023 Moll Embruixat
+$710096 :: \uE026\uE027 Circuit Mario
+$710073 :: Cumpleanys de Miku
+
+$700017 :: Copa Arc de Sant Martí
+$710070 :: \uE022\uE023 Camí Arc de Sant Martí
+$710071 :: \uE024\uE025 Camí Arc de Sant Martí
+$710072 :: Camí Espacial
+$710097 :: Camí Arc de Sant Martí DX
+
+#Create new save data text
+%7005 :: Dades de desament extra\nper CTGP-7 es crearan\na la targeta SD.
+%7003 :: Creant dades...
+%7004 :: Les dades de desament\ns'han creat.
+
+##Plugin text -----------------------------------------------
+
+#First opening welcome message
+welc_t :: Benvingut a CTGP-7!
+welc_1 :: Hola!\nDes del menú ingame,\npodràs utilitzar algunes\nfuncions interessants.\nPer a obrir el menú ingame,\nutilitza el botó (Select).
+welc_2 :: Per utilitzar qualsevol\nfunció, posa el cursor\ndamunt i prem A.
+welc_3 :: Per a l'explicació\nd'una funció, posa el cursor\ndamunt i prem el botó blau "i"\na la pantalla inferior.
+welc_4 :: Tinguis en compte que algunes\nfuncions com "Selector de CC"\nseran desactivades en\nmultijugador en línia.
+welc_5 :: Esperem que gaudeixis el mod!\n^ω^
+
+#General text
+warning :: ADVERTÈNCIA
+error :: ERROR
+state :: Estat
+next :: Següent
+state_mode :: Activat :: Desactivat
+state_inf :: Activar :: Desactivar
+settings :: Opcions
+exit :: Sortir
+
+#Entries
+gameplay_folder :: Funcions del Joc
+settings_folder :: Configuració del Joc
+spdmeter :: Velocímetre :: Mostra un velocímetre a la pantalla superior, part inferior dreta.
+ccsel :: Selector De CC :: Modifica els cc a un valor determinat (ha de ser activat abans de començar una carrera).
+itemled :: Avisar Objectes Amb LED :: El LED de notificació s'il·lumina blau quan s'utilitza una closca blava o groc quan s'utilitza un llamp.
+backcam :: Retrovisor :: Prem \uE002 per tornar la vista enrere, com altres Mario Kart! (Nota: El botó \uE002 deixarà d'utilitzar objectes.)
+charman :: Gestor de Personatges :: Tria entre personatges editats o originals.
+trackorder :: Ordre de Circuits :: Tria com s'ordenen els circuis en línia.
+
+#Speedometer text
+spd_set :: Opcions de Velocímetre.
+spd_unit :: Unitat
+spd_type :: Tipus
+spd_sunit :: Selecciona la unitat.
+spd_stype :: Selecciona el tipus.
+spd_types :: Numèric :: Gràfic
+
+#CC Selector text
+cc_set :: Opcions de Selector de CC.
+cc_val :: Valor
+cc_rang :: El valor ha de ser entre 1 - 9999
+cc_entv :: Introdueix valor de CC.
+cc_chgv :: Canviar Valor
+
+#Course Manager
+track_ct :: Circuits Editats
+track_ori :: Circuits Originals
+ct_endis :: Circuits Editats activats :: Circuits Editats desactivats
+ori_endis :: Circuits Originals activats :: Circuits Originals desactivats
+
+#Community Code Generator
+commugen :: Generar Codi de Comunitat :: Genera un codi basat en les opcions activades. Al posar el codi en la descripció d'una comunitat farà que les opcions s'activen per a tots els jugadors.
+def_spd :: Velocitat per omissió.
+code :: Codi
+
+#Change Round Number
+chgrnd :: Canviar Nombre de Rondes :: Canvia el nombre de rondes en les modalitats VS i batalla.
+chgrnd_desc :: Selecciona el nombre de rondas\nde les modalitats VS i batalla.\nNOTA: No funciona en la modalitat descàrrega.\nEn multijugador local, han de\nseleccionar les mateixes rondes. :: El nombre ha de ser entre 1 i 32.
+rounds :: Rondes
+rnd_sel :: Selecciona el nombre de rondes.
+
+#Enhanced Local Map
+enhmap :: Mapa Local Millorat :: Afegix la posibilitat de fer zoom al mapa local utilitzant la \uE058 pantalla tàctil.
+
+#Custom character manager text
+char_select :: Tria un personatge per configurar.\n(Es requereix un reinici per aplicar canvis.)
+char_replace :: Selecciona un personatge per a:\n
+green_info :: Verd -> Opció activa.
+
+#Online track order
+order_mode :: Por omissió :: Alfabètic
+
+#Online update check
+update_check :: Buscant actualitzacions... :: L'última versió de CTGP-7\nes necessària per a jugar en línia.
+
+#CTWW
+cntdwn :: Compte Enrere
+CTWWtog :: Vols activar\nCircuits Editats En Línia? :: Vols desactivar\nCircuits Editats En Línia?
+
+#VS Mode
+VSSet :: Opcions VS
+CourOrd :: Ordre de Circuits
+RacAm :: Nombre de Rondes
+RanCT :: Aleatori (CTs)
+RanOri :: Aleatori (Orig.)
+RanAll :: Aleatori (Tots)
+OrderH :: Ordre Horitzontal
+OrderV :: Ordre Vertical
+NextRac :: Tria el próxim circuit. Rondes restants:
+
+
+#Characters
+$1000 :: Mario
+$1001 :: Luigi
+$1002 :: Peach
+$1003 :: Yoshi
+$1004 :: Bowser
+$1005 :: Donkey Kong
+$1006 :: Toad
+$1007 :: Koopa
+$1008 :: Wario
+$1009 :: Daisy
+$1010 :: Lakitu
+$1011 :: Estela
+$1012 :: Floruga
+$1013 :: Abella Reina
+$1014 :: Mario de Metall
+$1015 :: Mii
+$1016 :: Shy Guy
+
+#Items
+$1018 :: Xampinyó Turbo
+$1019 :: Flor de Foc
+$1020 :: Superestrella
+$1021 :: Xampinyó Turbo Daurat
+$1022 :: Closca Verda
+$1023 :: Plàtan
+$1024 :: Superfulla
+$1025 :: Llamp
+$1026 :: Closca Vermella
+$1027 :: Bob-omb
+$1028 :: Closca Blava
+$1029 :: Blooper
+$1030 :: Bill Bala
+$1031 :: Ruleta del 7
+$1032 :: Parella de Xampinyons Turbo
+$1033 :: Trio de Xampinyons Turbo
+$1034 :: Trio de Closques Verdes
+$1035 :: Trio de Plàtans
+$1036 :: Trio de Closques Vermelles
+
+#Icons
+$1043 :: Bandera
+$1044 :: Globus
+$1045 :: Moneda
+$1046 :: Volant
+$1047 :: Volant Daurat
+
+#Characters (short)
+$1050 :: Mario
+$1051 :: Luigi
+$1052 :: Peach
+$1053 :: Yoshi
+$1054 :: Bowser
+$1055 :: DK
+$1056 :: Toad
+$1057 :: Koopa
+$1058 :: Wario
+$1059 :: Daisy
+$1060 :: Lakitu
+$1061 :: Estela
+$1062 :: Floruga
+$1063 :: Abeja r.
+$1064 :: Mario m.
+$1065 :: Mii
+$1066 :: Shy Guy
+
+#Karts
+$1100 :: Estàndard
+$1101 :: Kartplàtan
+$1102 :: Ou-mòbil
+$1103 :: Vaixauto
+$1104 :: Turbonu Vol
+$1105 :: Cogombre-mòbil
+$1106 :: Llamp GTI
+$1107 :: Canallícul
+$1108 :: Abella-mòbil
+$1109 :: Helikoopa
+$1110 :: Tubiturbo
+$1111 :: Centella Blava
+$1112 :: Llaç GTI
+$1113 :: Kartus
+$1114 :: Locomokong
+$1115 :: Jet Soda
+$1116 :: Daurat
+
+#Tyres
+$1200 :: Normal
+$1201 :: Petit
+$1202 :: Tot Terreny
+$1203 :: Llis
+$1204 :: Clàsic
+$1205 :: Esponja
+$1206 :: Vermell
+$1207 :: Xampinyó
+$1208 :: Fusta
+$1209 :: Daurat
+
+#Gliders
+$1300 :: Superala
+$1301 :: Parapent
+$1302 :: Para-sol Peach
+$1303 :: Ala Flor
+$1304 :: Swooper
+$1305 :: Besti Ala
+$1306 :: Daurada
+
+#Original cups
+$1500 :: Copa Xampinyó
+$1501 :: Copa Flor
+$1502 :: Copa Estrella
+$1503 :: Copa Especial
+$1504 :: Copa Closca
+$1505 :: Copa Plàtan
+$1506 :: Copa Fulla
+$1507 :: Copa Llamp
+
+#Nitro tracks
+$1600 :: Circuit Mario
+$1601 :: Turons Daisy
+$1602 :: Cap Cheep Cheep
+$1603 :: Muntanya Roqui-Roque
+$1604 :: Circuit Toad
+$1605 :: Basar Shy Guy
+$1606 :: Circuit Wuhu
+$1607 :: Galió de Wario
+$1608 :: Canonades Planta Piranya
+$1609 :: Circuit Musical
+$1610 :: Cuitat Koopa
+$1611 :: Muntanya Wuhu
+$1612 :: Jungla DK
+$1613 :: Glacera d'Estela
+$1614 :: Castell de Bowser
+$1615 :: Camí Arc de Sant Martí
+
+#Retro tracks
+$1700 :: \uE031\uE032 Circuit Mario 2
+$1701 :: \uE024\uE025 Castell de Bowser 1
+$1702 :: \uE022\uE023 Pista Luigi
+$1703 :: \uE022\uE023 Desert Kalimari
+$1704 :: \uE033 Mansió de Luigi
+$1705 :: \uE033 Pinball Waluigi
+$1706 :: \uE033 DK Alpí
+$1707 :: \uE033 Fortalesa Aèria
+$1708 :: \uE067 Centre Cocoter
+$1709 :: \uE067 Cap de Koopa
+$1710 :: \uE067 Camí de l'Auró
+$1711 :: \uE067 Barranc Xampinyó
+$1712 :: \uE026\uE027 Jungla Dino Dino
+$1713 :: \uE026\uE027 Creuer Daisy
+$1714 :: \uE022\uE023 Platja Koopa
+$1715 :: \uE031\uE032 Camí Arc de Sant Martí
+
+#Balloon battle tracks
+$1800 :: Melòdrom
+$1801 :: Pista Sorbet
+$1802 :: Poble Wuhu
+$1803 :: \uE024\uE025 Circuit de Batalla
+$1804 :: \uE022\uE023 Gran Donut
+$1805 :: \uE033 Costa Palma
+
+#Random track
+$1806 :: ?
+
+#Class select
+$1810 :: 50 cc
+$1811 :: 100 cc
+$1812 :: 150 cc
+$1813 :: Mirall
+
+#(Empty)
+$1814 :: 
+
+#StreetPass cup name
+$1829 :: Copa \u000E\u0001\u0000\u0000 (\u000E\u0001\u0002\u0000)
+
+#Race #
+$1831 :: 1.ª carrera
+$1832 :: 2.ª carrera
+$1833 :: 3.ª carrera
+$1834 :: 4.ª carrera
+$1835 :: 5.ª carrera
+$1836 :: 6.ª carrera
+$1837 :: 7.ª carrera
+$1838 :: 8.ª carrera
+$1839 :: 9.ª carrera
+$1840 :: 10.ª carrera
+$1841 :: 11.ª carrera
+$1842 :: 12.ª carrera
+$1843 :: 13.ª carrera
+$1844 :: 14.ª carrera
+$1845 :: 15.ª carrera
+$1846 :: 16.ª carrera
+$1847 :: 17.ª carrera
+$1848 :: 18.ª carrera
+$1849 :: 19.ª carrera
+$1850 :: 20.ª carrera
+$1851 :: 21.ª carrera
+$1852 :: 22.ª carrera
+$1853 :: 23.ª carrera
+$1854 :: 24.ª carrera
+$1855 :: 25.ª carrera
+$1856 :: 26.ª carrera
+$1857 :: 27.ª carrera
+$1858 :: 28.ª carrera
+$1859 :: 29.ª carrera
+$1860 :: 30.ª carrera
+$1861 :: 31.ª carrera
+$1862 :: Última carrera
+
+#(Empty)
+$1863 :: 
+
+#Round #
+$1871 :: 1.ª ronda
+$1872 :: 2.ª ronda
+$1873 :: 3.ª ronda
+$1874 :: 4.ª ronda
+$1875 :: 5.ª ronda
+$1876 :: Última ronda
+
+#StreetPass titles (male)
+$1900 :: Rei Closca (\u000E\u0001\u0008\u0000)
+$1901 :: Llançaplàtans (\u000E\u0001\u0008\u0000)
+$1902 :: Llançador Bob-omb (\u000E\u0001\u0008\u0000)
+$1903 :: Bon defensa (\u000E\u0001\u0008\u0000)
+$1904 :: Apegalós (\u000E\u0001\u0008\u0000)
+$1905 :: Saltimbanqui (\u000E\u0001\u0008\u0000)
+$1906 :: Aviador (\u000E\u0001\u0008\u0000)
+$1907 :: Peix a l'aigua (\u000E\u0001\u0008\u0000)
+$1908 :: Derrapista (\u000E\u0001\u0008\u0000)
+$1909 :: Rei Turbosortida (\u000E\u0001\u0008\u0000)
+$1910 :: Remuntador (\u000E\u0001\u0008\u0000)
+$1911 :: Pilot de manual (\u000E\u0001\u0008\u0000)
+$1912 :: Zigzaguejador (\u000E\u0001\u0008\u0000)
+$1913 :: Volant Prudent (\u000E\u0001\u0008\u0000)
+$1914 :: Novel (\u000E\u0001\u0008\u0000)
+$1915 :: As del Volant (\u000E\u0001\u0008\u0000)
+
+#StreetPass titles (female)
+$1950 :: Reina Closca (\u000E\u0001\u0008\u0000)
+$1951 :: Llançaplàtans (\u000E\u0001\u0008\u0000)
+$1952 :: Llançadora Bob-omb (\u000E\u0001\u0008\u0000)
+$1953 :: Bona defensa (\u000E\u0001\u0008\u0000)
+$1954 :: Apegalosa (\u000E\u0001\u0008\u0000)
+$1955 :: Saltimbanqui (\u000E\u0001\u0008\u0000)
+$1956 :: Aviadora (\u000E\u0001\u0008\u0000)
+$1957 :: Peix a l'aigua (\u000E\u0001\u0008\u0000)
+$1958 :: Derrapista (\u000E\u0001\u0008\u0000)
+$1959 :: Reina Turbosortida (\u000E\u0001\u0008\u0000)
+$1960 :: Remuntadora (\u000E\u0001\u0008\u0000)
+$1961 :: Pilot de manual (\u000E\u0001\u0008\u0000)
+$1962 :: Zigzaguejadora (\u000E\u0001\u0008\u0000)
+$1963 :: Volant Prudent (\u000E\u0001\u0008\u0000)
+$1964 :: Novel (\u000E\u0001\u0008\u0000)
+$1965 :: As del Volant (\u000E\u0001\u0008\u0000)
+
+#Controls (demo cart-only)
+#$1980 :: Objecte
+#$1981 :: Girar
+#$1982 :: Càmera
+#$1983 :: Derrapar
+#$1984 :: Accelerar
+#$1985 :: Frenar
+#$1986 :: Versió de prova
+#$1987 :: Prem \uE000
+
+#Dialogues?
+%2000 :: MARIO KART 7
+%2001 :: OK
+
+#Dialogue buttons
+%2003 :: Si
+%2004 :: No
+%2005 :: Cancel·lar
+%2006 :: Seguir
+
+#Update dialogue
+%2080 :: Es necessari descarregar dades\nd'actualització de Mario Kart 7\nper a jugar en línia.
+%2081 :: Mario Kart 7 ha sigut actualitzat.\nEs va a reiniciar el programa.
+
+#Main menu
+%2090 :: \u000E\u0000\u0002\u0002ZUn jugador\u000E\u0000\u0002\u0002d
+%2091 :: \u000E\u0000\u0002\u0002ZMultijugador local\u000E\u0000\u0002\u0002d
+%2092 :: \u000E\u0000\u0002\u0002ZMultijugador en línia\u000E\u0000\u0002\u0002d
+%2093 :: \u000E\u0000\u0002\u0002ZCanal Mario Kart\u000E\u0000\u0002\u0002d
+%2094 :: Mundial
+%2095 :: Amics i rivals
+%2096 :: Comunitats
+
+#Single Player & Online Multiplayer menus
+%2200 :: Grand Prix
+%2201 :: Contrarrellotge
+%2202 :: Batalla de Globus
+%2203 :: Batalla de Monedes
+%2204 :: Carrera VS.
+%2205 :: \r%2204
+%2206 :: Batalla
+
+#Single Player mode descriptions
+%2210 :: Lluita per la primera posició en 4 circuits!
+%2211 :: Aconsegueix el millor temps!
+%2212 :: Rebenta els globus dels teus rivals!
+%2213 :: Aconsegueix totes les monedes que puguis!
+%2214 :: Tu poses les regles de la carrera!
+
+#Class select
+%2220 :: 50 cc
+%2221 :: 100 cc
+%2222 :: 150 cc
+%2223 :: Mirall
+
+#Class select descriptions
+%2230 :: Fàcil
+%2231 :: Normal
+%2232 :: Difícil
+%2233 :: Pistes voltejades
+
+#Kart build stats
+%2240 :: Velocitat
+%2241 :: Acceleració
+%2242 :: Pes
+%2243 :: Manejament
+%2244 :: Tot terreny
+
+#Class setting
+%2300 :: Categoria
+%2301 :: \r%2220
+%2302 :: \r%2221
+%2303 :: \r%2222
+%2304 :: \r%2223
+
+#CPU setting
+%2310 :: Nivell CPU
+%2311 :: \r%2230
+%2312 :: \r%2231
+%2313 :: \r%2232
+%2314 :: Sense CPU
+%2315 :: Amb CPU
+
+#Courses setting
+%2320 :: Circuits
+%2321 :: Triar
+%2322 :: Aleatori
+%2323 :: Per ordre
+
+#Teams setting
+%2340 :: Equips
+%2341 :: \r%2315
+%2342 :: \r%2314
+
+#Stage setting
+%2350 :: Escenaris
+%2351 :: \r%2321
+%2352 :: \r%2322
+%2353 :: \r%2323
+
+#Items setting
+%2370 :: Objectes
+%2371 :: Tots
+%2372 :: Closques
+%2373 :: Plàtans
+%2374 :: Xampinyons
+%2375 :: Bob-ombs
+%2376 :: Ningú
+
+#Mode setting
+%2380 :: Modalitat
+%2381 :: Carrera 50 cc
+%2382 :: Carrera 100 cc
+%2383 :: Carrera 150 cc
+%2384 :: Carrera mirall
+%2385 :: Batalla globus
+%2386 :: Batalla monedes
+
+#Start buttons
+%2400 :: Començar carrera
+%2401 :: Començar ronda
+%2402 :: Començar contrarrellotge
+
+#Ghost select
+%2403 :: Sense fantasma
+%2404 :: Fantasmes: 7
+
+#Quit dialogue
+%2406 :: Vols sortir?
+
+#Local Multiplayer menu
+%2407 :: Grups jugant: \u000E\u0001\u0004\u0004\u0000\u0000
+
+#Ghost select
+%2408 :: Triar fantasma
+
+#Items setting
+%2471 :: Tots els objectes
+%2472 :: Només closques
+%2473 :: Només plàtans
+%2474 :: Només xampinyons
+%2475 :: Només Bob-ombs
+%2476 :: Sense objectes
+
+#Mode select
+%2481 :: GP de 50 cc
+%2482 :: GP de 100 cc
+%2483 :: GP de 150 cc
+%2484 :: GP mirall
+%2485 :: \r%2385
+%2486 :: \r%2386
+
+#Nitro cup unlock messages
+%2502 :: Has desbloquejat la\n\u000E\u0000\u0003\u0002\u0000Copa Flor\u000E\u0000\u0003\u0002\uFFFF!
+%2503 :: Has desbloquejat la\n\u000E\u0000\u0003\u0002\u0000Copa Estrella\u000E\u0000\u0003\u0002\uFFFF!
+%2504 :: Has desbloquejat la\n\u000E\u0000\u0003\u0002\u0000Copa Especial\u000E\u0000\u0003\u0002\uFFFF! 
+
+#Retro cup unlock messages
+%2506 :: Has desbloquejat la\n\u000E\u0000\u0003\u0002\u0000Copa Plàtan\u000E\u0000\u0003\u0002\uFFFF!
+%2507 :: Has desbloquejat la\n\u000E\u0000\u0003\u0002\u0000Copa Fulla\u000E\u0000\u0003\u0002\uFFFF!
+%2508 :: Has desbloquejat la\n\u000E\u0000\u0003\u0002\u0000Copa Llamp\u000E\u0000\u0003\u0002\uFFFF!
+
+#Mirror class unlock message
+%2509 :: Has desbloquejat la\n\u000E\u0000\u0003\u0002\u0000modalitat mirall\u000E\u0000\u0003\u0002\uFFFF!
+
+#Character / kart part unlock messages
+%2511 :: Has copletat la\nCopa Xampinyó en 150 cc\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000personatge\u000E\u0000\u0003\u0002\uFFFF!
+%2512 :: Has copletat la\nCopa Flor en 150 cc\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000personatge\u000E\u0000\u0003\u0002\uFFFF!
+%2513 :: Has copletat la\nCopa Estrella en 150 cc\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000personatge\u000E\u0000\u0003\u0002\uFFFF!
+%2514 :: Has copletat la\nCopa Especial en 150 cc\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000personatge\u000E\u0000\u0003\u0002\uFFFF!
+%2515 :: Has copletat la\nCopa Closca en 150 cc\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000personatge\u000E\u0000\u0003\u0002\uFFFF!
+%2516 :: Has copletat la\nCopa Plàtan en 150 cc\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000personatge\u000E\u0000\u0003\u0002\uFFFF!
+%2517 :: Has copletat la\nCopa Fulla en 150 cc\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000personatge\u000E\u0000\u0003\u0002\uFFFF!
+%2518 :: Has copletat la\nCopa Llamp en 150 cc\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000personatge\u000E\u0000\u0003\u0002\uFFFF!
+%2519 :: Ara pots córrer amb el teu\n\u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
+%2520 :: Has aconseguit \u000E\u0001\u0004\u0004\u0000\u0000 monedes.\n\nS'ha desbloquejat un nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
+%2521 :: Has aconseguit 10 000 PC.\n\nS'ha desbloquejat un nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
+%2522 :: Has aconseguit una puntuació\nde al menys una estrella en\ntots els Grand Prix!\n\nS'ha desbloquejat un nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
+%2523 :: T'has creuat amb 100\njugadors a través de\nStreetPass.\n\nS'ha desbloquejat un nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
+%2524 :: Has ganat a un Mii que\nvas trobar a través\nde StreetPass.\n\nS'ha desbloquejat un nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
+
+#Local Multiplayer menu
+%5001 :: Selecciona un grup.\n\nTria "Crear grup"\nsi no es mostra cap grup\no si vols crear-ne un.
+%5002 :: Crear grup
+
+#Local Multiplayer menu
+%5007 :: Buscant jugadors...
+%5008 :: Espera a que tots els\njugadors s'uneixin.
+%5009 :: Pots jugar fins amb\nset jugadors més.\n\nSelecciona "Començar" quan\nels altres s'hagin unit.
+%5010 :: Començar
+%5011 :: Espera un moment...
+%5012 :: S'ha produït\nun error de connexió.
+%5013 :: Vols cancel·lar el grup?
+%5014 :: Aleatori
+%5015 :: Esperant a que tots trien...
+%5016 :: S'ha decidit\nel circuit!
+%5017 :: Els jugadors que no tinguin\nMario Kart 7 poden participar\ngracies a la modalitat\ndescàrrega del menú HOME (\uE073).
+%5018 :: Per ha registrar-vos mutuament\nen les vostres llistes d'amics\ntoca la icona \uE030.
+%5019 :: S'ha decidit\nl'escenari!
+
+#Friend Registration menu
+%5905 :: Registrar amics
+%5901 :: \u000E\u0001\u0000\u0000 es ara el teu amic!
+%5902 :: \u000E\u0001\u0000\u0000 es ara la teua amiga!
+%5903 :: Vols esborrar les dades\ndel jugador?
+
+#Communities
+%5904 :: Esborrar la comunitat?
+
+#Download Play
+%5900 :: Modalitat descàrrega
+
+#Communities
+%5906 :: Esborrar la comunitat del\nservidor?
+%5907 :: Una vegada que hagis esborrar\nuna comunitat del servidor\nno la podràs recuperar\n\nSegur que vols esborrar-la?
+
+#Online Multiplayer messages
+%5908 :: S'ha produït un error\nde connexió.
+%5909 :: Espera un moment...
+%5910 :: Preparant la retransmissió\nen directe de la carrera...
+%5911 :: S'ha produït u error\nde connexió.\n\nPrem \uE073HOME per a\ntornar al menú HOME.
+
+#Friends/Opponents menu
+%5991 :: Amics
+%5992 :: Rivals recents
+%5993 :: Trobades StreetPass
+
+#More Online Multiplayer messages
+%6001 :: Establint connexió\namb Nintendo Network...
+%6002 :: Vols sortir de\nNintendo Network?
+%6003 :: Buscant jugadors...
+%6004 :: S'han trobat\njugadors!
+%6005 :: T'has desconnectat\ndels altres jugadors.
+%6006 :: Espera un moment...
+%6007 :: Preparant la carrera...
+%6008 :: Preparant la batalla...
+%6009 :: Jugadors participants.
+%6010 :: No s'han trobat\njugadors.
+%6011 :: T'estàs unint al grup\nde \u000E\u0001\u0000\u0000...
+%6012 :: No t'has pogut unir al grup\nde \u000E\u0001\u0000\u0000.\n\nTorna a intentar-ho més tard.
+%6014 :: Següent ronda: batalla de globus
+%6015 :: Següent ronda: batalla de monedes
+
+#Friends/Opponents menu
+%6100 :: Participar
+
+#Friends Status?
+%6105 :: En una carrera en línia
+%6106 :: En una batalla en línia
+%6107 :: En una partida en comunitat.
+%6109 :: -
+%6150 :: En una carrera en línia\nPunts: \u000E\u0001\u0004\u0004\u0000\u0000
+%6151 :: En una batalla en línia\nPunts: \u000E\u0001\u0004\u0004\u0000\u0000
+%6152 :: Jugant en la comunitat\n\u000E\u0001\u0005\u0000\u0000
+
+#Sendable Community messages
+%6200 :: Enviar missatge
+%6201 :: Comencem la partida!
+%6202 :: Què tal si comencem?
+%6203 :: Hola!
+%6204 :: Bona sort!
+%6205 :: Benvingut!
+%6206 :: Porta't bé amb mi!
+%6207 :: M'esforçaré al màxim!
+%6208 :: Esperem a més jugadors.
+%6209 :: D'acord!
+%6210 :: Quins nervis!
+%6211 :: Quina emoció!
+%6212 :: Vaig a utilitzar el sensor de gir!
+%6213 :: Bé!
+%6214 :: Ha sigut divertit!
+%6215 :: Ben fet!
+%6216 :: Quina injusticia!
+%6217 :: Altra vegada!
+%6218 :: Ja vorás a la pròxima!
+%6219 :: La meva última partida.
+%6220 :: M'en vaig ja.
+%6221 :: Gràcies per jugar!
+%6222 :: Moltes gràcies!
+%6223 :: Bona nit!
+%6224 :: Adéu!
+
+#Communities
+%6299 :: Menú
+%6300 :: Favorides
+%6301 :: Recomanacions
+%6302 :: Introdueix codi
+%6303 :: Crear comunitat
+%6304 :: Participar
+%6305 :: Vols participar\nen la comunitat\n\u000E\u0001\u0005\u0000\u0000?
+%6306 :: Cercant grups...
+%6307 :: Vols sortir del grup?
+%6308 :: Vols seguir jugant?
+%6309 :: Introdueix codi de comunitat.
+%6310 :: Codi de comunitat invàlid.
+%6311 :: Por què no jugues en\nuna comunitat abans\nde crear la teua?
+%6312 :: No pots crear\nmés comunitats.
+%6313 :: Encara no pots crear\ncomunitats.\n\nTorna a intentar-ho més tard.
+%6314 :: Introdueix el nom\nde la comunitat.\n\nPots crear fins a\n8 comunitats.
+%6315 :: Tria les opcions\nper la comunitat.\n\nIntenta triar unes regles que\nagraden a tots els jugadors.
+%6316 :: OK
+%6317 :: Escriu la descripció\nde la comunitat.\n\nLa descripció ha de servir\nper a que els altres sàpiguen de\nquin tipus de comunitat es tracta.
+%6318 :: Es crearà una comunitat amb\nles opcions que s'indiquen a dalt.\nNo podràs canviar-les després.\nVols continuar?
+%6319 :: S'ha creat la comunitat\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0005\u0000\u0000\u000E\u0000\u0003\u0002\uFFFF!
+%6320 :: El codi de comunitat es:\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0001\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nComparteix-ho amb els teus amics\ni podreu jugar junts!
+%6321 :: No s'ha trobat\nla comunitat
+%6322 :: La comunitat ha sigut\nesborrada del servidor.
+%6323 :: Necessites crear dades del\nCanal Mario Kart per poder\njugar en una comunitat.
+%6324 :: Comunitats\n\nJoga contra els membres\nd'una mateixa comunitat.
+%6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
+%6326 :: Jugadors:\n\u000E\u0001\u0004\u0004\u0000\u0000
+%6327 :: Selecciona una icona\nper la comunitat.
+%6328 :: Objectes
+%6329 :: Personatges
+%6330 :: Karts
+%6331 :: Neumàtics
+%6332 :: Ales
+%6333 :: Altres
+%6334 :: Error de targeta SD.\n\nComprova les dadesn\nen el Canal Mario Kart.
+%6335 :: Tens que triar un objecte\nper a formar part d'una batalla.
+
+#Communities
+%6400 :: Llista StreetPass
+%6401 :: Hi ha noves comunitats\nrecomanades.\n\nVols veure-les ara?
+
+#SpotPass
+%6402 :: Has rebut un corredor\nfantasma a través de SpotPass!\n\nVols reptar-ho?
+
+#Player profile
+%6405 :: PC
+%6406 :: Victòries
+%6407 :: Derrotes
+%6408 :: Monedes
+%6414 :: StreetPass
+
+#Mario Kart Channel
+%6415 :: Els jugadors de Mario Kart 7\nque et trobis a través de\nStreetPass s'afegiran a la\nteua llista StreetPass.
+
+#Communities
+%6416 :: Hi ha noves comunitats recomanades.
+
+#SpotPass
+%6417 :: Has rebut un nou corredor fantasma per StreetPass.
+
+#Menus
+%6410 :: Jugar
+%6411 :: Grand Prix
+%6412 :: Contrarrellotge
+%6413 :: Jugar en línia
+
+#Player profile
+%6421 :: Canviar Mii
+%6422 :: Editar missatge
+%6423 :: Personalitzar kart
+%6424 :: Crear Grand Prix
+%6425 :: Opcions
+
+#Note about player profile messages
+%6427 :: Els missatges que escriguis en\nMario Kart 7 podran ser llegits,\neditats i enviats a tercers\nper qualsevol persona que\njugui amb tu a través de\nla comunicació sense fils.
+%6428 :: No incloguis llenguatge\nofensiu, informació\npersonal, ni contingut\nque sigui il·legal o infringeixi\nels drets d'altres persones.
+
+#Rankings
+%6431 :: 1r
+%6432 :: 2n
+%6433 :: 3r
+%6434 :: 4t
+
+#StreetPass setting
+%6441 :: Activat
+%6442 :: Desactivat
+
+#SpotPass setting
+%6451 :: \r%6441
+%6452 :: \r%6442
+
+#Region display setting
+%6460 :: \u000E\u0000\u0002\u0002ZResidència\u000E\u0000\u0002\u0002d
+%6461 :: Mostrar
+%6462 :: Amagar
+
+#Online status setting
+%6470 :: \u000E\u0000\u0002\u0002ZEstat\u000E\u0000\u0002\u0002d
+%6471 :: \r%6461
+%6472 :: \r%6462
+
+#Gyro setting
+%6480 :: \u000E\u0000\u0002\u0002ZSensor de gir\u000E\u0000\u0002\u0002d
+%6481 :: Si
+%6482 :: No
+
+#Save data reset dialogue
+%7001 :: Vols esborrar les dades\nde desament?
+%7002 :: Si esborres les dades de\ndesament, perdràs els teus rècords\ni el teu progrés en el joc.\n\nVols continuar?
+#%7003 :: Esborrant dades...
+#%7004 :: Les dades de desament\ns'han esborrat.
+#%7005 :: Les dades de desament estan\ndanyades i es van a esborrar.
+
+#No Mii dialogue
+%7006 :: No tens cap Mii.\n\nFes-ne un en l'editor\nMii de menú HOME (\uE073).
+
+#Generic error
+%7007 :: S'ha produït un error.\nMantingues premut el botó\nPOWER per apagar\nla consola. Després,\nencén-la de nou\ni torna a intentar-ho.
+
+#R/W errors
+%7101 :: S'ha extret la targeta SD.\nApaga sempre la consola\nabans d'extreure\nuna targeta SD.
+%7102 :: Espera uns instants...\n\nNo apaguis la consola\nni extreguis la targeta SD.
+%7103 :: No es troba\ncap targeta SD.
+%7104 :: No es pot utilitzar l'objecte\nque està insertat en\nla ranura per a targetes SD.
+%7105 :: No es pot escriure\na la targeta SD.\n\nApaga la consola i retira la\nprotecció contra escriptura\nde la targeta SD.
+%7106 :: No s'han pogut crear les\ndades del Canal Mario Kart.\nNo hi ha espai suficient\na la targeta SD.
+%7107 :: Error de targeta SD.
+%7108 :: Les dades de Canal Mario\nKart estan danyats.\nEs van a esborrar i es crearan\ndades noves.
+
+#Mario Kart Channel explanation
+%7201 :: El Canal Mario Kart pot\nrebre dades a través de\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF i \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF.
+%7202 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\nIntercanvia perfils amb\nels jugadors que et\ntrobes i enfronta'ls\na través d'internet.
+%7203 :: \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nRep recomanacions de\ncomunitats que et puguen\nagradar i corredors fantasma\nd'arreu del món.
+%7204 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF i \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nfuncionaran fins i tot\nquan no estiguis jugant\na Mario Kart 7.
+%7205 :: Les dades rebudes\npel Canal Mario Kart es\ndesaran a la targeta SD.
+
+#Mario Kart Channel first time setup
+%7301 :: Es crearan dades\ndel Canal Mario Kart\na la targeta SD.
+%7302 :: Es crearan dades del Canal\nMario Kart a la targeta SD.\n\nTambé s'activaran \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\ni \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF per al joc.
+%7303 :: Es crearan dades del Canal\nMario Kart a la targeta SD.\n\nTambé s'activarà \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\nper al joc.
+%7304 :: Es crearan dades del Canal\nMario Kart a la targeta SD.\n\nTambé s'activarà \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nper al joc.
+%7305 :: Es van a activar\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF i \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nper al joc.
+%7306 :: Es va a activar\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF per al joc.
+%7307 :: Es va a activar\n\u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF per al joc.
+
+#Mario Kart Channel first time setup
+%7401 :: D'ara endavant pots utilitzar\nel Canal Mario Kart!
+%7402 :: S'han activat\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF i \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nper al joc.
+%7403 :: S'ha activat\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF per al joc.
+%7404 :: S'ha activat\n\u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF per al joc.
+
+#Permission errors
+%7405 :: L'ús de \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF està\nrestringit pel control\nparental.\n\nComprova les opcions en la\nconfiguració de la consola.
+%7406 :: Abans d'utilitzar \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF i\n\u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF, has d'acceptar\nel Contracte d'Ús dels\nServeis de Nintendo 3DS.\nComprova les opcions en la\nconfiguració de la consola.
+%7407 :: No es pot activar \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\nper a més programes\nen aquesta consola.\nDesactiva \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF per\nun altre joc en la configuració\nde la consola.
+%7408 :: Per a participar en una partida\nen línia, has d'acceptar el\nContracte d'Ús i la Política de\nPrivacitat dels Serveis de\nNintendo 3DS en la configuració\nde la consola.
+
+#Wireless switch off error
+%7501 :: \u000E\u0000\u0003\u0002\u0000Activa\u000E\u0000\u0003\u0002\uFFFF la connexió sense fils\namb l'interruptor.
+
+#Permission errors
+%7502 :: La comunicació en línia\namb altres usuaris està\nrestringida pel control\nparental.\nComprova les opcions en la\nconfiguració de la consola.
+%7503 :: Abans de jugar en línia amb\naltres usuaris, has d'acceptar\nel Contracte d'Ús dels\nServeis de Nintendo 3DS.\nComprova les opcions en la\nconfiguració de la consola.
+
+#Pause menu
+&9003 :: Continuar
+&9004 :: Sortir
+&9005 :: Canviar de circuit
+&9006 :: Canviar de personatge
+&9007 :: Tornar a començar
+
+#Post-race menu
+&9009 :: Següent carrera
+&9010 :: Veure resultats
+&9011 :: Tornar a córrer
+&9012 :: Veure repetició
+&9013 :: Continuar repetició
+&9014 :: Reiniciar repetició
+&9015 :: Sortir repetició
+&9016 :: Següent carrera
+&9017 :: Següent ronda
+
+#Dialogue button
+&9101 :: OK
+
+#Dialogue buttons
+&9103 :: Si
+&9104 :: No
+
+#Quit dialogue
+&9111 :: Segur que vols sortir?
+
+#Ghost creation dialogues
+&9151 :: S'ha desat un corredor fantasma.
+&9152 :: No s'ha desat el corredor fantasma.
+&9153 :: No s'ha pogut desar el corredor\nfantasma.
+
+#Premature ending messages
+&9161 :: Has quedat en l'últim lloc. Fi de la carrera.
+&9162 :: Han passat cinc minuts. Fi de la carrera.
+&9163 :: El guanyador va creuar la meta fa 30 segons.
+
+#Communication error messages
+&9164 :: S'ha produït un error de connexió.
+&9165 :: \r&9164
+
+#Multiplayer pre-race info messages
+&9171 :: Participaràs en la següent carrera.\nEspera...
+&9172 :: Participaràs en la següent batalla.\nEspera...
+&9173 :: El grup està complet.\nEspera...
+
+#Results screen
+&9201 :: RESULTATS
+&9202 :: PUNTUACIÓ TOTAL
+&9203 :: CLASIFICACIÓ FINAL
+&9204 :: RÈCORDS
+
+#Lap number
+&9817 :: VOLTA
+
+#Section number
+&9829 :: SECCIÓ 
+
+#VR amount
+&9831 :: PC
+
+#Points
+#These two strings have a special format, in the following order (pt = points in singular, pts = points in plural):
+# - \u000E\u0001\u0006
+# - \u00XX : XX = pt characters * 2 + pts characters * 2 + 8 (in hexadecimal)
+# - \u00YY : YY = pt characters * 2 (in hexadecimal)
+# - pt string
+# - \u00ZZ : ZZ = pts characters * 2 (in hexadecimal)
+# - pts string
+# - \u0000\u0000
+&9830 :: \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
+&9833 :: \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
