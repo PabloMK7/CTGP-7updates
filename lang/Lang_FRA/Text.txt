@@ -1,113 +1,111 @@
-#
-##No need to translate lines starting with #, those are comments
-# Symbols:
-#	SNES -> \uE031\uE032
-#	GBA -> \uE024\uE025
-#	GCN -> \uE026\uE027
-#	DS -> \uE033
-#	Wii -> \uE067
-#	A button -> \uE000
-#	X button -> \uE002
-#	Touch button -> \uE058
-#	HOME button -> \uE073
-#	POWER button -> \uE078
-#	Line Break -> \n
-# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
-# Make sure you test the language file ingame to check if the line breaks are working properly.
-# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
-##Ingame text -----------------------------------------------
+## CTGP-7 French translation file.
+##
+## This file has been generated from the Mario Kart Translation Project spreadsheet.
+## If you want to contribute, please join the following discord server:
+## https://discord.gg/ubgfE96
 
-#Cups
+#Bell Cup
 $700010 :: Coupe Clochette
 $710042 :: Village Concorde
 $710059 :: \uE022\uE023 Autodrome Mario
 $710044 :: Chutes Galvarny
 $710045 :: \uE024\uE025 Jardin Volant
 
+#Acorn Cup
 $700011 :: Coupe Noisette
 $710046 :: Forêt Automnale
 $710068 :: \uE024\uE025 Bord du Fleuve
 $710043 :: \uE031\uE032 Circuit Mario 1
 $710049 :: \uE024\uE025 Château de Bowser 3
 
+#Cloud Cup
 $700012 :: Coupe Nuage
 $710050 :: Traversée Enneigée
 $710054 :: \uE022\uE023 Ferme Meuh Meuh
 $710052 :: Boulevard Bayside
 $710053 :: \uE022\uE023 Route Glagla
 
+#Boo Cup
 $700013 :: Coupe Boo
 $710055 :: Ponton Lugubre 2
 $710062 :: Caverne Élémentaire
 $710057 :: \uE031\uE032 Vallée Fantôme 2
 $710065 :: \uE033 Plage Cheep Cheep
 
+#Spring Cup
 $700014 :: Coupe Ressort
 $710067 :: \uE033 Horloge Tic-Tac
 $710058 :: Sanctuaire Mélodique
 $710066 :: \uE033 Désert du Soleil
 $710069 :: Château du Temps
 
+#Egg Cup
 $700015 :: Coupe Œuf
 $710063 :: \uE033 Cascades Yoshi
 $710047 :: \uE022\uE023 Montagne Choco
 $710048 :: \uE033 Corniche Champignon
 $710051 :: CTR Crique Crash
 
+#Bullet Cup
 $700016 :: Coupe Bill Balle
 $710056 :: CTR Château Cortex
 $710060 :: \uE033 Circuit Dokan
 $710061 :: \uE031\uE032 Île Choco 2
 $710064 :: Pente Étoilée
 
+#Blooper Cup
 $700018 :: Coupe Bloups
 $710074 :: Parc Château de Sable
 $710075 :: \uE033 Circuit Mario
 $710076 :: \uE026\uE027 Circuit Luigi
 $710077 :: Plage Volc. en Ruines
 
+#Feather Cup
 $700019 :: Coupe Plume
 $710078 :: \uE026\uE027 Circuit Yoshi
 $710079 :: \uE024\uE025 Circuit Peach
 $710080 :: Métro Madness
 $710081 :: \uE024\uE025 Circuit Luigi
 
+#Fire Cup
 $700020 :: Coupe Boule de Feu
 $710082 :: SMO Défi Voiture Télé.
 $710083 :: \uE024\uE025 Château de Bowser 4
-$710084 :: \uE031\uE032 Plaine Donut 1 	
+$710084 :: \uE031\uE032 Plaine Donut 1
 $710085 :: Glissade Secrète
 
+#Bob-omb Cup
 $700021 :: Coupe Bob-Omb
 $710086 :: \uE033 Stade Wario
 $710087 :: Circuit Ermii
 $710088 :: \uE026\uE027 Parc Baby
 $710089 :: Circuit Revo
 
+#Cherry Cup
 $700022 :: Coupe Cerise
 $710090 :: \uE031\uE032 Circuit Mario 3
 $710091 :: Big Blue
 $710092 :: \uE024\uE025 Plage Maskass
 $710093 :: Bingo Party
 
+#Coin Cup
 $700023 :: Coupe Pièce
 $710094 :: Désert Doge
 $710095 :: \uE022\uE023 Ponton Lugubre
 $710096 :: \uE026\uE027 Circuit Mario
 $710073 :: Spectacle Miku
 
+#Rainbow Cup
 $700017 :: Coupe Arc-en-ciel
 $710070 :: \uE022\uE023 Route Arc-en-ciel
 $710071 :: \uE024\uE025 Route Arc-en-ciel
 $710072 :: Route Spatiale
 $710097 :: Route Arc-en-ciel Deluxe
 
-#Create new save data text
+#Save Data
 %7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 %7003 :: Création du fichier\nde sauvegarde...
 %7004 :: Le fichier de sauvegarde\na été créé.
-
-##Plugin text -----------------------------------------------
 
 #First opening welcome message
 welc_t :: Bienvenue sur CTGP-7 !
@@ -135,6 +133,7 @@ ccsel :: Sélecteur de CC :: Règle les CC de la course sur une certaine valeur 
 itemled :: Signaler les objets avec LED :: La diode de notification clignotera en bleu quand une carapace à épines est utilisée et en jaune lorqu'un éclair sera utilisé.
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Note: Vous ne pourrez plus appuyer sur \uE002 pour utiliser vos objets.)
 charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
+cuskart :: Utiliser des Karts du dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
 
 #Speedometer text
@@ -173,7 +172,8 @@ rnd_sel :: Sélectionnez un nombre de manches.
 enhmap :: Carte améliorée :: Ajoute une option de zoom pour la carte en touchant \uE058 l'écran tactile.
 
 #Custom character manager text
-char_select :: Sélectionnez un personnage à configurer\n(Redémarrage nécessaire pour appliquer les changements.)
+char_select :: Sélectionnez un personnage à configurer
+reboot_req :: (Redémarrage nécessaire pour appliquer les changements.)
 char_replace :: Sélectionnez un personnage customisé pour :\n
 green_info :: L'entrée en vert est l'entrée actuellement activée.
 
@@ -187,14 +187,13 @@ update_check :: Vérification des mises à jour... :: La dernière version de CT
 cntdwn :: Compte à Rebours
 CTWWtog :: Souhaitez-vous activer les\nCustom Tracks en Mondial ? :: Souhaitez-vous désactiver les\nCustom Tracks en Mondial ?
 
-
 #VS Mode
-VSSet :: VS Settings
-CourOrd :: Course Order
-RacAm :: Race Amount
-RanCT :: Random (CTs)
-RanOri :: Random (Original)
-RanAll :: Random (All)
-OrderH :: Horizontal Order
-OrderV :: Vertical Order
-NextRac :: Select next track. Remaining races:
+VSSet :: Paramètres VS
+CourOrd :: Ordre des circuits
+RacAm :: Nombre de parties
+RanCT :: Aléatoire (CTs)
+RanOri :: Aléatoire (Orig.)
+RanAll :: Aléatoire (Tous)
+OrderH :: Ordre Horizontal
+OrderV :: Ordre Vertical
+NextRac :: Choisissez le prochain circuit.\nParties restantes:
