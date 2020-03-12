@@ -163,8 +163,8 @@ def_spd :: Normale Geschwindigkeit
 code :: Code
 
 #Change Round Number
-chgrnd :: Wähle die Anzahl an Runden,\ndie gespielt werden soll.\nHINWEIS: Dies funktioniert nicht im Download-Spiel.\nIm lokalen Mehrspieler muss \njeder die selben Einstellungen haben. :: Zahl muss zwischen 1 und 32 sein.
-chgrnd_desc :: 
+chgrnd :: Rundenanzahl ändern :: Ändert die Rundenzahl im VS- und im Wettkampf-Modus.
+chgrnd_desc :: Wähle die Anzahl an Runden,\ndie gespielt werden soll.\nHINWEIS: Dies funktioniert nicht im Download-Spiel.\nIm lokalen Mehrspieler muss \njeder die selben Einstellungen haben. :: Zahl muss zwischen 1 und 32 sein.
 rounds :: Runden
 rnd_sel :: Wähle die Anzahl der Runden.
 

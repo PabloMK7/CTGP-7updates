@@ -164,7 +164,7 @@ code :: Codice
 
 #Change Round Number
 chgrnd :: Cambia numero round :: Cambia il numero di round nelle modalità Sfida e Battaglia.
-chgrnd_desc :: Il numero di round deve essere compreso tra 1 e 32.
+chgrnd_desc :: Seleziona il numero di round da\ngiocare nelle modalità Sfida e Battaglia.\nNOTA: non funziona nella modalità Download.\nIn multigiocatore locale, tutti devono\nusare le stesse impostazioni. :: Il numero di round deve essere compreso tra 1 e 32.
 rounds :: Round
 rnd_sel :: Seleeziona il numero di round.
 
