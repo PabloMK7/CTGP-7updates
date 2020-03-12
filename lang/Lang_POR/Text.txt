@@ -82,25 +82,25 @@ $710088 :: Parque Bebê \uE026\uE027
 $710089 :: Circuito Revo
 
 #Cherry Cup
-$700022 :: Cherry Cup
-$710090 :: \uE031\uE032 Mario Circuit 3
+$700022 :: Taça Cereja
+$710090 :: Circuito do Mario 3 \uE031\uE032
 $710091 :: Big Blue
-$710092 :: \uE024\uE025 Shy Guy Beach
+$710092 :: Praia Masquito \uE024\uE025
 $710093 :: Bingo Party
 
 #Coin Cup
-$700023 :: Coin Cup
-$710094 :: Doge Desert
-$710095 :: \uE022\uE023 Banshee Boardwalk
-$710096 :: \uE026\uE027 Mario Circuit
-$710073 :: Miku's Birthday Spec.
+$700023 :: Taça Moeda
+$710094 :: Deserto Doge
+$710095 :: Calçada da Alma Penada \uE022\uE023
+$710096 :: Circuito do Mario \uE026\uE027
+$710073 :: Especial de Aniversário da Miku
 
 #Rainbow Cup
-$700017 :: Rainbow Cup
-$710070 :: \uE022\uE023 Rainbow Road
-$710071 :: \uE024\uE025 Rainbow Road
-$710072 :: Space Road
-$710097 :: Rainbow Road DX
+$700017 :: Taça Arco-íris
+$710070 :: Estrada Arco-íris \uE022\uE023 
+$710071 :: Estrada Arco-íris \uE024\uE025
+$710072 :: Estrada Espacial
+$710097 :: Estrada Arco-íris DX
 
 #Save Data
 %7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
