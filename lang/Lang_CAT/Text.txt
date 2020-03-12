@@ -135,6 +135,7 @@ ccsel :: Selector De CC :: Modifica els cc a un valor determinat (ha de ser acti
 itemled :: Avisar Objectes Amb LED :: El LED de notificació s'il·lumina blau quan s'utilitza una closca blava o groc quan s'utilitza un llamp.
 backcam :: Retrovisor :: Prem \uE002 per tornar la vista enrere, com altres Mario Kart! (Nota: El botó \uE002 deixarà d'utilitzar objectes.)
 charman :: Gestor de Personatges :: Tria entre personatges editats o originals.
+cuskart :: Karts Editats :: Carrega karts editats des de la carpeta MyStuff.
 trackorder :: Ordre de Circuits :: Tria com s'ordenen els circuis en línia.
 
 #Speedometer text
@@ -173,7 +174,8 @@ rnd_sel :: Selecciona el nombre de rondes.
 enhmap :: Mapa Local Millorat :: Afegix la posibilitat de fer zoom al mapa local utilitzant la \uE058 pantalla tàctil.
 
 #Custom character manager text
-char_select :: Tria un personatge per configurar.\n(Es requereix un reinici per aplicar canvis.)
+char_select :: Tria un personatge per configurar.
+reboot_req :: (Es requereix un reinici per aplicar canvis.)
 char_replace :: Selecciona un personatge per a:\n
 green_info :: Verd -> Opció activa.
 
@@ -289,7 +291,7 @@ $1200 :: Normal
 $1201 :: Petit
 $1202 :: Tot Terreny
 $1203 :: Llis
-$1204 :: Clàsic
+$1204 :: Clàssic
 $1205 :: Esponja
 $1206 :: Vermell
 $1207 :: Xampinyó
@@ -630,11 +632,11 @@ $1965 :: As del Volant (\u000E\u0001\u0008\u0000)
 %2517 :: Has copletat la\nCopa Fulla en 150 cc\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000personatge\u000E\u0000\u0003\u0002\uFFFF!
 %2518 :: Has copletat la\nCopa Llamp en 150 cc\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000personatge\u000E\u0000\u0003\u0002\uFFFF!
 %2519 :: Ara pots córrer amb el teu\n\u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
-%2520 :: Has aconseguit \u000E\u0001\u0004\u0004\u0000\u0000 monedes.\n\nS'ha desbloquejat un nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
-%2521 :: Has aconseguit 10 000 PC.\n\nS'ha desbloquejat un nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
-%2522 :: Has aconseguit una puntuació\nde al menys una estrella en\ntots els Grand Prix!\n\nS'ha desbloquejat un nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
-%2523 :: T'has creuat amb 100\njugadors a través de\nStreetPass.\n\nS'ha desbloquejat un nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
-%2524 :: Has ganat a un Mii que\nvas trobar a través\nde StreetPass.\n\nS'ha desbloquejat un nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
+%2520 :: Has aconseguit \u000E\u0001\u0004\u0004\u0000\u0000 monedes.\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
+%2521 :: Has aconseguit 10 000 PC.\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
+%2522 :: Has aconseguit una puntuació\nde al menys una estrella en\ntots els Grand Prix!\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
+%2523 :: T'has creuat amb 100\njugadors a través de\nStreetPass.\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
+%2524 :: Has ganat a un Mii que\nvas trobar a través\nde StreetPass.\n\nS'ha desbloquejat\nun nou\u000E\u0000\u0003\u0002\u0000component per als karts\u000E\u0000\u0003\u0002\uFFFF!
 
 #Local Multiplayer menu
 %5001 :: Selecciona un grup.\n\nTria "Crear grup"\nsi no es mostra cap grup\no si vols crear-ne un.
@@ -953,7 +955,7 @@ $1965 :: As del Volant (\u000E\u0001\u0008\u0000)
 #Results screen
 &9201 :: RESULTATS
 &9202 :: PUNTUACIÓ TOTAL
-&9203 :: CLASIFICACIÓ FINAL
+&9203 :: CLASSIFICACIÓ FINAL
 &9204 :: RÈCORDS
 
 #Lap number

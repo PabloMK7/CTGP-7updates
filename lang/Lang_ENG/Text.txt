@@ -135,6 +135,7 @@ ccsel :: CC Selector :: Sets the current CC to a certain value (has to be enable
 itemled :: Warn Items With LED :: The notification LED blinks Blue when a Blue Shell is used and Yellow when a Lightning is used.
 backcam :: Backwards Camera :: Press \uE002 to see what's behind you, just like other Mario Kart games! (Note: The \uE002 button will no longer use items.)
 charman :: Custom Character Manager :: Switch between original and custom characters.
+cuskart :: Custom Karts :: Load custom karts from the MyStuff folder.
 trackorder :: Online Track Order :: Choose how the tracks will be ordered in cups online.
 
 #Speedometer text
@@ -173,7 +174,8 @@ rnd_sel :: Select the number of rounds.
 enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen local map by using the \uE058 touch screen.
 
 #Custom character manager text
-char_select :: Select a character to configure.\n(Reboot required to apply changes.)
+char_select :: Select a character to configure.
+reboot_req :: (Reboot required to apply changes.)
 char_replace :: Select a custom character for:\n
 green_info :: Green -> Current activated entry.
 
