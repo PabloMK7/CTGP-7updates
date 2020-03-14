@@ -1,113 +1,111 @@
-#
-##No need to translate lines starting with #, those are comments
-# Symbols:
-#	SNES -> \uE031\uE032
-#	GBA -> \uE024\uE025
-#	GCN -> \uE026\uE027
-#	DS -> \uE033
-#	Wii -> \uE067
-#	A button -> \uE000
-#	X button -> \uE002
-#	Touch button -> \uE058
-#	HOME button -> \uE073
-#	POWER button -> \uE078
-#	Line Break -> \n
-# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
-# Make sure you test the language file ingame to check if the line breaks are working properly.
-# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
-##Ingame text -----------------------------------------------
+## CTGP-7 German translation file.
+##
+## This file has been generated from the Mario Kart Translation Project spreadsheet.
+## If you want to contribute, please join the following discord server:
+## https://discord.gg/ubgfE96
 
-#Cups
+#Bell Cup
 $700010 :: Glocken-Cup
-$710042 :: Harmoniestadt 
+$710042 :: Harmoniestadt
 $710059 :: \uE022\uE023 Marios Piste
-$710044 :: Galvarnyfälle 
+$710044 :: Galvarnyfälle
 $710045 :: \uE024\uE025 Wolkenpiste
 
+#Acorn Cup
 $700011 :: Supereichel-Cup
 $710046 :: Herbstwald
 $710068 :: \uE024\uE025 Flussufer-Park
 $710043 :: \uE031\uE032 Marios Piste 1
 $710049 :: \uE024\uE025 Bowsers Festung 3
 
+#Cloud Cup
 $700012 :: Wolken-Cup
 $710050 :: Immergrüner Wald
 $710054 :: \uE022\uE023 Kuhmuh-Farm
 $710052 :: Bayside-Promenade
 $710053 :: \uE022\uE023 Polar-Parcours
 
+#Boo Cup
 $700013 :: Buu-Huu-Cup
 $710055 :: Spukpfad 2
 $710062 :: Elementare Höhle
 $710057 :: \uE031\uE032 Geistertal 2
 $710065 :: \uE033 Cheep-Cheep-Strand
 
+#Spring Cup
 $700014 :: Feder-Pilz-Cup
 $710067 :: \uE033 Ticktack-Trauma
 $710058 :: Melodien-Heiligtum
 $710066 :: \uE033 Glühheiße Wüste
 $710069 :: Schloss der Zeit
 
+#Egg Cup
 $700015 :: Ei-Cup
 $710063 :: \uE033 Yoshi-Kaskaden
 $710047 :: \uE022\uE023 Schoko-Sumpf
 $710048 :: \uE033 Pilz-Pass
 $710051 :: CTR Crash-Bucht
 
+#Bullet Cup
 $700016 :: Kugelwilli-Cup
 $710056 :: CTR Burg Cortex
 $710060 :: \uE033 Dokan-Kurs
 $710061 :: \uE031\uE032 Schoko-Insel 2
 $710064 :: Sternenhang
 
+#Blooper Cup
 $700018 :: Blooper-Cup
 $710074 :: Sandburg-Park
 $710075 :: \uE033 Marios Piste 1
 $710076 :: \uE026\uE027 Luigis Piste
 $710077 :: Vulkan-Strand-Ruinen
 
+#Feather Cup
 $700019 :: Feder-Cup
 $710078 :: \uE026\uE027 Yoshis Piste
 $710079 :: \uE024\uE025 Peachs Piste
-$710080 :: Metro-Wahnsinn 
+$710080 :: Metro-Wahnsinn
 $710081 :: \uE024\uE025 Luigis Piste
 
+#Fire Cup
 $700020 :: Feuerball-Cup
 $710082 :: SMO RC-Herausforderung
 $710083 :: \uE024\uE025 Bowsers Festung 4
-$710084 :: \uE031\uE032 Donut-Ebene 1 
+$710084 :: \uE031\uE032 Donut-Ebene 1
 $710085 :: Geheime Rutschbahn
 
+#Bob-omb Cup
 $700021 :: Bob-omb-Cup
 $710086 :: \uE033 Wario-Arena
-$710087 :: Ermiis Piste 
+$710087 :: Ermiis Piste
 $710088 :: \uE026\uE027 Baby-Park
 $710089 :: Revos Piste
 
+#Cherry Cup
 $700022 :: Doppelkirschen-Cup
 $710090 :: \uE031\uE032 Marios Piste 3
 $710091 :: Big Blue
 $710092 :: \uE024\uE025 Shy Guy-Strand
 $710093 :: Bingo-Party
 
+#Coin Cup
 $700023 :: Münz-Cup
 $710094 :: Doge-Wüste
 $710095 :: \uE022\uE023 Spukpfad
 $710096 :: \uE026\uE027 Marios Piste
 $710073 :: Mikus Geburtstagsspecial
 
+#Rainbow Cup
 $700017 :: Regenbogen-Cup
 $710070 :: \uE022\uE023 Regenbogen-Boulevard
 $710071 :: \uE024\uE025 Regenbogen-Boulevard
 $710072 :: Weltraumstraße
 $710097 :: Regenbogen-Boulevard DX
 
-#Create new save data text
+#Save Data
 %7005 :: Extradaten für CTGP-7 werden jetzt\nauf der SD Card erstellt.
 %7003 :: Extradaten werden erstellt...
 %7004 :: Extradaten wurden erstellt.
-
-##Plugin text -----------------------------------------------
 
 #First opening welcome message
 welc_t :: Wilkommen bei CTGP-7
@@ -118,8 +116,8 @@ welc_4 :: Beachte aber, dass manche Funk-\ntionen wie z.B. die CCM-Einstel-\nlun
 welc_5 :: Wir hoffen, dir gefällt der Mod!\n^w^
 
 #General text
-warning :: Warnung
-error :: Fehler
+warning :: WARNUNG
+error :: FEHLER
 state :: Status
 next :: Nächste
 state_mode :: Aktiviert :: Deaktiviert
@@ -135,6 +133,7 @@ ccsel :: CCM-Einstellungen :: Stellt den aktuelen Hubraum zu einem bestimmt Wert
 itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer benutzt wird und gelb, wenn ein Blitz benutzt wird.
 backcam :: Rückspiegel :: Drücke \uE002, um zu sehen was hinter dir ist, wie in den anderen Mario Kart-Spielen! (Bedenke: Der \uE002-Knopf wird keine Items mehr aktivieren.)
 charman :: Custom-Fahrer-Einstellungen :: Wechsle zwischen originalen und neuen Fahrern.
+cuskart :: Custom Karts : : Lade custom Karts aus dem Mystuff Ordner
 trackorder :: Online-Strecken-Ordner :: Wähle aus, wie die Strecken im Online Modus geordnet sein sollen.
 
 #Speedometer text
@@ -173,7 +172,8 @@ rnd_sel :: Wähle die Anzahl der Runden.
 enhmap :: Verbesserte Karte :: Fügt eine Zoomfunktion der Karte hinzu. Sie kann mit dem \uE058 Touchscreen verwendet werden.
 
 #Custom character manager text
-char_select :: Wähle einen Fahrer, um ihn zu ändern.\n(Neustart benötigt, um Änderungen zu speichern.)
+char_select :: Wähle einen Fahrer, um ihn zu ändern.
+reboot_req :: (Neustart benötigt, um Änderungen zu speichern.)
 char_replace :: Wähle einen neuen Fahrer für:\n
 green_info :: Grün → Momentan aktiv
 
@@ -186,3 +186,14 @@ update_check :: Nach Updates wird gesucht... :: Die neueste Version von CTGP-7\n
 #CTWW
 cntdwn :: Countdown
 CTWWtog :: Möchtest du benutzerdef.\nStrecken für den Weltweit-\nModus aktivieren? :: Möchtest du benutzerdef.\nStrecken für den Weltweit-\nModus deaktivieren?
+
+#VS Mode
+VSSet :: Versus Einstellungen
+CourOrd :: Kurs Folge
+RacAm :: Anzahl der Rennen
+RanCT :: Zufall (benutzerdef.)
+RanOri :: Zufall (Originale)
+RanAll :: Zufall (Alle Strecken)
+OrderH :: Horizontale Folge
+OrderV :: Vertikale Folge
+NextRac :: Wähle die nächste Strecke.\nVerbleibende Rennen:

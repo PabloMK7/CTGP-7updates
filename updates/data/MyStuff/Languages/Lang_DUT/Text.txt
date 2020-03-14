@@ -1,113 +1,111 @@
-#
-##No need to translate lines starting with #, those are comments
-# Symbols:
-#	SNES -> \uE031\uE032
-#	GBA -> \uE024\uE025
-#	GCN -> \uE026\uE027
-#	DS -> \uE033
-#	Wii -> \uE067
-#	A button -> \uE000
-#	X button -> \uE002
-#	Touch button -> \uE058
-#	HOME button -> \uE073
-#	POWER button -> \uE078
-#	Line Break -> \n
-# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
-# Make sure you test the language file ingame to check if the line breaks are working properly.
-# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
-##Ingame text -----------------------------------------------
+## CTGP-7 Dutch translation file.
+##
+## This file has been generated from the Mario Kart Translation Project spreadsheet.
+## If you want to contribute, please join the following discord server:
+## https://discord.gg/ubgfE96
 
-#Cups
+#Bell Cup
 $700010 :: Bel Beker
 $710042 :: Handel Stad
 $710059 :: \uE022\uE023 Mario's Racebaan
 $710044 :: Galvarny Falls
 $710045 :: \uE024\uE025 Hemeltuin
 
+#Acorn Cup
 $700011 :: Eikel Beker
 $710046 :: Herfstbos
 $710068 :: \uE024\uE025 Riverside Park
 $710043 :: \uE031\uE032 Mario's Circuit 1
 $710049 :: \uE024\uE025 Bowser's Kasteel 3
 
+#Cloud Cup
 $700012 :: Wolken Beker
 $710050 :: Altijdgroene Oversteek
 $710054 :: \uE022\uE023 Boe Boe Boederij
 $710052 :: Bayside Boulevard
 $710053 :: \uE022\uE023 Frappe Sneeuwland
 
+#Boo Cup
 $700013 :: Boo Beker
 $710055 :: Banshee Boardwalk 2
 $710062 :: Elementale Grot
 $710057 :: \uE031\uE032 Geestenvallei 2
 $710065 :: \uE033 Cheep Cheep-Strand
 
+#Spring Cup
 $700014 :: Springveer Beker
 $710067 :: \uE033 Tik Tok Klok
 $710058 :: Melodie Heiligdom
 $710066 :: \uE033 Woestijnheuvels
 $710069 :: Kasteel van Tijd
 
+#Egg Cup
 $700015 :: Ei Beker
 $710063 :: \uE033 Yoshi Waterval
 $710047 :: \uE022\uE023 Choco Berg
 $710048 :: \uE033 Shroom Ridge
 $710051 :: CTR Crash Cove
 
+#Bullet Cup
 $700016 :: Bullet Bill Beker
 $710056 :: CTR Cortex Kasteel
 $710060 :: \uE033 Dokan Baan
 $710061 :: \uE031\uE032 Choco Eiland 2
 $710064 :: Star Slope
 
+#Blooper Cup
 $700018 :: Blooper Beker
 $710074 :: Zandkasteel Park
 $710075 :: \uE033 Mario's Circuit
 $710076 :: \uE026\uE027 Luigi's Circuit
 $710077 :: Volcano Beach Ruins
 
+#Feather Cup
 $700019 :: Veer Beker
 $710078 :: \uE026\uE027 Yoshi's Circuit
 $710079 :: \uE024\uE025 Peach's Circuit
 $710080 :: Metro Gekheid
 $710081 :: \uE024\uE025 Luigi's Circuit
 
+#Fire Cup
 $700020 :: Vuurbal Beker
 $710082 :: SMO RC Uitdaging
 $710083 :: \uE024\uE025 Bowser's Kasteel 4
 $710084 :: \uE031\uE032 Donut Plains 1
 $710085 :: Geheime Glijbaan
 
+#Bob-omb Cup
 $700021 :: Bob-omb Beker
 $710086 :: \uE033 Wario's Stadium
 $710087 :: Ermii Circuit
 $710088 :: \uE026\uE027 Baby Park
 $710089 :: Revo Circuit
 
+#Cherry Cup
 $700022 :: Kers Beker
 $710090 :: \uE031\uE032 Mario's Circuit 3
 $710091 :: Big Blue
 $710092 :: \uE024\uE025 Shy Guy Strand
 $710093 :: Bingo Party
 
+#Coin Cup
 $700023 :: Munt Beker
 $710094 :: Doge Woestijn
 $710095 :: \uE022\uE023 Banshee Boardwalk
 $710096 :: \uE026\uE027 Mario's Circuit
 $710073 :: Miku's Verjaardag Spec.
 
+#Rainbow Cup
 $700017 :: Regenboog Beker
 $710070 :: \uE022\uE023 Regenboogbaan
 $710071 :: \uE024\uE025 Regenboogbaan
 $710072 :: Ruimteweg
 $710097 :: Regenboogbaan DX
 
-#Create new save data text
+#Save Data
 %7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt
 %7003 :: Extra save data maken...
 %7004 :: Exta save data\nis gemaakt
-
-##Plugin text -----------------------------------------------
 
 #First opening welcome message
 welc_t :: Welkom bij CTGP-7!
@@ -135,6 +133,7 @@ ccsel :: CC Selector :: Zet de huidige CC op een andere waarde (moet aanstaan vo
 itemled :: Waarschuw voor voorwerpen met LED :: De notificatie LED knippert blauw waneer een Blue Shell is gebruikt en Geel waneer bliksem is gebruikt.
 backcam :: Achteruit Kijken :: Druk op \uE002 om te zien wat er achter je zit, net zoals in andere Mario Kart spellen! (De \uE002 knop zal geen voorwerpen meer gebruiken)
 charman :: Custom Character Manager :: Wissel tussen de originele en nieuwe karakters
+cuskart :: Custom Karts :: Laad custom karts van de MyStuff map
 trackorder :: Online Baan Volgorde :: Kies in welke volgorde de banen zitten in bekers online.
 
 #Speedometer text
@@ -173,7 +172,8 @@ rnd_sel :: Selecteer het aantal ronden
 enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scherm met gebruik van het \uE058 touch screen.
 
 #Custom character manager text
-char_select :: Selecteer een karakter om te configureren.\n(Herstart nodig om veranderingen toe te passen.)
+char_select :: Selecteer een karakter om te configureren.
+reboot_req :: (Herstart nodig om veranderingen toe te passen.)
 char_replace :: Selecteer een karakter voor:\n
 green_info :: Groen -> Huidige geactiveerde item.
 
@@ -186,3 +186,14 @@ update_check :: Zoeken naar updates... :: De nieuwste versie van CTGP-7\nis nodi
 #CTWW
 cntdwn :: Countdown
 CTWWtog :: Wil je Aangepaste Banen Wereldwijd aanzetten? :: Wil je Aangepaste Banen Wereldwijd uitzetten?
+
+#VS Mode
+VSSet :: VS Instellingen
+CourOrd :: Volgorde van banen
+RacAm :: Aantal races
+RanCT :: Willekeurig (CTs)
+RanOri :: Willekeurig (Origineel)
+RanAll :: Willekeurige (Alle)
+OrderH :: Horizontale volgorde
+OrderV :: Verticale volgorde
+NextRac :: Selecteer volgende baan.\nOvergebleven races:

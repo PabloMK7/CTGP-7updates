@@ -1,120 +1,111 @@
-#
-##No need to translate lines starting with #, those are comments
-# Symbols:
-#       SFC -> \uE020\uE021
-#	SNES -> \uE031\uE032
-#       64 -> \uE035
-#       N64 -> \uE022\uE023
-#	GBA -> \uE024\uE025
-#       GC -> \uE034
-#	GCN -> \uE026\uE027
-#	DS -> \uE033
-#	Wii -> \uE067
-#	A button -> \uE000
-#	X button -> \uE002
-#	Touch button -> \uE058
-#	HOME button -> \uE073
-#	POWER button -> \uE078
-#	Line Break -> \n
-# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
-# Make sure you test the language file ingame to check if the line breaks are working properly.
-# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+## CTGP-7 Japanese translation file.
+##
+## This file has been generated from the Mario Kart Translation Project spreadsheet.
+## If you want to contribute, please join the following discord server:
+## https://discord.gg/ubgfE96
 
-# Characters to add
-# 興味深機置構何下画面
-##Ingame text -----------------------------------------------
-
-#Cups
+#Bell Cup
 $700010 :: ベルカップ
 $710042 :: コンコルドタウン
 $710059 :: \uE035 マリオサーキット
 $710044 :: ガルバニーフォールズ
 $710045 :: \uE024\uE025 スカイガーデン
 
+#Acorn Cup
 $700011 :: ドングリカップ
 $710046 :: オータムフォレスト
 $710068 :: \uE024\uE025 リバーサイドパーク
 $710043 :: \uE020\uE021 マリオサーキット 1
 $710049 :: \uE024\uE025 クッパキャッスル 3
 
+#Cloud Cup
 $700012 :: くもフラワーカップ
 $710050 :: エバーグリーンクロッシング
 $710054 :: \uE035 モーモーファーム
 $710052 :: ベイサイドブールバード
 $710053 :: \uE035 フラッペスノーランド
 
+#Boo Cup
 $700013 :: テレサカップ
 $710055 :: ヒュードロいけ 2
 $710062 :: エレメンタルケイブ
 $710057 :: \uE020\uE021 おばけぬま 2
 $710065 :: \uE033 プクプクビーチ
 
+#Spring Cup
 $700014 :: バネキノコカップ
 $710067 :: \uE033 チクタクロック
 $710058 :: メロディサンクタム
 $710066 :: \uE033 サンサンさばく
 $710069 :: キャッスルオブタイム
 
+#Egg Cup
 $700015 :: タマゴカップ
 $710063 :: \uE033 ヨッシーフォールズ
 $710047 :: \uE035 チョコマウンテン
 $710048 :: \uE033 キノコリッジウェイ
 $710051 :: CBR タスマニアだいばくそう
 
+#Bullet Cup
 $700016 :: キラーカップ
 $710056 :: CBR クモクモキャッスル
 $710060 :: \uE033 どかんコース
 $710061 :: \uE020\uE021 チョコレーとう 2
 $710064 :: スタースロープ
 
+#Blooper Cup
 $700018 :: ゲッソーカップ
 $710074 :: サンドキャッスルパーク
 $710075 :: \uE033 マリオサーキット
 $710076 :: \uE034 ルイージサーキット
 $710077 :: ボルケーノビーチいせき
 
+#Feather Cup
 $700019 :: はねカップ
 $710078 :: \uE034 ヨッシーサーキット
 $710079 :: \uE024\uE025 ピーチサーキット
 $710080 :: メトロマッドネス
 $710081 :: \uE024\uE025 ルイージサーキット
 
+#Fire Cup
 $700020 :: ファイアボールカップ
 $710082 :: SMO ミニカーチャレンジ
 $710083 :: \uE024\uE025 クッパキャッスル 4
 $710084 :: \uE020\uE021 ドーナッツへいや 1
 $710085 :: ピーチのかくれスライダー
 
+#Bob-omb Cup
 $700021 :: ボムへいカップ
 $710086 :: \uE033 ワリオスタジアム
 $710087 :: エルミーサーキット
 $710088 :: \uE034 ベビィパーク
 $710089 :: レボサーキット
 
+#Cherry Cup
 $700022 :: チェリーカップ
 $710090 :: \uE020\uE021 マリオサーキット 3
 $710091 :: ビッグブルー
 $710092 :: \uE024\uE025 ヘイホービーチ
 $710093 :: ビンゴパーティー
 
+#Coin Cup
 $700023 :: コインカップ
 $710094 :: ドージさばく
 $710095 :: \uE035 ヒュードロいけ
 $710096 :: \uE034 マリオサーキット
 $710073 :: ミクのバースデイスペクタクラー
 
+#Rainbow Cup
 $700017 :: レインボーカップ
 $710070 :: \uE035 レインボーロード
 $710071 :: \uE024\uE025 レインボーロード
 $710072 :: スペースロード
 $710097 :: レインボーロードDX
 
-#Create new save data text
+#Save Data
 %7005 :: CTGP-7の追加データを\nSDカードに作成します。
 %7003 :: 追加データの作成をしています...
 %7004 :: 追加データが\n作成されました。
-
-##Plugin text -----------------------------------------------
 
 #First opening welcome message
 welc_t :: CTGP-7へようこそ。
@@ -142,6 +133,7 @@ ccsel :: CCセレクター :: 現在のCCを特定の値に設定します(レ�
 itemled :: LEDの警告 :: トゲゾーこうらが使われている場合は青色に点滅し、サンダーが使われている場合は黄色に点滅します。
 backcam :: バックカメラ :: \uE002を押して他のマリオカートのゲームと同じように、背後にあるものを確認してください！(注:\uE002ボタンはアイテムを使用しなくなります。）
 charman :: カスタムキャラクターマネージャー :: 元のキャラクターとカスタムキャラクターを切り替えます。
+cuskart :: カスタムカート :: MyStuffフォルダからカスタムカートを読み込みます
 trackorder :: オンライントラックオーダー :: オンライン上でカップを選択する方法を選択します。
 
 #Speedometer text
@@ -180,7 +172,8 @@ rnd_sel :: ラウンド数を選んでください。
 enhmap :: ローカルマップの拡張 :: \uE058タッチスクリーンを使用して、下画面のローカルマップにズーム機能を追加します。
 
 #Custom character manager text
-char_select :: 設定するキャラクターを選んでください。\n(変更を適用するには再起動が必要です。)
+char_select :: 設定するキャラクターを選んでください。
+reboot_req :: (変更を適用するには再起動が必要です。)
 char_replace :: この中からカスタムキャラクターを選んでください:\n
 green_info :: 緑 -> 現在有効化しているエントリーです。
 
@@ -193,3 +186,14 @@ update_check :: アップデートの確認をしています... :: オンライ
 #CTWW
 cntdwn :: カウントダウン
 CTWWtog :: カスタムトラックを\n有効にしますか？ :: カスタムトラックを\n無効にしますか？
+
+#VS Mode
+VSSet :: VS設定
+CourOrd :: コースオーダー
+RacAm :: レース数
+RanCT :: ランダム (CT)
+RanOri :: ランダム (オリジナル)
+RanAll :: ランダム (全て)
+OrderH :: 水平
+OrderV :: 垂直
+NextRac :: 次のコースを選択してください。\n残りのレース:

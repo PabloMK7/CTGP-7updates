@@ -1,113 +1,111 @@
-#
-##No need to translate lines starting with #, those are comments
-# Symbols:
-#	SNES -> \uE031\uE032
-#	GBA -> \uE024\uE025
-#	GCN -> \uE026\uE027
-#	DS -> \uE033
-#	Wii -> \uE067
-#	A button -> \uE000
-#	X button -> \uE002
-#	Touch button -> \uE058
-#	HOME button -> \uE073
-#	POWER button -> \uE078
-#	Line Break -> \n
-# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
-# Make sure you test the language file ingame to check if the line breaks are working properly.
-# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
-##Ingame text -----------------------------------------------
+## CTGP-7 Italian translation file.
+##
+## This file has been generated from the Mario Kart Translation Project spreadsheet.
+## If you want to contribute, please join the following discord server:
+## https://discord.gg/ubgfE96
 
-#Cups
+#Bell Cup
 $700010 :: Trofeo Campanella
 $710042 :: Città Concordia
 $710059 :: \uE022\uE023 Pista di Mario
 $710044 :: Cascate di Galvarny
 $710045 :: \uE024\uE025 Giardino Nuvola
 
+#Acorn Cup
 $700011 :: Trofeo Ghianda
 $710046 :: Foresta d'autunno
 $710068 :: \uE024\uE025 Parco Lungofiume
 $710043 :: \uE031\uE032 Circuito di Mario 1
 $710049 :: \uE024\uE025 Castello di Bowser 3
 
+#Cloud Cup
 $700012 :: Trofeo Nuvola
 $710050 :: Incrocio Sempreverde
 $710054 :: \uE022\uE023 Fattoria Muu Muu
 $710052 :: Via Lungomare
 $710053 :: \uE022\uE023 Circuito Innevato
 
+#Boo Cup
 $700013 :: Trofeo Boo
 $710055 :: Pontile Stregato 2
 $710062 :: Caverna Elementale
 $710057 :: \uE031\uE032 Valle Fantasma 2
 $710065 :: \uE033 Spiaggia Smack
 
+#Spring Cup
 $700014 :: Trofeo Molla
 $710067 :: \uE033 Pista Tictac
 $710058 :: Santuario Melodia
 $710066 :: \uE033 Deserto Picchiasol
 $710069 :: Castello del Tempo
 
+#Egg Cup
 $700015 :: Trofeo Wovo
 $710063 :: \uE033 Cascate di Yoshi
 $710047 :: \uE022\uE023 Cioccocanyon
 $710048 :: \uE033 Colli Fungo
 $710051 :: CTR Crash Cove
 
+#Bullet Cup
 $700016 :: Trofeo Pallottolo Bill
 $710056 :: CTR Cortex Castle
 $710060 :: \uE033 Circuito Dokan
 $710061 :: \uE031\uE032 Cioccoisola 2
 $710064 :: Pendio Stellare
 
+#Blooper Cup
 $700018 :: Trofeo Calamako
 $710074 :: Parco Castello di Sabbia
 $710075 :: \uE033 Circuito di Mario
 $710076 :: \uE026\uE027 Circuito do Luigi
 $710077 :: Rovine di Spiaggia Vulcano
 
+#Feather Cup
 $700019 :: Trofeo Piuma
 $710078 :: \uE026\uE027 Circuito di Yoshi
 $710079 :: \uE024\uE025 Circuito di Peach
 $710080 :: Folle Città
 $710081 :: \uE024\uE025 Circuito di Luigi
 
+#Fire Cup
 $700020 :: Trofeo Palla di Fuoco
 $710082 :: SMO Sfida Minicar
 $710083 :: \uE024\uE025 Castello di Bowser 4
 $710084 :: \uE031\uE032 Pianura Ciambella 1
 $710085 :: Scivolo Segreto
 
+#Bob-omb Cup
 $700021 :: Trofeo Bob-omba
 $710086 :: \uE033 Stadio di Wario
 $710087 :: Circuito di Ermii
 $710088 :: \uE026\uE027 Baby Park
 $710089 :: Circuito di Revo
 
+#Cherry Cup
 $700022 :: Trofeo Doppia Ciliegia
 $710090 :: \uE031\uE032 Circuito di Mario 3
 $710091 :: Big Blue
 $710092 :: \uE024\uE025 Spiaggia Tipo Timido
 $710093 :: Bingo Party
 
+#Coin Cup
 $700023 :: Trofeo Moneta
 $710094 :: Deserto di Doge
 $710095 :: \uE022\uE023 Pontile Stregato
 $710096 :: \uE026\uE027 Circuito di Mario
 $710073 :: Speciale di Compleanno di Miku
 
+#Rainbow Cup
 $700017 :: Trofeo Arcobaleno
 $710070 :: \uE022\uE023 Pista Arcobaleno
 $710071 :: \uE024\uE025 Pista Arcobaleno
 $710072 :: Strada Spaziale
 $710097 :: Pista Arcobaleno DX
 
-#Create new save data text
+#Save Data
 %7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
 %7003 :: Creazione dei dati di salvataggio...
 %7004 :: I Dati di salvataggio\nsono stati creati.
-
-##Plugin text -----------------------------------------------
 
 #First opening welcome message
 welc_t :: Benvenuto a CTGP-7
@@ -135,6 +133,7 @@ ccsel :: Selettore classe CC :: Imposta il valore della classe CC ad un numero a
 itemled :: Avviso LED per oggetti :: Il LED della console lampeggerà di blu se un Guscio Blu è usato, e giallo se un Fulmine è usato.
 backcam :: Retrovisore :: Premi \uE002 per vedette dieter di te, esattamente come gli altri giochi della serie! (Nota: Il pulsante \uE002 non potrà più essere usato per attivare gli oggetti.)
 charman :: Gestore Personaggi :: Gestisci i personaggi custom e quelli originali.
+cuskart :: Kart personalizzati :: Carica kart personalizzati dalla cartella MyStuff.
 trackorder :: Ordine Delle piste online :: Gestisci l'ordine in cui le piste appariranno nel gioco online.
 
 #Speedometer text
@@ -173,7 +172,8 @@ rnd_sel :: Seleeziona il numero di round.
 enhmap :: Mappa Migliorata :: Aggiunge la funzionalità di zoom alla mappa usando il \uE058 touch screen.
 
 #Custom character manager text
-char_select :: Seleziona un personaggio da configurare.\n(Riavvia il gioco per applicare i cambiamenti.)
+char_select :: Seleziona un personaggio da configurare.
+reboot_req :: (Riavvia il gioco per applicare i cambiamenti.)
 char_replace :: Seleziona un personaggio custom per:\n
 green_info :: Verde -> Personaggio abilitato.
 
@@ -186,3 +186,14 @@ update_check :: Controllo aggiornamenti... :: L'ultima versione di CTGP-7\nè ri
 #CTWW
 cntdwn :: Conto alla rovescia
 CTWWtog :: Vuoi abilitare le piste\ncustom mondiali? :: Vuoi disabilitare le piste\ncustom mondiali?
+
+#VS Mode
+VSSet :: Impostazioni Modalità Sfida
+CourOrd :: Ordine piste
+RacAm :: Numero di gare
+RanCT :: Casuali (Modificate)
+RanOri :: Casuali (Originali)
+RanAll :: Casuali (Tutte)
+OrderH :: Ordine orzzontale
+OrderV :: Ordine verticale
+NextRac :: Seleziona la prossima pista.\nGare rimanenti:
