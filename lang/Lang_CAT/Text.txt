@@ -649,7 +649,7 @@ $1965 :: As del Volant (\u000E\u0001\u0008\u0000)
 #Communities
 %5904 :: Esborrar la comunitat?
 %5906 :: Esborrar la comunitat del\nservidor?
-%5907 :: Una vegada que hagis esborrat\nuna comunitat del servidor\nno la podràs recuperar\n\nSegur que vols esborrar-la?
+%5907 :: Una vegada que hagis esborrat\nuna comunitat del servidor\nno la podràs recuperar.\n\nSegur que vols esborrar-la?
 %6299 :: Menú
 %6300 :: Preferides
 %6301 :: Recomanacions
@@ -759,7 +759,7 @@ $1965 :: As del Volant (\u000E\u0001\u0008\u0000)
 
 #SpotPass
 %6402 :: Has rebut un corredor\nfantasma a través de SpotPass!\n\nVols reptar-lo?
-%6417 :: Has rebut un nou corredor fantasma per StreetPass.
+%6417 :: Has rebut un nou fantasma per StreetPass.
 
 #Player profile
 %6405 :: PC
