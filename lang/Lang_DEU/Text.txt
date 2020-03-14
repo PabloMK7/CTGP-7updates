@@ -116,8 +116,8 @@ welc_4 :: Beachte aber, dass manche Funk-\ntionen wie z.B. die CCM-Einstel-\nlun
 welc_5 :: Wir hoffen, dir gefällt der Mod!\n^w^
 
 #General text
-warning :: Warnung
-error :: Fehler
+warning :: WARNUNG
+error :: FEHLER
 state :: Status
 next :: Nächste
 state_mode :: Aktiviert :: Deaktiviert

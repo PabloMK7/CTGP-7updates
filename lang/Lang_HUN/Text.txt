@@ -120,21 +120,21 @@ warning :: FIGYELMEZTETÉS
 error :: HIBA
 state :: Érték
 next :: Tovább
-state_mode :: Engedélyezve == Letiltva
-state_inf :: Engedélyezés == Letiltás
+state_mode :: Engedélyezve :: Letiltva
+state_inf :: Engedélyezés :: Letiltás
 settings :: Beállítások
 exit :: Kilépés
 
 #Entries
 gameplay_folder :: Játékfunkciók
 settings_folder :: Beállítások
-spdmeter :: Sebességmérő == Mutatja a sebességet a felső képernyő jobb alsó sarkában.
-ccsel :: CC választó == Egy adott értékre állítja a CC-t (ezt a verseny kezdete előtt kell engedélyezni).
-itemled :: Figyelmeztető LED == Az értesítési LED kéken villog, ha valaki elindít egy Kék páncélt, illetve sárgán, ha valaki Villámcsapást használ.
-backcam :: Visszapillantó == Nyomd meg az \uE002 gombot a hátra pillantáshoz, mint a többi Mario Kart játékban! (Megjegyzés: az \uE002 gomb nem fog tárgyakat használni.)
-charman :: Egyéni karakter-kezelő == Válts eredeti és egyéni karakterek között.
+spdmeter :: Sebességmérő :: Mutatja a sebességet a felső képernyő jobb alsó sarkában.
+ccsel :: CC választó :: Egy adott értékre állítja a CC-t (ezt a verseny kezdete előtt kell engedélyezni).
+itemled :: Figyelmeztető LED :: Az értesítési LED kéken villog, ha valaki elindít egy Kék páncélt, illetve sárgán, ha valaki Villámcsapást használ.
+backcam :: Visszapillantó :: Nyomd meg az \uE002 gombot a hátra pillantáshoz, mint a többi Mario Kart játékban! (Megjegyzés: az \uE002 gomb nem fog tárgyakat használni.)
+charman :: Egyéni karakter-kezelő :: Válts eredeti és egyéni karakterek között.
 cuskart :: Egyéni gokartok :: Egyéni gokartok betöltése a MyStuff mappából.
-trackorder :: Online pálya rendezés == Válaszd ki a pályák rendezését online.
+trackorder :: Online pálya rendezés :: Válaszd ki a pályák rendezését online.
 
 #Speedometer text
 spd_set :: Sebességmérő beállításai.
@@ -142,7 +142,7 @@ spd_unit :: Mértékegység
 spd_type :: Típus
 spd_sunit :: Válaszd ki a sebességmérő mértékegységét.
 spd_stype :: Válaszd ki a sebességmérő típusát.
-spd_types :: Számszerű == Grafikus
+spd_types :: Számszerű :: Grafikus
 
 #CC Selector text
 cc_set :: CC választó beállításai.
@@ -154,22 +154,22 @@ cc_chgv :: Érték megváltoztatása
 #Course Manager
 track_ct :: Egyéni pályák
 track_ori :: Eredeti pályák
-ct_endis :: Egyéni pályák engedélyezése == Egyéni pályák letiltása
-ori_endis :: Eredeti pályák engedélyezése == Eredeti pályák letiltása
+ct_endis :: Egyéni pályák engedélyezése :: Egyéni pályák letiltása
+ori_endis :: Eredeti pályák engedélyezése :: Eredeti pályák letiltása
 
 #Community Code Generator
-commugen :: Közösségi kód generátor == Generál egy kódot a beállításaid alapján. A kód megadása egy közösség leírásában mindenki számára engedélyezni fogja ugyanezeket a beállításokat.
+commugen :: Közösségi kód generátor :: Generál egy kódot a beállításaid alapján. A kód megadása egy közösség leírásában mindenki számára engedélyezni fogja ugyanezeket a beállításokat.
 def_spd :: Alapértelmezett sebesség
 code :: Kód
 
 #Change Round Number
-chgrnd :: Körök száma == Megváltoztatja a körök számát verseny és csata módban.
-chgrnd_desc :: Válaszd ki a verseny és csata\nmódokban játszandó körök számát.\nMEGJEGYZÉS: Download Play-ben\nnem működik.\nHelyi többjátékos játékban\nmindenkinek ugyanazon\nbeállításokkal kell rendelkeznie. == Az értéknek 1 és 32 között kell lennie.
+chgrnd :: Körök száma :: Megváltoztatja a körök számát verseny és csata módban.
+chgrnd_desc :: Válaszd ki a verseny és csata\nmódokban játszandó körök számát.\nMEGJEGYZÉS: Download Play-ben\nnem működik.\nHelyi többjátékos játékban\nmindenkinek ugyanazon\nbeállításokkal kell rendelkeznie. :: Az értéknek 1 és 32 között kell lennie.
 rounds :: Körök
 rnd_sel :: Válaszd ki a körök számát.
 
 #Enhanced Local Map
-enhmap :: Javított helyi térkép == Zoom-olhatóvá teszi a helyi térképet az \uE058 érintőképernyőn.
+enhmap :: Javított helyi térkép :: Zoom-olhatóvá teszi a helyi térképet az \uE058 érintőképernyőn.
 
 #Custom character manager text
 char_select :: Válaszd ki a beállítandó karaktert.
@@ -178,14 +178,14 @@ char_replace :: Válassz ki egy egyéni karaktert helyette:\n
 green_info :: Zöld -> Jelenlegi beállítás.
 
 #Online track order
-order_mode :: Alapértelmezett == ABC-sorrend
+order_mode :: Alapértelmezett :: ABC-sorrend
 
 #Online update check
-update_check :: Frissítések keresése... == A CTGP-7 legújabb verziója\nszükséges az online játékhoz.
+update_check :: Frissítések keresése... :: A CTGP-7 legújabb verziója\nszükséges az online játékhoz.
 
 #CTWW
 cntdwn :: Visszaszámlálás
-CTWWtog :: Szeretnéd engedélyezni az egyéni\npályákat világszerte (CTWW)? == Szeretnéd letiltani az egyéni\npályákat világszerte (CTWW)?
+CTWWtog :: Szeretnéd engedélyezni az egyéni\npályákat világszerte (CTWW)? :: Szeretnéd letiltani az egyéni\npályákat világszerte (CTWW)?
 
 #VS Mode
 VSSet :: Egyéni verseny beállítások

@@ -6,7 +6,7 @@
 
 #Bell Cup
 $700010 :: Coupe Clochette
-$710042 :: Village Concorde
+$710042 :: Ville Harmonieuse
 $710059 :: \uE022\uE023 Autodrome Mario
 $710044 :: Chutes Galvarny
 $710045 :: \uE024\uE025 Jardin Volant
@@ -22,7 +22,7 @@ $710049 :: \uE024\uE025 Château de Bowser 3
 $700012 :: Coupe Nuage
 $710050 :: Traversée Enneigée
 $710054 :: \uE022\uE023 Ferme Meuh Meuh
-$710052 :: Boulevard Bayside
+$710052 :: Boulevard de la Baie
 $710053 :: \uE022\uE023 Route Glagla
 
 #Boo Cup
