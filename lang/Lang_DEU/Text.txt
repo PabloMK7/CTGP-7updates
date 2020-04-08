@@ -119,9 +119,11 @@ welc_5 :: Wir hoffen, dir gefällt der Mod!\n^w^
 warning :: WARNUNG
 error :: FEHLER
 state :: Status
-next :: Nächste
+next :: Weiter
 state_mode :: Aktiviert :: Deaktiviert
 state_inf :: Aktivieren :: Deaktivieren
+allow_inf :: Erlauben :: Verbieten
+num_betw :: Anzahl muss zwischen %d und %d sein.
 settings :: Einstellungen
 exit :: Zurück
 
@@ -133,8 +135,8 @@ ccsel :: CCM-Einstellungen :: Stellt den aktuelen Hubraum zu einem bestimmt Wert
 itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer benutzt wird und gelb, wenn ein Blitz benutzt wird.
 backcam :: Rückspiegel :: Drücke \uE002, um zu sehen was hinter dir ist, wie in den anderen Mario Kart-Spielen! (Bedenke: Der \uE002-Knopf wird keine Items mehr aktivieren.)
 charman :: Custom-Fahrer-Einstellungen :: Wechsle zwischen originalen und neuen Fahrern.
-cuskart :: Custom Karts : : Lade custom Karts aus dem Mystuff Ordner
-trackorder :: Online-Strecken-Ordner :: Wähle aus, wie die Strecken im Online Modus geordnet sein sollen.
+cuskart :: Custom Karts :: Lade custom Karts aus dem Mystuff Ordner
+trackorder :: Online-Strecken-Ordner :: Wähle aus, wie die Strecken im Online-Modus geordnet sein sollen.
 
 #Speedometer text
 spd_set :: Tachometer-Einstellungen
@@ -147,9 +149,8 @@ spd_types :: Numerisch :: Graphisch
 #CC Selector text
 cc_set :: CCM-Einstellungen
 cc_val :: Wert
-cc_rang :: Der Wert muss zwischen 1 und 9999 sein.
 cc_entv :: Neuer CCM-Wert
-cc_chgv :: Ändere den Wert.
+cc_chgv :: Wert ändern
 
 #Course Manager
 track_ct :: Benutzerdef. Strecken
@@ -158,13 +159,14 @@ ct_endis :: Benutzerdef. Strecken aktiviert :: Benutzerdef. Strecken deaktiviert
 ori_endis :: Originale Strecken aktiviert :: Originale Strecken deaktiviert
 
 #Community Code Generator
-commugen :: Community-Code-Generator :: Generiert einen Code, basierend auf den aktuellen Einstellungen. Das Einfügen dieses Codes in eine Community-Beschreibung aktiviert diese Einstellungen für jeden Spieler.
+commugen :: Community-Code-Generator :: Generiert einen Code, basierend auf den aktuellen Einstellungen. Das Einfügen dieses Codes in eine Community- Beschreibung aktiviert diese Einstellungen für jeden Spieler.
 def_spd :: Normale Geschwindigkeit
+rand_tr :: Zufällige Strecken erzwingen
 code :: Code
 
 #Change Round Number
 chgrnd :: Rundenanzahl ändern :: Ändert die Rundenzahl im VS- und im Wettkampf-Modus.
-chgrnd_desc :: Wähle die Anzahl an Runden,\ndie gespielt werden soll.\nHINWEIS: Dies funktioniert nicht im Download-Spiel.\nIm lokalen Mehrspieler muss \njeder die selben Einstellungen haben. :: Zahl muss zwischen 1 und 32 sein.
+chgrnd_desc :: Wähle die Anzahl an Runden,\ndie gespielt werden soll.\nHINWEIS: Dies funktioniert nicht im Download-Spiel.\nIm lokalen Mehrspieler muss jeder die\nselben Einstellungen haben.
 rounds :: Runden
 rnd_sel :: Wähle die Anzahl der Runden.
 
@@ -173,7 +175,7 @@ enhmap :: Verbesserte Karte :: Fügt eine Zoomfunktion der Karte hinzu. Sie kann
 
 #Custom character manager text
 char_select :: Wähle einen Fahrer, um ihn zu ändern.
-reboot_req :: (Neustart benötigt, um Änderungen zu speichern.)
+reboot_req :: (Neustart benötigt, um Änderungen zu\nspeichern.)
 char_replace :: Wähle einen neuen Fahrer für:\n
 green_info :: Grün → Momentan aktiv
 
@@ -181,16 +183,17 @@ green_info :: Grün → Momentan aktiv
 order_mode :: Normal :: Alphabetisch
 
 #Online update check
-update_check :: Nach Updates wird gesucht... :: Die neueste Version von CTGP-7\nwird benötigt, um online\nspielen zu können.\n\nBitte lade das neueste Update\nherunter im CTGP-7-Launcher.
+update_check :: Nach Updates wird gesucht... :: Die neueste Version von CTGP-7\nwird benötigt, um online\nspielen zu können.\n\nBitte lade das neueste Update\nim CTGP-7-Launcher herunter.
 
 #CTWW
 cntdwn :: Countdown
 CTWWtog :: Möchtest du benutzerdef.\nStrecken für den Weltweit-\nModus aktivieren? :: Möchtest du benutzerdef.\nStrecken für den Weltweit-\nModus deaktivieren?
 
 #VS Mode
-VSSet :: Versus Einstellungen
-CourOrd :: Kurs Folge
+VSSet :: Versus-Einstellungen
+CourOrd :: Kurs-Folge
 RacAm :: Anzahl der Rennen
+CpuAm :: COM-Fahrer
 RanCT :: Zufall (benutzerdef.)
 RanOri :: Zufall (Originale)
 RanAll :: Zufall (Alle Strecken)

@@ -122,6 +122,8 @@ state :: Status
 next :: Volgende
 state_mode :: Aan :: Uit
 state_inf :: Zet aan :: Zet uit
+allow_inf :: Toestaan :: Weigeren
+num_betw :: Nummer moet tussen %d en %d zitten.
 settings :: Instellingen
 exit :: Terug
 
@@ -147,7 +149,6 @@ spd_types :: Met getallen :: Graphisch
 #CC Selector text
 cc_set :: CC selector opties.
 cc_val :: Waarde
-cc_rang :: De waarde moet tussen 1 - 9999 zitten
 cc_entv :: Voer een nieuwe CC waarde in.
 cc_chgv :: Verander waarde
 
@@ -160,11 +161,12 @@ ori_endis :: Originele banen aangezet :: Originele banen uitgezet
 #Community Code Generator
 commugen :: Community Code Generator :: Genereert een code gebaseert op de huidige gebruiker instellingen. Als je de code in de beschrijving van een community zet zal het de instellingen voor iedereen toepassen.
 def_spd :: Standaard Snelheid
+rand_tr :: Forceer willekeurige banen
 code :: Code
 
 #Change Round Number
 chgrnd :: Verander Ronde Aantal :: Verandert het aantal ronden in race en gevecht modus.
-chgrnd_desc :: Selecteer het aantal ronden\die gespeeld worden in VS of battle modus.\nWerkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben. :: Nummer moet tussen 1 en 32 zitten
+chgrnd_desc :: Selecteer het aantal ronden\die gespeeld worden in VS of battle modus.\nWerkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben.
 rounds :: Ronden
 rnd_sel :: Selecteer het aantal ronden
 
@@ -191,6 +193,7 @@ CTWWtog :: Wil je Aangepaste Banen Wereldwijd aanzetten? :: Wil je Aangepaste Ba
 VSSet :: VS Instellingen
 CourOrd :: Volgorde van banen
 RacAm :: Aantal races
+CpuAm :: COM-Spelers
 RanCT :: Willekeurig (CTs)
 RanOri :: Willekeurig (Origineel)
 RanAll :: Willekeurige (Alle)

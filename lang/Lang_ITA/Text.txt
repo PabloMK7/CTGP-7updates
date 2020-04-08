@@ -122,6 +122,8 @@ state :: Stato
 next :: Seguente
 state_mode :: Abilitato :: Disabilitato
 state_inf :: Abilita :: Disabilita
+allow_inf :: Consenti :: Impedisci
+num_betw :: Il numero deve essere compreso tra %d e %d.
 settings :: Impostazioni
 exit :: Esci
 
@@ -147,7 +149,6 @@ spd_types :: Numerico :: Grafico
 #CC Selector text
 cc_set :: Opzioni Selettore classe CC.
 cc_val :: Valore
-cc_rang :: Deve essere compreso tra 1 e 9999
 cc_entv :: Inserisci il nuovo valore.
 cc_chgv :: Cambia valore
 
@@ -160,11 +161,12 @@ ori_endis :: Piste originali abilitate :: Piste originali disabilitate
 #Community Code Generator
 commugen :: Generatore Codice Community :: Genera un codice dipendente dalle impostazioni. Impostando un codice in una community, tutti i giocatori useranno le stesse impostazioni.
 def_spd :: Velocità di default
+rand_tr :: Forza piste casuali
 code :: Codice
 
 #Change Round Number
 chgrnd :: Cambia numero round :: Cambia il numero di round nelle modalità Sfida e Battaglia.
-chgrnd_desc :: Seleziona il numero di round da\ngiocare nelle modalità Sfida e Battaglia.\nNOTA: non funziona nella modalità Download.\nIn multigiocatore locale, tutti devono\nusare le stesse impostazioni. :: Il numero di round deve essere compreso tra 1 e 32.
+chgrnd_desc :: Seleziona il numero di round da\ngiocare nelle modalità Sfida e Battaglia.\nNOTA: non funziona nella modalità Download.\nIn multigiocatore locale, tutti devono\nusare le stesse impostazioni.
 rounds :: Round
 rnd_sel :: Seleeziona il numero di round.
 
@@ -191,6 +193,7 @@ CTWWtog :: Vuoi abilitare le piste\ncustom mondiali? :: Vuoi disabilitare le pis
 VSSet :: Impostazioni Modalità Sfida
 CourOrd :: Ordine piste
 RacAm :: Numero di gare
+CpuAm :: Giocatori CPU
 RanCT :: Casuali (Modificate)
 RanOri :: Casuali (Originali)
 RanAll :: Casuali (Tutte)
