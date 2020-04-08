@@ -122,6 +122,8 @@ state :: Estat
 next :: Següent
 state_mode :: Activat :: Desactivat
 state_inf :: Activar :: Desactivar
+allow_inf :: Permetre :: No permetre
+num_betw :: El nombre ha de ser entre %d i %d.
 settings :: Opcions
 exit :: Sortir
 
@@ -147,7 +149,6 @@ spd_types :: Numèric :: Gràfic
 #CC Selector text
 cc_set :: Opcions de Selector de CC.
 cc_val :: Valor
-cc_rang :: El valor ha de ser entre 1 - 9999
 cc_entv :: Introdueix valor de CC.
 cc_chgv :: Canviar Valor
 
@@ -160,11 +161,12 @@ ori_endis :: Circuits Originals activats :: Circuits Originals desactivats
 #Community Code Generator
 commugen :: Generar Codi de Comunitat :: Genera un codi basat en les opcions activades. En posar el codi en la descripció d'una comunitat farà que les opcions s'activin per a tots els jugadors.
 def_spd :: Velocitat per omissió.
+rand_tr :: Forçar circuits aleatoris
 code :: Codi
 
 #Change Round Number
 chgrnd :: Canviar Nombre de Rondes :: Canvia el nombre de rondes en les modalitats VS i batalla.
-chgrnd_desc :: Selecciona el nombre de rondas\nde les modalitats VS i batalla.\nNOTA: No funciona en la modalitat descàrrega.\nEn multijugador local, s'han de\nseleccionar les mateixes rondes. :: El nombre ha de ser entre 1 i 32.
+chgrnd_desc :: Selecciona el nombre de rondas\nde les modalitats VS i batalla.\nNOTA: No funciona en la modalitat descàrrega.\nEn multijugador local, s'han de\nseleccionar les mateixes rondes.
 rounds :: Rondes
 rnd_sel :: Selecciona el nombre de rondes.
 
@@ -191,6 +193,7 @@ CTWWtog :: Vols activar\nCircuits Editats En Línia? :: Vols desactivar\nCircuit
 VSSet :: Opcions VS
 CourOrd :: Ordre de Circuits
 RacAm :: Nombre de Rondes
+CpuAm :: Corredors CPU
 RanCT :: Aleatori (CTs)
 RanOri :: Aleatori (Orig.)
 RanAll :: Aleatori (Tots)

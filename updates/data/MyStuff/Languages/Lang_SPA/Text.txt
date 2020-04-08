@@ -122,16 +122,18 @@ state :: Estado
 next :: Siguiente
 state_mode :: Activado :: Desactivado
 state_inf :: Activar :: Desactivar
+allow_inf :: Permitir :: No permitir
+num_betw :: El número tiene que ser entre %d y %d.
 settings :: Opciones
 exit :: Salir
 
 #Entries
 gameplay_folder :: Funciones del Juego
 settings_folder :: Configuración del Juego
-spdmeter :: Velocímetro :: Muestra un velocímetro en la pantalla superior, esquina inferior derecha.
-ccsel :: Selector De CC :: Modifica los cc a un valor determinado (tiene que ser activado antes de empezar una carrera).
+spdmeter :: Velocímetro :: Muestra un velocímetro en la pantalla superior en la esquina inferior derecha.
+ccsel :: Selector De CC :: Modifica los CC a un valor determinado (tiene que activarse antes de empezar una carrera).
 itemled :: Avisar Objetos Con LED :: El LED de notificación se ilumina azul cuando se usa un caparazón con pinchos o amarillo cuando se usa un rayo.
-backcam :: Retrovisor :: Pulsa \uE002 para ver que hay detrás, como en otros Mario Kart! (Nota: El botón \uE002 dejará de usar objetos.)
+backcam :: Retrovisor :: Pulsa \uE002 para ver que hay detrás ¡Como en otros Mario Kart! (Nota: El botón \uE002 dejará de usar objetos.)
 charman :: Gestor de Personajes :: Elige entre personajes editados o originales.
 cuskart :: Karts Personalizados :: Carga karts personalizados desde la carpeta MyStuff.
 trackorder :: Orden de Circuitos :: Elige como aparecen ordenados los circuitos en linea.
@@ -147,7 +149,6 @@ spd_types :: Numérico :: Gráfico
 #CC Selector text
 cc_set :: Opciones de Selector de CC.
 cc_val :: Valor
-cc_rang :: El valor tiene que ser entre 1 - 9999
 cc_entv :: Introduce valor de CC.
 cc_chgv :: Cambiar Valor
 
@@ -160,11 +161,12 @@ ori_endis :: Circuitos Originales activados :: Circuitos Originales desactivados
 #Community Code Generator
 commugen :: Generar Código de Comunidad :: Genera un código basado en las opciones activadas. Al poner el código en la descripción de una comunidad hará que esas opciones se activen para todo el mundo.
 def_spd :: Velocidad por defecto.
+rand_tr :: Forzar circuitos aleatorios
 code :: Código
 
 #Change Round Number
 chgrnd :: Cambiar Número de Rondas :: Cambia el número de rondas en los modos VS y batalla.
-chgrnd_desc :: Selecciona el número de rondas\nde los modos VS y batalla.\nNOTA: No funciona en modo descarga.\nEn multijugador local, todos tienen\nque tener las mismas rondas. :: El número tiene que ser entre 1 y 32.
+chgrnd_desc :: Selecciona el número de rondas\nde los modos VS y batalla.\nNOTA: No funciona en modo descarga.\nEn multijugador local, todos tienen\nque tener las mismas rondas.
 rounds :: Rondas
 rnd_sel :: Selecciona el número de rondas.
 
@@ -191,6 +193,7 @@ CTWWtog :: ¿Quieres activar\nCircuitos Editados En Línea? :: ¿Quieres desacti
 VSSet :: Opciones VS
 CourOrd :: Orden de Circuitos
 RacAm :: Número de Rondas
+CpuAm :: Corredores CPU
 RanCT :: Aleatorio (CTs)
 RanOri :: Aleatorio (Orig.)
 RanAll :: Aleatorio (Todos)

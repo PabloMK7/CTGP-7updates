@@ -122,6 +122,8 @@ state :: Érték
 next :: Tovább
 state_mode :: Engedélyezve :: Letiltva
 state_inf :: Engedélyezés :: Letiltás
+allow_inf :: Engedélyezés :: Megtiltás
+num_betw :: Az értéknek %d és %d között kell lennie.
 settings :: Beállítások
 exit :: Kilépés
 
@@ -147,7 +149,6 @@ spd_types :: Számszerű :: Grafikus
 #CC Selector text
 cc_set :: CC választó beállításai.
 cc_val :: Érték
-cc_rang :: Az értéknek 1 és 9999 között kell lennie.
 cc_entv :: Add meg az új értéket.
 cc_chgv :: Érték megváltoztatása
 
@@ -160,11 +161,12 @@ ori_endis :: Eredeti pályák engedélyezése :: Eredeti pályák letiltása
 #Community Code Generator
 commugen :: Közösségi kód generátor :: Generál egy kódot a beállításaid alapján. A kód megadása egy közösség leírásában mindenki számára engedélyezni fogja ugyanezeket a beállításokat.
 def_spd :: Alapértelmezett sebesség
+rand_tr :: Csak véletlenszerű pályák
 code :: Kód
 
 #Change Round Number
 chgrnd :: Körök száma :: Megváltoztatja a körök számát verseny és csata módban.
-chgrnd_desc :: Válaszd ki a verseny és csata\nmódokban játszandó körök számát.\nMEGJEGYZÉS: Download Play-ben\nnem működik.\nHelyi többjátékos játékban\nmindenkinek ugyanazon\nbeállításokkal kell rendelkeznie. :: Az értéknek 1 és 32 között kell lennie.
+chgrnd_desc :: Válaszd ki a verseny és csata\nmódokban játszandó körök számát.\nMEGJEGYZÉS: Download Play-ben\nnem működik.\nHelyi többjátékos játékban\nmindenkinek ugyanazon\nbeállításokkal kell rendelkeznie.
 rounds :: Körök
 rnd_sel :: Válaszd ki a körök számát.
 
@@ -185,12 +187,13 @@ update_check :: Frissítések keresése... :: A CTGP-7 legújabb verziója\nszü
 
 #CTWW
 cntdwn :: Visszaszámlálás
-CTWWtog :: Szeretnéd engedélyezni az egyéni\npályákat világszerte (CTWW)? :: Szeretnéd letiltani az egyéni\npályákat világszerte (CTWW)?
+CTWWtog :: Szeretnéd engedélyezni az egyéni\npályákat globálisan (CTWW)? :: Szeretnéd letiltani az egyéni\npályákat globálisan (CTWW)?
 
 #VS Mode
 VSSet :: Egyéni verseny beállítások
 CourOrd :: Sorrend
 RacAm :: Versenyek száma
+CpuAm :: Gépi játékosok
 RanCT :: Véletlenszerű (egyéni)
 RanOri :: Véletlenszerű (eredeti)
 RanAll :: Véletlenszerű (mind)
@@ -476,7 +479,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %2091 :: Helyi többjátékos
 %2092 :: Online többjátékos
 %2093 :: Mario Kart csatorna
-%2094 :: Világszerte
+%2094 :: Globális
 %2095 :: Barátok/ellenfelek
 %2096 :: Közösségek
 
@@ -484,7 +487,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %2200 :: Nagydíj
 %2201 :: Időmérő
 %2202 :: Luficsata
-%2203 :: Érmecsata
+%2203 :: Érmefutam
 %2204 :: Verseny
 %2205 :: \r%2204
 %2206 :: Csata
@@ -720,7 +723,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %6011 :: Csatlakozás\n\u000E\u0001\u0000\u0000\njátékához...
 %6012 :: A(z) \u000E\u0001\u0000\u0000\njátékához való csatlakozás\nsikertelen.\n\nVárj egy kicsit és\npróbáld újra később.
 %6014 :: Következő kör: Luficsata
-%6015 :: Következő kör: Érmecsata
+%6015 :: Következő kör: Érmefutam
 
 #Friends Status?
 %6105 :: Online versenyez
@@ -741,7 +744,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %6207 :: Mindent beleadok!
 %6208 :: Várjunk több játékosra.
 %6209 :: Oké!
-%6210 :: Izgulok egy kicsit...
+%6210 :: Kicsit izgulok...
 %6211 :: Izgatott vagyok!
 %6212 :: Giroszkópot fogok használni!
 %6213 :: Hurrá!
@@ -841,7 +844,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 #Mario Kart Channel explanation
 %7201 :: A Mario kart csatorna \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF-on\nés \u000E\u0000\u0003\u0002\u0001SpotPass\n\u000E\u0000\u0003\u0002\uFFFF-on keresztül\nkülönböző adatokat kaphat.
 %7202 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\nAdatcsere olyan emberekkel,\nakik mellett elmész, hogy\nkésőbb online versenyezhess\nvelük.
-%7203 :: \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nSzellemek fogadása világszerte\nés közösségek ajánlása.
+%7203 :: \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nSzellemek fogadása globálisan\nés közösségek ajánlása.
 %7204 :: A \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFés \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFakkor\n is aktívak maradnak,\namikor épp nem játszol.
 %7205 :: A Mario Kart csatorna által\nfogadott adatok az SD kártyára\nmentődnek.
 
