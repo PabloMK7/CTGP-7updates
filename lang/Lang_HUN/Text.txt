@@ -821,9 +821,9 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 #Save data reset dialogue
 %7001 :: Törlöd a mentésed?
 %7002 :: Ha törlöd a mentésed,\nminden haladásod elveszik.\n\nEgészen biztos vagy benne?
-%7003 :: Mentés törlése...
-%7004 :: Mentés törölve.
-%7005 :: A mentés sérült,\nezért most törlődni fog.
+#%7003 :: Mentés törlése...
+#%7004 :: Mentés törölve.
+#%7005 :: A mentés sérült,\nezért most törlődni fog.
 
 #No Mii dialogue
 %7006 :: There are currently no Mii\ncharacters in Mii Maker.\n\nOpen Mii Maker from the\n\uE073HOME Menu and create\nat least one Mii character.

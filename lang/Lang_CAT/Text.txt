@@ -821,9 +821,9 @@ $1965 :: As del Volant (\u000E\u0001\u0008\u0000)
 #Save data reset dialogue
 %7001 :: Vols esborrar les dades\nde desament?
 %7002 :: Si esborres les dades de\ndesament, perdràs els teus rècords\ni el teu progrés en el joc.\n\nVols continuar?
-%7003 :: Esborrant dades...
-%7004 :: Les dades de desament\ns'han esborrat.
-%7005 :: Les dades de desament estan\ndanyades i es van a esborrar.
+#%7003 :: Esborrant dades...
+#%7004 :: Les dades de desament\ns'han esborrat.
+#%7005 :: Les dades de desament estan\ndanyades i es van a esborrar.
 
 #No Mii dialogue
 %7006 :: No tens cap Mii.\n\nFes-ne un en l'editor\nMii de menú HOME (\uE073).
