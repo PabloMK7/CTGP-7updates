@@ -111,15 +111,15 @@ $710097 :: Rainbow Road DX
 welc_t :: Welcome to CTGP-7
 welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some interesting features.\nTo open the ingame menu,\nuse the (SELECT) button.
 welc_2 :: To use any feature, place the\ncursor over an entry and\npress A to enable/configure it.
-welc_3 :: To know what an entry does,\nplace the cursor over the entry\nand touch the blue "i" (info)\nbutton in the bottom screen.
-welc_4 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.
-welc_5 :: We hope you enjoy the mod!\n^w^
+welc_3 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.
+welc_4 :: We hope you enjoy the mod!\n^w^
 
 #General text
 warning :: WARNING
 error :: ERROR
 state :: State
 next :: Next
+select :: Select
 state_mode :: Enabled :: Disabled
 state_inf :: Enable :: Disable
 allow_inf :: Allow :: Disallow
@@ -127,9 +127,11 @@ num_betw :: Number must be between %d and %d.
 settings :: Settings
 exit :: Exit
 
+#Folders
+gameplay_folder :: Gameplay Features :: Configuration for additional gameplay features.
+settings_folder :: Game Settings :: CTGP-7 specific settings.
+
 #Entries
-gameplay_folder :: Gameplay Features
-settings_folder :: Game Settings
 spdmeter :: Speedometer :: Shows a speedometer in the top screen bottom right corner.
 ccsel :: CC Selector :: Sets the current CC to a certain value (has to be enabled before loading a race).
 itemled :: Warn Items With LED :: The notification LED blinks Blue when a Blue Shell is used and Yellow when a Lightning is used.
@@ -200,3 +202,8 @@ RanAll :: Random (All)
 OrderH :: Horizontal Order
 OrderV :: Vertical Order
 NextRac :: Select next track.\nRemaining races:
+
+#Reset Ghosts
+resghost :: Reset Ghost :: Allows resetting the ghost from any track.
+ghostseltrack :: Select the track to reset the ghost from:
+ghostcantrecov :: This operation cannot be undone.\nProceed? :: The ghost has been reset.

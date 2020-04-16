@@ -111,15 +111,15 @@ $710097 :: Camí Arc de Sant Martí DX
 welc_t :: Benvingut a CTGP-7!
 welc_1 :: Hola!\nDes del menú ingame,\npodràs utilitzar algunes\nfuncions interessants.\nPer a obrir el menú ingame,\nutilitza el botó (Select).
 welc_2 :: Per a utilitzar qualsevol\nfunció, posa el cursor\ndamunt i prem A.
-welc_3 :: Per a l'explicació\nd'una funció, posa el cursor\ndamunt i prem el botó blau "i"\na la pantalla inferior.
-welc_4 :: Tinguis en compte que algunes\nfuncions com "Selector de CC"\nseran desactivades en\nmultijugador en línia.
-welc_5 :: Esperem que gaudeixis el mod!\n^ω^
+welc_3 :: Tinguis en compte que algunes\nfuncions com "Selector de CC"\nseran desactivades en\nmultijugador en línia.
+welc_4 :: Esperem que gaudeixis el mod!\n^ω^
 
 #General text
 warning :: ADVERTÈNCIA
 error :: ERROR
 state :: Estat
 next :: Següent
+select :: Seleccionar
 state_mode :: Activat :: Desactivat
 state_inf :: Activar :: Desactivar
 allow_inf :: Permetre :: No permetre
@@ -127,9 +127,11 @@ num_betw :: El nombre ha de ser entre %d i %d.
 settings :: Opcions
 exit :: Sortir
 
+#Folders
+gameplay_folder :: Funcions del Joc :: Configuració de funcions adicionals per al joc.
+settings_folder :: Configuració del Joc :: Configuració de CTGP-7.
+
 #Entries
-gameplay_folder :: Funcions del Joc
-settings_folder :: Configuració del Joc
 spdmeter :: Velocímetre :: Mostra un velocímetre a la pantalla superior, part inferior dreta.
 ccsel :: Selector De CC :: Modifica els cc a un valor determinat (s'ha d'activar abans de començar una carrera).
 itemled :: Avisar Objectes Amb LED :: El LED de notificació s'il·lumina blau quan s'utilitza una closca blava o groc quan s'utilitza un llamp.
@@ -200,6 +202,11 @@ RanAll :: Aleatori (Tots)
 OrderH :: Ordre Horitzontal
 OrderV :: Ordre Vertical
 NextRac :: Tria el próxim circuit.\nRondes restants:
+
+#Reset Ghosts
+resghost :: Resetejar Corredor Fantasma :: Permitix resetejar el corredor fantasma de qualsevol circuit.
+ghostseltrack :: Selecciona el circuit per resetejar\nel seu corredor fantasma: 
+ghostcantrecov :: Aquesta operació no es pot desfer.\nContinuar? :: El fantasma s'ha resetejat.
 
 #Characters
 $1000 :: Mario

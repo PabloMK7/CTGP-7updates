@@ -111,15 +111,15 @@ $710097 :: Pista Arcobaleno DX
 welc_t :: Benvenuto a CTGP-7
 welc_1 :: Ciao!\nDal menu di gioco, potrai usare\ndelle funzioni speciali.\nPer aprire il menu di gioco,\npremi (SELECT).
 welc_2 :: Per user unable fanzine, muovi\nil cursore sulla funzione e\npremi A per abilitarlo o configurarlo.
-welc_3 :: Se non sei sicuro dell'utilità,\ndi uno funzione, muovi il cursore\nsulla funzione e premi il pulsante (i)\nblu sul touch screen.
-welc_4 :: Ricorda che alcune funzioni,\ncome il "Selettore classe CC", saranno\ndisabilitate durante il gioco online.
-welc_5 :: Speriamo ti piaccia!\n^w^
+welc_3 :: Ricorda che alcune funzioni,\ncome il "Selettore classe CC", saranno\ndisabilitate durante il gioco online.
+welc_4 :: Speriamo ti piaccia!\n^w^
 
 #General text
 warning :: AVVISO
 error :: ERRORE
 state :: Stato
 next :: Seguente
+select :: Selezionare
 state_mode :: Abilitato :: Disabilitato
 state_inf :: Abilita :: Disabilita
 allow_inf :: Consenti :: Impedisci
@@ -127,9 +127,11 @@ num_betw :: Il numero deve essere compreso tra %d e %d.
 settings :: Impostazioni
 exit :: Esci
 
+#Folders
+gameplay_folder :: Funzioni di Gameplay :: Configurazione per caratteristiche aggiuntive del gameplay.
+settings_folder :: Opzioni di Gioco :: Impostazioni specifiche di CTGP-7.
+
 #Entries
-gameplay_folder :: Funzioni di Gameplay
-settings_folder :: Opzioni di Gioco
 spdmeter :: Accelerometro :: mostra un accelerometro al lato dello schermo.
 ccsel :: Selettore classe CC :: Imposta il valore della classe CC ad un numero arbitrario (imposta prima dell'inizio di una gara per abilitare).
 itemled :: Avviso LED per oggetti :: Il LED della console lampeggerà di blu se un Guscio Blu è usato, e giallo se un Fulmine è usato.
@@ -200,3 +202,8 @@ RanAll :: Casuali (Tutte)
 OrderH :: Ordine orzzontale
 OrderV :: Ordine verticale
 NextRac :: Seleziona la prossima pista.\nGare rimanenti:
+
+#Reset Ghosts
+resghost :: Resetta Fantasma :: Permette di resettare il fantasma di qualunque pista.
+ghostseltrack :: Seleziona la pista da cui resettare il fantasma:
+ghostcantrecov :: Questa operazione non è reversibile.\nProcedere? :: Il fantasma è stato resettato.

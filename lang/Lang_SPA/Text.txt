@@ -111,15 +111,15 @@ $710097 :: Senda Arco Iris DX
 welc_t :: ¡Bienvenido a CTGP-7!
 welc_1 :: ¡Hola!\nDesde el menú ingame,\npodrás utilizar algunas\nfunciones interesantes.\nPara abrir el menú ingame,\nusa el botón (Select).
 welc_2 :: Para usar cualquier función,\npon el cursor encima\ny pulsa A.
-welc_3 :: Para saber lo que hace una\nfunción, pon el cursor encima\ny pulsa el botón azul "i"\nen la pantalla inferior.
-welc_4 :: Ten en cuenta que algunas\nfunciones como "Selector de CC"\nserán desactivadas en\nmultijugador en línea.
-welc_5 :: Esperamos que disfrutes el mod!\n^ω^
+welc_3 :: Ten en cuenta que algunas\nfunciones como "Selector de CC"\nserán desactivadas en\nmultijugador en línea.
+welc_4 :: Esperamos que disfrutes el mod!\n^ω^
 
 #General text
 warning :: ADVERTENCIA
 error :: ERROR
 state :: Estado
 next :: Siguiente
+select :: Seleccionar
 state_mode :: Activado :: Desactivado
 state_inf :: Activar :: Desactivar
 allow_inf :: Permitir :: No permitir
@@ -127,9 +127,11 @@ num_betw :: El número tiene que ser entre %d y %d.
 settings :: Opciones
 exit :: Salir
 
+#Folders
+gameplay_folder :: Funciones del Juego :: Configuración de funciones adicionales para el juego. 
+settings_folder :: Configuración del Juego :: Configuración de CTGP-7.
+
 #Entries
-gameplay_folder :: Funciones del Juego
-settings_folder :: Configuración del Juego
 spdmeter :: Velocímetro :: Muestra un velocímetro en la pantalla superior en la esquina inferior derecha.
 ccsel :: Selector De CC :: Modifica los CC a un valor determinado (tiene que activarse antes de empezar una carrera).
 itemled :: Avisar Objetos Con LED :: El LED de notificación se ilumina azul cuando se usa un caparazón con pinchos o amarillo cuando se usa un rayo.
@@ -200,3 +202,8 @@ RanAll :: Aleatorio (Todos)
 OrderH :: Orden Horizontal
 OrderV :: Orden Vertical
 NextRac :: Elige el próximo circuito.\nRondas restantes:
+
+#Reset Ghosts
+resghost :: Resetear Corredor Fantasma :: Permite resetear el corredor fantasma de cualquier circuito.
+ghostseltrack :: Selecciona el circuito para resetear\nsu corredor fantasma:
+ghostcantrecov :: Esta operación no se puede deshacer.\n¿Continuar? :: El fantasma se ha reseteado.

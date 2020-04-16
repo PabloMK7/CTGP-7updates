@@ -6,7 +6,7 @@
 
 #Bell Cup
 $700010 :: Coupe Clochette
-$710042 :: Ville Harmonieuse
+$710042 :: Village Concorde
 $710059 :: \uE022\uE023 Autodrome Mario
 $710044 :: Chutes Galvarny
 $710045 :: \uE024\uE025 Jardin Volant
@@ -109,17 +109,17 @@ $710097 :: Route Arc-en-ciel Deluxe
 
 #First opening welcome message
 welc_t :: Bienvenue sur CTGP-7 !
-welc_1 :: Bonjour !\nDepuis le menu en jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
+welc_1 :: Salut ! Depuis le menu en jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
 welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
-welc_3 :: Pour connaitre la fonction d'une\nentrée, placez le curseur\ndessus et appuyez sur bouton\ninfo ("i" bleu)sur l'écran tactile.
-welc_4 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
-welc_5 :: Nous espérons que vous\napprécierez le mod ! ^ω^
+welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
+welc_4 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
 
 #General text
 warning :: ATTENTION
 error :: ERREUR
 state :: État
 next :: Suivante
+select :: Choisissez
 state_mode :: Activé :: Désactivé
 state_inf :: Activer :: Désactiver
 allow_inf :: Autoriser :: Refuser
@@ -127,9 +127,11 @@ num_betw :: La valeur doit être comprise entre %d et %d.
 settings :: Paramètres
 exit :: Fermer
 
+#Folders
+gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalitées en jeu additionnelles.
+settings_folder :: Paramètres :: Paramètres spécifique CTGP-7.
+
 #Entries
-gameplay_folder :: Fonctionnalités du jeu
-settings_folder :: Paramètres
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran du haut.
 ccsel :: Sélecteur de CC :: Règle les CC de la course sur une certaine valeur (doit être activé avant de commencer une course).
 itemled :: Signaler les objets avec LED :: La diode de notification clignotera en bleu quand une carapace à épines est utilisée et en jaune lorqu'un éclair sera utilisé.
@@ -200,3 +202,8 @@ RanAll :: Aléatoire (Tous)
 OrderH :: Ordre Horizontal
 OrderV :: Ordre Vertical
 NextRac :: Choisissez le prochain circuit.\nParties restantes:
+
+#Reset Ghosts
+resghost :: Réinitialisation Fanthômes :: Permet la réinitialisation des fantôme de n'importe quelle course.
+ghostseltrack :: Veuillez sélectionner une course dont\nvous voulez réinitialiser le fanthôme :
+ghostcantrecov :: Cette opération ne peut pas être annulée.\nContinuer ? :: Le fanthôme a été réinitialisé avec succès.

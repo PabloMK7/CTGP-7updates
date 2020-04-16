@@ -111,15 +111,15 @@ $710097 :: Regenboogbaan DX
 welc_t :: Welkom bij CTGP-7!
 welc_1 :: Hallo daar!\nVanaf het in-game menu\nkan je wat interessante functies gebruiken.\nGebruik de (SELECT) knop\nom het in-game menu te openen
 welc_2 :: Om een functie te gebruiken, plaats je de\ncursor over een item\nen druk je op A om het aan te zetten/te configureren.
-welc_3 :: Om te weten wat een item doet,\nplaats je de cursor over een item\nen tik je op de blauwe "i" (info)\nknop in het onderste scherm.
-welc_4 :: Sommige functies zoals\n"CC Selector" zullen uitgeschakeld\nzijn tijdens een online spel.
-welc_5 :: We hopen dat je de mod leuk vind!\n^w^
+welc_3 :: Sommige functies zoals\n"CC Selector" zullen uitgeschakeld\nzijn tijdens een online spel.
+welc_4 :: We hopen dat je de mod leuk vind!\n^w^
 
 #General text
 warning :: WAARSCHUWING
 error :: FOUT
 state :: Status
 next :: Volgende
+select :: Selecteer
 state_mode :: Aan :: Uit
 state_inf :: Zet aan :: Zet uit
 allow_inf :: Toestaan :: Weigeren
@@ -127,9 +127,11 @@ num_betw :: Nummer moet tussen %d en %d zitten.
 settings :: Instellingen
 exit :: Terug
 
+#Folders
+gameplay_folder :: Gameplay Functies :: Configuratie voor aanvullende gameplay functies.
+settings_folder :: Game Opties :: CTGP-7 specifieke instellingen.
+
 #Entries
-gameplay_folder :: Gameplay Functies
-settings_folder :: Game Opties
 spdmeter :: Snelheidsmeter :: Laat een snelheidsmeter zien rechstonder op het bovenste scherm
 ccsel :: CC Selector :: Zet de huidige CC op een andere waarde (moet aanstaan voor het starten van een race).
 itemled :: Waarschuw voor voorwerpen met LED :: De notificatie LED knippert blauw waneer een Blue Shell is gebruikt en Geel waneer bliksem is gebruikt.
@@ -200,3 +202,8 @@ RanAll :: Willekeurige (Alle)
 OrderH :: Horizontale volgorde
 OrderV :: Verticale volgorde
 NextRac :: Selecteer volgende baan.\nOvergebleven races:
+
+#Reset Ghosts
+resghost :: Reset spook :: Staat het resetten van het spook toe op elke baan.
+ghostseltrack :: Selecteer de baan om spook van te resetten.
+ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :: Het spook is gereset.

@@ -111,15 +111,15 @@ $710097 :: Szivárvány út DX
 welc_t :: Üdv a CTGP-7-ben
 welc_1 :: Szervusz!\nA pluginmenüből néhány\nérdekes funkciót használhatsz.\nA menü megnyitásához nyomd\nmeg a (SELECT) gombot.
 welc_2 :: Egy funkció használatához\nválassz ki egy opciót és\nengedélyezd/konfiguráld\naz A-val.
-welc_3 :: Ha többet szeretnél megtudni\negy kiválasztott funkcióról,\nkoppints az „i” (infó)\ngombra az alsó képernyőn.
-welc_4 :: Megjegyzés: néhány funkció,\nmint például a „CC választó”\nle lesz tiltva online játék\nközben.
-welc_5 :: Jó szórakozást\na modhoz!\n^w^
+welc_3 :: Megjegyzés: néhány funkció,\nmint például a „CC választó”\nle lesz tiltva online játék\nközben.
+welc_4 :: Jó szórakozást\na modhoz!\n^w^
 
 #General text
 warning :: FIGYELMEZTETÉS
 error :: HIBA
 state :: Érték
 next :: Tovább
+select :: Válaszd
 state_mode :: Engedélyezve :: Letiltva
 state_inf :: Engedélyezés :: Letiltás
 allow_inf :: Engedélyezés :: Megtiltás
@@ -127,9 +127,11 @@ num_betw :: Az értéknek %d és %d között kell lennie.
 settings :: Beállítások
 exit :: Kilépés
 
+#Folders
+gameplay_folder :: Játékfunkciók :: Extra funkciók beállításai.
+settings_folder :: Beállítások :: CTGP-7-specifikus beállítások.
+
 #Entries
-gameplay_folder :: Játékfunkciók
-settings_folder :: Beállítások
 spdmeter :: Sebességmérő :: Mutatja a sebességet a felső képernyő jobb alsó sarkában.
 ccsel :: CC választó :: Egy adott értékre állítja a CC-t (ezt a verseny kezdete előtt kell engedélyezni).
 itemled :: Figyelmeztető LED :: Az értesítési LED kéken villog, ha valaki elindít egy Kék páncélt, illetve sárgán, ha valaki Villámcsapást használ.
@@ -200,6 +202,11 @@ RanAll :: Véletlenszerű (mind)
 OrderH :: Balról jobbra
 OrderV :: Felülről lefelé
 NextRac :: Válaszd ki a következő pályát.\nHátralévő versenyek száma:
+
+#Reset Ghosts
+resghost :: Szellem visszaállítása :: Alaphelyzetbe állít egy szellemet akármelyik pályán.
+ghostseltrack :: Válaszd ki a pályát amin vissza\nszeretnéd állítani a szellemet:
+ghostcantrecov :: Ez a művelet nem vonható vissza.\nBiztos vagy benne? :: A szellem alaphelyzetbe állt.
 
 #Characters
 $1000 :: Mario
