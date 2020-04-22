@@ -106,6 +106,7 @@ $710097 :: Estrada Arco-íris DX
 %7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
 %7003 :: A criar dados de gravação\nadicionais...
 %7004 :: Foram criados os dados de gravação\nadicionais.
+%7007 :: Não existem dados salvos\nde Mario Kart 7. Por favor,\nabra o jogo para criar\ndados novos.\n\nPressione o botão POWER.
 
 #First opening welcome message
 welc_t :: Bem-vindo ao CTGP-7

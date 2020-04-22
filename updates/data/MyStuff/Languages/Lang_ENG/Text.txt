@@ -106,6 +106,7 @@ $710097 :: Rainbow Road DX
 %7005 :: Extra save data for CTGP-7\nwill be created in the SD card.
 %7003 :: Creating extra save data...
 %7004 :: Extra save data\nhas been created.
+%7007 :: Mario Kart 7 save data\ndoesn't exist, please launch\nthe game to generate new\nsave data.\n\nPress the POWER button. 
 
 #First opening welcome message
 welc_t :: Welcome to CTGP-7

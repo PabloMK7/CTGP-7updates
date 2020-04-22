@@ -106,6 +106,7 @@ $710097 :: Regenboogbaan DX
 %7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt
 %7003 :: Extra save data maken...
 %7004 :: Exta save data\nis gemaakt
+%7007 :: Mario Kart 7 save data\nbestaat niet, open alsjeblieft\nde game om nieuwe save\ndata te maken.\n\nDruk op de POWER knop.
 
 #First opening welcome message
 welc_t :: Welkom bij CTGP-7!

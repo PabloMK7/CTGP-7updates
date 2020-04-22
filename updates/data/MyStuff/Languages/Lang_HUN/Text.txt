@@ -106,6 +106,7 @@ $710097 :: Szivárvány út DX
 %7005 :: Az SD kártyán egy extra\njátékmentés lesz létrehozva.
 %7003 :: Extra mentés létrehozása...
 %7004 :: Extra mentés létrehozva.
+%7007 :: A Mario Kart 7 még nem\nrendelkezik mentéssel;\nkérlek indítsd el a játékot.\n\nNyomd meg a\nbekapcsológombot.
 
 #First opening welcome message
 welc_t :: Üdv a CTGP-7-ben
@@ -836,7 +837,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %7006 :: There are currently no Mii\ncharacters in Mii Maker.\n\nOpen Mii Maker from the\n\uE073HOME Menu and create\nat least one Mii character.
 
 #Generic error
-%7007 :: Hiba történt.\n\nTartsd nyomva a bekapcsológombot\namíg a rendszer ki nem kapcsol,\nmajd kapcsold be és próbáld újra.
+#%7007 :: Hiba történt.\n\nTartsd nyomva a bekapcsológombot\namíg a rendszer ki nem kapcsol,\nmajd kapcsold be és próbáld újra.
 
 #R/W errors
 %7101 :: Az SD kártyát\neltávolították.\n\nKérjük, kapcsold ki a\nrendszert, mielőtt kivennéd\naz SD kártyát.

@@ -106,6 +106,7 @@ $710097 :: Route Arc-en-ciel Deluxe
 %7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 %7003 :: Création du fichier\nde sauvegarde...
 %7004 :: Le fichier de sauvegarde\na été créé.
+%7007 :: Les donées de sauvergarde\n de Mario Kart 7 n'existent\npas, lancez le jeu pour\n générer les données de sauvegarde.\nAppuyez sur le bouton POWER.
 
 #First opening welcome message
 welc_t :: Bienvenue sur CTGP-7 !

@@ -106,6 +106,7 @@ $710097 :: Regenbogen-Boulevard DX
 %7005 :: Extradaten für CTGP-7 werden jetzt\nauf der SD Card erstellt.
 %7003 :: Extradaten werden erstellt...
 %7004 :: Extradaten wurden erstellt.
+%7007 :: Es wurden keine Speicherdaten\nfür Mario Kart 7 gefunden.\nBitte starte das Spiel, um\ndiese Daten herzustellen.\n\nDrücke die POWER-Taste.
 
 #First opening welcome message
 welc_t :: Wilkommen bei CTGP-7
@@ -119,7 +120,7 @@ warning :: WARNUNG
 error :: FEHLER
 state :: Status
 next :: Weiter
-select :: Wähle
+select :: Wählen
 state_mode :: Aktiviert :: Deaktiviert
 state_inf :: Aktivieren :: Deaktivieren
 allow_inf :: Erlauben :: Verbieten
@@ -133,11 +134,11 @@ settings_folder :: Spiel-Einstellungen :: CTGP-7-spezifische Einstellungen
 
 #Entries
 spdmeter :: Tachometer :: Zeigt ein Tachometer in der rechten unteren Ecke des oberen Bildschirms.
-ccsel :: CCM-Einstellungen :: Stellt den aktuelen Hubraum zu einem bestimmt Wert. (Muss geändert werden, bevor ein Rennen beginnt).
+ccsel :: CCM-Einstellungen :: Setzt den aktuelen Hubraum auf einen bestimmten Wert. (Muss geändert werden, bevor ein Rennen beginnt).
 itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer benutzt wird und gelb, wenn ein Blitz benutzt wird.
 backcam :: Rückspiegel :: Drücke \uE002, um zu sehen was hinter dir ist, wie in den anderen Mario Kart-Spielen! (Bedenke: Der \uE002-Knopf wird keine Items mehr aktivieren.)
-charman :: Custom-Fahrer-Einstellungen :: Wechsle zwischen originalen und neuen Fahrern.
-cuskart :: Custom Karts :: Lade custom Karts aus dem Mystuff Ordner
+charman :: Benutzerdef.-Fahrer-Einstellungen :: Wechsle zwischen originalen und neuen Fahrern.
+cuskart :: Benutzerdefinierte Karts :: Lade benutzerdefinierte Karts aus dem "MyStuff"-Ordner
 trackorder :: Online-Strecken-Ordner :: Wähle aus, wie die Strecken im Online-Modus geordnet sein sollen.
 
 #Speedometer text
@@ -155,9 +156,9 @@ cc_entv :: Neuer CCM-Wert
 cc_chgv :: Wert ändern
 
 #Course Manager
-track_ct :: Benutzerdef. Strecken
+track_ct :: Benutzerdefierte Strecken
 track_ori :: Originale Strecken
-ct_endis :: Benutzerdef. Strecken aktiviert :: Benutzerdef. Strecken deaktiviert
+ct_endis :: Benutzerdefinierte Strecken aktiviert :: Benutzerdefinierte Strecken deaktiviert
 ori_endis :: Originale Strecken aktiviert :: Originale Strecken deaktiviert
 
 #Community Code Generator
@@ -189,21 +190,21 @@ update_check :: Nach Updates wird gesucht... :: Die neueste Version von CTGP-7\n
 
 #CTWW
 cntdwn :: Countdown
-CTWWtog :: Möchtest du benutzerdef.\nStrecken für den Weltweit-\nModus aktivieren? :: Möchtest du benutzerdef.\nStrecken für den Weltweit-\nModus deaktivieren?
+CTWWtog :: Möchtest du benutzerdefinierte\nStrecken für den Weltweit-\nModus aktivieren? :: Möchtest du benutzerdefinierte\nStrecken für den Weltweit-\nModus deaktivieren?
 
 #VS Mode
 VSSet :: Versus-Einstellungen
 CourOrd :: Kurs-Folge
 RacAm :: Anzahl der Rennen
 CpuAm :: COM-Fahrer
-RanCT :: Zufall (benutzerdef.)
-RanOri :: Zufall (Originale)
+RanCT :: Zufall (Benutzerdef. Str.)
+RanOri :: Zufall (Originale Strecken)
 RanAll :: Zufall (Alle Strecken)
 OrderH :: Horizontale Folge
 OrderV :: Vertikale Folge
 NextRac :: Wähle die nächste Strecke.\nVerbleibende Rennen:
 
 #Reset Ghosts
-resghost :: Geist  zurücksetzen :: Macht es möglich den Geist einer Strecke zurückzusetzen.
-ghostseltrack :: Wähle die Strecke, dessen Geist\nzurückgesetzt werden\nsoll:
-ghostcantrecov :: Dieser Vorgang kann nicht\nmehr rückgängig gemacht\nwerden.\nFortfahren? :: Der Geist wurde zu-\nrückgesetzt.
+resghost :: Geist zurücksetzen :: Macht es möglich, den Geist einer Strecke zurückzusetzen.
+ghostseltrack :: Wähle die Strecke, dessen Geist zurück-\ngesetzt werden soll:
+ghostcantrecov :: Dieser Vorgang kann nicht mehr rückgängig\ngemacht werden.\nFortfahren? :: Der Geist wurde zurückgesetzt.

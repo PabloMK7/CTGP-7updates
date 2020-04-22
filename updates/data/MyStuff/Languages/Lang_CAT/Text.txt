@@ -106,6 +106,7 @@ $710097 :: Camí Arc de Sant Martí DX
 %7005 :: Dades de desament extra\nper CTGP-7 es crearan\na la targeta SD.
 %7003 :: Creant dades...
 %7004 :: Les dades de desament\ns'han creat.
+%7007 :: No existeixen dades de\ndesament de Mario Kart 7.\nObri el joc per crear\ndades noves.\n\nPrem el botó POWER.
 
 #First opening welcome message
 welc_t :: Benvingut a CTGP-7!
@@ -836,7 +837,7 @@ $1965 :: As del Volant (\u000E\u0001\u0008\u0000)
 %7006 :: No tens cap Mii.\n\nFes-ne un en l'editor\nMii de menú HOME (\uE073).
 
 #Generic error
-%7007 :: S'ha produït un error.\nMantingues premut el botó\nPOWER per apagar\nla consola. Després,\nencén-la de nou\ni torna a intentar-ho.
+#%7007 :: S'ha produït un error.\nMantingues premut el botó\nPOWER per apagar\nla consola. Després,\nencén-la de nou\ni torna a intentar-ho.
 
 #R/W errors
 %7101 :: S'ha extret la targeta SD.\nApaga sempre la consola\nabans d'extreure\nuna targeta SD.
