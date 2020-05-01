@@ -22,7 +22,7 @@ $710049 :: \uE024\uE025 Château de Bowser 3
 $700012 :: Coupe Nuage
 $710050 :: Traversée Enneigée
 $710054 :: \uE022\uE023 Ferme Meuh Meuh
-$710052 :: Boulevard de la Baie
+$710052 :: Avenue de l'Archipel
 $710053 :: \uE022\uE023 Route Glagla
 
 #Boo Cup
@@ -205,6 +205,6 @@ OrderV :: Ordre Vertical
 NextRac :: Choisissez le prochain circuit.\nParties restantes:
 
 #Reset Ghosts
-resghost :: Réinitialisation Fanthômes :: Permet la réinitialisation des fantôme de n'importe quelle course.
-ghostseltrack :: Veuillez sélectionner une course dont\nvous voulez réinitialiser le fanthôme :
+resghost :: Réinitialisation Fantômes :: Permet la réinitialisation des fantôme de n'importe quelle course.
+ghostseltrack :: Veuillez sélectionner une course dont\nvous voulez réinitialiser le fantôme :
 ghostcantrecov :: Cette opération ne peut pas être annulée.\nContinuer ? :: Le fanthôme a été réinitialisé avec succès.

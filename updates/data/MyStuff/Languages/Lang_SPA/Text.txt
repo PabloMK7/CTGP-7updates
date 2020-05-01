@@ -22,7 +22,7 @@ $710049 :: \uE024\uE025 Castillo de Bowser 3
 $700012 :: Copa Nube
 $710050 :: Paso Perenne
 $710054 :: \uE022\uE023 Granja Mu-Mu
-$710052 :: Bulevar de la Bahía
+$710052 :: Avenida Archipiélago
 $710053 :: \uE022\uE023 Circuito Nevado
 
 #Boo Cup

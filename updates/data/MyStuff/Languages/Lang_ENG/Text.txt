@@ -22,7 +22,7 @@ $710049 :: \uE024\uE025 Bowser Castle 3
 $700012 :: Cloud Cup
 $710050 :: Evergreen Crossing
 $710054 :: \uE022\uE023 Moo Moo Farm
-$710052 :: Bayside Boulevard
+$710052 :: Archipelago Avenue
 $710053 :: \uE022\uE023 Frappe Snowland
 
 #Boo Cup

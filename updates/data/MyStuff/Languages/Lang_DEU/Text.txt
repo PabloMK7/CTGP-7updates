@@ -22,7 +22,7 @@ $710049 :: \uE024\uE025 Bowsers Festung 3
 $700012 :: Wolken-Cup
 $710050 :: Immergrüner Wald
 $710054 :: \uE022\uE023 Kuhmuh-Farm
-$710052 :: Bayside-Promenade
+$710052 :: Archipel Avenue
 $710053 :: \uE022\uE023 Polar-Parcours
 
 #Boo Cup

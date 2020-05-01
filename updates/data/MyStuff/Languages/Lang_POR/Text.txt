@@ -22,7 +22,7 @@ $710049 :: Castelo do Bowser 3 \uE024\uE025
 $700012 :: Taça Nuvem
 $710050 :: Cruzamento Perene
 $710054 :: Fazenda Mu Mu \uE022\uE023
-$710052 :: Ilha Boulevard
+$710052 :: Avenida do Arquipélago
 $710053 :: Circuito Nevado \uE022\uE023
 
 #Boo Cup

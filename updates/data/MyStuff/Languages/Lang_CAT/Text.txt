@@ -22,7 +22,7 @@ $710049 :: \uE024\uE025 Castell de Bowser 3
 $700012 :: Copa Núvol
 $710050 :: Pas Perenne
 $710054 :: \uE022\uE023 Granja Mu-Mu
-$710052 :: Bulevard de la Badia
+$710052 :: Avinguda Arxipèlag
 $710053 :: \uE022\uE023 Circuit Nevat
 
 #Boo Cup
