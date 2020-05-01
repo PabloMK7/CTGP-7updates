@@ -22,7 +22,7 @@ $710049 :: \uE024\uE025 Bowser's Kasteel 3
 $700012 :: Wolken Beker
 $710050 :: Altijdgroene Oversteek
 $710054 :: \uE022\uE023 Boe Boe Boederij
-$710052 :: Bayside Boulevard
+$710052 :: Archipel-Laan
 $710053 :: \uE022\uE023 Frappe Sneeuwland
 
 #Boo Cup
@@ -106,6 +106,7 @@ $710097 :: Regenboogbaan DX
 %7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt
 %7003 :: Extra save data maken...
 %7004 :: Exta save data\nis gemaakt
+%7007 :: Mario Kart 7 save data\nbestaat niet, open alsjeblieft\nde game om nieuwe save\ndata te maken.\n\nDruk op de POWER knop.
 
 #First opening welcome message
 welc_t :: Welkom bij CTGP-7!

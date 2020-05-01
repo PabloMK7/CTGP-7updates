@@ -22,7 +22,7 @@ $710049 :: \uE024\uE025 Bowser vára 3
 $700012 :: Felhő kupa
 $710050 :: Örökzöld-átkelő
 $710054 :: \uE022\uE023 Mú mú farm
-$710052 :: Öbölszéli körút
+$710052 :: Szigetvilág sugárút
 $710053 :: \uE022\uE023 Frappé hóföld
 
 #Boo Cup
@@ -106,6 +106,7 @@ $710097 :: Szivárvány út DX
 %7005 :: Az SD kártyán egy extra\njátékmentés lesz létrehozva.
 %7003 :: Extra mentés létrehozása...
 %7004 :: Extra mentés létrehozva.
+%7007 :: A Mario Kart 7 még nem\nrendelkezik mentéssel;\nkérlek indítsd el a játékot.\n\nNyomd meg a\nbekapcsológombot.
 
 #First opening welcome message
 welc_t :: Üdv a CTGP-7-ben
@@ -372,7 +373,7 @@ $1805 :: \uE033 Pálma-part
 $1810 :: 50cc
 $1811 :: 100cc
 $1812 :: 150cc
-$1813 :: Fordított
+$1813 :: Tükrözött
 
 #StreetPass cup name
 $1829 :: \u000E\u0001\u0002\u0000 \u000E\u0001\u0000\u0000 kupa
@@ -510,7 +511,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %2220 :: 50cc
 %2221 :: 100cc
 %2222 :: 150cc
-%2223 :: Fordított
+%2223 :: Tükrözött
 
 #Class select descriptions
 %2230 :: Könnyű
@@ -577,7 +578,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %2381 :: 50cc verseny
 %2382 :: 100cc verseny
 %2383 :: 150cc verseny
-%2384 :: Fordított verseny
+%2384 :: Tükörverseny
 %2385 :: Luficsata
 %2386 :: Érmecsata
 
@@ -617,7 +618,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %2481 :: 50cc nagydíj
 %2482 :: 100cc nagydíj
 %2483 :: 150cc nagydíj
-%2484 :: Fordított nagydíj
+%2484 :: Tükrözött nagydíj
 %2485 :: \r%2385
 %2486 :: \r%2386
 
@@ -632,7 +633,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %2508 :: Feloldottad a\n\u000E\u0000\u0003\u0002\u0000villám kupát\u000E\u0000\u0003\u0002\uFFFF!
 
 #Mirror class unlock message
-%2509 :: Feloldottad a\n\u000E\u0000\u0003\u0002\u0000fordított osztályt\u000E\u0000\u0003\u0002\uFFFF!
+%2509 :: Feloldottad a\n\u000E\u0000\u0003\u0002\u0000tükrözött osztályt\u000E\u0000\u0003\u0002\uFFFF!
 
 #Character / kart part unlock messages
 %2511 :: Befejezted a\n150cc-s gomba kupát.\n\nFeloldottál egy új\n\u000E\u0000\u0003\u0002\u0000karaktert\u000E\u0000\u0003\u0002\uFFFF!
@@ -836,7 +837,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %7006 :: There are currently no Mii\ncharacters in Mii Maker.\n\nOpen Mii Maker from the\n\uE073HOME Menu and create\nat least one Mii character.
 
 #Generic error
-%7007 :: Hiba történt.\n\nTartsd nyomva a bekapcsológombot\namíg a rendszer ki nem kapcsol,\nmajd kapcsold be és próbáld újra.
+#%7007 :: Hiba történt.\n\nTartsd nyomva a bekapcsológombot\namíg a rendszer ki nem kapcsol,\nmajd kapcsold be és próbáld újra.
 
 #R/W errors
 %7101 :: Az SD kártyát\neltávolították.\n\nKérjük, kapcsold ki a\nrendszert, mielőtt kivennéd\naz SD kártyát.

@@ -22,7 +22,7 @@ $710049 :: \uE024\uE025 Castillo de Bowser 3
 $700012 :: Copa Nube
 $710050 :: Paso Perenne
 $710054 :: \uE022\uE023 Granja Mu-Mu
-$710052 :: Bulevar de la Bahía
+$710052 :: Avenida Archipiélago
 $710053 :: \uE022\uE023 Circuito Nevado
 
 #Boo Cup
@@ -106,6 +106,7 @@ $710097 :: Senda Arco Iris DX
 %7005 :: Datos de guardado extra\npara CTGP-7 serán creados\nen la tarjeta SD.
 %7003 :: Creando datos...
 %7004 :: Los datos de guardado\nhan sido creados.
+%7007 :: No existen datos de guardado\nde Mario Kart 7. Por favor,\nabre el juego para crear\ndatos nuevos.\n\nPulsa el botón POWER.
 
 #First opening welcome message
 welc_t :: ¡Bienvenido a CTGP-7!
