@@ -6,7 +6,6 @@ MKGirlism=CT dev
 MK7Tester=CT dev
 Stewie10=Beta Tester, CT dev
 SpyKid=CT dev
-Mence=CT dev
 MegaKart69=CT dev
 JorisMKW=CT dev
 Baoulettes=CT dev
