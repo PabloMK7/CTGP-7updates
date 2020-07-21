@@ -23,6 +23,7 @@ RandomHacker=Shy Guy Colors
 Tomix=Custom Karts
 ElKerouz=Gold Mario, Menu Icons
 Cochu U=Menu, Desert Hills Music
+Manel Navola=Title Screen Music
 NGT=R.O.B.
 Cell9=NTR CFW, LayeredFS
 Smealum=Hans, *hax Dev
