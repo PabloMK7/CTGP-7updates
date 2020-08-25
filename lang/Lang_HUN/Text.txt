@@ -106,7 +106,7 @@ $710097 :: Szivárvány út DX
 %7005 :: Az SD kártyán egy extra\njátékmentés lesz létrehozva.
 %7003 :: Extra mentés létrehozása...
 %7004 :: Extra mentés létrehozva.
-%7007 :: A Mario Kart 7 még nem\nrendelkezik mentéssel;\nkérlek indítsd el a játékot.\n\nNyomd meg a\nbekapcsológombot.
+%7007 :: A Mario Kart 7 még nem\nrendelkezik mentéssel;\nindítsd el a játékot.\n\nNyomd meg a\nbekapcsológombot.
 
 #First opening welcome message
 welc_t :: Üdv a CTGP-7-ben
@@ -193,7 +193,7 @@ cntdwn :: Visszaszámlálás
 CTWWtog :: Szeretnéd engedélyezni az egyéni\npályákat globálisan (CTWW)? :: Szeretnéd letiltani az egyéni\npályákat globálisan (CTWW)?
 
 #VS Mode
-VSSet :: Egyéni verseny beállítások
+VSSet :: Egyéni verseny beállításai
 CourOrd :: Sorrend
 RacAm :: Versenyek száma
 CpuAm :: Gépi játékosok
@@ -304,7 +304,7 @@ $1205 :: Szivacsos
 $1206 :: Vörös Monster
 $1207 :: Gombás
 $1208 :: Fa
-$1209 :: Arany
+$1209 :: Arany Gumi
 
 #Gliders
 $1300 :: Szupervitorla
@@ -479,14 +479,14 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 &9104 :: Nem
 
 #Update dialogue
-%2080 :: Az online játékhoz le kell\ntöltened egy frissítést.
+%2080 :: Az online játékhoz\nle kell töltened egy frissítést.
 %2081 :: Frissítés kész.\n\nA Mario Kart 7 most újraindul.
 
 #Main menu
 %2090 :: Egyjátékos
 %2091 :: Helyi többjátékos
 %2092 :: Online többjátékos
-%2093 :: Mario Kart csatorna
+%2093 :: Mario Kart Csatorna
 %2094 :: Globális
 %2095 :: Barátok/ellenfelek
 %2096 :: Közösségek
@@ -496,7 +496,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %2201 :: Időmérő
 %2202 :: Luficsata
 %2203 :: Érmefutam
-%2204 :: Verseny
+%2204 :: Egyéni verseny
 %2205 :: \r%2204
 %2206 :: Csata
 
@@ -504,7 +504,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %2210 :: Versenyezz az első helyért.
 %2211 :: Versenyezz egyedül a legjobb időért.
 %2212 :: Durrantsd ki az ellenfeleid lufijait.
-%2213 :: Szedj össze annyi érmét, amennyit csak tudsz.
+%2213 :: Szedd össze a legtöbb érmét.
 %2214 :: Versenyezz saját szabályokkal.
 
 #Class select (menu)
@@ -561,31 +561,31 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 #Items setting
 %2370 :: Tárgyak
 %2371 :: Mind
-%2372 :: Páncélok
-%2373 :: Banánok
-%2374 :: Gombák
-%2375 :: Bob-ombok
-%2376 :: Nincs
+%2372 :: Csak páncélok
+%2373 :: Csak banánok
+%2374 :: Csak gombák
+%2375 :: Csak bob-ombok
+%2376 :: Semmi
 %2471 :: Tárgyak: Mind
-%2472 :: Tárgyak: Páncélok
-%2473 :: Tárgyak: Banánok
-%2474 :: Tárgyak: Gombák
-%2475 :: Tárgyak: Bob-ombok
-%2476 :: Tárgyak: Nincs
+%2472 :: Tárgyak: Csak páncélok
+%2473 :: Tárgyak: Csak banánok
+%2474 :: Tárgyak: Csak gombák
+%2475 :: Tárgyak: Csak bob-ombok
+%2476 :: Tárgyak: Semmi
 
 #Mode setting
 %2380 :: Mód
 %2381 :: 50cc verseny
 %2382 :: 100cc verseny
 %2383 :: 150cc verseny
-%2384 :: Tükörverseny
+%2384 :: Tükrözött verseny
 %2385 :: Luficsata
 %2386 :: Érmecsata
 
 #Start buttons
-%2400 :: Rajt
-%2401 :: Rajt
-%2402 :: Rajt
+%2400 :: Verseny indítása
+%2401 :: Kör indítása
+%2402 :: Időmérő indítása
 
 #Ghost select
 %2403 :: Nincs
@@ -598,20 +598,20 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 
 #Local Multiplayer menu
 %2407 :: Csapatok játékban: \u000E\u0001\u0004\u0004\u0000\u0000
-%5001 :: Válassz egy csoportot.\n\nKoppints az Új csoport gombra,\nha új csoportot\nszeretnél készíteni.
-%5002 :: Új csoport
+%5001 :: Válassz egy csoportot.\n\nKoppints a Csoport létreh.\ngombra, ha új csoportot\nszeretnél készíteni.
+%5002 :: Csoport létreh.
 %5007 :: Játékosok keresése...
 %5008 :: Várd meg, míg minden játékos\ncsatlakozik a csoporthoz.
-%5009 :: Összesen hét másik\njátékossal játszhatsz.\n\nKoppints a Rajtra, ha\nmindenki csatlakozott.
+%5009 :: Összesen hét másik\njátékossal játszhatsz.\n\n\nKoppints a Rajt gombra,\nha mindenki csatlakozott.
 %5010 :: Rajt
-%5011 :: Kérjük, várj...
+%5011 :: Egy pillanat...
 %5012 :: Kommunikációs\nhiba történt.
 %5013 :: Feloszlatod\na csoportot?
 %5014 :: Véletlenszerű
 %5015 :: Várakozás a\ntöbbiek döntésére...
 %5016 :: Pálya eldöntve!
-%5017 :: Ha valakinek nincs Mario\nKart 7 játékkártyája, akkor a\n\uE073HOME menüből a Download\nPlay-en keresztül csatlakozhat.
-%5018 :: Érintsétek meg az \uE030 ikont\naz egymást barátlistára\nhelyezéshez.
+%5017 :: Azok a játékosok,\nakiknek nincs meg a játék,\na \uE073HOME menüből, a\nDownload Play-en keresztül\ncsatlakozhatnak.
+%5018 :: A \uE030 gombbal\nbarátlistára tehetitek egymást.
 %5019 :: Pálya eldöntve!
 
 #Mode select
@@ -655,7 +655,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %5905 :: Barát hozzáadása
 %5901 :: \u000E\u0001\u0000\u0000\nmostantól a barátod!
 %5902 :: \r%5901
-%5903 :: Kitörlöd ennek a\njátékosnak az adatait?
+%5903 :: Törlöd\na játékos adatait?
 
 #Communities
 %5904 :: Eltávolítod ezt\na közösséget?
@@ -665,11 +665,11 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %6300 :: Kedvencek
 %6301 :: Ajánlott
 %6302 :: Kód beírása
-%6303 :: Új közösség
+%6303 :: Közösség létrehozása
 %6304 :: Csatlakozás
 %6305 :: \u000E\u0001\u0005\u0000\u0000\n\nCsatlakozol a közösséghez?
 %6306 :: Csoportok keresése...
-%6307 :: Elhagyod ezt a csoportot?
+%6307 :: Elhagyod a csoportot?
 %6308 :: Folytatod a játékot?
 %6309 :: Írd be a közösség kódját.
 %6310 :: Érvénytelen kód.
@@ -696,10 +696,10 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %6331 :: Abroncsok
 %6332 :: Vitorlák
 %6333 :: Egyéb
-%6334 :: Hiba az SD kártyával.\n\nKérjük, ellenőrizd a\nMario Kart csatorna adatait.
+%6334 :: Hiba az SD kártyával.\n\nEllenőrizd a\nMario Kart Csatorna adatait.
 %6335 :: A csatákhoz szükség van tárgyakra.
-%6400 :: StreetPass lista
-%6401 :: Community recommendations\nhave been updated.\n\nView now?
+%6400 :: StreetPass-lista
+%6401 :: Az ajánlott közösségek frissültek.\n\nMegnézed őket most?
 %6416 :: Az ajánlott közösségek frissültek.
 
 #Download Play
@@ -707,14 +707,14 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 
 #Online Multiplayer messages
 %5908 :: Kommunikációs\nhiba történt.
-%5909 :: Kérjük, várj...
+%5909 :: Egy pillanat...
 %5910 :: Felkészülés a verseny\nnézésére...
 %5911 :: Kommunikációs\nhiba történt.\n\nNyomd meg a \uE073HOME-ot a\nHOME menübe való visszatéréshez.
 
 #Friends/Opponents menu
 %5991 :: Barátok
 %5992 :: Legutóbbi ellenfelek
-%5993 :: StreetPass kézfogások
+%5993 :: StreetPass-kézfogások
 %6100 :: Csatlakozás
 
 #More Online Multiplayer messages
@@ -726,7 +726,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %6006 :: Egy pillanat.
 %6007 :: Felkészülés a versenyre...
 %6008 :: Felkészülés a csatára...
-%6009 :: A következő meccs játékosai
+%6009 :: A következő verseny nevezői
 %6010 :: Nem találtunk játékosokat.
 %6011 :: Csatlakozás\n\u000E\u0001\u0000\u0000\njátékához...
 %6012 :: A(z) \u000E\u0001\u0000\u0000\njátékához való csatlakozás\nsikertelen.\n\nVárj egy kicsit és\npróbáld újra később.
@@ -765,7 +765,7 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %6220 :: Megyek...
 %6221 :: Köszi a játékot!
 %6222 :: Köszönöm szépen!
-%6223 :: Jó'ccakát!
+%6223 :: Jó éjt!
 %6224 :: Pápá!
 
 #SpotPass
@@ -777,15 +777,15 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %6406 :: Győzelmek
 %6407 :: Vereségek
 %6408 :: Érmék száma
-%6414 :: StreetPass kézfogások
-%6421 :: Mii cseréje
-%6422 :: Üzenet szerkesztése
-%6423 :: Gokart szerkesztése
+%6414 :: StreetPass-kézfogások
+%6421 :: Mii-csere
+%6422 :: Üzenet átírása
+%6423 :: Gokart átépítése
 %6424 :: Nagydíj létrehozása
 %6425 :: Beállítások
 
 #Mario Kart Channel
-%6415 :: Ha találkozol más Mario Kart 7\njátékosokkal StreetPass-on\nkeresztül, felkerülnek a\nStreetPass listádra.
+%6415 :: Ha StreetPass-on keresztül\nmás játékosokkal találkozol,\nfelkerülnek a StreetPass-listára.
 
 #Menus
 %6410 :: Játék
@@ -804,8 +804,8 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %6434 :: 4
 
 #StreetPass setting
-%6441 :: Bekapcsolva
-%6442 :: Kikapcsolva
+%6441 :: Be
+%6442 :: Ki
 
 #SpotPass setting
 %6451 :: \r%6441
@@ -823,8 +823,8 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 
 #Gyro setting
 %6480 :: Giroszkóp
-%6481 :: Bekapcsolva
-%6482 :: Kikapcsolva
+%6481 :: Be
+%6482 :: Ki
 
 #Save data reset dialogue
 %7001 :: Törlöd a mentésed?
@@ -840,11 +840,11 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 #%7007 :: Hiba történt.\n\nTartsd nyomva a bekapcsológombot\namíg a rendszer ki nem kapcsol,\nmajd kapcsold be és próbáld újra.
 
 #R/W errors
-%7101 :: Az SD kártyát\neltávolították.\n\nKérjük, kapcsold ki a\nrendszert, mielőtt kivennéd\naz SD kártyát.
-%7102 :: Kérjük, várj.\n\nNe kapcsold ki a rendszert,\nvagy távolítsd el az SD kártyát.
+%7101 :: Az SD kártyát\neltávolították.\n\nKapcsold ki a rendszert,\nmielőtt kivennéd\naz SD kártyát.
+%7102 :: Egy pillanat.\n\nNe kapcsold ki a rendszert,\nvagy távolítsd el az SD kártyát.
 %7103 :: Nem található SD kártya.
 %7104 :: Az SD nyílásba illesztett\neszköz nem használható.
-%7105 :: Az SD kártya írásvédett.\n\nKérjük, kapcsold le az\nírásvédő kapcsolót.
+%7105 :: Az SD kártya írásvédett.\n\nKapcsold le az\nírásvédő kapcsolót.
 %7106 :: A Mario Kart csatorna adatainak\nlétrehozása sikertelen, mivel\nnincs elég hely az SD kártyán.
 %7107 :: Hiba az SD kártyával.
 %7108 :: A Mario Kart csatorna adatai\nsérültek, ezért most\ntörlésre kerülnek.
@@ -870,12 +870,12 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 %7404 :: A \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFF\nbe lett kapcsolva\nezen a játékon.
 
 #Permission errors
-%7405 :: A \u000E\u0000\u0003\u0002\u0002StreetPass\n\u000E\u0000\u0003\u0002\uFFFFhasználatát a szülői felügyelet\nkorlátozza.\n\nKérjük, nézd meg\na beállításokban.
-%7406 :: A \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF és \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nhasználata előtt el kell fogadnod\na Nintendo 3DS felhasználói\nlicenszszerződest.\nKérjük, nézd meg\na beállításokban.
+%7405 :: A \u000E\u0000\u0003\u0002\u0002StreetPass\n\u000E\u0000\u0003\u0002\uFFFFhasználatát a szülői felügyelet\nkorlátozza.\n\nEllenőrizd a beállításokat.
+%7406 :: A \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF és \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nhasználata előtt el kell fogadnod\na Nintendo 3DS felhasználói\nlicenszszerződest.\nEllenőrizd a beállításokat.
 %7407 :: Elérted a \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF-t\nhasználó szoftverek maximum\nszámát. Menj a beállításokba\nés kapcsold ki azt egy másik\nszoftvernek.
 %7408 :: Az online versenyzéshez el kell\nfogadnod a Nintendo 3DS\nfelhasználói licenszszerződést\nés az adatvédelmi irányelveket.\nEzeket a beállításokban\ntekintheted meg.
-%7502 :: Az online interakció le van\ntiltva a szülői felügyeletben.\nKérjük, nézd meg a beállításokban.
-%7503 :: Az online játékhoz el kell\nfogadnod a Nintendo 3DS\nfelhasználói licenszszerződést\nés az adatvédelmi irányelveket.\nKérjük, nézd meg a beállításokban.
+%7502 :: Az online interakció le van\ntiltva a szülői felügyeletben.\nEllenőrizd a beállításokat.
+%7503 :: Az online játékhoz el kell\nfogadnod a Nintendo 3DS\nfelhasználói licenszszerződést\nés az adatvédelmi irányelveket.\nEllenőrizd a beállításokat.
 
 #Wireless switch off error
 %7501 :: Kapcsold át a vezeték nélküli\nkapcsolót a vezeték nélküli\nadatátvitel \u000E\u0000\u0003\u0002\u0000engedélyezéséhez\u000E\u0000\u0003\u0002\uFFFF.
@@ -916,9 +916,9 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 &9165 :: \r&9164
 
 #Multiplayer pre-race info messages
-&9171 :: A következő versenyhez fogsz csatlakozni. Kérjük várj.
-&9172 :: A következő csatához fogsz csatlakozni. Kérjük várj.
-&9173 :: A csoport tele van. Kérjük várj.
+&9171 :: A következő versenyhez fogsz csatlakozni.
+&9172 :: A következő csatához fogsz csatlakozni.
+&9173 :: A csoport tele van. Egy pillanat.
 
 #Results screen
 &9201 :: EREDMÉNY

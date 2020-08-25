@@ -110,7 +110,7 @@ $710097 :: Route Arc-en-ciel Deluxe
 
 #First opening welcome message
 welc_t :: Bienvenue sur CTGP-7 !
-welc_1 :: Salut ! Depuis le menu en jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
+welc_1 :: Salut ! Depuis le menu en jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir ce menu,\nappuyez sur (SELECT).
 welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
 welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
 welc_4 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
@@ -138,7 +138,7 @@ ccsel :: Sélecteur de CC :: Règle les CC de la course sur une certaine valeur 
 itemled :: Signaler les objets avec LED :: La diode de notification clignotera en bleu quand une carapace à épines est utilisée et en jaune lorqu'un éclair sera utilisé.
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Note: Vous ne pourrez plus appuyer sur \uE002 pour utiliser vos objets.)
 charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
-cuskart :: Utiliser des Karts du dossier MyStuff.
+cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
 
 #Speedometer text
@@ -159,17 +159,17 @@ cc_chgv :: Modifier la valeur
 track_ct :: Custom Tracks
 track_ori :: Circuits Originaux
 ct_endis :: Les Custom Tracks sont activés :: Les Custom Tracks sont désactivés
-ori_endis :: Les circuits standardsont activés :: Les circuits standards sont désactivés
+ori_endis :: Les circuits standards sont activés :: Les circuits standards sont désactivés
 
 #Community Code Generator
 commugen :: Générateur de code communautaire :: Génère un code basé sur vos paramètres actuels. Entrer ce code activera les mêmes paramètres chez tous les utiliateurs qui participeront à la communauté.
 def_spd :: Vitesse par défaut
-rand_tr :: Forcer courses aléatoires
+rand_tr :: Forcer la sélection de courses aléatoires
 code :: Code
 
 #Change Round Number
-chgrnd :: Changer le nombre de manches :: Change le nombre de manches dans les modes VS et Bataille.
-chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode VS ou Bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tout le monde\ndoivent avoir les mêmes paramètres.
+chgrnd :: Changer le nombre de manches :: Change le nombre de manches dans les modes Course VS et Bataille.
+chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode Course VS ou Bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tout le monde\ndoivent avoir les mêmes paramètres.
 rounds :: Manches
 rnd_sel :: Sélectionnez un nombre de manches.
 
@@ -193,7 +193,7 @@ cntdwn :: Compte à Rebours
 CTWWtog :: Souhaitez-vous activer les\nCustom Tracks en Mondial ? :: Souhaitez-vous désactiver les\nCustom Tracks en Mondial ?
 
 #VS Mode
-VSSet :: Paramètres VS
+VSSet :: Paramètres Course VS
 CourOrd :: Ordre des circuits
 RacAm :: Nombre de parties
 CpuAm :: Joueurs IA
@@ -202,9 +202,9 @@ RanOri :: Aléatoire (Orig.)
 RanAll :: Aléatoire (Tous)
 OrderH :: Ordre Horizontal
 OrderV :: Ordre Vertical
-NextRac :: Choisissez le prochain circuit.\nParties restantes:
+NextRac :: Choisissez le prochain circuit.\nParties restante(s) :
 
 #Reset Ghosts
-resghost :: Réinitialisation Fantômes :: Permet la réinitialisation des fantôme de n'importe quelle course.
-ghostseltrack :: Veuillez sélectionner une course dont\nvous voulez réinitialiser le fantôme :
-ghostcantrecov :: Cette opération ne peut pas être annulée.\nContinuer ? :: Le fanthôme a été réinitialisé avec succès.
+resghost :: Réinitialisation Fantômes :: Permet la réinitialisation des fantôme de n'importe quelle circuit.
+ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitialiser le fantôme :
+ghostcantrecov :: Les données de ce Fantôme ne seront pas récupérable.\nVoulez-vous continuer ? :: Le fantôme a été réinitialisé avec succès.
