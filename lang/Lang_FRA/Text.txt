@@ -162,7 +162,7 @@ ct_endis :: Les Custom Tracks sont activés :: Les Custom Tracks sont désactiv�
 ori_endis :: Les circuits standards sont activés :: Les circuits standards sont désactivés
 
 #Community Code Generator
-commugen :: Générateur de code communautaire :: Génère un code basé sur vos paramètres actuels. Entrer ce code activera les mêmes paramètres chez tous les utiliateurs qui participeront à la communauté.
+commugen :: Générateur de code communautaire :: Génère un code basé sur vos paramètres actuels. Entrer ce code dans la description d'une communauté activera les mêmes paramètres chez tous les utiliateurs qui participeront à cette dernière.
 def_spd :: Vitesse par défaut
 rand_tr :: Forcer la sélection de courses aléatoires
 code :: Code
@@ -205,6 +205,6 @@ OrderV :: Ordre Vertical
 NextRac :: Choisissez le prochain circuit.\nParties restante(s) :
 
 #Reset Ghosts
-resghost :: Réinitialisation Fantômes :: Permet la réinitialisation des fantôme de n'importe quelle circuit.
+resghost :: Réinitialisation fantômes :: Permet la réinitialisation des fantôme de n'importe quelle circuit.
 ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitialiser le fantôme :
-ghostcantrecov :: Les données de ce Fantôme ne seront pas récupérable.\nVoulez-vous continuer ? :: Le fantôme a été réinitialisé avec succès.
+ghostcantrecov :: Les données de ce fantôme ne seront pas récupérable.\nVoulez-vous continuer ? :: Le fantôme a été réinitialisé avec succès.
