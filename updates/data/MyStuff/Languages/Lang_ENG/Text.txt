@@ -140,6 +140,7 @@ backcam :: Backwards Camera :: Press \uE002 to see what's behind you, just like 
 charman :: Custom Character Manager :: Switch between original and custom characters.
 cuskart :: Custom Karts :: Load custom karts from the MyStuff folder.
 trackorder :: Online Track Order :: Choose how the tracks will be ordered in cups online.
+itmprb :: Improved Item Roulette :: Displays the real item probabilities in the item roulette instead of showing random items.
 
 #Speedometer text
 spd_set :: Speedometer settings.

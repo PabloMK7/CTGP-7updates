@@ -140,6 +140,7 @@ backcam :: Rückspiegel :: Drücke \uE002, um zu sehen was hinter dir ist, wie i
 charman :: Benutzerdef.-Fahrer-Einstellungen :: Wechsle zwischen originalen und neuen Fahrern.
 cuskart :: Benutzerdefinierte Karts :: Lade benutzerdefinierte Karts aus dem "MyStuff"-Ordner
 trackorder :: Online-Strecken-Ordner :: Wähle aus, wie die Strecken im Online-Modus geordnet sein sollen.
+itmprb :: Verbessertes Item-Roulett :: Zeigt die wahren Wahrscheinlichkeiten für Items, anstatt zufälligen Items. 
 
 #Speedometer text
 spd_set :: Tachometer-Einstellungen

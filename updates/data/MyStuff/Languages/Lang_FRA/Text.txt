@@ -130,16 +130,17 @@ exit :: Fermer
 
 #Folders
 gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalitées en jeu additionnelles.
-settings_folder :: Paramètres :: Paramètres spécifique CTGP-7.
+settings_folder :: Paramètres :: Paramètres spécifiques de CTGP-7.
 
 #Entries
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran du haut.
-ccsel :: Sélecteur de CC :: Règle les CC de la course sur une certaine valeur (doit être activé avant de commencer une course).
+ccsel :: Sélecteur de CC :: Règle les CC à une certaine valeur (doit être activé avant de commencer une course).
 itemled :: Signaler les objets avec LED :: La diode de notification clignotera en bleu quand une carapace à épines est utilisée et en jaune lorqu'un éclair sera utilisé.
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Note: Vous ne pourrez plus appuyer sur \uE002 pour utiliser vos objets.)
 charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
+itmprb :: Roulette améliorée :: Au lieu de montrer des objets aléatoires, affiche seulement les objets probables pour votre position sur la roulette.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse

@@ -9,7 +9,7 @@ $700010 :: Taça Guizo
 $710042 :: Cidade Concord
 $710059 :: Pista do Mario \uE022\uE023
 $710044 :: Cascatas Galvarny
-$710045 :: Jardim do Céu \uE024\uE025
+$710045 :: Jardim Celeste \uE024\uE025
 
 #Acorn Cup
 $700011 :: Taça Bolota
@@ -21,7 +21,7 @@ $710049 :: Castelo 3 do Bowser \uE024\uE025
 #Cloud Cup
 $700012 :: Taça Nuvem
 $710050 :: Cruzamento Perene
-$710054 :: Fazenda Mu Mu \uE022\uE023
+$710054 :: Quinta Mu Mu \uE022\uE023
 $710052 :: Avenida do Arquipélago
 $710053 :: Circuito Nevado \uE022\uE023
 
@@ -54,7 +54,7 @@ $710061 :: Ilha Chocolate 2 \uE031\uE032
 $710064 :: Descida Estelar
 
 #Blooper Cup
-$700018 :: Taça Lula
+$700018 :: Taça Blooper
 $710074 :: Parque Castelo Arenoso
 $710075 :: Circuito do Mario \uE033
 $710076 :: Circuito do Luigi \uE026\uE027
@@ -70,7 +70,7 @@ $710081 :: Circuito do Luigi \uE024\uE025
 #Fire Cup
 $700020 :: Taça Bola de Fogo
 $710082 :: Desafio SMO RC
-$710083 :: Castelo do Bowser 4 \uE024\uE025
+$710083 :: Castelo 4 do Bowser \uE024\uE025
 $710084 :: Planíce Donut 1 \uE031\uE032
 $710085 :: Escorregador Secreto
 
@@ -106,12 +106,12 @@ $710097 :: Estrada Arco-íris DX
 %7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
 %7003 :: A criar dados de gravação\nadicionais...
 %7004 :: Foram criados os dados de gravação\nadicionais.
-%7007 :: Não existem dados salvos\nde Mario Kart 7. Por favor,\nabra o jogo para criar\ndados novos.\n\nPressione o botão POWER.
+%7007 :: Não existem dados de gravação\nno Mario Kart 7. Por favor,\nabra o jogo para criar\ndados novos.\n\nPressione o botão POWER.
 
 #First opening welcome message
 welc_t :: Bem-vindo ao CTGP-7
-welc_1 :: Olá!\nPelo menu em jogo,\n poderá\nusar algumas interessantes funções.\n\nPara abrir o menu em jogo,\nuse o botão (SELECT).
-welc_2 :: Para usar qualquer função, coloque o\ncursor sobre uma entrada e\naperte \uE000 para ativar/configurar.
+welc_1 :: Olá!\nPelo menu do jogo,\n poderá\nusar algumas interessantes funções.\n\nPara abrir o menu em jogo,\nuse o botão (SELECT).
+welc_2 :: Para usar qualquer função, coloque o\ncursor sobre uma entrada e\nprima \uE000 para ativar/configurar.
 welc_3 :: Lembre-se de que algumas funções\ncomo "Seletor CC" irão ser\ndesativadas no modo online.
 welc_4 :: Esperamos que goste do mod! ^ω^
 
@@ -140,6 +140,7 @@ backcam :: Retrovisor :: Prima \uE002 para ver o que está atrás de si, como em
 charman :: Gestor de personagens personalizadas :: Troca entre personagens originais e personalizadas.
 cuskart :: Karts personalizados :: Carregar karts personalizados da pasta MyStuff.
 trackorder :: Ordem de pistas online :: Escolha como as pistas serão organizadas em taças online.
+itmprb :: Roleta de Item Melhorada :: Mostra a probabilidade real de um item na roleta de item ao invés de itens aleatórios.
 
 #Speedometer text
 spd_set :: Opções do velocímetro.
@@ -178,7 +179,7 @@ enhmap :: Mapa Local Melhorado :: Adiciona a funcionalidade de zoom ao mapa loca
 
 #Custom character manager text
 char_select :: Selecione uma personagem para configurar.
-reboot_req :: (Reinício requirido para aplicar as definições.)
+reboot_req :: (Reinício requerido para aplicar as definições.)
 char_replace :: Selecione uma personagem personalizada para:\n
 green_info :: Verde -> Entrada atual ativada.
 
@@ -206,5 +207,5 @@ NextRac :: Selecione a próxima pista.\nCorridas restantes:
 
 #Reset Ghosts
 resghost :: Reiniciar Corredor Fantasma :: Permite reiniciar o corredor fantasma de qualquer pista.
-ghostseltrack :: Selecione a pista para reiniciar\nseu corredor fantasma:
+ghostseltrack :: Selecione a pista para reiniciar\no seu corredor fantasma:
 ghostcantrecov :: Esta operação não poderá ser desfeita!\nContinuar? :: O Corredor Fantasma foi reiniciado.

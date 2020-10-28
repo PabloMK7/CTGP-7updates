@@ -140,6 +140,7 @@ backcam :: Задний обзор :: Нажмите \uE002, чтобы посм
 charman :: Менеджер персонажей :: Переключайтесь между оригинальными и фанатскими персонажами.
 cuskart :: Свои карты :: Загружать свои карты из папки «MyStuff».
 trackorder :: Порядок трасс в онлайне :: Изменить расстановку трасс при игре онлайн.
+itmprb :: Improved Item Roulette :: Displays the real item probabilities in the item roulette instead of showing random items.
 
 #Speedometer text
 spd_set :: Настройки спидометра.

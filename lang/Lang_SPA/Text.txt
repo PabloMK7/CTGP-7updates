@@ -140,6 +140,7 @@ backcam :: Retrovisor :: Pulsa \uE002 para ver que hay detrás ¡Como en otros M
 charman :: Gestor de Personajes :: Elige entre personajes editados o originales.
 cuskart :: Karts Personalizados :: Carga karts personalizados desde la carpeta MyStuff.
 trackorder :: Orden de Circuitos :: Elige como aparecen ordenados los circuitos en linea.
+itmprb :: Ruleta de Objetos Mejorada :: Muestra las probabilidades reales en la ruleta de objetos en vez de objetos aleatorios.
 
 #Speedometer text
 spd_set :: Opciones de Velocímetro.

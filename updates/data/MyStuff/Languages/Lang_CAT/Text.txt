@@ -140,6 +140,7 @@ backcam :: Retrovisor :: Prem \uE002 per tornar la vista enrere, com altres Mari
 charman :: Gestor de Personatges :: Tria entre personatges editats o originals.
 cuskart :: Karts Editats :: Carrega karts editats des de la carpeta MyStuff.
 trackorder :: Ordre de Circuits :: Tria com s'ordenen els circuis en línia.
+itmprb :: Ruleta d'Objectes Millorada :: Mostra les probabilitats reals a la ruleta d'objectes en comptes d'objectes aleatoris.
 
 #Speedometer text
 spd_set :: Opcions de Velocímetre.

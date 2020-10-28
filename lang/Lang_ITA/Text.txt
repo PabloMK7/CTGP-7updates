@@ -140,6 +140,7 @@ backcam :: Retrovisore :: Premi \uE002 per vedette dieter di te, esattamente com
 charman :: Gestore Personaggi :: Gestisci i personaggi custom e quelli originali.
 cuskart :: Kart personalizzati :: Carica kart personalizzati dalla cartella MyStuff.
 trackorder :: Ordine Delle piste online :: Gestisci l'ordine in cui le piste appariranno nel gioco online.
+itmprb :: Roulette migliorata :: Mostra le probabilità effettive sulla roulette di oggetti invece di oggetti casuali.
 
 #Speedometer text
 spd_set :: Accelerometro.

@@ -140,6 +140,7 @@ backcam :: Visszapillantó :: Nyomd meg az \uE002 gombot a hátra pillantáshoz,
 charman :: Egyéni karakter-kezelő :: Válts eredeti és egyéni karakterek között.
 cuskart :: Egyéni gokartok :: Egyéni gokartok betöltése a MyStuff mappából.
 trackorder :: Online pálya rendezés :: Válaszd ki a pályák rendezését online.
+itmprb :: Javított rulett :: A tárgyrulett pörgés közben a tényleges esélyeket mutatja véletlenszerű tárgyak helyett.
 
 #Speedometer text
 spd_set :: Sebességmérő beállításai.

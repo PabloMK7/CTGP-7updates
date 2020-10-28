@@ -140,6 +140,7 @@ backcam :: Achteruit Kijken :: Druk op \uE002 om te zien wat er achter je zit, n
 charman :: Custom Character Manager :: Wissel tussen de originele en nieuwe karakters
 cuskart :: Custom Karts :: Laad custom karts van de MyStuff map
 trackorder :: Online Baan Volgorde :: Kies in welke volgorde de banen zitten in bekers online.
+itmprb :: Verbeterde Voorwerp Roulette :: Laat de echte voorwerp kansen zien op de voorwerp roulette in plaats van willekeurige voorwerpen.
 
 #Speedometer text
 spd_set :: Snelheidsmeter opties
