@@ -113,7 +113,10 @@ welc_t :: Welkom bij CTGP-7!
 welc_1 :: Hallo daar!\nVanaf het in-game menu\nkan je wat interessante functies gebruiken.\nGebruik de (SELECT) knop\nom het in-game menu te openen
 welc_2 :: Om een functie te gebruiken, plaats je de\ncursor over een item\nen druk je op A om het aan te zetten/te configureren.
 welc_3 :: Sommige functies zoals\n"CC Selector" zullen uitgeschakeld\nzijn tijdens een online spel.
-welc_4 :: We hopen dat je de mod leuk vind!\n^w^
+welc_4 :: Jouw statistieken zullen geupload worden\nnaar de CTGP-7 Server zodat ze\npubliek beschikbaar zijn\n(Data is geanonimiseerd.)\nJe kan het uploaden van statistieken\nvanuit het ingame menu uitzetten.
+welc_5 :: Bij het gebruik van CTWW,\nga je akkoord met de regels.\n\nJe kan ze hier lezen:\nctgp-7.github.io/ctww.html
+welc_6 :: Vergeet niet de CTGP-7\nDiscord server te bekijken!!\n\nUitnodigings link:\ninvite.gg/ctgp7
+welc_7 :: We hopen dat je de mod leuk vind!\n^w^
 
 #General text
 warning :: WAARSCHUWING
@@ -121,6 +124,10 @@ error :: FOUT
 state :: Status
 next :: Volgende
 select :: Selecteer
+chng :: Veranderen
+custom :: Aangepast
+page :: Pagina
+race_noun :: Race
 state_mode :: Aan :: Uit
 state_inf :: Zet aan :: Zet uit
 allow_inf :: Toestaan :: Weigeren
@@ -131,6 +138,7 @@ exit :: Terug
 #Folders
 gameplay_folder :: Gameplay Functies :: Configuratie voor aanvullende gameplay functies.
 settings_folder :: Game Opties :: CTGP-7 specifieke instellingen.
+other_folder :: Andere Opties :: Andere opties en functies
 
 #Entries
 spdmeter :: Snelheidsmeter :: Laat een snelheidsmeter zien rechstonder op het bovenste scherm
@@ -141,6 +149,7 @@ charman :: Custom Character Manager :: Wissel tussen de originele en nieuwe kara
 cuskart :: Custom Karts :: Laad custom karts van de MyStuff map
 trackorder :: Online Baan Volgorde :: Kies in welke volgorde de banen zitten in bekers online.
 itmprb :: Verbeterde Voorwerp Roulette :: Laat de echte voorwerp kansen zien op de voorwerp roulette in plaats van willekeurige voorwerpen.
+imtrick :: Verbeterde Trucs ::  Karts gaan draaien tijdens een truc op een boost ramp. Gebruik de \uE077 Circle Pad om de draai richting te veranderen.
 
 #Speedometer text
 spd_set :: Snelheidsmeter opties
@@ -181,16 +190,18 @@ enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scher
 char_select :: Selecteer een karakter om te configureren.
 reboot_req :: (Herstart nodig om veranderingen toe te passen.)
 char_replace :: Selecteer een karakter voor:\n
-green_info :: Groen -> Huidige geactiveerde item.
+green_info :: Groen → Huidige geactiveerde item.
 
 #Online track order
 order_mode :: Standaard :: Alphabetisch
 
 #Online update check
 update_check :: Zoeken naar updates... :: De nieuwste versie van CTGP-7\nis nodig om online te spelen.
+fail_conn :: Kon niet verbinden\nmet de CTGP-7 server\n\nProbeer het later opnieuw.
 
 #CTWW
 cntdwn :: Countdown
+ctww :: CTWW
 CTWWtog :: Wil je Aangepaste Banen Wereldwijd aanzetten? :: Wil je Aangepaste Banen Wereldwijd uitzetten?
 
 #VS Mode
@@ -209,3 +220,19 @@ NextRac :: Selecteer volgende baan.\nOvergebleven races:
 resghost :: Reset spook :: Staat het resetten van het spook toe op elke baan.
 ghostseltrack :: Selecteer de baan om spook van te resetten.
 ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :: Het spook is gereset.
+
+#Server Settings
+servsett :: Server Instellingen :: CTCP-7 Server gerelateerde instellingen
+serv_consID :: CTGP-7 ConsoleID
+serv_statsupl :: Statistieken Uploaden
+serv_displname :: Namen Tonen :: Selecter de mode voor namen tonen.
+serv_disphid :: Verborgen
+serv_dispmii :: Mii Naam
+serv_dispcust :: Voer aangepaste naam in. :: Naam kan maar 15\nkarakters lang zijn.
+
+#Statistics
+statsentry :: Laad Statistieken :: Kijk hier je prive CTGP-7 statistieken na.
+stats_tpl :: Keren gespeeld
+stats_tot :: Totale Offline Races :: Totale Online Races
+stats_vnll :: Origineel
+stats_most :: Meest Gespeelde Banen :: Meest Gespeelde Arenas

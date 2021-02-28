@@ -113,7 +113,10 @@ welc_t :: Benvingut a CTGP-7!
 welc_1 :: Hola!\nDes del menú ingame,\npodràs utilitzar algunes\nfuncions interessants.\nPer a obrir el menú ingame,\nutilitza el botó (Select).
 welc_2 :: Per a utilitzar qualsevol\nfunció, posa el cursor\ndamunt i prem A.
 welc_3 :: Tinguis en compte que algunes\nfuncions com "Selector de CC"\nseran desactivades en\nmultijugador en línia.
-welc_4 :: Esperem que gaudeixis el mod!\n^ω^
+welc_4 :: Les teves estadístiques seran\npujades al servidor de CTGP-7\nperquè tothom les pugui veure.\n(Les dades són anonimitzades.)\nPots desactivar la pujada\ndes del menú ingame.
+welc_5 :: Si utilitzes la funció CTWW\nacceptes les seves regles.\n\nPots veure-les aquí:\nctgp-7.github.io/ctww.html
+welc_6 :: Recorda visitar el servidor\nde Discord de CTGP-7!\n\nEnllaç d'invitació:\ninvite.gg/ctgp7
+welc_7 :: Esperem que gaudeixis el mod!\n^ω^
 
 #General text
 warning :: ADVERTÈNCIA
@@ -121,6 +124,10 @@ error :: ERROR
 state :: Estat
 next :: Següent
 select :: Seleccionar
+chng :: Canviar
+custom :: Customitzat
+page :: Pàgina
+race_noun :: Carrera
 state_mode :: Activat :: Desactivat
 state_inf :: Activar :: Desactivar
 allow_inf :: Permetre :: No permetre
@@ -131,6 +138,7 @@ exit :: Sortir
 #Folders
 gameplay_folder :: Funcions del Joc :: Configuració de funcions adicionals per al joc.
 settings_folder :: Configuració del Joc :: Configuració de CTGP-7.
+other_folder :: Altres Opcions :: Altra informació i opcions diverses.
 
 #Entries
 spdmeter :: Velocímetre :: Mostra un velocímetre a la pantalla superior, part inferior dreta.
@@ -139,8 +147,9 @@ itemled :: Avisar Objectes Amb LED :: El LED de notificació s'il·lumina blau q
 backcam :: Retrovisor :: Prem \uE002 per tornar la vista enrere, com altres Mario Kart! (Nota: El botó \uE002 deixarà d'utilitzar objectes.)
 charman :: Gestor de Personatges :: Tria entre personatges editats o originals.
 cuskart :: Karts Editats :: Carrega karts editats des de la carpeta MyStuff.
-trackorder :: Ordre de Circuits :: Tria com s'ordenen els circuis en línia.
+trackorder :: Ordre de Circuits :: Tria com s'ordenen els circuits en línia.
 itmprb :: Ruleta d'Objectes Millorada :: Mostra les probabilitats reals a la ruleta d'objectes en comptes d'objectes aleatoris.
+imtrick :: Trucs Millorats :: Els karts giraran sobre si mateixos al fer un truc en una rampa amb panell turbo. Utilitza el \ uE077 Circle Pad per canviar la direcció de rotació.
 
 #Speedometer text
 spd_set :: Opcions de Velocímetre.
@@ -181,16 +190,18 @@ enhmap :: Mapa Local Millorat :: Afegix la posibilitat de fer zoom al mapa local
 char_select :: Tria un personatge per configurar.
 reboot_req :: (Es requereix un reinici per aplicar canvis.)
 char_replace :: Selecciona un personatge per a:\n
-green_info :: Verd -> Opció activa.
+green_info :: Verd → Opció activa.
 
 #Online track order
 order_mode :: Por omissió :: Alfabètic
 
 #Online update check
 update_check :: Buscant actualitzacions... :: L'última versió de CTGP-7\nes necessària per jugar en línia.
+fail_conn :: No s'ha pogut connectar\namb el servidor de CTGP-7.\n\nProva de nou més tard.
 
 #CTWW
 cntdwn :: Compte Enrere
+ctww :: CTWW
 CTWWtog :: Vols activar\nCircuits Editats En Línia? :: Vols desactivar\nCircuits Editats En Línia?
 
 #VS Mode
@@ -209,6 +220,22 @@ NextRac :: Tria el próxim circuit.\nRondes restants:
 resghost :: Resetejar Corredor Fantasma :: Permitix resetejar el corredor fantasma de qualsevol circuit.
 ghostseltrack :: Selecciona el circuit per resetejar\nel seu corredor fantasma: 
 ghostcantrecov :: Aquesta operació no es pot desfer.\nContinuar? :: El fantasma s'ha resetejat.
+
+#Server Settings
+servsett :: Opcions del Servidor :: Opcions relacionades amb el servidor de CTGP-7.
+serv_consID :: CTGP-7 ConsoleID
+serv_statsupl :: Pujar Estadístiques
+serv_displname :: Nom a Mostrar :: Selecciona el tipus de nom a mostrar.
+serv_disphid :: Ocult
+serv_dispmii :: Nom del Mii
+serv_dispcust :: Introdueix nom customitzat :: El nom customitzat només\npot tenir 15 caràcters.
+
+#Statistics
+statsentry :: Estadístiques Locals :: Comprova les teves estadístiques privades de CTGP-7 aquí.
+stats_tpl :: Vegades que s'ha jugat
+stats_tot :: Carreres totals fora de línia :: Carreres totals en línia
+stats_vnll :: Vanilla
+stats_most :: Circuits més jugats :: Estadis més jugats
 
 #Characters
 $1000 :: Mario

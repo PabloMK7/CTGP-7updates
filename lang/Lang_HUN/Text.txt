@@ -113,7 +113,10 @@ welc_t :: Üdv a CTGP-7-ben
 welc_1 :: Szervusz!\nA pluginmenüből néhány\nérdekes funkciót használhatsz.\nA menü megnyitásához nyomd\nmeg a (SELECT) gombot.
 welc_2 :: Egy funkció használatához\nválassz ki egy opciót és\nengedélyezd/konfiguráld\naz A-val.
 welc_3 :: Megjegyzés: néhány funkció,\nmint például a „CC választó”\nle lesz tiltva online játék\nközben.
-welc_4 :: Jó szórakozást\na modhoz!\n^w^
+welc_4 :: Bizonyos statisztikákat\nfeltöltünk a CTGP-7 szerverre,\nahol bárki megtekintheti őket.\n(Az adatok névtelenek.)\nEzt a beállításokban\nkikapcsolhatod.
+welc_5 :: A CTWW használatával elfogadod\na felhasználási feltételeket.\n\nEzeket itt tekintheted meg:\nctgp-7.github.io/ctww.html
+welc_6 :: Végezetül javasoljuk,\nhogy keresd fel a\nCTGP-7 Discord-szerverét is!\n\nMeghívó:\ninvite.gg/ctgp7
+welc_7 :: Jó szórakozást\na modhoz!\n^w^
 
 #General text
 warning :: FIGYELMEZTETÉS
@@ -121,6 +124,10 @@ error :: HIBA
 state :: Érték
 next :: Tovább
 select :: Válaszd
+chng :: Módosítás
+custom :: Egyéni
+page :: Oldal
+race_noun :: Verseny
 state_mode :: Engedélyezve :: Letiltva
 state_inf :: Engedélyezés :: Letiltás
 allow_inf :: Engedélyezés :: Megtiltás
@@ -131,6 +138,7 @@ exit :: Kilépés
 #Folders
 gameplay_folder :: Játékfunkciók :: Extra funkciók beállításai.
 settings_folder :: Beállítások :: CTGP-7-specifikus beállítások.
+other_folder :: Egyéb :: Egyéb beállítások
 
 #Entries
 spdmeter :: Sebességmérő :: Mutatja a sebességet a felső képernyő jobb alsó sarkában.
@@ -141,6 +149,7 @@ charman :: Egyéni karakter-kezelő :: Válts eredeti és egyéni karakterek kö
 cuskart :: Egyéni gokartok :: Egyéni gokartok betöltése a MyStuff mappából.
 trackorder :: Online pálya rendezés :: Válaszd ki a pályák rendezését online.
 itmprb :: Javított rulett :: A tárgyrulett pörgés közben a tényleges esélyeket mutatja véletlenszerű tárgyak helyett.
+imtrick :: Javított trükkök :: Gyorsítórámpáról indított trükközéskor a gokart pördül egyet. A pördülés irányát a \uE077 Circle Pad határozza meg.
 
 #Speedometer text
 spd_set :: Sebességmérő beállításai.
@@ -181,16 +190,18 @@ enhmap :: Javított helyi térkép :: Zoom-olhatóvá teszi a helyi térképet a
 char_select :: Válaszd ki a beállítandó karaktert.
 reboot_req :: A változtatások érvényesítéséhez\nújrainsítás szükséges.
 char_replace :: Válassz ki egy egyéni karaktert helyette:\n
-green_info :: Zöld -> Jelenlegi beállítás.
+green_info :: Zöld → Jelenlegi beállítás.
 
 #Online track order
 order_mode :: Alapértelmezett :: ABC-sorrend
 
 #Online update check
 update_check :: Frissítések keresése... :: A CTGP-7 legújabb verziója\nszükséges az online játékhoz.
+fail_conn :: Nem sikerült csatlakozni\na CTGP-7 szerverhez.\n\nPróbáld újra később.
 
 #CTWW
 cntdwn :: Visszaszámlálás
+ctww :: CTWW
 CTWWtog :: Szeretnéd engedélyezni az egyéni\npályákat globálisan (CTWW)? :: Szeretnéd letiltani az egyéni\npályákat globálisan (CTWW)?
 
 #VS Mode
@@ -209,6 +220,22 @@ NextRac :: Válaszd ki a következő pályát.\nHátralévő versenyek száma:
 resghost :: Szellem visszaállítása :: Alaphelyzetbe állít egy szellemet akármelyik pályán.
 ghostseltrack :: Válaszd ki a pályát amin vissza\nszeretnéd állítani a szellemet:
 ghostcantrecov :: Ez a művelet nem vonható vissza.\nBiztos vagy benne? :: A szellem alaphelyzetbe állt.
+
+#Server Settings
+servsett :: Szerverbeállítások :: CTGP-7 szerverbeállítások
+serv_consID :: CTGP-7 ConsoleID
+serv_statsupl :: Statisztikák feltöltése
+serv_displname :: Felhasználónév :: Felhasználónév beállítása
+serv_disphid :: Rejtett
+serv_dispmii :: Mii neve
+serv_dispcust :: Egyéni név :: Az egyéni név legfeljebb\n15 karakter hosszú lehet.
+
+#Statistics
+statsentry :: Helyi statisztikák :: A CTGP-7 használati statisztikáinak megjelenítése.
+stats_tpl :: Játékok száma
+stats_tot :: Offline versenyek száma :: Online versenyek száma
+stats_vnll :: Alapjáték
+stats_most :: Legtöbbet játszott pályák :: Legtöbbet játszott csatapályák
 
 #Characters
 $1000 :: Mario
@@ -819,8 +846,8 @@ $1965 :: Sztárvezető - (\u000E\u0001\u0008\u0000)
 
 #Online status setting
 %6470 :: Elérhetőség
-%6471 :: Megjelenítés
-%6472 :: Elrejtés
+%6471 :: \r%6461
+%6472 :: \r%6462
 
 #Gyro setting
 %6480 :: Giroszkóp
