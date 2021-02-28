@@ -113,7 +113,10 @@ welc_t :: Bem-vindo ao CTGP-7
 welc_1 :: Olá!\nPelo menu do jogo,\n poderá\nusar algumas interessantes funções.\n\nPara abrir o menu em jogo,\nuse o botão (SELECT).
 welc_2 :: Para usar qualquer função, coloque o\ncursor sobre uma entrada e\nprima \uE000 para ativar/configurar.
 welc_3 :: Lembre-se de que algumas funções\ncomo "Seletor CC" irão ser\ndesativadas no modo online.
-welc_4 :: Esperamos que goste do mod! ^ω^
+welc_4 :: Suas estatísticas serão enviadas\npara o servidor de CTGP-7 então estarão\ndisponíveis para o público ver.\n(Dados são anônimos.)\nPodes desligar o envio\npelo menu.
+welc_5 :: Usando o CTWW,\nvocê concorda com suas regras.\n\nPodes ver-las aqui:\nctgp-7.github.io/ctww.html
+welc_6 :: Lembre-se de checar o\nservidor discord de CTGP-7!\n\nLink do convite:\ninvite.gg/ctgp7
+welc_7 :: Esperamos que goste do mod! ^ω^
 
 #General text
 warning :: ALERTA
@@ -121,6 +124,10 @@ error :: ERRO
 state :: Estado
 next :: Seguinte
 select :: Selecionar
+chng :: Trocar
+custom :: Personalzado
+page :: Página
+race_noun :: Corrida
 state_mode :: Ativado :: Desativado
 state_inf :: Ativar :: Desativar
 allow_inf :: Permitir :: Não Permitir
@@ -131,6 +138,7 @@ exit :: Sair
 #Folders
 gameplay_folder :: Funcionalidades do jogo :: Configuração para recursos adicionais de jogabilidade.
 settings_folder :: Definições do jogo :: Configurações específicas para CTGP-7.
+other_folder :: Outras Opções :: Outras informações diversas e recursos.
 
 #Entries
 spdmeter :: Velocímetro :: Mostra um velocímetro no ecrã de cima no canto inferior direito.
@@ -141,6 +149,7 @@ charman :: Gestor de personagens personalizadas :: Troca entre personagens origi
 cuskart :: Karts personalizados :: Carregar karts personalizados da pasta MyStuff.
 trackorder :: Ordem de pistas online :: Escolha como as pistas serão organizadas em taças online.
 itmprb :: Roleta de Item Melhorada :: Mostra a probabilidade real de um item na roleta de item ao invés de itens aleatórios.
+imtrick :: Manobras Melhoradas ::  Os Karts irão rodopiar quando fizerem uma manobra em uma rampa. Use o \uE077 Painel Analógico para trocar as direções.
 
 #Speedometer text
 spd_set :: Opções do velocímetro.
@@ -181,16 +190,18 @@ enhmap :: Mapa Local Melhorado :: Adiciona a funcionalidade de zoom ao mapa loca
 char_select :: Selecione uma personagem para configurar.
 reboot_req :: (Reinício requerido para aplicar as definições.)
 char_replace :: Selecione uma personagem personalizada para:\n
-green_info :: Verde -> Entrada atual ativada.
+green_info :: Verde → Entrada atual ativada.
 
 #Online track order
 order_mode :: Padrão :: Alfabético
 
 #Online update check
 update_check :: A procurar atualizações... :: A última versão do CTGP-7\né requerida para jogar online.
+fail_conn :: Falha ao conectar\ncom o servidor CTGP-7\n\nTente novamente mais tarde.
 
 #CTWW
 cntdwn :: Contagem regressiva
+ctww :: CTWW
 CTWWtog :: Deseja ativar as pistas\npersonalizadas mundiais? :: Deseja desativar as pistas\npersonalizadas mundiais?
 
 #VS Mode
@@ -209,3 +220,19 @@ NextRac :: Selecione a próxima pista.\nCorridas restantes:
 resghost :: Reiniciar Corredor Fantasma :: Permite reiniciar o corredor fantasma de qualquer pista.
 ghostseltrack :: Selecione a pista para reiniciar\no seu corredor fantasma:
 ghostcantrecov :: Esta operação não poderá ser desfeita!\nContinuar? :: O Corredor Fantasma foi reiniciado.
+
+#Server Settings
+servsett :: Configurações de Servidor :: Configurações relacionadas ao servidor CTGP-7.
+serv_consID :: CTGP-7 ConsoleID
+serv_statsupl :: Status de envio
+serv_displname :: Mostrar Nome :: Selecione o modo de mostrar nomes.
+serv_disphid :: Escondido
+serv_dispmii :: Nome Mii
+serv_dispcust :: Introduza o nome personalizado. :: Nome personalizado pode conter somente\n15 caractéres.
+
+#Statistics
+statsentry :: Estatísticas Locais :: Veja suas estatísticas CTGP-7 privadas aqui.
+stats_tpl :: Horas jogadas
+stats_tot :: Total de Corridas Offline  :: Total de Corridas Online
+stats_vnll :: Vanilla
+stats_most :: Pistas mais jogadas :: Arenas mais jogadas

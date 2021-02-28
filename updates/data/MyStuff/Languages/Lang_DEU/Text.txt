@@ -22,7 +22,7 @@ $710049 :: \uE024\uE025 Bowsers Festung 3
 $700012 :: Wolken-Cup
 $710050 :: Immergrüner Wald
 $710054 :: \uE022\uE023 Kuhmuh-Farm
-$710052 :: Archipel Allee
+$710052 :: Archipel-Allee
 $710053 :: \uE022\uE023 Polar-Parcours
 
 #Boo Cup
@@ -103,7 +103,7 @@ $710072 :: Weltraumstraße
 $710097 :: Regenbogen-Boulevard DX
 
 #Save Data
-%7005 :: Extradaten für CTGP-7 werden jetzt\nauf der SD Card erstellt.
+%7005 :: Extradaten für CTGP-7 werden\njetzt auf der SD Card erstellt.
 %7003 :: Extradaten werden erstellt...
 %7004 :: Extradaten wurden erstellt.
 %7007 :: Es wurden keine Speicherdaten\nfür Mario Kart 7 gefunden.\nBitte starte das Spiel, um\ndiese Daten herzustellen.\n\nDrücke die POWER-Taste.
@@ -113,7 +113,10 @@ welc_t :: Wilkommen bei CTGP-7
 welc_1 :: Hallo!\nVom Ingame-Menü aus\nkannst du verschiedene\ninteressante Funktionen nutzen.\nZum Öffnen des Menüs,\ndrücke den SELECT-Knopf.
 welc_2 :: Um die Funktionen zu verwenden,\nwähle mit dem Zeiger einen\nEintrag aus und drücke A,\num es zu aktivieren oder zu\nkonfigurieren.
 welc_3 :: Beachte aber, dass manche Funk-\ntionen wie z.B. die CCM-Einstel-\nlungen nicht im Online-\nModus funktionieren.
-welc_4 :: Wir hoffen, dir gefällt der Mod!\n^w^
+welc_4 :: Deine Statistiken werden\nauf den CTGP-7 Server hochgeladen, \ndamit Sie jeder sehen kann. (Daten bleiben Anonym). Im Ingame-Menü kannst du\nden Daten Upload abschalten.
+welc_5 :: Durch das nutzen der CTWW Funktion, \naktzeptierst du die Nutzerbedingungen. \n\n Hier kannst du diese Nachlesen:\nctgp-7.github.io/ctww.html
+welc_6 :: Schaut  auf dem\n CTGP-7 Discord Server\nvorbeo. Einldaungslink:\nhttp://ninvite.gg/ctgp7
+welc_7 :: Wir hoffen, dir gefällt der Mod!\n^w^
 
 #General text
 warning :: WARNUNG
@@ -121,6 +124,10 @@ error :: FEHLER
 state :: Status
 next :: Weiter
 select :: Wählen
+chng :: Ändern
+custom :: Geändert
+page :: Seite
+race_noun :: Rennen
 state_mode :: Aktiviert :: Deaktiviert
 state_inf :: Aktivieren :: Deaktivieren
 allow_inf :: Erlauben :: Verbieten
@@ -131,6 +138,7 @@ exit :: Zurück
 #Folders
 gameplay_folder :: Gameplay-Features :: Konfiguration für zusätzliche Gameplay-Features
 settings_folder :: Spiel-Einstellungen :: CTGP-7-spezifische Einstellungen
+other_folder :: Andere Optionen :: Andere Optionen und Funktionen.
 
 #Entries
 spdmeter :: Tachometer :: Zeigt ein Tachometer in der rechten unteren Ecke des oberen Bildschirms.
@@ -141,6 +149,7 @@ charman :: Benutzerdef.-Fahrer-Einstellungen :: Wechsle zwischen originalen und 
 cuskart :: Benutzerdefinierte Karts :: Lade benutzerdefinierte Karts aus dem "MyStuff"-Ordner
 trackorder :: Online-Strecken-Ordner :: Wähle aus, wie die Strecken im Online-Modus geordnet sein sollen.
 itmprb :: Verbessertes Item-Roulett :: Zeigt die wahren Wahrscheinlichkeiten für Items, anstatt zufälligen Items. 
+imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer Rampe drehen. 
 
 #Speedometer text
 spd_set :: Tachometer-Einstellungen
@@ -157,13 +166,13 @@ cc_entv :: Neuer CCM-Wert
 cc_chgv :: Wert ändern
 
 #Course Manager
-track_ct :: Benutzerdefierte Strecken
+track_ct :: Benutzerdefinierte Strecken
 track_ori :: Originale Strecken
 ct_endis :: Benutzerdefinierte Strecken aktiviert :: Benutzerdefinierte Strecken deaktiviert
 ori_endis :: Originale Strecken aktiviert :: Originale Strecken deaktiviert
 
 #Community Code Generator
-commugen :: Community-Code-Generator :: Generiert einen Code, basierend auf den aktuellen Einstellungen. Das Einfügen dieses Codes in eine Community- Beschreibung aktiviert diese Einstellungen für jeden Spieler.
+commugen :: Community-Code-Generator :: Generiert einen Code, basierend auf den aktuellen Einstellungen. Das Einfügen dieses Codes in eine Community-Beschreibung aktiviert diese für jeden Spieler.
 def_spd :: Normale Geschwindigkeit
 rand_tr :: Zufällige Strecken erzwingen
 code :: Code
@@ -188,9 +197,11 @@ order_mode :: Normal :: Alphabetisch
 
 #Online update check
 update_check :: Nach Updates wird gesucht... :: Die neueste Version von CTGP-7\nwird benötigt, um online\nspielen zu können.\n\nBitte lade das neueste Update\nim CTGP-7-Launcher herunter.
+fail_conn :: Fehler bei der Verbundung\nzu den CTGP-7 Servern\n\nVersuche es später erneut.
 
 #CTWW
-cntdwn :: Countdown
+cntdwn :: Countdown-Rennen
+ctww :: CTWW
 CTWWtog :: Möchtest du benutzerdefinierte\nStrecken für den Weltweit-\nModus aktivieren? :: Möchtest du benutzerdefinierte\nStrecken für den Weltweit-\nModus deaktivieren?
 
 #VS Mode
@@ -209,3 +220,19 @@ NextRac :: Wähle die nächste Strecke.\nVerbleibende Rennen:
 resghost :: Geist zurücksetzen :: Macht es möglich, den Geist einer Strecke zurückzusetzen.
 ghostseltrack :: Wähle die Strecke, dessen Geist zurück-\ngesetzt werden soll:
 ghostcantrecov :: Dieser Vorgang kann nicht mehr rückgängig\ngemacht werden.\nFortfahren? :: Der Geist wurde zurückgesetzt.
+
+#Server Settings
+servsett :: Server Einstellungen :: CTGP-7 Serverbezogene Einstellungen.
+serv_consID :: CTGP-7 ConsoleID
+serv_statsupl :: Statistik hochladen
+serv_displname :: Anzeigename :: Wähle einen Anzeigename.
+serv_disphid :: Versteckt
+serv_dispmii :: Mii Name
+serv_dispcust :: Nick Name eingeben :: Nick Name kann maximal 15\nBuchstaben lang sein.
+
+#Statistics
+statsentry :: Lokale Statistik :: Hier siehst du deine lokale Statistik.
+stats_tpl :: Gespielte Runden
+stats_tot :: Gesamte Rennen Offline :: Gesamte Rennen Online
+stats_vnll :: Original
+stats_most :: Meistgespielte Strecken :: Meistgespielte Wettkampf-Arena

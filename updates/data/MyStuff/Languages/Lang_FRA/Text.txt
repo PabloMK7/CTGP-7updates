@@ -106,14 +106,17 @@ $710097 :: Route Arc-en-ciel Deluxe
 %7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 %7003 :: Création du fichier\nde sauvegarde...
 %7004 :: Le fichier de sauvegarde\na été créé.
-%7007 :: Les donées de sauvergarde\n de Mario Kart 7 n'existent\npas, lancez le jeu pour\n générer les données de sauvegarde.\nAppuyez sur le bouton POWER.
+%7007 :: Les donées de sauvergarde\n de Mario Kart 7 n'existent\npas, veuillez lancer le jeu pour\n générer les données de sauvegarde.\nAppuyez sur le bouton POWER.
 
 #First opening welcome message
 welc_t :: Bienvenue sur CTGP-7 !
-welc_1 :: Salut ! Depuis le menu en jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir ce menu,\nappuyez sur (SELECT).
+welc_1 :: Salut ! Depuis le menu du jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir ce menu,\nappuyez sur (SELECT).
 welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
 welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
-welc_4 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
+welc_4 :: Vos statistiques seront envoyées\ndans le serveur CTGP-7 et seront\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi\ndes statistiques depuis le\n menu du jeu.
+welc_5 :: En utilisant les fonctionnalités du\nCTWW, vous acceptez ses règles.\n\nVous pouvez les consulter ici :\nctgp-7.github.io/ctww.html
+welc_6 :: N'oubliez pas de jeter un coup\nd'œil au serveur discord CTGP-7 !\n\nLien d'invitation :\ninvite.gg/ctgp7
+welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
 
 #General text
 warning :: ATTENTION
@@ -121,6 +124,10 @@ error :: ERREUR
 state :: État
 next :: Suivante
 select :: Choisissez
+chng :: Changer
+custom :: Modifié 
+page :: Page
+race_noun :: Course
 state_mode :: Activé :: Désactivé
 state_inf :: Activer :: Désactiver
 allow_inf :: Autoriser :: Refuser
@@ -129,18 +136,20 @@ settings :: Paramètres
 exit :: Fermer
 
 #Folders
-gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalitées en jeu additionnelles.
+gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalitées du jeu additionnelles.
 settings_folder :: Paramètres :: Paramètres spécifiques de CTGP-7.
+other_folder :: Paramètres Supplémentaires :: Paramètres contrôlant d'autres options variés du jeu.
 
 #Entries
-spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran du haut.
-ccsel :: Sélecteur de CC :: Règle les CC à une certaine valeur (doit être activé avant de commencer une course).
-itemled :: Signaler les objets avec LED :: La diode de notification clignotera en bleu quand une carapace à épines est utilisée et en jaune lorqu'un éclair sera utilisé.
-backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Note: Vous ne pourrez plus appuyer sur \uE002 pour utiliser vos objets.)
+spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran supérieur.
+ccsel :: Sélecteur de CC :: Règle les CC à la valeur souhaitée (doit être activée avant de commencer une course).
+itemled :: Signaler les objets avec la LED :: La diode de notification clignotera en bleu quand une carapace à épines est utilisée, en jaune lorsqu'un éclair sera utilisé etc...
+backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Note: Vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
 charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
-itmprb :: Roulette améliorée :: Au lieu de montrer des objets aléatoires, affiche seulement les objets probables pour votre position sur la roulette.
+itmprb :: Roulette d'objets améliorée :: Au lieu de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
+imtrick :: Sauts améliorés :: Les sauts effectués après les rampes avec des plaques d'accélération vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -157,10 +166,10 @@ cc_entv :: Entrez une nouvelle valeur de CC.
 cc_chgv :: Modifier la valeur
 
 #Course Manager
-track_ct :: Custom Tracks
+track_ct :: Circuits Customisés
 track_ori :: Circuits Originaux
-ct_endis :: Les Custom Tracks sont activés :: Les Custom Tracks sont désactivés
-ori_endis :: Les circuits standards sont activés :: Les circuits standards sont désactivés
+ct_endis :: Les circuits customisés sont activés :: Les circuits customisés sont désactivés
+ori_endis :: Les circuits originaux sont activés :: Les circuits originaux sont désactivés
 
 #Community Code Generator
 commugen :: Générateur de code communautaire :: Génère un code basé sur vos paramètres actuels. Entrer ce code dans la description d'une communauté activera les mêmes paramètres chez tous les utiliateurs qui participeront à cette dernière.
@@ -188,9 +197,11 @@ order_mode :: Par défaut :: Alphabétique
 
 #Online update check
 update_check :: Vérification des mises à jour... :: La dernière version de CTGP-7\nest nécessaire pour jouer en ligne.
+fail_conn :: Impossible de vous connecter\naux serveurs CTGP-7.\nRéessayez plus tard.
 
 #CTWW
 cntdwn :: Compte à Rebours
+ctww :: CTWW
 CTWWtog :: Souhaitez-vous activer les\nCustom Tracks en Mondial ? :: Souhaitez-vous désactiver les\nCustom Tracks en Mondial ?
 
 #VS Mode
@@ -198,7 +209,7 @@ VSSet :: Paramètres Course VS
 CourOrd :: Ordre des circuits
 RacAm :: Nombre de parties
 CpuAm :: Joueurs IA
-RanCT :: Aléatoire (CTs)
+RanCT :: Aléatoire (Custom.)
 RanOri :: Aléatoire (Orig.)
 RanAll :: Aléatoire (Tous)
 OrderH :: Ordre Horizontal
@@ -206,6 +217,22 @@ OrderV :: Ordre Vertical
 NextRac :: Choisissez le prochain circuit.\nParties restante(s) :
 
 #Reset Ghosts
-resghost :: Réinitialisation fantômes :: Permet la réinitialisation des fantôme de n'importe quelle circuit.
+resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantôme de n'importe quel circuit.
 ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitialiser le fantôme :
 ghostcantrecov :: Les données de ce fantôme ne seront pas récupérable.\nVoulez-vous continuer ? :: Le fantôme a été réinitialisé avec succès.
+
+#Server Settings
+servsett :: Paramètres de Serveur :: Paramètres lié au serveur CTGP-7. 
+serv_consID :: CTGP-7 ConsoleID
+serv_statsupl :: Envoi des statistiques
+serv_displname :: Afficher un Nom :: Sélectionnez le mode d'affichage du nom.
+serv_disphid :: Masquer
+serv_dispmii :: Nom de Mii
+serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au maximum.
+
+#Statistics
+statsentry :: Statistiques Locales :: Consultez vos statistiques privée de CTGP-7 ici.
+stats_tpl :: Parties Jouées
+stats_tot :: Parties Local :: Parties En Ligne
+stats_vnll :: Original
+stats_most :: Circuits les plus joués :: Arénes batailles les plus jouées
