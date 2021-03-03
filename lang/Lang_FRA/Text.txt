@@ -214,7 +214,7 @@ RanOri :: Aléatoire (Orig.)
 RanAll :: Aléatoire (Tous)
 OrderH :: Ordre Horizontal
 OrderV :: Ordre Vertical
-NextRac :: Choisissez le prochain circuit.\nParties restante(s) :
+NextRac :: Choisissez le prochain circuit.\nPartie(s) restante(s) :
 
 #Reset Ghosts
 resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantôme de n'importe quel circuit.
@@ -232,7 +232,7 @@ serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent
 
 #Statistics
 statsentry :: Statistiques Locales :: Consultez vos statistiques privée de CTGP-7 ici.
-stats_tpl :: Parties Jouées
+stats_tpl :: Nombre de Fois Joué
 stats_tot :: Parties Local :: Parties En Ligne
 stats_vnll :: Original
 stats_most :: Circuits les plus joués :: Arénes batailles les plus jouées
