@@ -232,7 +232,7 @@ serv_dispcust :: カスタム名を入力します。 :: カスタム名は15字
 
 #Statistics
 statsentry :: ローカル統計 :: ここであなたのCTGP-7の個人使用の統計を確認してください。
-stats_tpl :: プレイ時間
+stats_tpl :: プレイ回数
 stats_tot :: オフラインレースの合計 :: オンラインレースの合計
 stats_vnll :: 通常
 stats_most :: 最もプレイしたコース :: 最もプレイしたバトルステージ
