@@ -234,7 +234,7 @@ serv_dispcust :: Egyéni név :: Az egyéni név legfeljebb\n15 karakter hosszú
 statsentry :: Helyi statisztikák :: A CTGP-7 használati statisztikáinak megjelenítése.
 stats_tpl :: Játékok száma
 stats_tot :: Offline versenyek száma :: Online versenyek száma
-stats_vnll :: Alapjáték
+stats_vnll :: Alappályák
 stats_most :: Legtöbbet játszott pályák :: Legtöbbet játszott csatapályák
 
 #Characters
