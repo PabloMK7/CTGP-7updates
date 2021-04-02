@@ -56,7 +56,7 @@ $710064 :: Sternenhang
 #Blooper Cup
 $700018 :: Blooper-Cup
 $710074 :: Sandburg-Park
-$710075 :: \uE033 Marios Piste 1
+$710075 :: \uE033 Marios Piste
 $710076 :: \uE026\uE027 Luigis Piste
 $710077 :: Vulkan-Strand-Ruinen
 
@@ -93,14 +93,14 @@ $700023 :: Münz-Cup
 $710094 :: Doge-Wüste
 $710095 :: \uE022\uE023 Spukpfad
 $710096 :: \uE026\uE027 Marios Piste
-$710073 :: Mikus Geburtstagsspecial
+$710073 :: Mikus Geburtstagsspek.
 
 #Rainbow Cup
 $700017 :: Regenbogen-Cup
-$710070 :: \uE022\uE023 Regenbogen-Boulevard
-$710071 :: \uE024\uE025 Regenbogen-Boulevard
+$710070 :: \uE022\uE023 Regenbogen-Blvd.
+$710071 :: \uE024\uE025 Regenbogen-Blvd.
 $710072 :: Weltraumstraße
-$710097 :: Regenbogen-Boulevard DX
+$710097 :: Regenbogen-Blvd. DX
 
 #Save Data
 %7005 :: Extradaten für CTGP-7 werden\njetzt auf der SD Card erstellt.
@@ -228,7 +228,7 @@ serv_statsupl :: Statistik hochladen
 serv_displname :: Anzeigename :: Wähle einen Anzeigenamen.
 serv_disphid :: Versteckt
 serv_dispmii :: Mii-Name
-serv_dispcust :: Nick Name eingeben :: Nick Name kann maximal 15\nBuchstaben lang sein.
+serv_dispcust :: Nickname eingeben :: Der Nickname kann maximal 15\nBuchstaben lang sein.
 
 #Statistics
 statsentry :: Lokale Statistik :: Hier siehst du deine lokale Statistik.
