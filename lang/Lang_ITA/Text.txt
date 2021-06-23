@@ -113,9 +113,9 @@ welc_t :: Benvenuto a CTGP-7
 welc_1 :: Ciao!\nDal menu di gioco, potrai usare\ndelle funzioni speciali.\nPer aprire il menu di gioco,\npremi (SELECT).
 welc_2 :: Per user unable fanzine, muovi\nil cursore sulla funzione e\npremi A per abilitarlo o configurarlo.
 welc_3 :: Ricorda che alcune funzioni,\ncome il "Selettore classe CC", saranno\ndisabilitate durante il gioco online.
-welc_4 :: Your statistics will be uploaded\nto the CTGP-7 Server so they\nare available to the public to see.\n(Data is anonymized.)\nYou can turn off stats upload\nfrom the ingame menu.
-welc_5 :: By using the CTWW feature,\nyou agree to its rules.\n\nYou can check them here:\nctgp-7.github.io/ctww.html
-welc_6 :: Remember to check out\nthe CTGP-7 discord server!\n\nInvitation link:\ninvite.gg/ctgp7
+welc_4 :: La tua statistica verrà caricata nel server di CTGP-7\ncosì è disponibile a tutti.\n(I dati saranno anonimi)\npuoi disabilitare il caricamento delle tue statistiche\nnei menu di gioco.
+welc_5 :: Usando il CTWW,\ntu concordi alle sue regole.\n\nPuoi vederle qui:\nctgp-7.github.io/ctww.html
+welc_6 :: Ricordati di dare un'occhiata al\nserver discord di CTGP-7!\n\nEcco l'invito:\ninvite.gg/ctgp7
 welc_7 :: Speriamo ti piaccia!\n^w^
 
 #General text
@@ -124,10 +124,10 @@ error :: ERRORE
 state :: Stato
 next :: Seguente
 select :: Selezionare
-chng :: Change
-custom :: Custom
-page :: Page
-race_noun :: Race
+chng :: Cambia
+custom :: Personalizzato
+page :: Pagina
+race_noun :: Gara
 state_mode :: Abilitato :: Disabilitato
 state_inf :: Abilita :: Disabilita
 allow_inf :: Consenti :: Impedisci
@@ -138,7 +138,7 @@ exit :: Esci
 #Folders
 gameplay_folder :: Funzioni di Gameplay :: Configurazione per caratteristiche aggiuntive del gameplay.
 settings_folder :: Opzioni di Gioco :: Impostazioni specifiche di CTGP-7.
-other_folder :: Other Options :: Other miscellaneous information and features.
+other_folder :: Altre Opzioni :: Altre informazioni e caratteristiche varie.
 
 #Entries
 spdmeter :: Accelerometro :: mostra un accelerometro al lato dello schermo.
@@ -149,7 +149,7 @@ charman :: Gestore Personaggi :: Gestisci i personaggi custom e quelli originali
 cuskart :: Kart personalizzati :: Carica kart personalizzati dalla cartella MyStuff.
 trackorder :: Ordine Delle piste online :: Gestisci l'ordine in cui le piste appariranno nel gioco online.
 itmprb :: Roulette migliorata :: Mostra le probabilità effettive sulla roulette di oggetti invece di oggetti casuali.
-imtrick :: Improved Tricks ::  Karts will spin when doing a trick on a boost ramp. Use the \uE077 Circle Pad to change the spin direction.
+imtrick :: Acrobazie migliorate :: I kart ruoteranno quando si fa un accrobazia. Usa il Pad Scorrevole per cambiare la direzione di rotazione del kart.
 
 #Speedometer text
 spd_set :: Accelerometro.
@@ -197,7 +197,7 @@ order_mode :: Di default :: Alfabetico
 
 #Online update check
 update_check :: Controllo aggiornamenti... :: L'ultima versione di CTGP-7\nè richiesta per giocare online.
-fail_conn :: Failed to connect\nwith the CTGP-7 server\n\nPlease try again later.
+fail_conn :: Fallito a connettere\nal server CTGP-7\n\nRiprova più tardi
 
 #CTWW
 cntdwn :: Conto alla rovescia
@@ -222,17 +222,17 @@ ghostseltrack :: Seleziona la pista da cui resettare il fantasma:
 ghostcantrecov :: Questa operazione non è reversibile.\nProcedere? :: Il fantasma è stato resettato.
 
 #Server Settings
-servsett :: Server Settings :: CTGP-7 server related settings.
+servsett :: Opzioni del server :: Opzioni relative al server CTGP-7
 serv_consID :: CTGP-7 ConsoleID
-serv_statsupl :: Stats Upload
-serv_displname :: Display Name :: Select display name mode.
-serv_disphid :: Hidden
-serv_dispmii :: Mii Name
-serv_dispcust :: Enter custom name. :: Custom name can only be\n15 characters long.
+serv_statsupl :: Caricamento delle statistiche.
+serv_displname :: Visualizza il nome :: Seleziona come viene visualizzato il tuo nome.
+serv_disphid :: Nascosto
+serv_dispmii :: Nome del Mii
+serv_dispcust :: Inserisci il nome personalizzato :: Il nome personalizzato\nnon può essere più lungo di 15 caratteri.
 
 #Statistics
-statsentry :: Local Statistics :: Check your CTGP-7 private usage statistics here.
-stats_tpl :: Times Played
-stats_tot :: Total Offline Races :: Total Online Races
-stats_vnll :: Vanilla
-stats_most :: Most Played Tracks :: Most Played Battle Arenas
+statsentry :: Statistiche locali :: Controlla le tue statistiche private di CTGP-7.
+stats_tpl :: Volte giocato
+stats_tot :: Gare Offline in Totale ::  Gare Online in Totale
+stats_vnll :: Normale
+stats_most :: Percorsi giocati di più :: Percorsi di guerra giocati di più

@@ -106,14 +106,14 @@ $710097 :: Route Arc-en-ciel Deluxe
 %7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 %7003 :: Création du fichier\nde sauvegarde...
 %7004 :: Le fichier de sauvegarde\na été créé.
-%7007 :: Les donées de sauvergarde\n de Mario Kart 7 n'existent\npas, veuillez lancer le jeu pour\n générer les données de sauvegarde.\nAppuyez sur le bouton POWER.
+%7007 :: Les données de sauvergarde\n de Mario Kart 7 n'existent\npas, veuillez lancer le jeu pour\n générer les données de sauvegarde.\nAppuyez sur le bouton POWER.
 
 #First opening welcome message
 welc_t :: Bienvenue sur CTGP-7 !
 welc_1 :: Salut ! Depuis le menu du jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir ce menu,\nappuyez sur (SELECT).
 welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
 welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
-welc_4 :: Vos statistiques seront envoyées\ndans le serveur CTGP-7 et seront\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi\ndes statistiques depuis le\n menu du jeu.
+welc_4 :: Vos statistiques seront envoyées\nsur le serveur CTGP-7 et seront\n\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi des\nstatistiques depuis le menu du jeu.
 welc_5 :: En utilisant les fonctionnalités du\nCTWW, vous acceptez ses règles.\n\nVous pouvez les consulter ici :\nctgp-7.github.io/ctww.html
 welc_6 :: N'oubliez pas de jeter un coup\nd'œil au serveur discord CTGP-7 !\n\nLien d'invitation :\ninvite.gg/ctgp7
 welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
@@ -123,9 +123,9 @@ warning :: ATTENTION
 error :: ERREUR
 state :: État
 next :: Suivante
-select :: Choisissez
+select :: Choisir
 chng :: Changer
-custom :: Modifié 
+custom :: Modifier
 page :: Page
 race_noun :: Course
 state_mode :: Activé :: Désactivé
@@ -143,13 +143,13 @@ other_folder :: Paramètres Supplémentaires :: Paramètres contrôlant d'autres
 #Entries
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran supérieur.
 ccsel :: Sélecteur de CC :: Règle les CC à la valeur souhaitée (doit être activée avant de commencer une course).
-itemled :: Signaler les objets avec la LED :: La diode de notification clignotera en bleu quand une carapace à épines est utilisée, en jaune lorsqu'un éclair sera utilisé etc...
+itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épines est utilisée, en jaune lorsqu'un éclair sera utilisé etc...
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Note: Vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
 charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
-itmprb :: Roulette d'objets améliorée :: Au lieu de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
-imtrick :: Sauts améliorés :: Les sauts effectués après les rampes avec des plaques d'accélération vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
+itmprb :: Roulette d'objet améliorée :: Au lieu de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
+imtrick :: Sauts améliorés :: Les sauts effectués après certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -172,25 +172,25 @@ ct_endis :: Les circuits customisés sont activés :: Les circuits customisés s
 ori_endis :: Les circuits originaux sont activés :: Les circuits originaux sont désactivés
 
 #Community Code Generator
-commugen :: Générateur de code communautaire :: Génère un code basé sur vos paramètres actuels. Entrer ce code dans la description d'une communauté activera les mêmes paramètres chez tous les utiliateurs qui participeront à cette dernière.
+commugen :: Générateur de code communautaire :: Génère un code basé selon vos règles. Entrer ce code dans la description d'une communauté activera les mêmes paramètres chez tous les utiliateurs qui participeront à cette dernière.
 def_spd :: Vitesse par défaut
-rand_tr :: Forcer la sélection de courses aléatoires
+rand_tr :: Forcer la sélection des courses aléatoires
 code :: Code
 
 #Change Round Number
-chgrnd :: Changer le nombre de manches :: Change le nombre de manches dans les modes Course VS et Bataille.
+chgrnd :: Changer le nombre de manches :: Change le nombre des manches dans les modes Course VS et Bataille.
 chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode Course VS ou Bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tout le monde\ndoivent avoir les mêmes paramètres.
 rounds :: Manches
-rnd_sel :: Sélectionnez un nombre de manches.
+rnd_sel :: Sélectionnez le nombre de manches souhaité.
 
 #Enhanced Local Map
 enhmap :: Carte améliorée :: Ajoute une option de zoom pour la carte en touchant \uE058 l'écran tactile.
 
 #Custom character manager text
-char_select :: Sélectionnez un personnage à configurer
+char_select :: Sélectionnez un personnage à configurer.
 reboot_req :: (Redémarrage nécessaire pour appliquer les changements.)
 char_replace :: Sélectionnez un personnage customisé pour :\n
-green_info :: L'entrée en vert est l'entrée actuellement activée.
+green_info :: L'entrée en verte est celle actuellement activée.
 
 #Online track order
 order_mode :: Par défaut :: Alphabétique
@@ -217,13 +217,13 @@ OrderV :: Ordre Vertical
 NextRac :: Choisissez le prochain circuit.\nPartie(s) restante(s) :
 
 #Reset Ghosts
-resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantôme de n'importe quel circuit.
-ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitialiser le fantôme :
-ghostcantrecov :: Les données de ce fantôme ne seront pas récupérable.\nVoulez-vous continuer ? :: Le fantôme a été réinitialisé avec succès.
+resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantômes de n'importe quel circuit.
+ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitialiser les fantômes :
+ghostcantrecov :: Les données des fantômes de ce circuit vont être effacées. Cette action est irréversible.\nVoulez-vous continuer ? :: Les fantômes de ce circuit ont été réinitialisé avec succès.
 
 #Server Settings
-servsett :: Paramètres de Serveur :: Paramètres lié au serveur CTGP-7. 
-serv_consID :: CTGP-7 ConsoleID
+servsett :: Paramètres de serveur :: Paramètres liés au serveur CTGP-7. 
+serv_consID :: ID Console CTGP-7
 serv_statsupl :: Envoi des statistiques
 serv_displname :: Afficher un Nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
@@ -231,8 +231,8 @@ serv_dispmii :: Nom de Mii
 serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au maximum.
 
 #Statistics
-statsentry :: Statistiques Locales :: Consultez vos statistiques privée de CTGP-7 ici.
-stats_tpl :: Nombre de Fois Joué
+statsentry :: Statistiques locales :: Consultez vos statistiques privées de CTGP-7 ici.
+stats_tpl :: Nombre de fois joué
 stats_tot :: Parties Local :: Parties En Ligne
 stats_vnll :: Original
 stats_most :: Circuits les plus joués :: Arénes batailles les plus jouées
