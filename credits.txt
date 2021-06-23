@@ -61,4 +61,5 @@ Rafa10=Translation
 Superragnol29=Translation
 Zinnia=Translation, Ice Mario
 Klarineus=Translation
+Yawshi=Translation
 You=CTGP-7 Player
