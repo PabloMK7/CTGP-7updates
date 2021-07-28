@@ -236,3 +236,13 @@ stats_tpl :: Veces jugadas
 stats_tot :: Carreras totales fuera de línea :: Carreras totales en línea
 stats_vnll :: Vanilla
 stats_most :: Circuitos más jugados :: Arenas más jugadas
+
+#Discord
+disc_info :: Información de Discord
+disc_notlink :: Esta consola no está enlazada\ncon una cuenta de Discord.\n\n¿Quieres enlazar tu cuenta?
+disc_linksteps1 :: Sigue estos pasos para enlazar\ntu cuenta de Discord:
+disc_linksteps2 :: 1. Únete al servidor de Discord de CTGP-7.\n(Enlace: invite.gg/ctgp7)
+disc_linksteps3 :: 2. Accede al canal \#bots.
+disc_linksteps4 :: 3. Envía el siguiente mensaje:
+disc_data :: Cuenta :: Apodo
+disc_beta :: Elegible para pruebas beta privadas. :: No elegible para pruebas beta privadas.

@@ -237,6 +237,16 @@ stats_tot :: Carreres totals fora de línia :: Carreres totals en línia
 stats_vnll :: Vanilla
 stats_most :: Circuits més jugats :: Estadis més jugats
 
+#Discord
+disc_info :: Informació de Discord
+disc_notlink :: Aquesta consola no està enllaçada\namb un compte de Discord.\n\nVols enllaçar el teu compte?
+disc_linksteps1 :: Segueix aquests passos per enllaçar\nel teu compte de Discord:
+disc_linksteps2 :: 1. Uneix-te al servidor de Discord de CTGP-7.\n(Enllaç: invite.gg/ctgp7)
+disc_linksteps3 :: 2. Accedeix al canal \#bots.
+disc_linksteps4 :: 3. Envia el següent missatge:
+disc_data :: Compte :: Sobrenom
+disc_beta :: Elegible per a proves beta privades. :: No elegible per a proves\nbeta privades.
+
 #Characters
 $1000 :: Mario
 $1001 :: Luigi

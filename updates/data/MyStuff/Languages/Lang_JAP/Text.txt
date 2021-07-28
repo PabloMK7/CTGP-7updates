@@ -236,3 +236,13 @@ stats_tpl :: プレイ回数
 stats_tot :: オフラインレースの合計 :: オンラインレースの合計
 stats_vnll :: 通常
 stats_most :: 最もプレイしたコース :: 最もプレイしたバトルステージ
+
+#Discord
+disc_info :: Discord Info
+disc_notlink :: This console is not linked\nto a Discord account.\n\nWould you like to link your account?
+disc_linksteps1 :: Follow these steps to link your\nDiscord account:
+disc_linksteps2 :: 1. Join the CTGP-7 Discord server.\n(Link: invite.gg/ctgp7)
+disc_linksteps3 :: 2. Go to the \#bots channel.
+disc_linksteps4 :: 3. Send the following message:
+disc_data :: Account :: Nickname
+disc_beta :: Eligible for private beta tests. :: Not eligible for private beta tests.
