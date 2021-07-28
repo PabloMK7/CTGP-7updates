@@ -236,3 +236,13 @@ stats_tpl :: Nombre de fois joué
 stats_tot :: Parties Local :: Parties En Ligne
 stats_vnll :: Original
 stats_most :: Circuits les plus joués :: Arénes batailles les plus jouées
+
+#Discord
+disc_info :: Information Discord
+disc_notlink :: Cette console n'est pas lié à\n un compte Discord.\n\nVoulez-vous lier à cette console\nvotre compte ?
+disc_linksteps1 :: Veuillez suivre ces étapes pour\n lier votre compte.
+disc_linksteps2 :: 1) Rejoignez le serveur Discord CTGP-7\nsi vous ne l'avez pas déjà fait.\n(Lien : invite.gg/ctgp7)
+disc_linksteps3 :: 2) Allez dans le salon \#bots du serveur.
+disc_linksteps4 :: 3) Envoyez-y le message suivant :
+disc_data :: Compte :: Pseudo
+disc_beta :: Vous êtes éligible aux bêta-tests. :: Vous n'êtes pas éligible aux bêta-tests.

@@ -236,3 +236,13 @@ stats_tpl :: Spiel gestartet
 stats_tot :: Gesamte Rennen offline :: Gesamte Rennen online
 stats_vnll :: Original
 stats_most :: Meistgespielte Strecken :: Meistgespielte Wettkampf-Arenen
+
+#Discord
+disc_info :: Discord-Information
+disc_notlink :: Dieses System ist nicht mit\neinem Discord-Account verknüpft.\n\nMöchtest du jetzt deinen\nAccount verknüpfen?
+disc_linksteps1 :: Folge diesen Schritten, um deinen\nDiscord-Account zu verknüpfen:
+disc_linksteps2 :: 1. Trete dem CTGP-7-Discord-Server bei.\n(Link: invite.gg/ctgp7)
+disc_linksteps3 :: 2. Öffne den \#bots-Kanal.
+disc_linksteps4 :: 3. Sende die folgende Nachricht:
+disc_data :: Account :: Nickname
+disc_beta :: Berechtigt für private Betatests. :: Nicht berechtigt für private Betatests.

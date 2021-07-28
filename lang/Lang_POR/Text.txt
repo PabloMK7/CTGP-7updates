@@ -236,3 +236,13 @@ stats_tpl :: Horas jogadas
 stats_tot :: Total de Corridas Offline  :: Total de Corridas Online
 stats_vnll :: Vanilla
 stats_most :: Pistas mais jogadas :: Arenas mais jogadas
+
+#Discord
+disc_info :: Informação Discord
+disc_notlink :: Esta consola não está vinculada\n a uma conta Discord.\n\nGostaria de vincular sua conta?
+disc_linksteps1 :: Siga estes passos para vincular sua\nConta Discord:
+disc_linksteps2 :: 1. Entre no servidor de Discord do CTGP-7.\n(Link: invite.gg/ctgp7)
+disc_linksteps3 :: 2. Vá ao canal \#bots.
+disc_linksteps4 :: 3. Envie a seguinte mensagem:
+disc_data :: Conta :: Apelido
+disc_beta :: Elegível para testes beta privados. :: Não elegível para testes beta privados.

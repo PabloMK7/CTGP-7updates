@@ -236,3 +236,13 @@ stats_tpl :: Keren gespeeld
 stats_tot :: Totale Offline Races :: Totale Online Races
 stats_vnll :: Origineel
 stats_most :: Meest Gespeelde Banen :: Meest Gespeelde Arenas
+
+#Discord
+disc_info :: Discord Informatie
+disc_notlink :: Deze console is niet gelinkt\nmet een Discord account.\n\nWil je een account linken?
+disc_linksteps1 :: Volg deze stappen om\neen Discord account te linken:
+disc_linksteps2 :: 1. Ga naar de CTGP-7 Discord server.\n(Link: invite.gg/ctgp7)
+disc_linksteps3 :: 2. Ga naar het \#bots kanaal
+disc_linksteps4 :: 3. Stuur het volgende bericht:
+disc_data :: Account :: Gebruikersnaam
+disc_beta :: Komt in aanmerking voor privé beta testen. :: Komt niet in aanmerking voor privé beta testen.
