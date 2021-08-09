@@ -136,15 +136,15 @@ settings :: Paramètres
 exit :: Fermer
 
 #Folders
-gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalitées du jeu additionnelles.
+gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalités du jeu additionnel.
 settings_folder :: Paramètres :: Paramètres spécifiques de CTGP-7.
-other_folder :: Paramètres Supplémentaires :: Paramètres contrôlant d'autres options variés du jeu.
+other_folder :: Paramètres supplémentaires :: Paramètres contrôlant d'autres options variés du jeu.
 
 #Entries
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran supérieur.
 ccsel :: Sélecteur de CC :: Règle les CC à la valeur souhaitée (doit être activée avant de commencer une course).
-itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épines est utilisée, en jaune lorsqu'un éclair sera utilisé etc...
-backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Note: Vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
+itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée, en jaune lorsqu'un éclair sera utilisé etc...
+backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Notez que vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
 charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
@@ -179,7 +179,7 @@ code :: Code
 
 #Change Round Number
 chgrnd :: Changer le nombre de manches :: Change le nombre des manches dans les modes Course VS et Bataille.
-chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode Course VS ou Bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tout le monde\ndoivent avoir les mêmes paramètres.
+chgrnd_desc :: Sélectionnez le nombre de manche à\njouer en mode Course VS ou Bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tout le monde\ndoivent avoir les mêmes paramètres.
 rounds :: Manches
 rnd_sel :: Sélectionnez le nombre de manches souhaité.
 
@@ -225,7 +225,7 @@ ghostcantrecov :: Les données des fantômes de ce circuit vont être effacées.
 servsett :: Paramètres de serveur :: Paramètres liés au serveur CTGP-7. 
 serv_consID :: ID Console CTGP-7
 serv_statsupl :: Envoi des statistiques
-serv_displname :: Afficher un Nom :: Sélectionnez le mode d'affichage du nom.
+serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
 serv_dispmii :: Nom de Mii
 serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au maximum.
@@ -239,7 +239,7 @@ stats_most :: Circuits les plus joués :: Arénes batailles les plus jouées
 
 #Discord
 disc_info :: Information Discord
-disc_notlink :: Cette console n'est pas lié à\n un compte Discord.\n\nVoulez-vous lier à cette console\nvotre compte ?
+disc_notlink :: Cette console n'est pas lié à\nun compte Discord.\n\nVoulez-vous lier à cette console\nvotre compte ?
 disc_linksteps1 :: Veuillez suivre ces étapes pour\n lier votre compte.
 disc_linksteps2 :: 1) Rejoignez le serveur Discord CTGP-7\nsi vous ne l'avez pas déjà fait.\n(Lien : invite.gg/ctgp7)
 disc_linksteps3 :: 2) Allez dans le salon \#bots du serveur.
