@@ -238,11 +238,11 @@ stats_vnll :: 通常
 stats_most :: 最もプレイしたコース :: 最もプレイしたバトルステージ
 
 #Discord
-disc_info :: Discord Info
-disc_notlink :: This console is not linked\nto a Discord account.\n\nWould you like to link your account?
-disc_linksteps1 :: Follow these steps to link your\nDiscord account:
-disc_linksteps2 :: 1. Join the CTGP-7 Discord server.\n(Link: invite.gg/ctgp7)
-disc_linksteps3 :: 2. Go to the \#bots channel.
-disc_linksteps4 :: 3. Send the following message:
-disc_data :: Account :: Nickname
-disc_beta :: Eligible for private beta tests. :: Not eligible for private beta tests.
+disc_info :: Discord情報
+disc_notlink :: この本体はDiscord\nアカウントに連携されていません。\n\nアカウントを連携しますか？
+disc_linksteps1 :: 次の手順に従ってDiscord\nアカウントを連携します:
+disc_linksteps2 :: 1. CTGP-7 Discord serverに入る。\n(リンク: invite.gg/ctgp7)
+disc_linksteps3 :: 2. \#botsチャンネルに移動する。
+disc_linksteps4 :: 3. 次のメッセージを送信する:
+disc_data :: アカウント :: ニックネーム
+disc_beta :: プライベートベータテストの対象です。 :: プライベートベータテストの対象外です。
