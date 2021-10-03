@@ -155,14 +155,14 @@ imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer R
 spd_set :: Tachometer-Einstellungen
 spd_unit :: Einheit
 spd_type :: Typ
-spd_sunit :: Wähle eine Einheit.
-spd_stype :: Wähle einen Typ.
+spd_sunit :: Wähle eine Tachometer-Einheit.
+spd_stype :: Wähle einen Tachometer-Typ.
 spd_types :: Numerisch :: Graphisch
 
 #CC Selector text
 cc_set :: CCM-Einstellungen
 cc_val :: Wert
-cc_entv :: Neuer CCM-Wert
+cc_entv :: Wähle einen neuen CCM-Wert.
 cc_chgv :: Wert ändern
 
 #Course Manager
@@ -179,7 +179,7 @@ code :: Code
 
 #Change Round Number
 chgrnd :: Rundenanzahl ändern :: Ändert die Rundenzahl im VS- und im Wettkampf-Modus.
-chgrnd_desc :: Wähle die Anzahl an Runden,\ndie gespielt werden soll.\nHINWEIS: Dies funktioniert nicht im Download-Spiel.\nIm lokalen Mehrspieler muss jeder die\nselben Einstellungen haben.
+chgrnd_desc :: Wähle die Anzahl an Runden,\ndie gespielt werden soll.\nHINWEIS: Dies funktioniert nicht im Download-Spiel.\nIm lokalen Mehrspieler muss jeder die-\nselben Einstellungen haben.
 rounds :: Runden
 rnd_sel :: Wähle die Anzahl der Runden.
 
@@ -196,7 +196,7 @@ green_info :: Grün → Momentan aktiv
 order_mode :: Normal :: Alphabetisch
 
 #Online update check
-update_check :: Nach Updates wird gesucht... :: Die neueste Version von CTGP-7\nwird benötigt, um online\nspielen zu können.\n\nBitte lade das neueste Update\nim CTGP-7-Launcher herunter.
+update_check :: Nach Updates wird gesucht... :: Die neueste Version von CTGP-7\nwird benötigt, um online\nspielen zu können.
 fail_conn :: Fehler bei der Verbindung\nzum CTGP-7-Server.\n\nVersuche es später erneut.
 
 #CTWW
@@ -225,10 +225,10 @@ ghostcantrecov :: Dieser Vorgang kann nicht mehr rückgängig\ngemacht werden.\n
 servsett :: Server-Einstellungen :: CTGP-7-Server-bezogene Einstellungen.
 serv_consID :: CTGP-7-Geräte-ID
 serv_statsupl :: Statistik hochladen
-serv_displname :: Anzeigename :: Wähle einen Anzeigenamen.
+serv_displname :: Anzeigename :: Wähle einen Modus für den Anzeigenamen.
 serv_disphid :: Versteckt
-serv_dispmii :: Mii-Name
-serv_dispcust :: Nickname eingeben :: Der Nickname kann bis zu 15\nZeichen lang sein.
+serv_dispmii :: Mii-Spitzname
+serv_dispcust :: Benutzerdef. Name eingeben :: Benutzerdef. Namen können bis zu\n15 Zeichen lang sein.
 
 #Statistics
 statsentry :: Lokale Statistik :: Hier siehst du deine lokale Statistik.
@@ -244,5 +244,8 @@ disc_linksteps1 :: Folge diesen Schritten, um deinen\nDiscord-Account zu verknü
 disc_linksteps2 :: 1. Trete dem CTGP-7-Discord-Server bei.\n(Link: invite.gg/ctgp7)
 disc_linksteps3 :: 2. Öffne den \#bots-Kanal.
 disc_linksteps4 :: 3. Sende die folgende Nachricht:
-disc_data :: Account :: Nickname
+disc_data :: Account :: Spitzname
 disc_beta :: Berechtigt für private Betatests. :: Nicht berechtigt für private Betatests.
+
+#Render Optimizations
+render_optim :: Rendering-Optimierungen :: Deaktiviert den 3D-Modus für den Topscreen und wendet Verbesserungen für New Nintendo 3DS-Systeme an.

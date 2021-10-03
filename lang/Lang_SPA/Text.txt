@@ -246,3 +246,6 @@ disc_linksteps3 :: 2. Accede al canal \#bots.
 disc_linksteps4 :: 3. Envía el siguiente mensaje:
 disc_data :: Cuenta :: Apodo
 disc_beta :: Elegible para pruebas beta privadas. :: No elegible para pruebas beta privadas.
+
+#Render Optimizations
+render_optim :: Optimizaciones de Rendimiento :: Desactiva el modo 3D de la pantalla superior y activa las mejoras de CPU de New 3DS.

@@ -246,3 +246,6 @@ disc_linksteps3 :: 2. Ga naar het \#bots kanaal
 disc_linksteps4 :: 3. Stuur het volgende bericht:
 disc_data :: Account :: Gebruikersnaam
 disc_beta :: Komt in aanmerking voor privé beta testen. :: Komt niet in aanmerking voor privé beta testen.
+
+#Render Optimizations
+render_optim :: Weergaven Optimalizaties :: Zet 3D Modus uit op het bovenste scherm, en zet de New 3DS CPU verbeteringen aan.

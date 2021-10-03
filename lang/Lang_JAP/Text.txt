@@ -133,7 +133,7 @@ state_inf :: 有効 :: 無効
 allow_inf :: 許可する :: 許可しない
 num_betw :: 値は%d - %dの間でなければなりません。
 settings :: 設定
-exit :: 出る
+exit :: 戻る
 
 #Folders
 gameplay_folder :: ゲームプレイ機能 :: 追加のゲームプレイ機能の構成。
@@ -246,3 +246,6 @@ disc_linksteps3 :: 2. \#botsチャンネルに移動する。
 disc_linksteps4 :: 3. 次のメッセージを送信する:
 disc_data :: アカウント :: ニックネーム
 disc_beta :: プライベートベータテストの対象です。 :: プライベートベータテストの対象外です。
+
+#Render Optimizations
+render_optim :: レンダリングの最適化 :: 上画面の3Dモードを無効にし、New3DSのCPUの改善を有効にします。
