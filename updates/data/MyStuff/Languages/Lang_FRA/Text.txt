@@ -179,7 +179,7 @@ code :: Code
 
 #Change Round Number
 chgrnd :: Changer le nombre de manches :: Change le nombre des manches dans les modes Course VS et Bataille.
-chgrnd_desc :: Sélectionnez le nombre de manche à\njouer en mode Course VS ou Bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tout le monde\ndoivent avoir les mêmes paramètres.
+chgrnd_desc :: Sélectionnez le nombre de manche à\njouer en mode Course VS ou Bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tout le monde\ndoivent avoir les mêmes paramètres. Bg j'y bg
 rounds :: Manches
 rnd_sel :: Sélectionnez le nombre de manches souhaité.
 
@@ -246,3 +246,6 @@ disc_linksteps3 :: 2) Allez dans le salon \#bots du serveur.
 disc_linksteps4 :: 3) Envoyez-y le message suivant :
 disc_data :: Compte :: Pseudo
 disc_beta :: Vous êtes éligible aux bêta-tests. :: Vous n'êtes pas éligible aux bêta-tests.
+
+#Render Optimizations
+render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran supérieur et active les améliorations de processeur pour New 3DS.

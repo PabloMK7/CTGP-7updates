@@ -246,3 +246,6 @@ disc_linksteps3 :: 2. Откройте канал \#bots.
 disc_linksteps4 :: 3. Отправьте такое сообщение:
 disc_data :: Аккаунт :: Ник
 disc_beta :: Допустим к приватным бета-тестам. :: Не допустим к приватным бета-тестам.
+
+#Render Optimizations
+render_optim :: Render Optimizations :: Disables the top screen 3D mode and enables the New 3DS CPU improvements.

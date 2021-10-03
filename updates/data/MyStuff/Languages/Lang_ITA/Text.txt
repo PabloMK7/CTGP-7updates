@@ -246,3 +246,6 @@ disc_linksteps3 :: 2. Go to the \#bots channel.
 disc_linksteps4 :: 3. Send the following message:
 disc_data :: Account :: Nickname
 disc_beta :: Eligible for private beta tests. :: Not eligible for private beta tests.
+
+#Render Optimizations
+render_optim :: Render Optimizations :: Disables the top screen 3D mode and enables the New 3DS CPU improvements.

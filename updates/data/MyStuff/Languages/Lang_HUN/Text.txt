@@ -247,6 +247,9 @@ disc_linksteps4 :: 3. Küldd el az alábbi üzenetet:
 disc_data :: Fiók :: Felhasználónév
 disc_beta :: Jogosult tesztverziók kipróbálására. :: Nem jogosult tesztverziók kipróbálására.
 
+#Render Optimizations
+render_optim :: Renderelés optimalizálása :: A felső kijelző 3D módjának letiltása és a New 3DS CPU-javításainak engedélyezése.
+
 #Characters
 $1000 :: Mario
 $1001 :: Luigi
