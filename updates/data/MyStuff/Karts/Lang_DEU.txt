@@ -19,7 +19,7 @@
 
 #Kart Body Parts
 $1107 :: Silbener Pfeil
-$1109 :: Schaufelbagger 
+$1109 :: Schaufelbagger
 $1110 :: Arkade
 $1111 :: Beuteldachs
 
@@ -28,4 +28,4 @@ $1202 :: \uE033 Geländereifen
 $1206 :: B. Geländereifen
 
 #Kart Glider Parts
-$1304 :: Feuer-Flappflapp
+$1304 :: F.-Flappflapp
