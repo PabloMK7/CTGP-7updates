@@ -290,7 +290,7 @@ ms_timescor :: Temps :: Score
 ms_failed :: Mission échouée
 ms_nodata :: Aucune donnée
 ms_pointsshort :: pts.
-ms_delsave :: (Supprimer les données : \uE002) :: Souhaitez-vous supprimer les données de sauvegarde de cette mission ?
+ms_delsave :: (Suppr. les données : \uE002) :: Souhaitez-vous supprimer les données de sauvegarde de cette mission ?
 msstat_msnplay :: Missions jouées
 msstat_state :: Terminées :: Échouées
 msstat_perfgrad :: (avec la meilleure note)
