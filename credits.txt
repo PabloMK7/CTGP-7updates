@@ -27,6 +27,7 @@ ElKerouz=Gold Mario, Menu Icons
 Cochu U=Menus, Desert Hills Music
 Manel Navola=Title Screen Music
 NGT=Custom Characters
+AdenTheThird=Custom Characters
 BLgotswag=Custom Characters
 Cell9=NTR CFW, LayeredFS
 Smealum=Hans, *hax Dev
