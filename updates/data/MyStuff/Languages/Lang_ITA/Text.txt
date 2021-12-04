@@ -57,7 +57,7 @@ $710064 :: Pendio Stellare
 $700018 :: Trofeo Calamako
 $710074 :: Parco Castello di Sabbia
 $710075 :: \uE033 Circuito di Mario
-$710076 :: \uE026\uE027 Circuito do Luigi
+$710076 :: \uE026\uE027 Circuito di Luigi
 $710077 :: Rovine di Spiaggia Vulcano
 
 #Feather Cup
@@ -101,6 +101,34 @@ $710070 :: \uE022\uE023 Pista Arcobaleno
 $710071 :: \uE024\uE025 Pista Arcobaleno
 $710072 :: Strada Spaziale
 $710097 :: Pista Arcobaleno DX
+
+#Pickaxe Cup
+$700024 :: Trofeo Piccone
+$710098 :: Vetta Sogno ad Occhi Aperti
+$710099 :: Pista Tramonto
+$710100 :: \uE024\uE025 Molo rotto
+$710101 :: Miniera del Ghiacciaio
+
+#Mega Cup
+$700025 :: Trofeo Mega Fungo
+$710102 :: Fortezza Lettodifiori
+$710103 :: Palazzo Marino
+$710104 :: DKR Città Stellare
+$710105 :: Montagna Fungo
+
+#Propeller Cup
+$700026 :: Trofeo Fungo Elica
+$710106 :: \uE022\uE023 Circuito Gelato
+$710107 :: Isola dei Blocchi
+$710108 :: \uE033 Castello di Bowser
+$710109 :: DKR Cascate Selvagge
+
+#POW Cup
+$700027 :: Trofeo Blocco POW
+$710110 :: Pista Classica
+$710111 :: Grotta Ghiacciato
+$710112 :: \uE024\uE025 Parco Lungolago
+$710113 :: Sepolcro del Drago
 
 #Save Data
 %7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
@@ -238,8 +266,8 @@ stats_vnll :: Normale
 stats_most :: Percorsi giocati di più :: Percorsi di guerra giocati di più
 
 #Discord
-disc_info :: Discord Info
-disc_notlink :: This console is not linked\nto a Discord account.\n\nWould you like to link your account?
+disc_info :: Informazioni Discord
+disc_notlink :: Questa console non è collegata ad un account Discord. \n\nVuoi Collegare il tuo account?
 disc_linksteps1 :: Follow these steps to link your\nDiscord account:
 disc_linksteps2 :: 1. Join the CTGP-7 Discord server.\n(Link: invite.gg/ctgp7)
 disc_linksteps3 :: 2. Go to the \#bots channel.
@@ -249,3 +277,21 @@ disc_beta :: Eligible for private beta tests. :: Not eligible for private beta t
 
 #Render Optimizations
 render_optim :: Render Optimizations :: Disables the top screen 3D mode and enables the New 3DS CPU improvements.
+
+#Extra Features
+extfeat :: Extra Modes
+
+#Missions
+ms_miss :: Missions
+ms_selmiss :: Select Mission
+ms_rcrd :: Record
+ms_gradelim :: Max. Grade :: Min. Grade
+ms_timescor :: Time :: Score
+ms_failed :: Mission Failed!
+ms_nodata :: No Data
+ms_pointsshort :: pts.
+ms_delsave :: (Delete Save: \uE002) :: Delete this mission save data?
+msstat_msnplay :: Missions Played
+msstat_state :: Completed :: Failed
+msstat_perfgrad :: (with perfect grade)
+msstat_usermsn :: User Missions

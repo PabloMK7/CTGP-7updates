@@ -6,7 +6,7 @@
 
 #Bell Cup
 $700010 :: Copa Campana
-$710042 :: Ciudad Cocordia
+$710042 :: Ciudad Concordia
 $710059 :: \uE022\uE023 Pista Mario
 $710044 :: Cataratas Galvarny
 $710045 :: \uE024\uE025 Jardín Celeste
@@ -101,6 +101,34 @@ $710070 :: \uE022\uE023 Senda Arco Iris
 $710071 :: \uE024\uE025 Senda Arco Iris
 $710072 :: Senda Espacial
 $710097 :: Senda Arco Iris DX
+
+#Pickaxe Cup
+$700024 :: Copa Pico
+$710098 :: Cumbre Estelar
+$710099 :: Pista Crepuscular
+$710100 :: \uE024\uE025 Muelle Roto
+$710101 :: Mina Glaciar
+
+#Mega Cup
+$700025 :: Copa Mega
+$710102 :: Fortaleza Floral
+$710103 :: Palacio Costero
+$710104 :: DKR Ciudad Cometa
+$710105 :: Montaña Champiñón
+
+#Propeller Cup
+$700026 :: Copa Hélice
+$710106 :: \uE022\uE023 Tierra Sorbete
+$710107 :: Isla Bloque
+$710108 :: \uE033 Castillo de Bowser
+$710109 :: DKR Cataratas de la Jungla
+
+#POW Cup
+$700027 :: Copa POW
+$710110 :: Pista Retro
+$710111 :: Gruta Helada
+$710112 :: \uE024\uE025 Parque del Lago
+$710113 :: Cementerio de Dragones
 
 #Save Data
 %7005 :: Datos de guardado extra\npara CTGP-7 serán creados\nen la tarjeta SD.
@@ -249,3 +277,21 @@ disc_beta :: Elegible para pruebas beta privadas. :: No elegible para pruebas be
 
 #Render Optimizations
 render_optim :: Optimizaciones de Rendimiento :: Desactiva el modo 3D de la pantalla superior y activa las mejoras de CPU de New 3DS.
+
+#Extra Features
+extfeat :: Modos Adicionales
+
+#Missions
+ms_miss :: Misiones
+ms_selmiss :: Seleccionar Misión
+ms_rcrd :: Récord
+ms_gradelim :: Nota Máxima :: Nota Mínima
+ms_timescor :: Tiempo :: Puntos
+ms_failed :: ¡Misión Fallida!
+ms_nodata :: Sin Datos
+ms_pointsshort :: ptos.
+ms_delsave :: (Eliminar datos: \uE002) :: ¿Eliminar los datos de guardado de esta misión?
+msstat_msnplay :: Misiones jugadas
+msstat_state :: Completadas :: Fallidas
+msstat_perfgrad :: (con máxima nota)
+msstat_usermsn :: Misiones del usuario

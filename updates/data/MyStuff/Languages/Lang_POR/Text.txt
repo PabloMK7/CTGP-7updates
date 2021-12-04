@@ -102,6 +102,34 @@ $710071 :: Estrada Arco-íris \uE024\uE025
 $710072 :: Estrada Espacial
 $710097 :: Estrada Arco-íris DX
 
+#Pickaxe Cup
+$700024 :: Copa Picareta
+$710098 :: Cume Estelar
+$710099 :: Pista do Ocaso
+$710100 :: Cais Quebrado \uE024\uE025
+$710101 :: Mina Glacial
+
+#Mega Cup
+$700025 :: Copa Mega
+$710102 :: Fortaleza Floral
+$710103 :: Palácio Costeiro
+$710104 :: DKR Cidade Estrela
+$710105 :: Montanha Cogumelo
+
+#Propeller Cup
+$700026 :: Copa Hélice
+$710106 :: Circuito Gelado \uE022\uE023
+$710107 :: Ilha Bloco
+$710108 :: Castelo do Bowser \uE033
+$710109 :: DKR Cataratas da Selva
+
+#POW Cup
+$700027 :: Copa POW
+$710110 :: Pista Retro
+$710111 :: Gruta Gelada
+$710112 :: Parque Lacustre \uE024\uE025
+$710113 :: Cemitério de Dragões
+
 #Save Data
 %7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
 %7003 :: A criar dados de gravação\nadicionais...
@@ -249,3 +277,21 @@ disc_beta :: Elegível para testes beta privados. :: Não elegível para testes 
 
 #Render Optimizations
 render_optim :: Otimizações de renderização :: Desativa o modo 3D da tela superior e ativa as melhorias de CPU de New 3DS.
+
+#Extra Features
+extfeat :: Modos Adicionais
+
+#Missions
+ms_miss :: Missões
+ms_selmiss :: Selecionar Missão
+ms_rcrd :: Recorde
+ms_gradelim :: Nota Máxima  :: Nota Mínima
+ms_timescor :: Tempo :: Pontuação
+ms_failed :: Missão Fracassada!
+ms_nodata :: Sem Dados
+ms_pointsshort :: ptos.
+ms_delsave :: (Apagar: \uE002) :: Apagar dados desta missão?
+msstat_msnplay :: Missões Jogadas
+msstat_state :: Completadas :: Fracassadas
+msstat_perfgrad :: (com nota máxima)
+msstat_usermsn :: Missões do usuário

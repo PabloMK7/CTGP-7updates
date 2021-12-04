@@ -102,6 +102,34 @@ $710071 :: \uE024\uE025 Route Arc-en-ciel
 $710072 :: Route Spatiale
 $710097 :: Route Arc-en-ciel Deluxe
 
+#Pickaxe Cup
+$700024 :: Coupe Pioche
+$710098 :: Sommet Astronome
+$710099 :: Autodrome Crépuscule
+$710100 :: \uE024\uE025 Jetée Cassée
+$710101 :: Mine de Glacier
+
+#Mega Cup
+$700025 :: Coupe Méga
+$710102 :: Forteresse de Fleurs
+$710103 :: Palais Balnéaire
+$710104 :: DKR Ville Lumière
+$710105 :: Montagne Champignon
+
+#Propeller Cup
+$700026 :: Coupe Hélice
+$710106 :: \uE022\uE023 Royaume Sorbet
+$710107 :: Île de Bloc
+$710108 :: \uE033 Château de Bowser
+$710109 :: DKR Jungle aux Cascades
+
+#POW Cup
+$700027 :: Coupe POW
+$710110 :: Autodrome Rétro
+$710111 :: Grotte Gelée
+$710112 :: \uE024\uE025 Bord du Lac
+$710113 :: Cimetière du Dragon
+
 #Save Data
 %7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 %7003 :: Création du fichier\nde sauvegarde...
@@ -143,13 +171,13 @@ other_folder :: Paramètres supplémentaires :: Paramètres contrôlant d'autres
 #Entries
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran supérieur.
 ccsel :: Sélecteur de CC :: Règle les CC à la valeur souhaitée (doit être activée avant de commencer une course).
-itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée, en jaune lorsqu'un éclair sera utilisé etc...
+itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée, en jaune lorsqu'un éclair est utilisé etc...
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Notez que vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
 charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
-itmprb :: Roulette d'objet améliorée :: Au lieu de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
-imtrick :: Sauts améliorés :: Les sauts effectués après certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
+itmprb :: Roulette d'objet améliorée :: À la place de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
+imtrick :: Sauts améliorés :: Les sauts effectués sur certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -166,8 +194,8 @@ cc_entv :: Entrez une nouvelle valeur de CC.
 cc_chgv :: Modifier la valeur
 
 #Course Manager
-track_ct :: Circuits Customisés
-track_ori :: Circuits Originaux
+track_ct :: Circuits customisés
+track_ori :: Circuits originaux
 ct_endis :: Les circuits customisés sont activés :: Les circuits customisés sont désactivés
 ori_endis :: Les circuits originaux sont activés :: Les circuits originaux sont désactivés
 
@@ -179,9 +207,9 @@ code :: Code
 
 #Change Round Number
 chgrnd :: Changer le nombre de manches :: Change le nombre des manches dans les modes Course VS et Bataille.
-chgrnd_desc :: Sélectionnez le nombre de manche à\njouer en mode Course VS ou Bataille.\nNOTE: Ne fonctionne pas en mode téléchargement.\nEn multijoueur local, tout le monde\ndoivent avoir les mêmes paramètres. Bg j'y bg
+chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode Course VS ou Bataille.\n(Notez que ceci ne fonctionne pas en\nmode téléchargement. En multijoueur local, tout le monde\ndoit avoir les mêmes paramètres.)
 rounds :: Manches
-rnd_sel :: Sélectionnez le nombre de manches souhaité.
+rnd_sel :: Choisissez le nombre de manches souhaité.
 
 #Enhanced Local Map
 enhmap :: Carte améliorée :: Ajoute une option de zoom pour la carte en touchant \uE058 l'écran tactile.
@@ -200,7 +228,7 @@ update_check :: Vérification des mises à jour... :: La dernière version de CT
 fail_conn :: Impossible de vous connecter\naux serveurs CTGP-7.\nRéessayez plus tard.
 
 #CTWW
-cntdwn :: Compte à Rebours
+cntdwn :: Compte à rebours
 ctww :: CTWW
 CTWWtog :: Souhaitez-vous activer les\nCustom Tracks en Mondial ? :: Souhaitez-vous désactiver les\nCustom Tracks en Mondial ?
 
@@ -212,8 +240,8 @@ CpuAm :: Joueurs IA
 RanCT :: Aléatoire (Custom.)
 RanOri :: Aléatoire (Orig.)
 RanAll :: Aléatoire (Tous)
-OrderH :: Ordre Horizontal
-OrderV :: Ordre Vertical
+OrderH :: Ordre horizontal
+OrderV :: Ordre vertical
 NextRac :: Choisissez le prochain circuit.\nPartie(s) restante(s) :
 
 #Reset Ghosts
@@ -224,7 +252,7 @@ ghostcantrecov :: Les données des fantômes de ce circuit vont être effacées.
 #Server Settings
 servsett :: Paramètres de serveur :: Paramètres liés au serveur CTGP-7. 
 serv_consID :: ID Console CTGP-7
-serv_statsupl :: Envoi des statistiques
+serv_statsupl :: Envoie des statistiques
 serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
 serv_dispmii :: Nom de Mii
@@ -233,7 +261,7 @@ serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent
 #Statistics
 statsentry :: Statistiques locales :: Consultez vos statistiques privées de CTGP-7 ici.
 stats_tpl :: Nombre de fois joué
-stats_tot :: Parties Local :: Parties En Ligne
+stats_tot :: Parties local :: Parties en ligne
 stats_vnll :: Original
 stats_most :: Circuits les plus joués :: Arénes batailles les plus jouées
 
@@ -248,4 +276,22 @@ disc_data :: Compte :: Pseudo
 disc_beta :: Vous êtes éligible aux bêta-tests. :: Vous n'êtes pas éligible aux bêta-tests.
 
 #Render Optimizations
-render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran supérieur et active les améliorations de processeur pour New 3DS.
+render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran supérieur et active les améliorations du processeur des consoles New 3DS et New 3DS XL.
+
+#Extra Features
+extfeat :: Modes Extra
+
+#Missions
+ms_miss :: Missions
+ms_selmiss :: Choisissez une mission
+ms_rcrd :: Record
+ms_gradelim :: Note min. :: Note max.
+ms_timescor :: Temps :: Score
+ms_failed :: Mission échouée
+ms_nodata :: Aucune donnée
+ms_pointsshort :: pts.
+ms_delsave :: (Supprimer les données : \uE002) :: Souhaitez-vous supprimer les données de sauvegarde de cette mission ?
+msstat_msnplay :: Missions jouées
+msstat_state :: Terminées :: Échouées
+msstat_perfgrad :: (avec la meilleure note)
+msstat_usermsn :: Missions de l'utilisateur

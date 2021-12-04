@@ -102,6 +102,34 @@ $710071 :: \uE024\uE025 Camí Arc de Sant Martí
 $710072 :: Camí Espacial
 $710097 :: Camí Arc de Sant Martí DX
 
+#Pickaxe Cup
+$700024 :: Copa Pic
+$710098 :: Cim Estel·lar
+$710099 :: Pista Crepuscular
+$710100 :: \uE024\uE025 Moll Trencat
+$710101 :: Mina Glacial
+
+#Mega Cup
+$700025 :: Copa Mega
+$710102 :: Fortalesa Floral
+$710103 :: Palau Costaner
+$710104 :: DKR Cuitat Cometa
+$710105 :: Muntanya Xampinyó
+
+#Propeller Cup
+$700026 :: Copa Hèlix
+$710106 :: \uE022\uE023 Terra Sorbet
+$710107 :: Illa Bloc
+$710108 :: \uE033 Castell de Bowser
+$710109 :: DKR Cascades de la Jungla
+
+#POW Cup
+$700027 :: Copa POW
+$710110 :: Pista Retro
+$710111 :: Gruta Gelada
+$710112 :: \uE024\uE025 Parc del Llac
+$710113 :: Cementeri de Dragons
+
 #Save Data
 %7005 :: Dades de desament extra\nper CTGP-7 es crearan\na la targeta SD.
 %7003 :: Creant dades...
@@ -249,6 +277,24 @@ disc_beta :: Elegible per a proves beta privades. :: No elegible per a proves\nb
 
 #Render Optimizations
 render_optim :: Optimitzacions de Rendiment :: Desactiva la funcionalitat 3D de la pantalla superior i activa les millores de CPU de New 3DS.
+
+#Extra Features
+extfeat :: Modes Addicionals
+
+#Missions
+ms_miss :: Missions
+ms_selmiss :: Seleccionar Missió
+ms_rcrd :: Rècord
+ms_gradelim :: Nota Màxima :: Nota Mínima
+ms_timescor :: Temps :: Punts
+ms_failed :: Missió Fallida!
+ms_nodata :: Sense Dades
+ms_pointsshort :: punts
+ms_delsave :: (Eliminar dades: \uE002) :: Eliminar les dades de desament d'aquesta missió?
+msstat_msnplay :: Missions jugades
+msstat_state :: Completades :: Fallides
+msstat_perfgrad :: (amb màxima nota)
+msstat_usermsn :: Missions de l'usuari
 
 #Characters
 $1000 :: Mario
