@@ -222,24 +222,24 @@ ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitiali
 ghostcantrecov :: Les données des fantômes de ce circuit vont être effacées. Cette action est irréversible.\nVoulez-vous continuer ? :: Les fantômes de ce circuit ont été réinitialisé avec succès.
 
 #Server Settings
-servsett :: Paramètres de serveur :: Paramètres liés au serveur CTGP-7. 
+servsett :: Paramètres du serveur :: Paramètres liés au serveur CTGP-7. 
 serv_consID :: ID Console CTGP-7
 serv_statsupl :: Envoi des statistiques
-serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
+serv_displname :: Afficher un pseudo :: Sélectionnez le mode d'affichage du pseudo.
 serv_disphid :: Masquer
 serv_dispmii :: Nom de Mii
-serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au maximum.
+serv_dispcust :: Entrez un pseudo personnalisé. :: Les pseudos personnalisés peuvent\ncontenir seulement 15 caractères au maximum.
 
 #Statistics
 statsentry :: Statistiques locales :: Consultez vos statistiques privées de CTGP-7 ici.
 stats_tpl :: Nombre de fois joué
 stats_tot :: Parties Local :: Parties En Ligne
 stats_vnll :: Original
-stats_most :: Circuits les plus joués :: Arénes batailles les plus jouées
+stats_most :: Circuits les plus joués :: Arènes batailles les plus jouées
 
 #Discord
 disc_info :: Information Discord
-disc_notlink :: Cette console n'est pas lié à\nun compte Discord.\n\nVoulez-vous lier à cette console\nvotre compte ?
+disc_notlink :: Cette console n'est pas liée à\nun compte Discord.\n\nVoulez-vous lier cette console à\nvotre compte ?
 disc_linksteps1 :: Veuillez suivre ces étapes pour\n lier votre compte.
 disc_linksteps2 :: 1) Rejoignez le serveur Discord CTGP-7\nsi vous ne l'avez pas déjà fait.\n(Lien : invite.gg/ctgp7)
 disc_linksteps3 :: 2) Allez dans le salon \#bots du serveur.
@@ -248,4 +248,4 @@ disc_data :: Compte :: Pseudo
 disc_beta :: Vous êtes éligible aux bêta-tests. :: Vous n'êtes pas éligible aux bêta-tests.
 
 #Render Optimizations
-render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran supérieur et active les améliorations de processeur pour New 3DS.
+render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran supérieur et active les améliorations du processeur pour la New 3DS.
