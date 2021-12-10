@@ -44,7 +44,7 @@ $700015 :: Tojás kupa
 $710063 :: \uE033 Yoshi-vízesés
 $710047 :: \uE022\uE023 Csoki-hegy
 $710048 :: \uE033 Gomba-gerinc
-$710051 :: CTR Crash-medence
+$710051 :: _
 
 #Bullet Cup
 $700016 :: Rakéta kupa
@@ -101,6 +101,34 @@ $710070 :: \uE022\uE023 Szivárvány út
 $710071 :: \uE024\uE025 Szivárvány út
 $710072 :: Világűr út
 $710097 :: Szivárvány út DX
+
+#Pickaxe Cup
+$700024 :: Csákány kupa
+$710098 :: Csillaglepte-csúcs
+$710099 :: Naplemente versenypálya
+$710100 :: \uE024\uE025 Törött móló
+$710101 :: Gleccserbánya
+
+#Mega Cup
+$700025 :: Óriás kupa
+$710102 :: Erődi virágágy
+$710103 :: Tengerparti palota
+$710104 :: DKR Csillagváros
+$710105 :: Gomba-hegy
+
+#Propeller Cup
+$700026 :: Propeller kupa
+$710106 :: \uE022\uE023 Sörbetföld
+$710107 :: Kocka-sziget
+$710108 :: \uE033 Bowser vára
+$710109 :: DKR Dzsungeli vízesés
+
+#POW Cup
+$700027 :: POW kupa
+$710110 :: Retro pálya
+$710111 :: Fagyos-barlang
+$710112 :: \uE024\uE025 Tóparti park
+$710113 :: Sárkánytemető
 
 #Save Data
 %7005 :: Az SD kártyán egy extra\njátékmentés lesz létrehozva.
@@ -249,6 +277,24 @@ disc_beta :: Jogosult tesztverziók kipróbálására. :: Nem jogosult tesztverz
 
 #Render Optimizations
 render_optim :: Renderelés optimalizálása :: A felső kijelző 3D módjának letiltása és a New 3DS CPU-javításainak engedélyezése.
+
+#Extra Features
+extfeat :: Extra Modes
+
+#Missions
+ms_miss :: Küldetések
+ms_selmiss :: Küldetés kiválasztása
+ms_rcrd :: Rekord
+ms_gradelim :: Legjobb értékelés :: Legrosszabb értékelés
+ms_timescor :: Idő :: Pontszám
+ms_failed :: Sikertelen küldetés!
+ms_nodata :: Nincsenek adatok
+ms_pointsshort :: pont
+ms_delsave :: (\uE002 Mentés törlése) :: Biztosan törölni akarod a küldetés mentését?
+msstat_msnplay :: Játszott küldetések
+msstat_state :: Sikeres :: Sikertelen
+msstat_perfgrad :: (hibátlanul)
+msstat_usermsn :: Egyéni küldetések
 
 #Characters
 $1000 :: Mario

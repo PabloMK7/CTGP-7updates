@@ -250,7 +250,7 @@ ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitiali
 ghostcantrecov :: Les données des fantômes de ce circuit vont être effacées. Cette action est irréversible.\nVoulez-vous continuer ? :: Les fantômes de ce circuit ont été réinitialisé avec succès.
 
 #Server Settings
-servsett :: Paramètres de serveur :: Paramètres liés au serveur CTGP-7. 
+servsett :: Paramètres du serveur :: Paramètres liés au serveur CTGP-7. 
 serv_consID :: ID Console CTGP-7
 serv_statsupl :: Envoie des statistiques
 serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
@@ -263,11 +263,11 @@ statsentry :: Statistiques locales :: Consultez vos statistiques privées de CTG
 stats_tpl :: Nombre de fois joué
 stats_tot :: Parties local :: Parties en ligne
 stats_vnll :: Original
-stats_most :: Circuits les plus joués :: Arénes batailles les plus jouées
+stats_most :: Circuits les plus joués :: Arènes batailles les plus jouées
 
 #Discord
 disc_info :: Information Discord
-disc_notlink :: Cette console n'est pas lié à\nun compte Discord.\n\nVoulez-vous lier à cette console\nvotre compte ?
+disc_notlink :: Cette console n'est pas liée à\nun compte Discord.\n\nVoulez-vous lier cette console à\nvotre compte ?
 disc_linksteps1 :: Veuillez suivre ces étapes pour\n lier votre compte.
 disc_linksteps2 :: 1) Rejoignez le serveur Discord CTGP-7\nsi vous ne l'avez pas déjà fait.\n(Lien : invite.gg/ctgp7)
 disc_linksteps3 :: 2) Allez dans le salon \#bots du serveur.
@@ -276,21 +276,21 @@ disc_data :: Compte :: Pseudo
 disc_beta :: Vous êtes éligible aux bêta-tests. :: Vous n'êtes pas éligible aux bêta-tests.
 
 #Render Optimizations
-render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran supérieur et active les améliorations du processeur des consoles New 3DS et New 3DS XL.
+render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran supérieur et active les améliorations du processeur des consoles New 3DS.
 
 #Extra Features
 extfeat :: Modes Extra
 
 #Missions
 ms_miss :: Missions
-ms_selmiss :: Choisissez une mission
+ms_selmiss :: Changer de mission
 ms_rcrd :: Record
 ms_gradelim :: Note min. :: Note max.
 ms_timescor :: Temps :: Score
 ms_failed :: Mission échouée
 ms_nodata :: Aucune donnée
 ms_pointsshort :: pts.
-ms_delsave :: (Suppr. les données : \uE002) :: Souhaitez-vous supprimer les données de sauvegarde de cette mission ?
+ms_delsave :: (Suppr. record : \uE002) :: Souhaitez-vous supprimer le record de cette mission ?
 msstat_msnplay :: Missions jouées
 msstat_state :: Terminées :: Échouées
 msstat_perfgrad :: (avec la meilleure note)

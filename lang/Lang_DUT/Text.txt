@@ -5,114 +5,142 @@
 ## https://discord.gg/ubgfE96
 
 #Bell Cup
-$700010 :: Bel Beker
-$710042 :: Handel Stad
-$710059 :: \uE022\uE023 Mario's Racebaan
-$710044 :: Galvarny Falls
-$710045 :: \uE024\uE025 Hemeltuin
+$700010 :: Superbelbeker
+$710042 :: Harmoniestad
+$710059 :: \uE022\uE023 Mario's Circuit
+$710044 :: Galvarny Watervallen
+$710045 :: \uE024\uE025 Wolkentuin
 
 #Acorn Cup
-$700011 :: Eikel Beker
+$700011 :: Eikelbeker
 $710046 :: Herfstbos
-$710068 :: \uE024\uE025 Riverside Park
+$710068 :: \uE024\uE025 Rivierpark
 $710043 :: \uE031\uE032 Mario's Circuit 1
-$710049 :: \uE024\uE025 Bowser's Kasteel 3
+$710049 :: \uE024\uE025 Bowsers Kasteel 3
 
 #Cloud Cup
-$700012 :: Wolken Beker
+$700012 :: Wolkenbeker
 $710050 :: Altijdgroene Oversteek
 $710054 :: \uE022\uE023 Boe Boe Boederij
 $710052 :: Archipel-Laan
 $710053 :: \uE022\uE023 Frappe Sneeuwland
 
 #Boo Cup
-$700013 :: Boo Beker
-$710055 :: Banshee Boardwalk 2
+$700013 :: Boo-Beker
+$710055 :: Spookpier 2
 $710062 :: Elementale Grot
 $710057 :: \uE031\uE032 Geestenvallei 2
 $710065 :: \uE033 Cheep Cheep-Strand
 
 #Spring Cup
-$700014 :: Springveer Beker
-$710067 :: \uE033 Tik Tok Klok
-$710058 :: Melodie Heiligdom
+$700014 :: Springveer-Beker
+$710067 :: \uE033 Tik-Tok-Klok
+$710058 :: Melodie Altaar
 $710066 :: \uE033 Woestijnheuvels
-$710069 :: Kasteel van Tijd
+$710069 :: Kasteel der Tijd
 
 #Egg Cup
-$700015 :: Ei Beker
-$710063 :: \uE033 Yoshi Waterval
-$710047 :: \uE022\uE023 Choco Berg
-$710048 :: \uE033 Shroom Ridge
-$710051 :: CTR Crash Cove
+$700015 :: Ei-Beker
+$710063 :: \uE033 Yoshi's Watervallen
+$710047 :: \uE022\uE023 Chocoberg
+$710048 :: \uE033 Paddenstoelenklif
+$710051 :: CTR Crash' Grot
 
 #Bullet Cup
-$700016 :: Bullet Bill Beker
-$710056 :: CTR Cortex Kasteel
+$700016 :: Bullet Bill-Beker
+$710056 :: CTR Cortex-Kasteel
 $710060 :: \uE033 Dokan Baan
-$710061 :: \uE031\uE032 Choco Eiland 2
-$710064 :: Star Slope
+$710061 :: \uE031\uE032 Choco-Eiland 2
+$710064 :: Sterrenhelling
 
 #Blooper Cup
-$700018 :: Blooper Beker
+$700018 :: Blooper-Beker
 $710074 :: Zandkasteel Park
 $710075 :: \uE033 Mario's Circuit
 $710076 :: \uE026\uE027 Luigi's Circuit
-$710077 :: Volcano Beach Ruins
+$710077 :: Vulkaanstrandruïnes
 
 #Feather Cup
-$700019 :: Veer Beker
+$700019 :: Veer-Beker
 $710078 :: \uE026\uE027 Yoshi's Circuit
-$710079 :: \uE024\uE025 Peach's Circuit
+$710079 :: \uE024\uE025 Peach' Circuit
 $710080 :: Metro Gekheid
 $710081 :: \uE024\uE025 Luigi's Circuit
 
 #Fire Cup
-$700020 :: Vuurbal Beker
+$700020 :: Vuurbalbeker
 $710082 :: SMO RC Uitdaging
-$710083 :: \uE024\uE025 Bowser's Kasteel 4
-$710084 :: \uE031\uE032 Donut Plains 1
+$710083 :: \uE024\uE025 Bowsers Kasteel 4
+$710084 :: \uE031\uE032 Donutvlakte 1
 $710085 :: Geheime Glijbaan
 
 #Bob-omb Cup
-$700021 :: Bob-omb Beker
-$710086 :: \uE033 Wario's Stadium
-$710087 :: Ermii Circuit
-$710088 :: \uE026\uE027 Baby Park
-$710089 :: Revo Circuit
+$700021 :: Bob-omb-Beker
+$710086 :: \uE033 Wario's Stadion
+$710087 :: Ermii's Circuit
+$710088 :: \uE026\uE027 Babypark
+$710089 :: Revo-Circuit
 
 #Cherry Cup
-$700022 :: Kers Beker
+$700022 :: Kersenbeker
 $710090 :: \uE031\uE032 Mario's Circuit 3
 $710091 :: Big Blue
-$710092 :: \uE024\uE025 Shy Guy Strand
+$710092 :: \uE024\uE025 Shy Guy's Strand
 $710093 :: Bingo Party
 
 #Coin Cup
-$700023 :: Munt Beker
-$710094 :: Doge Woestijn
-$710095 :: \uE022\uE023 Banshee Boardwalk
+$700023 :: Muntenbeker
+$710094 :: Doge-Woestijn
+$710095 :: \uE022\uE023 Spookpier
 $710096 :: \uE026\uE027 Mario's Circuit
 $710073 :: Miku's Verjaardag Spec.
 
 #Rainbow Cup
-$700017 :: Regenboog Beker
+$700017 :: Regenboogbeker
 $710070 :: \uE022\uE023 Regenboogbaan
 $710071 :: \uE024\uE025 Regenboogbaan
 $710072 :: Ruimteweg
 $710097 :: Regenboogbaan DX
 
+#Pickaxe Cup
+$700024 :: Pikhouweel Beker
+$710098 :: Sterrenzicht Toppen
+$710099 :: Zonsondergangsracebaan
+$710100 :: \uE024\uE025 Kapotte Pier
+$710101 :: Gletsjermijn
+
+#Mega Cup
+$700025 :: Mega Beker
+$710102 :: Bloemenbed fort
+$710103 :: Paleis aan zee
+$710104 :: DKR Sterrenstad
+$710105 :: Paddenstoelenberg
+
+#Propeller Cup
+$700026 :: Propeller Beker
+$710106 :: \uE022\uE023 IJzige IJsbaan
+$710107 :: Blok Eiland
+$710108 :: \uE033 Bowsers Kasteel
+$710109 :: DKR Junglewatervallen
+
+#POW Cup
+$700027 :: POW Beker
+$710110 :: Retro Racebaan
+$710111 :: Bevroren Grot
+$710112 :: \uE024\uE025 Meerpark
+$710113 :: Drakenkerkhof
+
 #Save Data
-%7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt
+%7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt.
 %7003 :: Extra save data maken...
-%7004 :: Exta save data\nis gemaakt
+%7004 :: Exta save data\nis aangemaakt.
 %7007 :: Mario Kart 7 save data\nbestaat niet, open alsjeblieft\nde game om nieuwe save\ndata te maken.\n\nDruk op de POWER knop.
 
 #First opening welcome message
 welc_t :: Welkom bij CTGP-7!
 welc_1 :: Hallo daar!\nVanaf het in-game menu\nkan je wat interessante functies gebruiken.\nGebruik de (SELECT) knop\nom het in-game menu te openen
 welc_2 :: Om een functie te gebruiken, plaats je de\ncursor over een item\nen druk je op A om het aan te zetten/te configureren.
-welc_3 :: Sommige functies zoals\n"CC Selector" zullen uitgeschakeld\nzijn tijdens een online spel.
+welc_3 :: Sommige functies zoals\n"CC Selectie" zullen uitgeschakeld\nzijn tijdens een online spel.
 welc_4 :: Jouw statistieken zullen geupload worden\nnaar de CTGP-7 Server zodat ze\npubliek beschikbaar zijn\n(Data is geanonimiseerd.)\nJe kan het uploaden van statistieken\nvanuit het ingame menu uitzetten.
 welc_5 :: Bij het gebruik van CTWW,\nga je akkoord met de regels.\n\nJe kan ze hier lezen:\nctgp-7.github.io/ctww.html
 welc_6 :: Vergeet niet de CTGP-7\nDiscord server te bekijken!!\n\nUitnodigings link:\ninvite.gg/ctgp7
@@ -120,7 +148,7 @@ welc_7 :: We hopen dat je de mod leuk vind!\n^w^
 
 #General text
 warning :: WAARSCHUWING
-error :: FOUT
+error :: ERROR
 state :: Status
 next :: Volgende
 select :: Selecteer
@@ -136,59 +164,59 @@ settings :: Instellingen
 exit :: Terug
 
 #Folders
-gameplay_folder :: Gameplay Functies :: Configuratie voor aanvullende gameplay functies.
-settings_folder :: Game Opties :: CTGP-7 specifieke instellingen.
-other_folder :: Andere Opties :: Andere opties en functies
+gameplay_folder :: Spelfuncties :: Configuratie voor aanvullende spelfuncties.
+settings_folder :: Spelopties :: CTGP-7 specifieke instellingen.
+other_folder :: Andere opties :: Andere opties en functies.
 
 #Entries
-spdmeter :: Snelheidsmeter :: Laat een snelheidsmeter zien rechstonder op het bovenste scherm
-ccsel :: CC Selector :: Zet de huidige CC op een andere waarde (moet aanstaan voor het starten van een race).
-itemled :: Waarschuw voor voorwerpen met LED :: De notificatie LED knippert blauw waneer een Blue Shell is gebruikt en Geel waneer bliksem is gebruikt.
-backcam :: Achteruit Kijken :: Druk op \uE002 om te zien wat er achter je zit, net zoals in andere Mario Kart spellen! (De \uE002 knop zal geen voorwerpen meer gebruiken)
-charman :: Custom Character Manager :: Wissel tussen de originele en nieuwe karakters
-cuskart :: Custom Karts :: Laad custom karts van de MyStuff map
-trackorder :: Online Baan Volgorde :: Kies in welke volgorde de banen zitten in bekers online.
-itmprb :: Verbeterde Voorwerp Roulette :: Laat de echte voorwerp kansen zien op de voorwerp roulette in plaats van willekeurige voorwerpen.
-imtrick :: Verbeterde Trucs ::  Karts gaan draaien tijdens een truc op een boost ramp. Gebruik de \uE077 Circle Pad om de draai richting te veranderen.
+spdmeter :: Snelheidsmeter :: Laat een snelheidsmeter zien rechstonder op het bovenste scherm.
+ccsel :: CC selectie :: Zet de huidige CC op een andere waarde (moet aanstaan voor het starten van een race).
+itemled :: Waarschuw voor voorwerpen met LED :: De notificatie LED knippert blauw waneer een Blauw Schild is gebruikt en geel waneer Bliksem wordt gebruikt.
+backcam :: Achteruit kijken :: Druk op \uE002 om te zien wat er achter je zit, net zoals in andere Mario Kart spellen! (De \uE002 knop zal geen voorwerpen meer gebruiken)
+charman :: Karakter-manager :: Wissel tussen de originele en nieuwe karakters.
+cuskart :: Nieuwe karts :: Laad nieuwe karts van de MyStuff map.
+trackorder :: Online circuitvolgorde :: Kies in welke volgorde de circuits in bekers online zitten.
+itmprb :: Verbeterde voorwerproulette :: Laat de echte voorwerpkansen zien op de voorwerproulette in plaats van willekeurige voorwerpen.
+imtrick :: Verbeterde springboosts ::  Karts gaan draaien tijdens een truc op een boost ramp. Gebruik de \uE077 Circle Pad om de draairichting te veranderen.
 
 #Speedometer text
-spd_set :: Snelheidsmeter opties
-spd_unit :: Meting
+spd_set :: Opties snelheidsmeter.
+spd_unit :: Eenheid
 spd_type :: Type
-spd_sunit :: Selecteer snelheidsmeter meting.
-spd_stype :: Selecteer snelheidsmeter type.
-spd_types :: Met getallen :: Graphisch
+spd_sunit :: Selecteer eenheid snelheidsmeter.
+spd_stype :: Selecteer type snelheidsmeter.
+spd_types :: Numeriek :: Grafisch
 
 #CC Selector text
-cc_set :: CC selector opties.
+cc_set :: Opties CC selectie.
 cc_val :: Waarde
-cc_entv :: Voer een nieuwe CC waarde in.
+cc_entv :: Voer nieuwe CC waarde in.
 cc_chgv :: Verander waarde
 
 #Course Manager
-track_ct :: Aangepaste Banen
-track_ori :: Originele Banen
-ct_endis :: Aangepaste banen aangezet :: Aangepaste banen uitgezet
-ori_endis :: Originele banen aangezet :: Originele banen uitgezet
+track_ct :: Nieuwe Circuits
+track_ori :: Originele Circuits
+ct_endis :: Nieuwe circuits aangezet :: Nieuwe circuits uitgezet
+ori_endis :: Originele circuits aangezet :: Originele circuits uitgezet
 
 #Community Code Generator
-commugen :: Community Code Generator :: Genereert een code gebaseert op de huidige gebruiker instellingen. Als je de code in de beschrijving van een community zet zal het de instellingen voor iedereen toepassen.
-def_spd :: Standaard Snelheid
-rand_tr :: Forceer willekeurige banen
+commugen :: Community-Code Generator :: Genereert een code gebaseerd op de huidige gebruikersinstellingen. Als je de code in de beschrijving van een community zet zal het de instellingen voor iedereen toepassen.
+def_spd :: Standaard snelheid
+rand_tr :: Forceer willekeurige circuits
 code :: Code
 
 #Change Round Number
-chgrnd :: Verander Ronde Aantal :: Verandert het aantal ronden in race en gevecht modus.
-chgrnd_desc :: Selecteer het aantal ronden\die gespeeld worden in VS of battle modus.\nWerkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben.
-rounds :: Ronden
-rnd_sel :: Selecteer het aantal ronden
+chgrnd :: Verander aantal rondes :: Verandert het aantal rondes in races en gevechten.
+chgrnd_desc :: Selecteer het aantal rondes\die gespeeld worden in VS races of gevechten.\nWerkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben.
+rounds :: Rondes
+rnd_sel :: Selecteer het aantal rondes.
 
 #Enhanced Local Map
-enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scherm met gebruik van het \uE058 touch screen.
+enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scherm met gebruik van het \uE058 touchscreen.
 
 #Custom character manager text
 char_select :: Selecteer een karakter om te configureren.
-reboot_req :: (Herstart nodig om veranderingen toe te passen.)
+reboot_req :: (Opnieuw opstarten nodig om veranderingen toe te passen.)
 char_replace :: Selecteer een karakter voor:\n
 green_info :: Groen → Huidige geactiveerde item.
 
@@ -202,50 +230,68 @@ fail_conn :: Kon niet verbinden\nmet de CTGP-7 server\n\nProbeer het later opnie
 #CTWW
 cntdwn :: Countdown
 ctww :: CTWW
-CTWWtog :: Wil je Aangepaste Banen Wereldwijd aanzetten? :: Wil je Aangepaste Banen Wereldwijd uitzetten?
+CTWWtog :: Wil je Custom Tracks Wereldwijd aanzetten? :: Wil je Custom Tracks Wereldwijd uitzetten?
 
 #VS Mode
 VSSet :: VS Instellingen
-CourOrd :: Volgorde van banen
+CourOrd :: Circuitvolgorde
 RacAm :: Aantal races
-CpuAm :: COM-Spelers
-RanCT :: Willekeurig (CTs)
+CpuAm :: CPU Spelers
+RanCT :: Willekeurig (NCs)
 RanOri :: Willekeurig (Origineel)
 RanAll :: Willekeurige (Alle)
 OrderH :: Horizontale volgorde
 OrderV :: Verticale volgorde
-NextRac :: Selecteer volgende baan.\nOvergebleven races:
+NextRac :: Selecteer volgende circuit.\nOvergebleven races:
 
 #Reset Ghosts
-resghost :: Reset spook :: Staat het resetten van het spook toe op elke baan.
-ghostseltrack :: Selecteer de baan om spook van te resetten.
+resghost :: Reset spook :: Staat het resetten van het spook toe op elk circuit.
+ghostseltrack :: Selecteer het circuit waarvan het spook moet worden gereset:
 ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :: Het spook is gereset.
 
 #Server Settings
-servsett :: Server Instellingen :: CTCP-7 Server gerelateerde instellingen
+servsett :: Serverinstellingen :: CTGP-7 server gerelateerde instellingen
 serv_consID :: CTGP-7 ConsoleID
 serv_statsupl :: Statistieken Uploaden
-serv_displname :: Namen Tonen :: Selecter de mode voor namen tonen.
+serv_displname :: Namen tonen :: Selecteer de modus voor het tonen van namen.
 serv_disphid :: Verborgen
 serv_dispmii :: Mii Naam
 serv_dispcust :: Voer aangepaste naam in. :: Naam kan maar 15\nkarakters lang zijn.
 
 #Statistics
-statsentry :: Laad Statistieken :: Kijk hier je prive CTGP-7 statistieken na.
+statsentry :: Lokale statistieken :: Kijk hier je CTGP-7 statistieken na.
 stats_tpl :: Keren gespeeld
-stats_tot :: Totale Offline Races :: Totale Online Races
+stats_tot :: Totale offline races :: Totale online races
 stats_vnll :: Origineel
-stats_most :: Meest Gespeelde Banen :: Meest Gespeelde Arenas
+stats_most :: Meest gespeelde circuits :: Meest gespeelde arenas
 
 #Discord
-disc_info :: Discord Informatie
+disc_info :: Discordinformatie
 disc_notlink :: Deze console is niet gelinkt\nmet een Discord account.\n\nWil je een account linken?
 disc_linksteps1 :: Volg deze stappen om\neen Discord account te linken:
 disc_linksteps2 :: 1. Ga naar de CTGP-7 Discord server.\n(Link: invite.gg/ctgp7)
 disc_linksteps3 :: 2. Ga naar het \#bots kanaal
 disc_linksteps4 :: 3. Stuur het volgende bericht:
 disc_data :: Account :: Gebruikersnaam
-disc_beta :: Komt in aanmerking voor privé beta testen. :: Komt niet in aanmerking voor privé beta testen.
+disc_beta :: Komt in aanmerking voor privé bèta testen. :: Komt niet in aanmerking voor privé bèta testen.
 
 #Render Optimizations
-render_optim :: Weergaven Optimalizaties :: Zet 3D Modus uit op het bovenste scherm, en zet de New 3DS CPU verbeteringen aan.
+render_optim :: Weergaven Optimalizaties :: Zet 3D Modus uit op het bovenste scherm, en zet de New 3DS CPU-verbeteringen aan.
+
+#Extra Features
+extfeat :: Extra Modi
+
+#Missions
+ms_miss :: Missies
+ms_selmiss :: Selecteer een missie
+ms_rcrd :: Record
+ms_gradelim :: Max. Rang :: Min. Rang
+ms_timescor :: Tijd :: Score
+ms_failed :: Missie Gefaald!
+ms_nodata :: Geen data
+ms_pointsshort :: ptn.
+ms_delsave :: (Verwijder Save: \uE002) :: Verijder de save data van deze missie?
+msstat_msnplay :: Missies Gespeeld
+msstat_state :: Voltooid :: Gefaald
+msstat_perfgrad :: (met perfecte rang)
+msstat_usermsn :: Gebruiker missies

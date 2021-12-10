@@ -102,6 +102,34 @@ $710071 :: \uE024\uE025 Regenbogen-Blvd.
 $710072 :: Weltraumstraße
 $710097 :: Regenbogen-Blvd. DX
 
+#Pickaxe Cup
+$700024 :: Spitzhacken-Cup
+$710098 :: Sternschnuppen-Gipfel
+$710099 :: Dämmerrennpiste
+$710100 :: \uE024\uE025 Zerstörter Pfad
+$710101 :: Gletscher-Mine
+
+#Mega Cup
+$700025 :: Megapilz-Cup
+$710102 :: Blumenbeet-Festung
+$710103 :: Palast am Meer
+$710104 :: DKR Sternenstadt
+$710105 :: Pilzberg
+
+#Propeller Cup
+$700026 :: Propeller-Cup
+$710106 :: \uE022\uE023 Sorbet-Land
+$710107 :: Block-Insel
+$710108 :: \uE033 Bowsers Festung
+$710109 :: DKR Dschungelfälle
+
+#POW Cup
+$700027 :: POW-Block-Cup
+$710110 :: Retro-Rennpiste
+$710111 :: Frostgrotte
+$710112 :: \uE024\uE025 Seeufer-Park
+$710113 :: Drachengrabstätten
+
 #Save Data
 %7005 :: Extradaten für CTGP-7 werden\njetzt auf der SD Card erstellt.
 %7003 :: Extradaten werden erstellt...
@@ -209,9 +237,9 @@ VSSet :: Versus-Einstellungen
 CourOrd :: Kurs-Reihenfolge
 RacAm :: Anzahl der Rennen
 CpuAm :: COM-Fahrer
-RanCT :: Zufall (Benutzerdef. Str.)
-RanOri :: Zufall (Originale Strecken)
-RanAll :: Zufall (Alle Strecken)
+RanCT :: Zufall (Benutzerdef.)
+RanOri :: Zufall (Original)
+RanAll :: Zufall (Alle)
 OrderH :: Horizontale Folge
 OrderV :: Vertikale Folge
 NextRac :: Wähle die nächste Strecke.\nVerbleibende Rennen:
@@ -249,3 +277,21 @@ disc_beta :: Berechtigt für private Betatests. :: Nicht berechtigt für private
 
 #Render Optimizations
 render_optim :: Rendering-Optimierungen :: Deaktiviert den 3D-Modus für den Topscreen und wendet Verbesserungen für New Nintendo 3DS-Systeme an.
+
+#Extra Features
+extfeat :: Extra-Modi
+
+#Missions
+ms_miss :: Missionen
+ms_selmiss :: Mission wählen
+ms_rcrd :: Rekord
+ms_gradelim :: Max.-Note :: Min.-Note
+ms_timescor :: Zeit :: Punkte
+ms_failed :: Mission fehlgeschlagen!
+ms_nodata :: Keine Daten
+ms_pointsshort :: Pkte.
+ms_delsave :: (Daten löschen: \uE002) :: Speicherdaten dieser Mission löschen?
+msstat_msnplay :: Gespielte Missionen
+msstat_state :: Abgeschlossene :: Fehlgeschlagene
+msstat_perfgrad :: (mit perfekter Note)
+msstat_usermsn :: Benutzer-Missionen

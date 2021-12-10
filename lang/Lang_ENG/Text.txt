@@ -102,6 +102,34 @@ $710071 :: \uE024\uE025 Rainbow Road
 $710072 :: Space Road
 $710097 :: Rainbow Road DX
 
+#Pickaxe Cup
+$700024 :: Pickaxe Cup
+$710098 :: Stargaze Summit
+$710099 :: Sunset Raceway
+$710100 :: \uE024\uE025 Broken Pier
+$710101 :: Glacier Mine
+
+#Mega Cup
+$700025 :: Mega Cup
+$710102 :: Flowerbed Fortress
+$710103 :: Seaside Palace
+$710104 :: DKR Star City
+$710105 :: Mushroom Mountain
+
+#Propeller Cup
+$700026 :: Propeller Cup
+$710106 :: \uE022\uE023 Sherbet Land
+$710107 :: Block Island
+$710108 :: \uE033 Bowser Castle
+$710109 :: DKR Jungle Falls
+
+#POW Cup
+$700027 :: POW Cup
+$710110 :: Retro Raceway
+$710111 :: Frozen Grotto
+$710112 :: \uE024\uE025 Lakeside Park
+$710113 :: Dragon Burial Grounds
+
 #Save Data
 %7005 :: Extra save data for CTGP-7\nwill be created in the SD card.
 %7003 :: Creating extra save data...
@@ -249,3 +277,21 @@ disc_beta :: Eligible for private beta tests. :: Not eligible for private beta t
 
 #Render Optimizations
 render_optim :: Render Optimizations :: Disables the top screen 3D mode and enables the New 3DS CPU improvements.
+
+#Extra Features
+extfeat :: Extra Modes
+
+#Missions
+ms_miss :: Missions
+ms_selmiss :: Select Mission
+ms_rcrd :: Record
+ms_gradelim :: Max. Grade :: Min. Grade
+ms_timescor :: Time :: Score
+ms_failed :: Mission Failed!
+ms_nodata :: No Data
+ms_pointsshort :: pts.
+ms_delsave :: (Delete Save: \uE002) :: Delete this mission save data?
+msstat_msnplay :: Missions Played
+msstat_state :: Completed :: Failed
+msstat_perfgrad :: (with perfect grade)
+msstat_usermsn :: User Missions
