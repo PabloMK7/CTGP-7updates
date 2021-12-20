@@ -185,7 +185,8 @@ spd_unit :: Unidad
 spd_type :: Tipo
 spd_sunit :: Selecciona la unidad.
 spd_stype :: Selecciona el tipo.
-spd_types :: Numérico :: Gráfico
+spd_types1 :: Digital :: Analógico
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: Opciones de Selector de CC.

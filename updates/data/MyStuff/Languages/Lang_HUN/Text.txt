@@ -185,7 +185,8 @@ spd_unit :: Mértékegység
 spd_type :: Típus
 spd_sunit :: Válaszd ki a sebességmérő mértékegységét.
 spd_stype :: Válaszd ki a sebességmérő típusát.
-spd_types :: Számszerű :: Grafikus
+spd_types1 :: Digitális :: Analóg
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: CC választó beállításai.

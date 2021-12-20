@@ -185,7 +185,8 @@ spd_unit :: Единица измерения
 spd_type :: Тип
 spd_sunit :: Выберите единицу измерения спидометра.
 spd_stype :: Выберите тип спидометра.
-spd_types :: Числовой :: Графический
+spd_types1 :: Цифровой :: Аналоговый
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: Настройки класса двигателя.

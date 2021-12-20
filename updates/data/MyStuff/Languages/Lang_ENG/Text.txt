@@ -185,7 +185,8 @@ spd_unit :: Unit
 spd_type :: Type
 spd_sunit :: Select speedometer unit.
 spd_stype :: Select speedometer type.
-spd_types :: Numerical :: Graphical
+spd_types1 :: Digital :: Analog
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: CC selector settings.

@@ -185,7 +185,8 @@ spd_unit :: Unidade
 spd_type :: Tipo
 spd_sunit :: Selecione a unidade do velocímetro.
 spd_stype :: Selecione o tipo do velocímetro.
-spd_types :: Numérico :: Gráfico
+spd_types1 :: Digital :: Analógico
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: Opções do seletor CC.

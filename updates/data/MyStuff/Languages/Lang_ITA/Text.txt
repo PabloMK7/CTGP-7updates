@@ -185,7 +185,8 @@ spd_unit :: Unità
 spd_type :: Tipo
 spd_sunit :: Seleziona l'unità di misura.
 spd_stype :: Seleziona il tipo di accelerometro.
-spd_types :: Numerico :: Grafico
+spd_types1 :: Digital :: Analogico
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: Opzioni Selettore classe CC.

@@ -185,7 +185,8 @@ spd_unit :: 単位
 spd_type :: タイプ
 spd_sunit :: スピードメーターの単位を選んでください。
 spd_stype :: スピードメーターのタイプを選んでください。
-spd_types :: 数値 :: グラフィカル
+spd_types1 :: デジタル :: アナログ
+spd_types2 :: ダブルダッシュ
 
 #CC Selector text
 cc_set :: CCセレクターの設定をします。

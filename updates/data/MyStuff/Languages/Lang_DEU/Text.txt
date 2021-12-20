@@ -185,7 +185,8 @@ spd_unit :: Einheit
 spd_type :: Typ
 spd_sunit :: Wähle eine Tachometer-Einheit.
 spd_stype :: Wähle einen Tachometer-Typ.
-spd_types :: Numerisch :: Graphisch
+spd_types1 :: Digital :: Analog
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: CCM-Einstellungen
@@ -256,7 +257,7 @@ serv_statsupl :: Statistik hochladen
 serv_displname :: Anzeigename :: Wähle einen Modus für den Anzeigenamen.
 serv_disphid :: Versteckt
 serv_dispmii :: Mii-Spitzname
-serv_dispcust :: Benutzerdef. Name eingeben :: Benutzerdef. Namen können bis zu\n15 Zeichen lang sein.
+serv_dispcust :: Bitte gib einen Namen ein. :: Benutzerdef. Namen können nur bis zu\n15 Zeichen lang sein.
 
 #Statistics
 statsentry :: Lokale Statistik :: Hier siehst du deine lokale Statistik.
@@ -266,7 +267,7 @@ stats_vnll :: Original
 stats_most :: Meistgespielte Strecken :: Meistgespielte Wettkampf-Arenen
 
 #Discord
-disc_info :: Discord-Information
+disc_info :: Discord-Informationen
 disc_notlink :: Dieses System ist nicht mit\neinem Discord-Account verknüpft.\n\nMöchtest du jetzt deinen\nAccount verknüpfen?
 disc_linksteps1 :: Folge diesen Schritten, um deinen\nDiscord-Account zu verknüpfen:
 disc_linksteps2 :: 1. Trete dem CTGP-7-Discord-Server bei.\n(Link: invite.gg/ctgp7)
@@ -290,8 +291,8 @@ ms_timescor :: Zeit :: Punkte
 ms_failed :: Mission fehlgeschlagen!
 ms_nodata :: Keine Daten
 ms_pointsshort :: Pkte.
-ms_delsave :: (Daten löschen: \uE002) :: Speicherdaten dieser Mission löschen?
+ms_delsave :: (Löschen: \uE002) :: Speicherdaten dieser Mission löschen?
 msstat_msnplay :: Gespielte Missionen
-msstat_state :: Abgeschlossene :: Fehlgeschlagene
+msstat_state :: Abgeschlossen :: Fehlgeschlagen
 msstat_perfgrad :: (mit perfekter Note)
 msstat_usermsn :: Benutzer-Missionen
