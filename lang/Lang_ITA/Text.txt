@@ -185,7 +185,8 @@ spd_unit :: Unità
 spd_type :: Tipo
 spd_sunit :: Seleziona l'unità di misura.
 spd_stype :: Seleziona il tipo di accelerometro.
-spd_types :: Numerico :: Grafico
+spd_types1 :: Digital :: Analogico
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: Opzioni Selettore classe CC.
@@ -263,35 +264,33 @@ statsentry :: Statistiche locali :: Controlla le tue statistiche private di CTGP
 stats_tpl :: Volte giocato
 stats_tot :: Gare Offline in Totale ::  Gare Online in Totale
 stats_vnll :: Normale
-stats_most :: Percorsi giocati di più :: Percorsi di guerra giocati di più
+stats_most :: Percorsi giocati di più :: Arene giocate di più
 
 #Discord
 disc_info :: Informazioni Discord
-disc_notlink :: Questa console non è collegata ad un account Discord. \n\nVuoi Collegare il tuo account?
-disc_linksteps1 :: Follow these steps to link your\nDiscord account:
-disc_linksteps2 :: 1. Join the CTGP-7 Discord server.\n(Link: invite.gg/ctgp7)
-disc_linksteps3 :: 2. Go to the \#bots channel.
-disc_linksteps4 :: 3. Send the following message:
+disc_notlink :: Questa console non è collegata\nad un account Discord. \n\nVuoi collegare il tuo account?
+disc_linksteps1 :: Segui questi passi per collegare il tuo account Discord:
+disc_linksteps2 :: 1. Unisciti al server Discord di CTGP-7\n(Link: invite.gg/ctgp7)
+disc_linksteps3 :: 2. Vai nel canale \#bots.
+disc_linksteps4 :: 3. Invia il seguente messaggio:
 disc_data :: Account :: Nickname
-disc_beta :: Eligible for private beta tests. :: Not eligible for private beta tests.
+disc_beta :: Eleggibile per i beta test privati. :: Non eleggibile per i beta test privati.
 
 #Render Optimizations
-render_optim :: Render Optimizations :: Disables the top screen 3D mode and enables the New 3DS CPU improvements.
-
-#Extra Features
-extfeat :: Extra Modes
+render_optim :: Ottimizzazioni del rendering :: Disattiva la modalità 3D sullo schermo superiore e attiva i miglioramenti della CPU del New 3DS.
 
 #Missions
-ms_miss :: Missions
-ms_selmiss :: Select Mission
+ms_miss :: Missioni
+ms_desc :: Completa le sfide e ottieni il grado maggiore.
+ms_selmiss :: Selezionare Missione
 ms_rcrd :: Record
-ms_gradelim :: Max. Grade :: Min. Grade
-ms_timescor :: Time :: Score
-ms_failed :: Mission Failed!
-ms_nodata :: No Data
+ms_gradelim :: Grado Max. :: Grado Min.
+ms_timescor :: Tempo :: Punteggio
+ms_failed :: Missione fallita!
+ms_nodata :: Nessun dato
 ms_pointsshort :: pts.
-ms_delsave :: (Delete Save: \uE002) :: Delete this mission save data?
-msstat_msnplay :: Missions Played
-msstat_state :: Completed :: Failed
-msstat_perfgrad :: (with perfect grade)
-msstat_usermsn :: User Missions
+ms_delsave :: (Elimina dati: \uE002) :: Eliminare i dati salvati di questa missione?
+msstat_msnplay :: Missioni giocate
+msstat_state :: Completate :: Fallite
+msstat_perfgrad :: (con grado perfetto)
+msstat_usermsn :: Missioni utente

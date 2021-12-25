@@ -185,7 +185,8 @@ spd_unit :: Unité
 spd_type :: Type
 spd_sunit :: Choisissez l'unité du compteur de vitesse.
 spd_stype :: Choisissez le type de compteur de vitesse.
-spd_types :: Numérique :: Graphique
+spd_types1 :: Numérique :: Analogique
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: Paramètres du sélecteur de CC
@@ -276,13 +277,11 @@ disc_data :: Compte :: Pseudo
 disc_beta :: Vous êtes éligible aux bêta-tests. :: Vous n'êtes pas éligible aux bêta-tests.
 
 #Render Optimizations
-render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran supérieur et active les améliorations du processeur des consoles New 3DS.
-
-#Extra Features
-extfeat :: Modes Extra
+render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran supérieur et active les améliorations du processeur des consoles New 3DS et New 3DS XL.
 
 #Missions
 ms_miss :: Missions
+ms_desc :: Relevez les défis et obtenez la meilleure note.
 ms_selmiss :: Changer de mission
 ms_rcrd :: Record
 ms_gradelim :: Note min. :: Note max.

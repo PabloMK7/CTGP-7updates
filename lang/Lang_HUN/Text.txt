@@ -185,7 +185,8 @@ spd_unit :: Mértékegység
 spd_type :: Típus
 spd_sunit :: Válaszd ki a sebességmérő mértékegységét.
 spd_stype :: Válaszd ki a sebességmérő típusát.
-spd_types :: Számszerű :: Grafikus
+spd_types1 :: Digitális :: Analóg
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: CC választó beállításai.
@@ -278,11 +279,9 @@ disc_beta :: Jogosult tesztverziók kipróbálására. :: Nem jogosult tesztverz
 #Render Optimizations
 render_optim :: Renderelés optimalizálása :: A felső kijelző 3D módjának letiltása és a New 3DS CPU-javításainak engedélyezése.
 
-#Extra Features
-extfeat :: Extra Modes
-
 #Missions
 ms_miss :: Küldetések
+ms_desc :: Complete the challenges and get the best grade.
 ms_selmiss :: Küldetés kiválasztása
 ms_rcrd :: Rekord
 ms_gradelim :: Legjobb értékelés :: Legrosszabb értékelés

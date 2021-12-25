@@ -103,28 +103,28 @@ $710072 :: Ruimteweg
 $710097 :: Regenboogbaan DX
 
 #Pickaxe Cup
-$700024 :: Pikhouweel Beker
+$700024 :: Pikhouweelbeker
 $710098 :: Sterrenzicht Toppen
 $710099 :: Zonsondergangsracebaan
 $710100 :: \uE024\uE025 Kapotte Pier
 $710101 :: Gletsjermijn
 
 #Mega Cup
-$700025 :: Mega Beker
-$710102 :: Bloemenbed fort
-$710103 :: Paleis aan zee
+$700025 :: Mega-Beker
+$710102 :: Bloemenbed-Vesting
+$710103 :: Zeepaleis
 $710104 :: DKR Sterrenstad
 $710105 :: Paddenstoelenberg
 
 #Propeller Cup
-$700026 :: Propeller Beker
+$700026 :: Propellerbeker
 $710106 :: \uE022\uE023 IJzige IJsbaan
-$710107 :: Blok Eiland
+$710107 :: Blokkeneiland
 $710108 :: \uE033 Bowsers Kasteel
 $710109 :: DKR Junglewatervallen
 
 #POW Cup
-$700027 :: POW Beker
+$700027 :: POW-Beker
 $710110 :: Retro Racebaan
 $710111 :: Bevroren Grot
 $710112 :: \uE024\uE025 Meerpark
@@ -141,9 +141,9 @@ welc_t :: Welkom bij CTGP-7!
 welc_1 :: Hallo daar!\nVanaf het in-game menu\nkan je wat interessante functies gebruiken.\nGebruik de (SELECT) knop\nom het in-game menu te openen
 welc_2 :: Om een functie te gebruiken, plaats je de\ncursor over een item\nen druk je op A om het aan te zetten/te configureren.
 welc_3 :: Sommige functies zoals\n"CC Selectie" zullen uitgeschakeld\nzijn tijdens een online spel.
-welc_4 :: Jouw statistieken zullen geupload worden\nnaar de CTGP-7 Server zodat ze\npubliek beschikbaar zijn\n(Data is geanonimiseerd.)\nJe kan het uploaden van statistieken\nvanuit het ingame menu uitzetten.
+welc_4 :: Jouw statistieken zullen worden geüpload \nnaar de CTGP-7 server zodat ze\npubliek beschikbaar zijn\n(Data is geanonimiseerd.)\nJe kan het uploaden van statistieken\nvanuit het ingame menu uitzetten.
 welc_5 :: Bij het gebruik van CTWW,\nga je akkoord met de regels.\n\nJe kan ze hier lezen:\nctgp-7.github.io/ctww.html
-welc_6 :: Vergeet niet de CTGP-7\nDiscord server te bekijken!!\n\nUitnodigings link:\ninvite.gg/ctgp7
+welc_6 :: Vergeet niet de CTGP-7\nDiscord server te bekijken!!\n\nUitnodigingslink:\ninvite.gg/ctgp7
 welc_7 :: We hopen dat je de mod leuk vind!\n^w^
 
 #General text
@@ -185,7 +185,8 @@ spd_unit :: Eenheid
 spd_type :: Type
 spd_sunit :: Selecteer eenheid snelheidsmeter.
 spd_stype :: Selecteer type snelheidsmeter.
-spd_types :: Numeriek :: Grafisch
+spd_types1 :: Digitaal :: Analoog
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: Opties CC selectie.
@@ -194,9 +195,9 @@ cc_entv :: Voer nieuwe CC waarde in.
 cc_chgv :: Verander waarde
 
 #Course Manager
-track_ct :: Nieuwe Circuits
+track_ct :: Custom Tracks
 track_ori :: Originele Circuits
-ct_endis :: Nieuwe circuits aangezet :: Nieuwe circuits uitgezet
+ct_endis :: Custom tracks aangezet :: Custom tracks uitgezet
 ori_endis :: Originele circuits aangezet :: Originele circuits uitgezet
 
 #Community Code Generator
@@ -237,9 +238,9 @@ VSSet :: VS Instellingen
 CourOrd :: Circuitvolgorde
 RacAm :: Aantal races
 CpuAm :: CPU Spelers
-RanCT :: Willekeurig (NCs)
+RanCT :: Willekeurig (CTs)
 RanOri :: Willekeurig (Origineel)
-RanAll :: Willekeurige (Alle)
+RanAll :: Willekeurig (Alle)
 OrderH :: Horizontale volgorde
 OrderV :: Verticale volgorde
 NextRac :: Selecteer volgende circuit.\nOvergebleven races:
@@ -252,7 +253,7 @@ ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :
 #Server Settings
 servsett :: Serverinstellingen :: CTGP-7 server gerelateerde instellingen
 serv_consID :: CTGP-7 ConsoleID
-serv_statsupl :: Statistieken Uploaden
+serv_statsupl :: Statistieken uploaden
 serv_displname :: Namen tonen :: Selecteer de modus voor het tonen van namen.
 serv_disphid :: Verborgen
 serv_dispmii :: Mii Naam
@@ -278,20 +279,18 @@ disc_beta :: Komt in aanmerking voor privé bèta testen. :: Komt niet in aanmer
 #Render Optimizations
 render_optim :: Weergaven Optimalizaties :: Zet 3D Modus uit op het bovenste scherm, en zet de New 3DS CPU-verbeteringen aan.
 
-#Extra Features
-extfeat :: Extra Modi
-
 #Missions
 ms_miss :: Missies
+ms_desc :: Complete the challenges and get the best grade.
 ms_selmiss :: Selecteer een missie
 ms_rcrd :: Record
 ms_gradelim :: Max. Rang :: Min. Rang
 ms_timescor :: Tijd :: Score
-ms_failed :: Missie Gefaald!
+ms_failed :: Missie gefaald!
 ms_nodata :: Geen data
 ms_pointsshort :: ptn.
 ms_delsave :: (Verwijder Save: \uE002) :: Verijder de save data van deze missie?
-msstat_msnplay :: Missies Gespeeld
+msstat_msnplay :: Missies gespeeld
 msstat_state :: Voltooid :: Gefaald
 msstat_perfgrad :: (met perfecte rang)
-msstat_usermsn :: Gebruiker missies
+msstat_usermsn :: Eigen missies

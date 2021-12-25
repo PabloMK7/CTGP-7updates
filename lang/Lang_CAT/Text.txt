@@ -185,7 +185,8 @@ spd_unit :: Unitat
 spd_type :: Tipus
 spd_sunit :: Selecciona la unitat.
 spd_stype :: Selecciona el tipus.
-spd_types :: Numèric :: Gràfic
+spd_types1 :: Digital :: Analògic
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: Opcions de Selector de CC.
@@ -278,11 +279,9 @@ disc_beta :: Elegible per a proves beta privades. :: No elegible per a proves\nb
 #Render Optimizations
 render_optim :: Optimitzacions de Rendiment :: Desactiva la funcionalitat 3D de la pantalla superior i activa les millores de CPU de New 3DS.
 
-#Extra Features
-extfeat :: Modes Addicionals
-
 #Missions
 ms_miss :: Missions
+ms_desc :: Completa els reptes i obtén la millor nota.
 ms_selmiss :: Seleccionar Missió
 ms_rcrd :: Rècord
 ms_gradelim :: Nota Màxima :: Nota Mínima

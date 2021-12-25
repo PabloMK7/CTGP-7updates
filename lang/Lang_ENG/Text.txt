@@ -185,7 +185,8 @@ spd_unit :: Unit
 spd_type :: Type
 spd_sunit :: Select speedometer unit.
 spd_stype :: Select speedometer type.
-spd_types :: Numerical :: Graphical
+spd_types1 :: Digital :: Analog
+spd_types2 :: Double Dash
 
 #CC Selector text
 cc_set :: CC selector settings.
@@ -278,11 +279,9 @@ disc_beta :: Eligible for private beta tests. :: Not eligible for private beta t
 #Render Optimizations
 render_optim :: Render Optimizations :: Disables the top screen 3D mode and enables the New 3DS CPU improvements.
 
-#Extra Features
-extfeat :: Extra Modes
-
 #Missions
 ms_miss :: Missions
+ms_desc :: Complete the challenges and get the best grade.
 ms_selmiss :: Select Mission
 ms_rcrd :: Record
 ms_gradelim :: Max. Grade :: Min. Grade
