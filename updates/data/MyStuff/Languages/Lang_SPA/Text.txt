@@ -279,11 +279,9 @@ disc_beta :: Elegible para pruebas beta privadas. :: No elegible para pruebas be
 #Render Optimizations
 render_optim :: Optimizaciones de Rendimiento :: Desactiva el modo 3D de la pantalla superior y activa las mejoras de CPU de New 3DS.
 
-#Extra Features
-extfeat :: Modos Adicionales
-
 #Missions
 ms_miss :: Misiones
+ms_desc :: Completa los retos y obtén la mejor nota.
 ms_selmiss :: Seleccionar Misión
 ms_rcrd :: Récord
 ms_gradelim :: Nota Máxima :: Nota Mínima

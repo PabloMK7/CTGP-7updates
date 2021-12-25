@@ -279,11 +279,9 @@ disc_beta :: Komt in aanmerking voor privé bèta testen. :: Komt niet in aanmer
 #Render Optimizations
 render_optim :: Weergaven Optimalizaties :: Zet 3D Modus uit op het bovenste scherm, en zet de New 3DS CPU-verbeteringen aan.
 
-#Extra Features
-extfeat :: Extra Modi
-
 #Missions
 ms_miss :: Missies
+ms_desc :: Complete the challenges and get the best grade.
 ms_selmiss :: Selecteer een missie
 ms_rcrd :: Record
 ms_gradelim :: Max. Rang :: Min. Rang

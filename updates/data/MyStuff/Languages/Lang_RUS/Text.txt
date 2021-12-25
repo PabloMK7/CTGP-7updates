@@ -279,11 +279,9 @@ disc_beta :: Допустим к приватным бета-тестам. :: Н
 #Render Optimizations
 render_optim :: Оптимизация рендеринга :: Отключает 3D-режим на верхнем экране и активирует улучшения процессора New 3DS.
 
-#Extra Features
-extfeat :: Extra Modes
-
 #Missions
 ms_miss :: Миссии
+ms_desc :: Complete the challenges and get the best grade.
 ms_selmiss :: Выбор миссии
 ms_rcrd :: Рекорд
 ms_gradelim :: Макс. оценка :: Мин. оценка

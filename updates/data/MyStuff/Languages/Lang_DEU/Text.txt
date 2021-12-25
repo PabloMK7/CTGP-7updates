@@ -279,11 +279,9 @@ disc_beta :: Berechtigt für private Betatests. :: Nicht berechtigt für private
 #Render Optimizations
 render_optim :: Rendering-Optimierungen :: Deaktiviert den 3D-Modus für den Topscreen und wendet Verbesserungen für New Nintendo 3DS-Systeme an.
 
-#Extra Features
-extfeat :: Extra-Modi
-
 #Missions
 ms_miss :: Missionen
+ms_desc :: Stelle dich speziellen Herausforderungen.
 ms_selmiss :: Mission wählen
 ms_rcrd :: Rekord
 ms_gradelim :: Max.-Note :: Min.-Note
