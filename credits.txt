@@ -43,6 +43,7 @@ BLgotswag=Custom Characters
 Cell9=NTR CFW, LayeredFS
 Smealum=Hans, *hax Dev
 Nanquitas=Help, CTRPF, BootNTR Selector
+H4x0rSpooky=Plugin
 Giovanni=Beta tester, CT dev
 Gearworks=Beta tester, CT dev, Plugin
 Zach=Beta tester, Wiki admin
