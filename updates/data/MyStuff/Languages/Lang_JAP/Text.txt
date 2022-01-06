@@ -131,10 +131,10 @@ $710112 :: \uE024\uE025 レイクサイドパーク
 $710113 :: ドラゴングレイブヤード
 
 #Save Data
-%7005 :: CTGP-7の追加データを\nSDカードに作成します。
-%7003 :: 追加データの作成をしています...
-%7004 :: 追加データが\n作成されました。
-%7007 :: マリオカート7のセーブデータが存在しません。\n電源ボタンを押し、ゲームを起動してセーブデータを作成してください。
+$7005 :: CTGP-7の追加データを\nSDカードに作成します。
+$7003 :: 追加データの作成をしています...
+$7004 :: 追加データが\n作成されました。
+$7007 :: マリオカート7のセーブデータが存在しません。\n電源ボタンを押し、ゲームを起動してセーブデータを作成してください。
 
 #First opening welcome message
 welc_t :: CTGP-7へようこそ！
@@ -281,16 +281,15 @@ render_optim :: レンダリングの最適化 :: 上画面の3Dモードを無�
 
 #Missions
 ms_miss :: ミッション
-ms_desc :: Complete the challenges and get the best grade.
+ms_desc :: チャレンジをして ベストグレードをめざします
 ms_selmiss :: ミッションをかえる
 ms_rcrd :: きろく
 ms_gradelim :: さいだい :: さいしょう
 ms_timescor :: タイム :: スコア
 ms_failed :: ミッションしっぱい！
 ms_nodata :: データなし
-ms_pointsshort :: pts.
 ms_delsave :: (セーブ削除: \uE002) :: このミッションセーブデータを削除しますか？
 msstat_msnplay :: プレイしたミッション
 msstat_state :: 成功 :: 失敗
-msstat_perfgrad :: (パーフェクト階級)
+msstat_perfgrad :: (パーフェクトグレード)
 msstat_usermsn :: ユーザーミッション

@@ -131,10 +131,10 @@ $710112 :: \uE024\uE025 레이크사이드 파크
 $710113 :: 용무덤 그라운드
 
 #Save Data
-%7005 :: CTGP-7의 추가 데이터를\nSD 카드에 작성합니다.
-%7003 :: 추가 데이터 작성중...
-%7004 :: 추가 데이터가\n작성되었습니다.
-%7007 :: 마리오 카트 7 세이브 데이터가\n존재하지 않습니다.\n게임을 실행하여\n새로운 세이브 데이터를\n작성해 주세요.\nPOWER 버튼을 눌러 주세요.
+$7005 :: CTGP-7의 추가 데이터를\nSD 카드에 작성합니다.
+$7003 :: 추가 데이터 작성중...
+$7004 :: 추가 데이터가\n작성되었습니다.
+$7007 :: 마리오 카트 7 세이브 데이터가\n존재하지 않습니다.\n게임을 실행하여\n새로운 세이브 데이터를\n작성해 주세요.\nPOWER 버튼을 눌러 주세요.
 
 #First opening welcome message
 welc_t :: CTGP-7에 오신 것을 환영합니다!
@@ -185,8 +185,8 @@ spd_unit :: 단위
 spd_type :: 타입
 spd_sunit :: 속도계의 단위를 정해 주세요.
 spd_stype :: 속도계 타입을 정해 주세요.
-spd_types1 :: Digital :: Analog
-spd_types2 :: Double Dash
+spd_types1 :: 디지털 :: 아날로그
+spd_types2 :: 더블 대시
 
 #CC Selector text
 cc_set :: CC 셀렉터 설정
@@ -262,7 +262,7 @@ serv_dispcust :: 커스텀 이름 입력 :: 커스텀 이름은\n15글자까지�
 #Statistics
 statsentry :: 로컬 통계 :: 여기서 CTGP-7 사용 통계를 확인할 수 있습니다.
 stats_tpl :: 플레이 시간
-stats_tot :: 오프라인 레이스 합계 : 온라인 레이스 합계
+stats_tot :: 오프라인 레이스 합계 :: 온라인 레이스 합계
 stats_vnll :: 기본 코스
 stats_most :: 최다 플레이 코스 :: 최다 플레이 배틀 아레나
 
@@ -281,14 +281,13 @@ render_optim :: 렌더링 최적화 :: 상단 스크린의 3D 모드를 비활�
 
 #Missions
 ms_miss :: 미션
-ms_desc :: Complete the challenges and get the best grade.
+ms_desc :: 챌린지를 완수하고 최고의 등급을 얻으세요.
 ms_selmiss :: 미션 선택
 ms_rcrd :: 기록
 ms_gradelim :: 최대 등급 :: 최소 등급
 ms_timescor :: 시간 :: 점수
 ms_failed :: 미션 실패!
 ms_nodata :: 데이터 없음
-ms_pointsshort :: 포인트
 ms_delsave :: (세이브 삭제: \uE002) :: 이 미션 세이브 데이터를 삭제하시겠습니까?
 msstat_msnplay :: 플레이한 미션
 msstat_state :: 성공 :: 실패

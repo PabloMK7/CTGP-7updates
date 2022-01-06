@@ -131,10 +131,10 @@ $710112 :: \uE024\uE025 Meerpark
 $710113 :: Drakenkerkhof
 
 #Save Data
-%7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt.
-%7003 :: Extra save data maken...
-%7004 :: Exta save data\nis aangemaakt.
-%7007 :: Mario Kart 7 save data\nbestaat niet, open alsjeblieft\nde game om nieuwe save\ndata te maken.\n\nDruk op de POWER knop.
+$7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt.
+$7003 :: Extra save data maken...
+$7004 :: Exta save data\nis aangemaakt.
+$7007 :: Mario Kart 7 save data\nbestaat niet, open alsjeblieft\nde game om nieuwe save\ndata te maken.\n\nDruk op de POWER knop.
 
 #First opening welcome message
 welc_t :: Welkom bij CTGP-7!
@@ -281,14 +281,13 @@ render_optim :: Weergaven Optimalizaties :: Zet 3D Modus uit op het bovenste sch
 
 #Missions
 ms_miss :: Missies
-ms_desc :: Complete the challenges and get the best grade.
+ms_desc :: Voltooi missies en ga voor de beste score.
 ms_selmiss :: Selecteer een missie
 ms_rcrd :: Record
 ms_gradelim :: Max. Rang :: Min. Rang
 ms_timescor :: Tijd :: Score
 ms_failed :: Missie gefaald!
 ms_nodata :: Geen data
-ms_pointsshort :: ptn.
 ms_delsave :: (Verwijder Save: \uE002) :: Verijder de save data van deze missie?
 msstat_msnplay :: Missies gespeeld
 msstat_state :: Voltooid :: Gefaald
