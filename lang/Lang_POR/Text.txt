@@ -131,10 +131,10 @@ $710112 :: Parque Lacustre \uE024\uE025
 $710113 :: Cemitério de Dragões
 
 #Save Data
-%7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
-%7003 :: A criar dados de gravação\nadicionais...
-%7004 :: Foram criados os dados de gravação\nadicionais.
-%7007 :: Não existem dados de gravação\nno Mario Kart 7. Por favor,\nabra o jogo para criar\ndados novos.\n\nPressione o botão POWER.
+$7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
+$7003 :: A criar dados de gravação\nadicionais...
+$7004 :: Foram criados os dados de gravação\nadicionais.
+$7007 :: Não existem dados de gravação\nno Mario Kart 7. Por favor,\nabra o jogo para criar\ndados novos.\n\nPressione o botão POWER.
 
 #First opening welcome message
 welc_t :: Bem-vindo ao CTGP-7
@@ -288,7 +288,6 @@ ms_gradelim :: Nota Máxima  :: Nota Mínima
 ms_timescor :: Tempo :: Pontuação
 ms_failed :: Missão Fracassada!
 ms_nodata :: Sem Dados
-ms_pointsshort :: ptos.
 ms_delsave :: (Apagar: \uE002) :: Apagar dados desta missão?
 msstat_msnplay :: Missões Jogadas
 msstat_state :: Completadas :: Fracassadas

@@ -131,10 +131,10 @@ $710112 :: \uE024\uE025 Seeufer-Park
 $710113 :: Drachengrabstätten
 
 #Save Data
-%7005 :: Extradaten für CTGP-7 werden\njetzt auf der SD Card erstellt.
-%7003 :: Extradaten werden erstellt...
-%7004 :: Extradaten wurden erstellt.
-%7007 :: Es wurden keine Speicherdaten\nfür Mario Kart 7 gefunden.\nBitte starte das Spiel, um\ndiese Daten herzustellen.\n\nDrücke die POWER-Taste.
+$7005 :: Extradaten für CTGP-7 werden\njetzt auf der SD Card erstellt.
+$7003 :: Extradaten werden erstellt...
+$7004 :: Extradaten wurden erstellt.
+$7007 :: Es wurden keine Speicherdaten\nfür Mario Kart 7 gefunden.\nBitte starte das Spiel, um\ndiese Daten herzustellen.\n\nDrücke die POWER-Taste.
 
 #First opening welcome message
 welc_t :: Wilkommen bei CTGP-7!
@@ -153,7 +153,7 @@ state :: Status
 next :: Weiter
 select :: Wählen
 chng :: Ändern
-custom :: Benutzerdef.
+custom :: Benutzerdefiniert
 page :: Seite
 race_noun :: Rennen
 state_mode :: Aktiviert :: Deaktiviert
@@ -169,14 +169,14 @@ settings_folder :: Spiel-Einstellungen :: CTGP-7-spezifische Einstellungen
 other_folder :: Andere Optionen :: Andere Optionen und Funktionen.
 
 #Entries
-spdmeter :: Tachometer :: Zeigt ein Tachometer in der rechten unteren Ecke des oberen Bildschirms.
+spdmeter :: Tachometer :: Zeigt ein Tachometer in der rechten unteren Ecke des Topscreens.
 ccsel :: CCM-Einstellungen :: Setzt den aktuelen Hubraum auf einen bestimmten Wert. (Muss geändert werden, bevor ein Rennen beginnt).
 itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer benutzt wird und gelb, wenn ein Blitz benutzt wird.
-backcam :: Rückspiegel :: Drücke \uE002, um zu sehen was hinter dir ist, wie in den anderen Mario Kart-Spielen! (Bedenke: Der \uE002-Knopf wird keine Items mehr aktivieren.)
+backcam :: Rückspiegel :: Drücke \uE002, um zu sehen, was hinter dir ist, wie in anderen Mario Kart-Spielen! (Bedenke, dass der \uE002-Knopf wird keine Items mehr aktivieren wird.)
 charman :: Benutzerdef.-Fahrer-Einstellungen :: Wechsle zwischen originalen und neuen Fahrern.
-cuskart :: Benutzerdefinierte Karts :: Lade benutzerdefinierte Karts aus dem "MyStuff"-Ordner
-trackorder :: Online-Strecken-Ordner :: Wähle aus, wie die Strecken im Online-Modus geordnet sein sollen.
-itmprb :: Verbessertes Item-Roulett :: Zeigt die wahren Wahrscheinlichkeiten für Items, anstatt zufällige Items. 
+cuskart :: Benutzerdefinierte Karts :: Lade benutzerdefinierte Karts, und deren Teile, aus dem MyStuff-Ordner.
+trackorder :: Online-Strecken-Ordner :: Wähle aus, wie benutzerdefinierte Strecken im Online-Modus geordnet sein sollen.
+itmprb :: Verbessertes Item-Roulett :: Zeigt die wahren Wahrscheinlichkeiten für Items an, anstelle von zufälligen Items.
 imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer Rampe drehen. 
 
 #Speedometer text
@@ -186,7 +186,7 @@ spd_type :: Typ
 spd_sunit :: Wähle eine Tachometer-Einheit.
 spd_stype :: Wähle einen Tachometer-Typ.
 spd_types1 :: Digital :: Analog
-spd_types2 :: Double Dash
+spd_types2 :: Double-Dash
 
 #CC Selector text
 cc_set :: CCM-Einstellungen
@@ -217,9 +217,9 @@ enhmap :: Verbesserte Karte :: Fügt eine Zoomfunktion der Karte hinzu. Sie kann
 
 #Custom character manager text
 char_select :: Wähle einen Fahrer, um ihn zu ändern.
-reboot_req :: (Neustart benötigt, um Änderungen zu\nspeichern.)
+reboot_req :: (Es wird ein Neustart benötigt, um\ndie Änderungen zu speichern.)
 char_replace :: Wähle einen neuen Fahrer für:\n
-green_info :: Grün → Momentan aktiv
+green_info :: Grün → Zurzeit aktiv
 
 #Online track order
 order_mode :: Normal :: Alphabetisch
@@ -246,24 +246,24 @@ OrderV :: Vertikale Folge
 NextRac :: Wähle die nächste Strecke.\nVerbleibende Rennen:
 
 #Reset Ghosts
-resghost :: Geist zurücksetzen :: Macht es möglich, den Geist einer Strecke zurückzusetzen.
+resghost :: Geist zurücksetzen :: Ermöglicht das Zurücksetzen des Geistes einer Strecke deiner Wahl.
 ghostseltrack :: Wähle die Strecke, dessen Geist zurück-\ngesetzt werden soll:
-ghostcantrecov :: Dieser Vorgang kann nicht mehr rückgängig\ngemacht werden.\nFortfahren? :: Der Geist wurde zurückgesetzt.
+ghostcantrecov :: Dieser Vorgang kann nicht mehr rückgängig\ngemacht werden.\nTrotzdem fortfahren? :: Der Geist wurde zurückgesetzt.
 
 #Server Settings
-servsett :: Server-Einstellungen :: CTGP-7-Server-bezogene Einstellungen.
+servsett :: Server-Einstellungen :: Einstellungen bezüglich des CTGP-7-Servers
 serv_consID :: CTGP-7-Geräte-ID
-serv_statsupl :: Statistik hochladen
+serv_statsupl :: Statistiken hochladen
 serv_displname :: Anzeigename :: Wähle einen Modus für den Anzeigenamen.
 serv_disphid :: Versteckt
 serv_dispmii :: Mii-Spitzname
 serv_dispcust :: Bitte gib einen Namen ein. :: Benutzerdef. Namen können nur bis zu\n15 Zeichen lang sein.
 
 #Statistics
-statsentry :: Lokale Statistik :: Hier siehst du deine lokale Statistik.
+statsentry :: Lokale Statistik :: Hier kannst du deine privaten Nutzungsstatistiken einsehen.
 stats_tpl :: Spiel gestartet
-stats_tot :: Gesamte Rennen offline :: Gesamte Rennen online
-stats_vnll :: Original
+stats_tot :: Gesamtanzahl der Offline-Rennen :: Gesamtanzahl der Online-Rennen
+stats_vnll :: Originale
 stats_most :: Meistgespielte Strecken :: Meistgespielte Wettkampf-Arenen
 
 #Discord
@@ -277,18 +277,17 @@ disc_data :: Account :: Spitzname
 disc_beta :: Berechtigt für private Betatests. :: Nicht berechtigt für private Betatests.
 
 #Render Optimizations
-render_optim :: Rendering-Optimierungen :: Deaktiviert den 3D-Modus für den Topscreen und wendet Verbesserungen für New Nintendo 3DS-Systeme an.
+render_optim :: Rendering-Optimierungen :: Deaktiviert den 3D-Modus des Topscreens und wendet CPU-Erweiterungen auf New Nintendo 3DS-Systemen an.
 
 #Missions
 ms_miss :: Missionen
-ms_desc :: Stelle dich speziellen Herausforderungen.
+ms_desc :: Stelle dich speziellen Herausforderungen!
 ms_selmiss :: Mission wählen
 ms_rcrd :: Rekord
 ms_gradelim :: Max.-Note :: Min.-Note
 ms_timescor :: Zeit :: Punkte
 ms_failed :: Mission fehlgeschlagen!
 ms_nodata :: Keine Daten
-ms_pointsshort :: Pkte.
 ms_delsave :: (Löschen: \uE002) :: Speicherdaten dieser Mission löschen?
 msstat_msnplay :: Gespielte Missionen
 msstat_state :: Abgeschlossen :: Fehlgeschlagen

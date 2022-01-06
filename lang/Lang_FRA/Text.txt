@@ -64,7 +64,7 @@ $710077 :: Plage Volc. en Ruines
 $700019 :: Coupe Plume
 $710078 :: \uE026\uE027 Circuit Yoshi
 $710079 :: \uE024\uE025 Circuit Peach
-$710080 :: Métro Madness
+$710080 :: Métro en Folie
 $710081 :: \uE024\uE025 Circuit Luigi
 
 #Fire Cup
@@ -86,7 +86,7 @@ $700022 :: Coupe Cerise
 $710090 :: \uE031\uE032 Circuit Mario 3
 $710091 :: Big Blue
 $710092 :: \uE024\uE025 Plage Maskass
-$710093 :: Bingo Party
+$710093 :: Fête du Bingo
 
 #Coin Cup
 $700023 :: Coupe Pièce
@@ -111,7 +111,7 @@ $710101 :: Mine de Glacier
 
 #Mega Cup
 $700025 :: Coupe Méga
-$710102 :: Forteresse de Fleurs
+$710102 :: Forteresse Fleurie
 $710103 :: Palais Balnéaire
 $710104 :: DKR Ville Lumière
 $710105 :: Montagne Champignon
@@ -119,7 +119,7 @@ $710105 :: Montagne Champignon
 #Propeller Cup
 $700026 :: Coupe Hélice
 $710106 :: \uE022\uE023 Royaume Sorbet
-$710107 :: Île de Bloc
+$710107 :: Île Bloc
 $710108 :: \uE033 Château de Bowser
 $710109 :: DKR Jungle aux Cascades
 
@@ -131,10 +131,10 @@ $710112 :: \uE024\uE025 Bord du Lac
 $710113 :: Cimetière du Dragon
 
 #Save Data
-%7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
-%7003 :: Création du fichier\nde sauvegarde...
-%7004 :: Le fichier de sauvegarde\na été créé.
-%7007 :: Les données de sauvergarde\n de Mario Kart 7 n'existent\npas, veuillez lancer le jeu pour\n générer les données de sauvegarde.\nAppuyez sur le bouton POWER.
+$7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
+$7003 :: Création du fichier\nde sauvegarde...
+$7004 :: Le fichier de sauvegarde\na été créé.
+$7007 :: Les données de sauvergarde\n de Mario Kart 7 n'existent\npas, veuillez lancer le jeu pour\n générer les données de sauvegarde.\nAppuyez sur le bouton POWER.
 
 #First opening welcome message
 welc_t :: Bienvenue sur CTGP-7 !
@@ -288,7 +288,6 @@ ms_gradelim :: Note min. :: Note max.
 ms_timescor :: Temps :: Score
 ms_failed :: Mission échouée
 ms_nodata :: Aucune donnée
-ms_pointsshort :: pts.
 ms_delsave :: (Suppr. record : \uE002) :: Souhaitez-vous supprimer le record de cette mission ?
 msstat_msnplay :: Missions jouées
 msstat_state :: Terminées :: Échouées

@@ -131,10 +131,10 @@ $710112 :: \uE024\uE025 Parco Lungolago
 $710113 :: Sepolcro del Drago
 
 #Save Data
-%7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
-%7003 :: Creazione dei dati di salvataggio...
-%7004 :: I Dati di salvataggio\nsono stati creati.
-%7007 :: Il file di salvataggio di\nMario Kart 7 non esistono,\nper favore, avvia il gioco per\ncreare un nuovo salvataggio.\n\nPremi il tasto POWER.
+$7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
+$7003 :: Creazione dei dati di salvataggio...
+$7004 :: I Dati di salvataggio\nsono stati creati.
+$7007 :: Il file di salvataggio di\nMario Kart 7 non esistono,\nper favore, avvia il gioco per\ncreare un nuovo salvataggio.\n\nPremi il tasto POWER.
 
 #First opening welcome message
 welc_t :: Benvenuto a CTGP-7
@@ -288,7 +288,6 @@ ms_gradelim :: Grado Max. :: Grado Min.
 ms_timescor :: Tempo :: Punteggio
 ms_failed :: Missione fallita!
 ms_nodata :: Nessun dato
-ms_pointsshort :: pts.
 ms_delsave :: (Elimina dati: \uE002) :: Eliminare i dati salvati di questa missione?
 msstat_msnplay :: Missioni giocate
 msstat_state :: Completate :: Fallite
