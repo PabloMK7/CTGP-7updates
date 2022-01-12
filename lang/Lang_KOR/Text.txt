@@ -281,7 +281,7 @@ render_optim :: 렌더링 최적화 :: 상단 스크린의 3D 모드를 비활�
 
 #Missions
 ms_miss :: 미션
-ms_desc :: 챌린지를 완수하고 최고의 등급을 얻으세요.
+ms_desc :: 챌린지를 완수하고 최고의 등급을 얻는 것에 도전합니다
 ms_selmiss :: 미션 선택
 ms_rcrd :: 기록
 ms_gradelim :: 최대 등급 :: 최소 등급
