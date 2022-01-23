@@ -77,4 +77,5 @@ Gurē Kitsune=Translation, Ice Mario
 Klarineus=Translation
 Yawshi=Translation, CT dev
 CyberYoshi64=Translation
+sjk=Translation
 You=CTGP-7 Player
