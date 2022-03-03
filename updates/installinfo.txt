@@ -1,4 +1,4 @@
-S/3000000000
+S/6000000000
 M/cia/tooInstall.3dsx
 M/cia/tooInstall.cia
 M/config/expectedVer.bin
