@@ -664,6 +664,7 @@ M/MyStuff/Languages/Lang_SPA/trophy-es.szs
 M/MyStuff/Languages/Lang_SPA.ini
 M/MyStuff/musicSlotsUser.ini
 M/MyStuff/stream/empty.txt
+M/resources/courseCredits.ini
 M/resources/CTGP-7.3gx
 M/resources/CTGP-7.sarc
 M/resources/empty.ips
