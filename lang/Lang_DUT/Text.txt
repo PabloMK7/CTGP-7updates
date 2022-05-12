@@ -159,6 +159,7 @@ race_noun :: Race
 state_mode :: Aan :: Uit
 state_inf :: Zet aan :: Zet uit
 allow_inf :: Toestaan :: Weigeren
+valid_inf :: Geldig :: Ongeldig
 num_betw :: Nummer moet tussen %d en %d zitten.
 settings :: Instellingen
 exit :: Terug
@@ -254,7 +255,7 @@ ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :
 servsett :: Serverinstellingen :: CTGP-7 server gerelateerde instellingen
 serv_consID :: CTGP-7 ConsoleID
 serv_statsupl :: Statistieken uploaden
-serv_displname :: Namen tonen :: Selecteer de modus voor het tonen van namen.
+serv_displname :: Namen tonen :: Selecteer de modus voor het tonen van\nnamen.
 serv_disphid :: Verborgen
 serv_dispmii :: Mii Naam
 serv_dispcust :: Voer aangepaste naam in. :: Naam kan maar 15\nkarakters lang zijn.
@@ -293,3 +294,6 @@ msstat_msnplay :: Missies gespeeld
 msstat_state :: Voltooid :: Gefaald
 msstat_perfgrad :: (met perfecte rang)
 msstat_usermsn :: Eigen missies
+
+#Course Checksum
+course_check :: Circuit Checksum

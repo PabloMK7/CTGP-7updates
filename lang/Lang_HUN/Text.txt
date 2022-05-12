@@ -159,6 +159,7 @@ race_noun :: Verseny
 state_mode :: Engedélyezve :: Letiltva
 state_inf :: Engedélyezés :: Letiltás
 allow_inf :: Engedélyezés :: Megtiltás
+valid_inf :: Valid :: Invalid
 num_betw :: Az értéknek %d és %d között kell lennie.
 settings :: Beállítások
 exit :: Kilépés
@@ -293,6 +294,9 @@ msstat_msnplay :: Játszott küldetések
 msstat_state :: Sikeres :: Sikertelen
 msstat_perfgrad :: (hibátlanul)
 msstat_usermsn :: Egyéni küldetések
+
+#Course Checksum
+course_check :: Course Checksum
 
 #Characters
 $1000 :: Mario
@@ -437,7 +441,7 @@ $1704 :: \uE033 Luigi kúriája
 $1705 :: \uE033 Waluigi flipper
 $1706 :: \uE033 DK-szoros
 $1707 :: \uE033 Léghajó vár
-$1708 :: \uE067 Kókusz áruház
+$1708 :: \uE067 Kókusz Áruház
 $1709 :: \uE067 Koopa-fok
 $1710 :: \uE067 Juhar fasor
 $1711 :: \uE067 Gomba-torok

@@ -159,6 +159,7 @@ race_noun :: Gara
 state_mode :: Abilitato :: Disabilitato
 state_inf :: Abilita :: Disabilita
 allow_inf :: Consenti :: Impedisci
+valid_inf :: Valoido :: Non valido
 num_betw :: Il numero deve essere compreso tra %d e %d.
 settings :: Impostazioni
 exit :: Esci
@@ -293,3 +294,6 @@ msstat_msnplay :: Missioni giocate
 msstat_state :: Completate :: Fallite
 msstat_perfgrad :: (con grado perfetto)
 msstat_usermsn :: Missioni utente
+
+#Course Checksum
+course_check :: Checksum della pista
