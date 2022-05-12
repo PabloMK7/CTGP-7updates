@@ -159,6 +159,7 @@ race_noun :: Race
 state_mode :: Enabled :: Disabled
 state_inf :: Enable :: Disable
 allow_inf :: Allow :: Disallow
+valid_inf :: Valid :: Invalid
 num_betw :: Number must be between %d and %d.
 settings :: Settings
 exit :: Exit
@@ -293,3 +294,6 @@ msstat_msnplay :: Missions Played
 msstat_state :: Completed :: Failed
 msstat_perfgrad :: (with perfect grade)
 msstat_usermsn :: User Missions
+
+#Course Checksum
+course_check :: Course Checksum

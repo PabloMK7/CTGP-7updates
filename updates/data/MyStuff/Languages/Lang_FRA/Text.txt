@@ -159,6 +159,7 @@ race_noun :: Course
 state_mode :: Activé :: Désactivé
 state_inf :: Activer :: Désactiver
 allow_inf :: Autoriser :: Refuser
+valid_inf :: Valide :: Invalide
 num_betw :: La valeur doit être comprise entre %d et %d.
 settings :: Paramètres
 exit :: Fermer
@@ -208,7 +209,7 @@ code :: Code
 
 #Change Round Number
 chgrnd :: Changer le nombre de manches :: Change le nombre des manches dans les modes Course VS et Bataille.
-chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode Course VS ou Bataille.\n(Notez que ceci ne fonctionne pas en\nmode téléchargement. En multijoueur local, tout le monde\ndoit avoir les mêmes paramètres.)
+chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode Course VS ou Bataille.\n(Notez que ceci ne fonctionne pas en\nmode téléchargement. En multijoueur local,\ntout le monde doit avoir les mêmes\nparamètres.)
 rounds :: Manches
 rnd_sel :: Choisissez le nombre de manches souhaité.
 
@@ -217,9 +218,9 @@ enhmap :: Carte améliorée :: Ajoute une option de zoom pour la carte en toucha
 
 #Custom character manager text
 char_select :: Sélectionnez un personnage à configurer.
-reboot_req :: (Redémarrage nécessaire pour appliquer les changements.)
+reboot_req :: (Redémarrage nécessaire pour appliquer\nles changements.)
 char_replace :: Sélectionnez un personnage customisé pour :\n
-green_info :: L'entrée en verte est celle actuellement activée.
+green_info :: L'entrée en verte est celle actuellement\nactivée.
 
 #Online track order
 order_mode :: Par défaut :: Alphabétique
@@ -257,7 +258,7 @@ serv_statsupl :: Envoie des statistiques
 serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
 serv_dispmii :: Nom de Mii
-serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au maximum.
+serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au\nmaximum.
 
 #Statistics
 statsentry :: Statistiques locales :: Consultez vos statistiques privées de CTGP-7 ici.
@@ -293,3 +294,6 @@ msstat_msnplay :: Missions jouées
 msstat_state :: Terminées :: Échouées
 msstat_perfgrad :: (avec la meilleure note)
 msstat_usermsn :: Missions de l'utilisateur
+
+#Course Checksum
+course_check :: Checksum du circuit

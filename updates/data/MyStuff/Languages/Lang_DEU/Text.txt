@@ -159,6 +159,7 @@ race_noun :: Rennen
 state_mode :: Aktiviert :: Deaktiviert
 state_inf :: Aktivieren :: Deaktivieren
 allow_inf :: Erlauben :: Verbieten
+valid_inf :: Gültig :: Ungültig
 num_betw :: Anzahl muss zwischen %d und %d sein.
 settings :: Einstellungen
 exit :: Zurück
@@ -172,12 +173,12 @@ other_folder :: Andere Optionen :: Andere Optionen und Funktionen.
 spdmeter :: Tachometer :: Zeigt ein Tachometer in der rechten unteren Ecke des Topscreens.
 ccsel :: CCM-Einstellungen :: Setzt den aktuelen Hubraum auf einen bestimmten Wert. (Muss geändert werden, bevor ein Rennen beginnt).
 itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer benutzt wird und gelb, wenn ein Blitz benutzt wird.
-backcam :: Rückspiegel :: Drücke \uE002, um zu sehen, was hinter dir ist, wie in anderen Mario Kart-Spielen! (Bedenke, dass der \uE002-Knopf wird keine Items mehr aktivieren wird.)
+backcam :: Rückspiegel :: Drücke \uE002, um zu sehen, was hinter dir ist, wie in anderen Mario Kart-Spielen! (Bedenke, dass der \uE002-Knopf keine Items mehr aktivieren wird.)
 charman :: Benutzerdef.-Fahrer-Einstellungen :: Wechsle zwischen originalen und neuen Fahrern.
 cuskart :: Benutzerdefinierte Karts :: Lade benutzerdefinierte Karts, und deren Teile, aus dem MyStuff-Ordner.
-trackorder :: Online-Strecken-Ordner :: Wähle aus, wie benutzerdefinierte Strecken im Online-Modus geordnet sein sollen.
+trackorder :: Online-Strecken-Reihenfolge :: Wähle aus, wie benutzerdefinierte Strecken im Online-Modus geordnet sein sollen.
 itmprb :: Verbessertes Item-Roulett :: Zeigt die wahren Wahrscheinlichkeiten für Items an, anstelle von zufälligen Items.
-imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer Rampe drehen. 
+imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer Rampe drehen. Ändere deren Richtung mit dem \uE077 Circle Pad.
 
 #Speedometer text
 spd_set :: Tachometer-Einstellungen
@@ -189,7 +190,7 @@ spd_types1 :: Digital :: Analog
 spd_types2 :: Double-Dash
 
 #CC Selector text
-cc_set :: CCM-Einstellungen
+cc_set :: CCM-Hubraum-Einstellungen
 cc_val :: Wert
 cc_entv :: Wähle einen neuen CCM-Wert.
 cc_chgv :: Wert ändern
@@ -197,7 +198,7 @@ cc_chgv :: Wert ändern
 #Course Manager
 track_ct :: Benutzerdefinierte Strecken
 track_ori :: Originale Strecken
-ct_endis :: Benutzerdefinierte Strecken aktiviert :: Benutzerdefinierte Strecken deaktiviert
+ct_endis :: Benutzerdef. Strecken aktiviert :: Benutzerdef. Strecken deaktiviert
 ori_endis :: Originale Strecken aktiviert :: Originale Strecken deaktiviert
 
 #Community Code Generator
@@ -208,16 +209,16 @@ code :: Code
 
 #Change Round Number
 chgrnd :: Rundenanzahl ändern :: Ändert die Rundenzahl im VS- und im Wettkampf-Modus.
-chgrnd_desc :: Wähle die Anzahl an Runden,\ndie gespielt werden soll.\nHINWEIS: Dies funktioniert nicht im Download-Spiel.\nIm lokalen Mehrspieler muss jeder die-\nselben Einstellungen haben.
+chgrnd_desc :: Wähle die Anzahl an Runden,\ndie gespielt werden soll.\nHINWEIS: Diese Option funktioniert nicht\nim Download-Spiel.\nIm lokalen Mehrspieler muss jeder die-\nselben Einstellungen haben.
 rounds :: Runden
 rnd_sel :: Wähle die Anzahl der Runden.
 
 #Enhanced Local Map
-enhmap :: Verbesserte Karte :: Fügt eine Zoomfunktion der Karte hinzu. Sie kann mit dem \uE058 Touchscreen verwendet werden.
+enhmap :: Verbesserte Karte :: Fügt der Karte eine Zoomfunktion hinzu. Diese kann mit dem Touchscreen verwendet werden.
 
 #Custom character manager text
 char_select :: Wähle einen Fahrer, um ihn zu ändern.
-reboot_req :: (Es wird ein Neustart benötigt, um\ndie Änderungen zu speichern.)
+reboot_req :: (Es wird ein Neustart benötigt, um\njegliche Änderungen zu speichern.)
 char_replace :: Wähle einen neuen Fahrer für:\n
 green_info :: Grün → Zurzeit aktiv
 
@@ -226,7 +227,7 @@ order_mode :: Normal :: Alphabetisch
 
 #Online update check
 update_check :: Nach Updates wird gesucht... :: Die neueste Version von CTGP-7\nwird benötigt, um online\nspielen zu können.
-fail_conn :: Fehler bei der Verbindung\nzum CTGP-7-Server.\n\nVersuche es später erneut.
+fail_conn :: Fehler bei der Verbindung\nzum CTGP-7-Server.\n\nVersuche es erneut später.
 
 #CTWW
 cntdwn :: Countdown-Rennen
@@ -277,7 +278,7 @@ disc_data :: Account :: Spitzname
 disc_beta :: Berechtigt für private Betatests. :: Nicht berechtigt für private Betatests.
 
 #Render Optimizations
-render_optim :: Rendering-Optimierungen :: Deaktiviert den 3D-Modus des Topscreens und wendet CPU-Erweiterungen auf New Nintendo 3DS-Systemen an.
+render_optim :: Rendering-Optimierungen :: Deaktiviert den 3D-Modus des Topscreens und wendet CPU-Erweiterungen für New Nintendo 3DS-Systeme an.
 
 #Missions
 ms_miss :: Missionen
@@ -288,8 +289,11 @@ ms_gradelim :: Max.-Note :: Min.-Note
 ms_timescor :: Zeit :: Punkte
 ms_failed :: Mission fehlgeschlagen!
 ms_nodata :: Keine Daten
-ms_delsave :: (Löschen: \uE002) :: Speicherdaten dieser Mission löschen?
+ms_delsave :: (Löschen: \uE002) :: Möchtest du wirklich die Speicherdaten\ndieser Mission löschen?
 msstat_msnplay :: Gespielte Missionen
 msstat_state :: Abgeschlossen :: Fehlgeschlagen
 msstat_perfgrad :: (mit perfekter Note)
 msstat_usermsn :: Benutzer-Missionen
+
+#Course Checksum
+course_check :: Kurs-Prüfsumme

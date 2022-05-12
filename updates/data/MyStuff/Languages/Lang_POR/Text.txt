@@ -159,6 +159,7 @@ race_noun :: Corrida
 state_mode :: Ativado :: Desativado
 state_inf :: Ativar :: Desativar
 allow_inf :: Permitir :: Não Permitir
+valid_inf :: Válido :: Inválido
 num_betw :: O número tem de estar entre %d e %d.
 settings :: Opções
 exit :: Sair
@@ -208,7 +209,7 @@ code :: Código
 
 #Change Round Number
 chgrnd :: Alterar o número de rondas :: Altera o número de rondas nos modos VS ou batalha.
-chgrnd_desc :: Selecione o número de rondas a serem\njogadas nos modos VS ou batalha.\nNOTE: Não funciona no modo download.\nNo modo de multijogador local, todos os jogadores têm\nde ter as mesmas definições.
+chgrnd_desc :: Selecione o número de rondas a serem\njogadas nos modos VS ou batalha.\nNOTE: Não funciona no modo download.\nNo modo de multijogador local, todos os\njogadores têm de ter as mesmas\ndefinições.
 rounds :: Rondas
 rnd_sel :: Selecione o número de rondas.
 
@@ -293,3 +294,6 @@ msstat_msnplay :: Missões Jogadas
 msstat_state :: Completadas :: Fracassadas
 msstat_perfgrad :: (com nota máxima)
 msstat_usermsn :: Missões do usuário
+
+#Course Checksum
+course_check :: Checksum de pista

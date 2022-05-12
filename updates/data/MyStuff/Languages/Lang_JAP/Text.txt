@@ -159,6 +159,7 @@ race_noun :: レース
 state_mode :: 有効 :: 無効
 state_inf :: 有効 :: 無効
 allow_inf :: 許可する :: 許可しない
+valid_inf :: ゆうこう :: むこう
 num_betw :: 値は%d - %dの間でなければなりません。
 settings :: 設定
 exit :: 戻る
@@ -231,7 +232,7 @@ fail_conn :: CTGP-7サーバーとの\nせつぞくにしっぱいしました�
 #CTWW
 cntdwn :: カウントダウン
 ctww :: CTWW
-CTWWtog :: カスタムトラックを\n有効にしますか？ :: カスタムトラックを\n無効にしますか？
+CTWWtog :: CTWWを\n有効にしますか？ :: CTWWを\n無効にしますか？
 
 #VS Mode
 VSSet :: VS設定
@@ -270,7 +271,7 @@ stats_most :: 最もプレイしたコース :: 最もプレイしたバトル�
 disc_info :: Discord情報
 disc_notlink :: この本体はDiscord\nアカウントに連携されていません。\n\nアカウントを連携しますか？
 disc_linksteps1 :: 次の手順に従ってDiscord\nアカウントを連携します:
-disc_linksteps2 :: 1. CTGP-7 Discord serverに入る。\n(リンク: invite.gg/ctgp7)
+disc_linksteps2 :: 1. CTGP-7 Discordサーバーに入る。\n(リンク: invite.gg/ctgp7)
 disc_linksteps3 :: 2. \#botsチャンネルに移動する。
 disc_linksteps4 :: 3. 次のメッセージを送信する:
 disc_data :: アカウント :: ニックネーム
@@ -293,3 +294,6 @@ msstat_msnplay :: プレイしたミッション
 msstat_state :: 成功 :: 失敗
 msstat_perfgrad :: (パーフェクトグレード)
 msstat_usermsn :: ユーザーミッション
+
+#Course Checksum
+course_check :: トラックチェックサム

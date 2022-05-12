@@ -159,6 +159,7 @@ race_noun :: Carrera
 state_mode :: Activat :: Desactivat
 state_inf :: Activar :: Desactivar
 allow_inf :: Permetre :: No permetre
+valid_inf :: Vàlid :: Invàlid
 num_betw :: El nombre ha de ser entre %d i %d.
 settings :: Opcions
 exit :: Sortir
@@ -177,7 +178,7 @@ charman :: Gestor de Personatges :: Tria entre personatges editats o originals.
 cuskart :: Karts Editats :: Carrega karts editats des de la carpeta MyStuff.
 trackorder :: Ordre de Circuits :: Tria com s'ordenen els circuits en línia.
 itmprb :: Ruleta d'Objectes Millorada :: Mostra les probabilitats reals a la ruleta d'objectes en comptes d'objectes aleatoris.
-imtrick :: Trucs Millorats :: Els karts giraran sobre si mateixos al fer un truc en una rampa amb panell turbo. Utilitza el \ uE077 Circle Pad per canviar la direcció de rotació.
+imtrick :: Trucs Millorats :: Els karts giraran sobre si mateixos al fer un truc en una rampa amb panell turbo. Utilitza el \uE077 Circle Pad per canviar la direcció de rotació.
 
 #Speedometer text
 spd_set :: Opcions de Velocímetre.
@@ -293,6 +294,9 @@ msstat_msnplay :: Missions jugades
 msstat_state :: Completades :: Fallides
 msstat_perfgrad :: (amb màxima nota)
 msstat_usermsn :: Missions de l'usuari
+
+#Course Checksum
+course_check :: Checksum del circuit
 
 #Characters
 $1000 :: Mario

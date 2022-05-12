@@ -159,7 +159,7 @@ race_noun :: Gara
 state_mode :: Abilitato :: Disabilitato
 state_inf :: Abilita :: Disabilita
 allow_inf :: Consenti :: Impedisci
-valid_inf :: Valoido :: Non valido
+valid_inf :: Valido :: Non valido
 num_betw :: Il numero deve essere compreso tra %d e %d.
 settings :: Impostazioni
 exit :: Esci
