@@ -539,9 +539,9 @@ M/MyStuff/Characters/Waluigi/menuSoundData.ips
 M/MyStuff/Characters/Waluigi/stdWingColor.ips
 M/MyStuff/Characters/Waluigi/UI.sarc
 M/MyStuff/Characters/Waluigi/voiceSoundData.ips
-M/MyStuff/courseDebugSlot.ini
 M/MyStuff/Courses/README.txt
 M/MyStuff/CourseTextures/README.txt
+M/MyStuff/debugSkipConfig.ini
 M/MyStuff/Karts/Kart/Body/body_egg/body_egg.bcmdl
 M/MyStuff/Karts/Kart/Body/body_egg_lod/body_egg_lod.bcmdl
 M/MyStuff/Karts/Kart/Body/body_gng/body_gng.bcmdl
