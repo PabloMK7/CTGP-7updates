@@ -266,6 +266,7 @@ stats_tpl :: Times Played
 stats_tot :: Total Offline Races :: Total Online Races
 stats_vnll :: Vanilla
 stats_most :: Most Played Tracks :: Most Played Battle Arenas
+stats_rpoints :: Race Points
 
 #Discord
 disc_info :: Discord Info

@@ -266,6 +266,7 @@ stats_tpl :: Horas jogadas
 stats_tot :: Total de Corridas Offline  :: Total de Corridas Online
 stats_vnll :: Vanilla
 stats_most :: Pistas mais jogadas :: Arenas mais jogadas
+stats_rpoints :: Pontos de corrida
 
 #Discord
 disc_info :: Informação Discord

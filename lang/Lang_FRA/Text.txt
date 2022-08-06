@@ -266,6 +266,7 @@ stats_tpl :: Nombre de fois joué
 stats_tot :: Parties local :: Parties en ligne
 stats_vnll :: Original
 stats_most :: Circuits les plus joués :: Arènes batailles les plus jouées
+stats_rpoints :: Points de course
 
 #Discord
 disc_info :: Information Discord

@@ -266,6 +266,7 @@ stats_tpl :: Játékok száma
 stats_tot :: Offline versenyek száma :: Online versenyek száma
 stats_vnll :: Alappályák
 stats_most :: Legtöbbet játszott pályák :: Legtöbbet játszott csatapályák
+stats_rpoints :: Versenypontok
 
 #Discord
 disc_info :: Discord információ

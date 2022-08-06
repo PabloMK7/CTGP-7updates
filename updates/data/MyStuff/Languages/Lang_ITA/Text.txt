@@ -266,6 +266,7 @@ stats_tpl :: Volte giocato
 stats_tot :: Gare Offline in Totale ::  Gare Online in Totale
 stats_vnll :: Normale
 stats_most :: Percorsi giocati di più :: Arene giocate di più
+stats_rpoints :: Punti di gara
 
 #Discord
 disc_info :: Informazioni Discord

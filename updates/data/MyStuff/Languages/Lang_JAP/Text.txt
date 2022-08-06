@@ -159,7 +159,7 @@ race_noun :: レース
 state_mode :: 有効 :: 無効
 state_inf :: 有効 :: 無効
 allow_inf :: 許可する :: 許可しない
-valid_inf :: ゆうこう :: むこう
+valid_inf :: 有効 :: 無効
 num_betw :: 値は%d - %dの間でなければなりません。
 settings :: 設定
 exit :: 戻る
@@ -266,6 +266,7 @@ stats_tpl :: プレイ回数
 stats_tot :: オフラインレースの合計 :: オンラインレースの合計
 stats_vnll :: 通常
 stats_most :: 最もプレイしたコース :: 最もプレイしたバトルステージ
+stats_rpoints :: レースポイント
 
 #Discord
 disc_info :: Discord情報

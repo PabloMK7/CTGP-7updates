@@ -266,6 +266,7 @@ stats_tpl :: Vegades que s'ha jugat
 stats_tot :: Carreres totals fora de línia :: Carreres totals en línia
 stats_vnll :: Vanilla
 stats_most :: Circuits més jugats :: Estadis més jugats
+stats_rpoints :: Punts de carrera
 
 #Discord
 disc_info :: Informació de Discord

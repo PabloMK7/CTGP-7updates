@@ -266,6 +266,7 @@ stats_tpl :: Spiel gestartet
 stats_tot :: Gesamtanzahl der Offline-Rennen :: Gesamtanzahl der Online-Rennen
 stats_vnll :: Originale
 stats_most :: Meistgespielte Strecken :: Meistgespielte Wettkampf-Arenen
+stats_rpoints :: Rennpunkte
 
 #Discord
 disc_info :: Discord-Informationen

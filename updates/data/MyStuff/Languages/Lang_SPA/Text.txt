@@ -266,6 +266,7 @@ stats_tpl :: Veces jugadas
 stats_tot :: Carreras totales fuera de línea :: Carreras totales en línea
 stats_vnll :: Vanilla
 stats_most :: Circuitos más jugados :: Arenas más jugadas
+stats_rpoints :: Puntos de carrera
 
 #Discord
 disc_info :: Información de Discord

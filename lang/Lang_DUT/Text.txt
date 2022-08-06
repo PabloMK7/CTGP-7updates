@@ -85,7 +85,7 @@ $710089 :: Revo-Circuit
 $700022 :: Kersenbeker
 $710090 :: \uE031\uE032 Mario's Circuit 3
 $710091 :: Big Blue
-$710092 :: \uE024\uE025 Shy Guy's Strand
+$710092 :: \uE024\uE025 Shy Guys Strand
 $710093 :: Bingo Party
 
 #Coin Cup
@@ -266,6 +266,7 @@ stats_tpl :: Keren gespeeld
 stats_tot :: Totale offline races :: Totale online races
 stats_vnll :: Origineel
 stats_most :: Meest gespeelde circuits :: Meest gespeelde arenas
+stats_rpoints :: Race punten
 
 #Discord
 disc_info :: Discordinformatie

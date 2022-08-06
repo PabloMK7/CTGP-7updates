@@ -159,7 +159,7 @@ race_noun :: 레이스
 state_mode :: 활성화됨 :: 비활성화됨
 state_inf :: 활성화 :: 비활성화
 allow_inf :: 허락 :: 거부
-valid_inf :: Valid :: Invalid
+valid_inf :: 유효 :: 무효
 num_betw :: 숫자가 %d와 %d 사이여야 합니다.
 settings :: 설정
 exit :: 나가기
@@ -266,6 +266,7 @@ stats_tpl :: 플레이 시간
 stats_tot :: 오프라인 레이스 합계 :: 온라인 레이스 합계
 stats_vnll :: 기본 코스
 stats_most :: 최다 플레이 코스 :: 최다 플레이 배틀 아레나
+stats_rpoints :: 레이스 포인트
 
 #Discord
 disc_info :: 디스코드 정보
@@ -296,4 +297,4 @@ msstat_perfgrad :: (퍼펙트 등급)
 msstat_usermsn :: 유저 미션
 
 #Course Checksum
-course_check :: Course Checksum
+course_check :: 코스 체크섬
