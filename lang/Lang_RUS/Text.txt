@@ -160,7 +160,7 @@ state_mode :: Включено :: Отключено
 state_inf :: Включить :: Отключить
 allow_inf :: Разрешить :: Запретить
 valid_inf :: Valid :: Invalid
-num_betw :: Число должно быть в районе от %d до%d.
+num_betw :: Число должно быть в районе от %d до %d.
 settings :: Настройки
 exit :: Выход
 

@@ -239,10 +239,10 @@ VSSet :: Impostazioni Modalità Sfida
 CourOrd :: Ordine piste
 RacAm :: Numero di gare
 CpuAm :: Giocatori CPU
-RanCT :: Casuali (Modificate)
+RanCT :: Casuali (Custom)
 RanOri :: Casuali (Originali)
 RanAll :: Casuali (Tutte)
-OrderH :: Ordine orzzontale
+OrderH :: Ordine orizzontale
 OrderV :: Ordine verticale
 NextRac :: Seleziona la prossima pista.\nGare rimanenti:
 
