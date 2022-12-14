@@ -671,10 +671,7 @@ M/resources/empty.ips
 M/resources/fiximg.bin
 M/resources/ghosts.bin
 M/resources/musicSlots.ini
-M/resources/pat/eur_rev0_v11_code.bin
-M/resources/pat/eur_rev1_code.bin
-M/resources/pat/jap_rev0_v11.bin
-M/resources/pat/jap_rev1_code.bin
-M/resources/pat/kor_rev1_code.bin
-M/resources/pat/usa_rev0_v11_code.bin
-M/resources/pat/usa_rev1_code.bin
+M/resources/pat/eur_rev2_code.bin
+M/resources/pat/jap_rev2_code.bin
+M/resources/pat/kor_rev2_code.bin
+M/resources/pat/usa_rev2_code.bin
