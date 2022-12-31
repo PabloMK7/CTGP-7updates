@@ -49,7 +49,7 @@ $710051 :: CTR Crash' Grot
 #Bullet Cup
 $700016 :: Bullet Bill-Beker
 $710056 :: CTR Cortex-Kasteel
-$710060 :: \uE033 Dokan Baan
+$710072 :: Ruimteweg
 $710061 :: \uE031\uE032 Choco-Eiland 2
 $710064 :: Sterrenhelling
 
@@ -99,7 +99,7 @@ $710073 :: Miku's Verjaardag Spec.
 $700017 :: Regenboogbeker
 $710070 :: \uE022\uE023 Regenboogbaan
 $710071 :: \uE024\uE025 Regenboogbaan
-$710072 :: Ruimteweg
+$710114 :: RMX Regenboogbaan 1
 $710097 :: Regenboogbaan DX
 
 #Pickaxe Cup
@@ -129,6 +129,20 @@ $710110 :: Retro Racebaan
 $710111 :: Bevroren Grot
 $710112 :: \uE024\uE025 Meerpark
 $710113 :: Drakenkerkhof
+
+#Rock Cup
+$700028 :: Rotsbeker
+$710060 :: Buizeneiland
+$710115 :: Neo-Metropool
+$710116 :: Kille Hoogtes
+$710117 :: Gnasty Gnorcs Hol
+
+#Moon Cup
+$700029 :: Maanbeker
+$710118 :: RMX Vanillemeer 1
+$710119 :: Klifcircuit
+$710120 :: Interstellair Lab
+$710121 :: Donkere Materie-Vesting
 
 #Save Data
 $7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt.
@@ -163,6 +177,8 @@ valid_inf :: Geldig :: Ongeldig
 num_betw :: Nummer moet tussen %d en %d zitten.
 settings :: Instellingen
 exit :: Terug
+default :: Standaard
+button :: Knop
 
 #Folders
 gameplay_folder :: Spelfuncties :: Configuratie voor aanvullende spelfuncties.
@@ -179,6 +195,8 @@ cuskart :: Nieuwe karts :: Laad nieuwe karts van de MyStuff map.
 trackorder :: Online circuitvolgorde :: Kies in welke volgorde de circuits in bekers online zitten.
 itmprb :: Verbeterde voorwerproulette :: Laat de echte voorwerpkansen zien op de voorwerproulette in plaats van willekeurige voorwerpen.
 imtrick :: Verbeterde springboosts ::  Karts gaan draaien tijdens een truc op een boost ramp. Gebruik de \uE077 Circle Pad om de draairichting te veranderen.
+autoaccel :: Auto-Acceleratie :: Wanneer op \uE000 of \uE003 wordt gedrukt, wordt auto-acceleratie aangezet totdat op \uE001 wordt gedrukt.
+imbrakedrift :: Verbeterde Rem-Drift :: Druk op \uE001 tijdens het driften om te remmen zonder jouw mini-turbo te verliezen.
 
 #Speedometer text
 spd_set :: Opties snelheidsmeter.
@@ -206,6 +224,7 @@ commugen :: Community-Code Generator :: Genereert een code gebaseerd op de huidi
 def_spd :: Standaard snelheid
 rand_tr :: Forceer willekeurige circuits
 code :: Code
+cusitem :: Nieuwe voorwerpen
 
 #Change Round Number
 chgrnd :: Verander aantal rondes :: Verandert het aantal rondes in races en gevechten.
@@ -221,9 +240,13 @@ char_select :: Selecteer een karakter om te configureren.
 reboot_req :: (Opnieuw opstarten nodig om veranderingen toe te passen.)
 char_replace :: Selecteer een karakter voor:\n
 green_info :: Groen → Huidige geactiveerde item.
+face_raider_sel :: Selecteer een gezicht
 
 #Online track order
 order_mode :: Standaard :: Alphabetisch
+
+#Auto Acceleration
+autoaccel_button :: Selecteer de knop die auto-\nacceleratie activeert.
 
 #Online update check
 update_check :: Zoeken naar updates... :: De nieuwste versie van CTGP-7\nis nodig om online te spelen.
@@ -245,6 +268,7 @@ RanAll :: Willekeurig (Alle)
 OrderH :: Horizontale volgorde
 OrderV :: Verticale volgorde
 NextRac :: Selecteer volgende circuit.\nOvergebleven races:
+extra_diff :: Erg Moeilijk :: EXTREEM
 
 #Reset Ghosts
 resghost :: Reset spook :: Staat het resetten van het spook toe op elk circuit.

@@ -12,7 +12,7 @@ $710044 :: Galvarnyfälle
 $710045 :: \uE024\uE025 Wolkenpiste
 
 #Acorn Cup
-$700011 :: Supereichel-Cup
+$700011 :: Eichel-Cup
 $710046 :: Herbstwald
 $710068 :: \uE024\uE025 Flussufer-Park
 $710043 :: \uE031\uE032 Marios Piste 1
@@ -49,7 +49,7 @@ $710051 :: CTR Crash-Bucht
 #Bullet Cup
 $700016 :: Kugelwilli-Cup
 $710056 :: CTR Burg Cortex
-$710060 :: \uE033 Dokan-Kurs
+$710072 :: Weltraumstraße
 $710061 :: \uE031\uE032 Schoko-Insel 2
 $710064 :: Sternenhang
 
@@ -82,7 +82,7 @@ $710088 :: \uE026\uE027 Baby-Park
 $710089 :: Revos Piste
 
 #Cherry Cup
-$700022 :: Doppelkirschen-Cup
+$700022 :: Kirsch-Cup
 $710090 :: \uE031\uE032 Marios Piste 3
 $710091 :: Big Blue
 $710092 :: \uE024\uE025 Shy Guy-Strand
@@ -99,7 +99,7 @@ $710073 :: Mikus Geburtstagsspek.
 $700017 :: Regenbogen-Cup
 $710070 :: \uE022\uE023 Regenbogen-Blvd.
 $710071 :: \uE024\uE025 Regenbogen-Blvd.
-$710072 :: Weltraumstraße
+$710114 :: RMX Regenbogen-Blvd. 1
 $710097 :: Regenbogen-Blvd. DX
 
 #Pickaxe Cup
@@ -110,7 +110,7 @@ $710100 :: \uE024\uE025 Zerstörter Pfad
 $710101 :: Gletscher-Mine
 
 #Mega Cup
-$700025 :: Megapilz-Cup
+$700025 :: Mega-Pilz-Cup
 $710102 :: Blumenbeet-Festung
 $710103 :: Palast am Meer
 $710104 :: DKR Sternenstadt
@@ -130,18 +130,32 @@ $710111 :: Frostgrotte
 $710112 :: \uE024\uE025 Seeufer-Park
 $710113 :: Drachengrabstätten
 
+#Rock Cup
+$700028 :: Fels-Cup
+$710060 :: Warp-Röhren-Insel
+$710115 :: Neo-Metropole
+$710116 :: Frostige Höhen
+$710117 :: Gnasty Gnorcs Versteck
+
+#Moon Cup
+$700029 :: Mond-Cup
+$710118 :: RMX Vanillesee 1
+$710119 :: Klippenpiste
+$710120 :: Interstellar-Labor
+$710121 :: Dunkelmaterien-Festung
+
 #Save Data
 $7005 :: Extradaten für CTGP-7 werden\njetzt auf der SD Card erstellt.
 $7003 :: Extradaten werden erstellt...
 $7004 :: Extradaten wurden erstellt.
-$7007 :: Es wurden keine Speicherdaten\nfür Mario Kart 7 gefunden.\nBitte starte das Spiel, um\ndiese Daten herzustellen.\n\nDrücke die POWER-Taste.
+$7007 :: Es wurden keine Speicherdaten\nfür Mario Kart 7 gefunden.\nBitte starte das Spiel, um\ndiese Daten herzustellen.\n\nDrücke den POWER-Knopf.
 
 #First opening welcome message
 welc_t :: Wilkommen bei CTGP-7!
 welc_1 :: Hallo!\nVom Ingame-Menü aus\nkannst du verschiedene\ninteressante Funktionen nutzen.\nZum Öffnen des Menüs,\ndrücke den SELECT-Knopf.
 welc_2 :: Um die Funktionen zu verwenden,\nwähle mit dem Zeiger einen\nEintrag aus und drücke A,\num es zu aktivieren oder zu\nkonfigurieren.
 welc_3 :: Beachte aber, dass manche Funk-\ntionen wie z.B. die CCM-Einstel-\nlungen nicht im Online-\nModus funktionieren.
-welc_4 :: Deine Statistiken werden auf\ndem CTGP-7-Server hochgeladen,\ndamit Sie jeder sehen kann.\n(Diese Daten bleiben anonym).\nIm Ingame-Menü kannst du\nden Daten-Upload ausschalten.
+welc_4 :: Deine Statistiken werden auf\ndem CTGP-7-Server hochgeladen,\ndamit Sie jeder sehen kann.\n(Diese Daten bleiben anonym.)\nIm Ingame-Menü kannst du\nden Daten-Upload ausschalten.
 welc_5 :: Durch das Nutzen des CTWWs\nakzeptierst du den Nutzerbedin-\ngungen.\nHier kannst du diese nachlesen:\nctgp-7.github.io/ctww.html
 welc_6 :: Schau auf dem\nCTGP-7-Discord-Server\nvorbei. Einladungslink:\ninvite.gg/ctgp7
 welc_7 :: Wir hoffen, dir gefällt der Mod!\n^w^
@@ -163,6 +177,8 @@ valid_inf :: Gültig :: Ungültig
 num_betw :: Anzahl muss zwischen %d und %d sein.
 settings :: Einstellungen
 exit :: Zurück
+default :: Standard
+button :: Knopf
 
 #Folders
 gameplay_folder :: Gameplay-Features :: Konfiguration für zusätzliche Gameplay-Features
@@ -179,6 +195,8 @@ cuskart :: Benutzerdefinierte Karts :: Lade benutzerdefinierte Karts, und deren 
 trackorder :: Online-Strecken-Reihenfolge :: Wähle aus, wie benutzerdefinierte Strecken im Online-Modus geordnet sein sollen.
 itmprb :: Verbessertes Item-Roulett :: Zeigt die wahren Wahrscheinlichkeiten für Items an, anstelle von zufälligen Items.
 imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer Rampe drehen. Ändere deren Richtung mit dem \uE077 Circle Pad.
+autoaccel :: Auto-Beschleunigung :: Das Drücken von \uE000 oder \uE003 aktiviert die automatische Beschleunigung, welche aktiv bleibt, bis \uE001 gedrückt wird.
+imbrakedrift :: Verbesserter Brems-Drift :: Halte \uE001 beim Driften, um zu bremsen, ohne deinen Mini-Turbo zu verlieren.
 
 #Speedometer text
 spd_set :: Tachometer-Einstellungen
@@ -206,6 +224,7 @@ commugen :: Community-Code-Generator :: Generiert einen Code, basierend auf den 
 def_spd :: Normale Geschwindigkeit
 rand_tr :: Zufällige Strecken erzwingen
 code :: Code
+cusitem :: Neue Items
 
 #Change Round Number
 chgrnd :: Rundenanzahl ändern :: Ändert die Rundenzahl im VS- und im Wettkampf-Modus.
@@ -220,10 +239,14 @@ enhmap :: Verbesserte Karte :: Fügt der Karte eine Zoomfunktion hinzu. Diese ka
 char_select :: Wähle einen Fahrer, um ihn zu ändern.
 reboot_req :: (Es wird ein Neustart benötigt, um\njegliche Änderungen zu speichern.)
 char_replace :: Wähle einen neuen Fahrer für:\n
-green_info :: Grün → Zurzeit aktiv
+green_info :: Grün → Zurzeit gewählter Eintrag
+face_raider_sel :: Wähle ein Gesicht
 
 #Online track order
 order_mode :: Normal :: Alphabetisch
+
+#Auto Acceleration
+autoaccel_button :: Wähle den Knopf, der die automatische Beschleunigung aktiviert.
 
 #Online update check
 update_check :: Nach Updates wird gesucht... :: Die neueste Version von CTGP-7\nwird benötigt, um online\nspielen zu können.
@@ -245,6 +268,7 @@ RanAll :: Zufall (Alle)
 OrderH :: Horizontale Folge
 OrderV :: Vertikale Folge
 NextRac :: Wähle die nächste Strecke.\nVerbleibende Rennen:
+extra_diff :: Sehr schwer :: EXTREM
 
 #Reset Ghosts
 resghost :: Geist zurücksetzen :: Ermöglicht das Zurücksetzen des Geistes einer Strecke deiner Wahl.

@@ -49,7 +49,7 @@ $710051 :: CTR Baía do Crash
 #Bullet Cup
 $700016 :: Taça Bala
 $710056 :: CTR Castelo de Cortex
-$710060 :: Curso Dokan \uE033
+$710072 :: Estrada Espacial
 $710061 :: Ilha Chocolate 2 \uE031\uE032
 $710064 :: Descida Estelar
 
@@ -99,7 +99,7 @@ $710073 :: Especial de Aniversário da Miku
 $700017 :: Taça Arco-íris
 $710070 :: Estrada Arco-íris \uE022\uE023 
 $710071 :: Estrada Arco-íris \uE024\uE025
-$710072 :: Estrada Espacial
+$710114 :: RMX Estrada Arco-íris 1
 $710097 :: Estrada Arco-íris DX
 
 #Pickaxe Cup
@@ -129,6 +129,20 @@ $710110 :: Pista Retro
 $710111 :: Gruta Gelada
 $710112 :: Parque Lacustre \uE024\uE025
 $710113 :: Cemitério de Dragões
+
+#Rock Cup
+$700028 :: Taça Pedra
+$710060 :: Ilha Cano
+$710115 :: Neo Metrópole
+$710116 :: Montanhas Geladas
+$710117 :: Lar de Gnasty Gnorc
+
+#Moon Cup
+$700029 :: Taça Lua
+$710118 :: RMX Lago Vanilla 1
+$710119 :: Circuito do Penhasco
+$710120 :: Laboratório Interestelar
+$710121 :: Fortaleza da Matéria Escura
 
 #Save Data
 $7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
@@ -163,6 +177,8 @@ valid_inf :: Válido :: Inválido
 num_betw :: O número tem de estar entre %d e %d.
 settings :: Opções
 exit :: Sair
+default :: Padrão 
+button :: Botão
 
 #Folders
 gameplay_folder :: Funcionalidades do jogo :: Configuração para recursos adicionais de jogabilidade.
@@ -179,6 +195,8 @@ cuskart :: Karts personalizados :: Carregar karts personalizados da pasta MyStuf
 trackorder :: Ordem de pistas online :: Escolha como as pistas serão organizadas em taças online.
 itmprb :: Roleta de Item Melhorada :: Mostra a probabilidade real de um item na roleta de item ao invés de itens aleatórios.
 imtrick :: Manobras Melhoradas ::  Os Karts irão rodopiar quando fizerem uma manobra em uma rampa. Use o \uE077 Painel Analógico para trocar as direções.
+autoaccel :: Aceleração Automática :: Pressionando \uE000 ou \uE003 irá ativar a aceleração automática até \uE001 ser pressionado.  
+imbrakedrift :: Freio de Drift Melhorado :: Segure \uE001 enquanto derrapa para freiar sem perder seu miniturbo.
 
 #Speedometer text
 spd_set :: Opções do velocímetro.
@@ -206,6 +224,7 @@ commugen :: Gerador de códigos da comunidade :: Gera um código baseado nas atu
 def_spd :: Velocidade padrão
 rand_tr :: Forçar pistas aleatórias
 code :: Código
+cusitem :: Itens personalizados
 
 #Change Round Number
 chgrnd :: Alterar o número de rondas :: Altera o número de rondas nos modos VS ou batalha.
@@ -221,9 +240,13 @@ char_select :: Selecione uma personagem para configurar.
 reboot_req :: (Reinício requerido para aplicar as definições.)
 char_replace :: Selecione uma personagem personalizada para:\n
 green_info :: Verde → Entrada atual ativada.
+face_raider_sel :: Selecione um rosto
 
 #Online track order
 order_mode :: Padrão :: Alfabético
+
+#Auto Acceleration
+autoaccel_button :: Selecione o botão que irá\nativar
 
 #Online update check
 update_check :: A procurar atualizações... :: A última versão do CTGP-7\né requerida para jogar online.
@@ -245,6 +268,7 @@ RanAll :: Aleatório (tudo)
 OrderH :: Ordem horizontal
 OrderV :: Ordem vertical
 NextRac :: Selecione a próxima pista.\nCorridas restantes:
+extra_diff :: Muito Difícil :: EXTREMO
 
 #Reset Ghosts
 resghost :: Reiniciar Corredor Fantasma :: Permite reiniciar o corredor fantasma de qualquer pista.
