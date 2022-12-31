@@ -713,6 +713,7 @@ M/MyStuff/Languages/Lang_SPA.ini
 M/MyStuff/musicSlotsUser.ini
 M/MyStuff/stream/empty.txt
 M/resources/courseCredits.ini
+M/resources/coursePreviews.sarc
 M/resources/CTGP-7.3gx
 C/resources/CTGP-7.3gx
 M/resources/CTGP-7.sarc
