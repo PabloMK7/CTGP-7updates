@@ -269,6 +269,9 @@ OrderH :: По горизонтали
 OrderV :: По вертикали
 NextRac :: Выбери следующую трассу.\nОсталось заездов:
 extra_diff :: Очень сложно :: ЭКСТРИМ
+cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
+item_mega :: Мегагриб
+item_fib :: Fake Item Box
 
 #Reset Ghosts
 resghost :: Сброс призрака :: Позволяет сбросить призрака любой трассы.

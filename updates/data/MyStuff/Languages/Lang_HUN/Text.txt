@@ -269,6 +269,9 @@ OrderH :: Balról jobbra
 OrderV :: Felülről lefelé
 NextRac :: Válaszd ki a következő pályát.\nHátralévő versenyek száma:
 extra_diff :: Nagyon nehéz :: EXTRÉM
+cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
+item_mega :: Mega Mushroom
+item_fib :: Fake Item Box
 
 #Reset Ghosts
 resghost :: Szellem visszaállítása :: Alaphelyzetbe állít egy szellemet akármelyik pályán.

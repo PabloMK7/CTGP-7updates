@@ -167,7 +167,7 @@ state :: Estat
 next :: Següent
 select :: Seleccionar
 chng :: Canviar
-custom :: Customitzat
+custom :: Personalitzat
 page :: Pàgina
 race_noun :: Carrera
 state_mode :: Activat :: Desactivat
@@ -269,6 +269,9 @@ OrderH :: Ordre Horitzontal
 OrderV :: Ordre Vertical
 NextRac :: Tria el próxim circuit.\nRondes restants:
 extra_diff :: Molt Difícil :: EXTREM
+cusitem_notice :: NOTA: L'objecte per omissió (%s) pot continuar apareixent en alguns casos.
+item_mega :: Mega Xampinyó
+item_fib :: Bloc Sorpresa
 
 #Reset Ghosts
 resghost :: Resetejar Corredor Fantasma :: Permitix resetejar el corredor fantasma de qualsevol circuit.

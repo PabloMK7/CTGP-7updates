@@ -134,7 +134,7 @@ $710113 :: Cimetière du Dragon
 $700028 :: Coupe Pierre
 $710060 :: Île Tuyau
 $710115 :: Neopolis 
-$710116 :: Sommet Grivé
+$710116 :: Sommet Givré
 $710117 :: Repère de Gnasty Gnorc
 
 #Moon Cup
@@ -188,7 +188,7 @@ other_folder :: Paramètres supplémentaires :: Paramètres contrôlant d'autres
 #Entries
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran supérieur.
 ccsel :: Sélecteur de CC :: Règle les CC à la valeur souhaitée (doit être activée avant de commencer une course).
-itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée, en jaune lorsqu'un éclair est utilisé etc...
+itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée et en jaune lorsqu'un éclair est utilisé.
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Notez que vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
 charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
@@ -196,7 +196,7 @@ trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes po
 itmprb :: Roulette d'objet améliorée :: À la place de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
 imtrick :: Sauts améliorés :: Les sauts effectués sur certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
 autoaccel :: Accélération auto :: Appuyez sur \uE000 ou \uE003 pour activer l'accélération auto. Pour la désactiver, appuyez sur \uE001.  
-imbrakedrift :: Amélioration du freinage en dérapant :: Maintenez \uE001 en dérapant pour freiner sans perdre votre mini-turbo. (Comme dans Mario Kart 8 Deluxe)
+imbrakedrift :: Amélioration du freinage en dérapant :: Maintenez \uE001 en dérapant pour freiner sans perdre votre mini-turbo.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -269,6 +269,9 @@ OrderH :: Ordre horizontal
 OrderV :: Ordre vertical
 NextRac :: Choisissez le prochain circuit.\nPartie(s) restante(s) :
 extra_diff :: Très difficile :: EXTRÊME
+cusitem_notice :: NOTE: L'objet par défaut (%s) peut apparaître dans certaines situations.
+item_mega :: Méga champignon
+item_fib :: Fausse Boîte à Objets
 
 #Reset Ghosts
 resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantômes de n'importe quel circuit.

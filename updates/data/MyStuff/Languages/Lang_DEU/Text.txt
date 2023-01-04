@@ -269,6 +269,9 @@ OrderH :: Horizontale Folge
 OrderV :: Vertikale Folge
 NextRac :: Wähle die nächste Strecke.\nVerbleibende Rennen:
 extra_diff :: Sehr schwer :: EXTREM
+cusitem_notice :: Hinweis: Das Standarditem (%s) kann in manchen Fällen weiterhin erscheinen.
+item_mega :: Mega-Pilz
+item_fib :: Schwindel-Box
 
 #Reset Ghosts
 resghost :: Geist zurücksetzen :: Ermöglicht das Zurücksetzen des Geistes einer Strecke deiner Wahl.

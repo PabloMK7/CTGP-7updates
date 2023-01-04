@@ -269,6 +269,9 @@ OrderH :: 横方向
 OrderV :: 縦方向
 NextRac :: 次のコースを選択してください。\n残りのレース:
 extra_diff :: とてもむずかしい :: EXTREME
+cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
+item_mega :: 巨大キノコ
+item_fib :: にせアイテムボックス
 
 #Reset Ghosts
 resghost :: ゴーストのリセット :: コースのゴーストをリセットできます。

@@ -269,6 +269,9 @@ OrderH :: Horizontale volgorde
 OrderV :: Verticale volgorde
 NextRac :: Selecteer volgende circuit.\nOvergebleven races:
 extra_diff :: Erg Moeilijk :: EXTREEM
+cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
+item_mega :: Megapaddenstoel
+item_fib :: Fake Item Box
 
 #Reset Ghosts
 resghost :: Reset spook :: Staat het resetten van het spook toe op elk circuit.

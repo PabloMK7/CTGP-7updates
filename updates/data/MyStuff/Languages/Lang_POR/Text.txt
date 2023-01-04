@@ -103,28 +103,28 @@ $710114 :: RMX Estrada Arco-íris 1
 $710097 :: Estrada Arco-íris DX
 
 #Pickaxe Cup
-$700024 :: Copa Picareta
+$700024 :: Taça Picareta
 $710098 :: Cume Estelar
 $710099 :: Pista do Ocaso
 $710100 :: Cais Quebrado \uE024\uE025
 $710101 :: Mina Glacial
 
 #Mega Cup
-$700025 :: Copa Mega
+$700025 :: Taça Mega
 $710102 :: Fortaleza Floral
 $710103 :: Palácio Costeiro
 $710104 :: DKR Cidade Estrela
 $710105 :: Montanha Cogumelo
 
 #Propeller Cup
-$700026 :: Copa Hélice
+$700026 :: Taça Hélice
 $710106 :: Circuito Gelado \uE022\uE023
 $710107 :: Ilha Bloco
 $710108 :: Castelo do Bowser \uE033
 $710109 :: DKR Cataratas da Selva
 
 #POW Cup
-$700027 :: Copa POW
+$700027 :: Taça POW
 $710110 :: Pista Retro
 $710111 :: Gruta Gelada
 $710112 :: Parque Lacustre \uE024\uE025
@@ -269,6 +269,9 @@ OrderH :: Ordem horizontal
 OrderV :: Ordem vertical
 NextRac :: Selecione a próxima pista.\nCorridas restantes:
 extra_diff :: Muito Difícil :: EXTREMO
+cusitem_notice :: O item padrão (%s) provavelmente apareça em alguns casos.
+item_mega :: Mega Cogumelo
+item_fib :: Bloco Surpresa
 
 #Reset Ghosts
 resghost :: Reiniciar Corredor Fantasma :: Permite reiniciar o corredor fantasma de qualquer pista.

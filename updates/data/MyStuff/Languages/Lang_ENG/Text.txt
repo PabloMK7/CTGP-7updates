@@ -269,6 +269,9 @@ OrderH :: Horizontal Order
 OrderV :: Vertical Order
 NextRac :: Select next track.\nRemaining races:
 extra_diff :: Very Hard :: EXTREME
+cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
+item_mega :: Mega Mushroom
+item_fib :: Fake Item Box
 
 #Reset Ghosts
 resghost :: Reset Ghost :: Allows resetting the ghost from any track.

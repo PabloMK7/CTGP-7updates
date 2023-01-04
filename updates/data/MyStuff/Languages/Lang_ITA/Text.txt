@@ -40,7 +40,7 @@ $710066 :: \uE033 Deserto Picchiasol
 $710069 :: Castello del Tempo
 
 #Egg Cup
-$700015 :: Trofeo Wovo
+$700015 :: Trofeo Uovo
 $710063 :: \uE033 Cascate di Yoshi
 $710047 :: \uE022\uE023 Cioccocanyon
 $710048 :: \uE033 Colli Fungo
@@ -269,6 +269,9 @@ OrderH :: Ordine orizzontale
 OrderV :: Ordine verticale
 NextRac :: Seleziona la prossima pista.\nGare rimanenti:
 extra_diff :: Molto Difficile :: ESTREMO
+cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
+item_mega :: Mega Fungo
+item_fib :: Oggetto Finto
 
 #Reset Ghosts
 resghost :: Resetta Fantasma :: Permette di resettare il fantasma di qualunque pista.
