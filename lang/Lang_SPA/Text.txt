@@ -49,7 +49,7 @@ $710051 :: CTR Cueva Crash
 #Bullet Cup
 $700016 :: Copa Bala
 $710056 :: CTR Castillo de Cortex
-$710060 :: \uE033 Circuito Dokan
+$710072 :: Senda Espacial
 $710061 :: \uE031\uE032 Isla Chocolate 2
 $710064 :: Tobogán Estelar
 
@@ -99,7 +99,7 @@ $710073 :: Cumpleaños de Miku
 $700017 :: Copa Arco Iris
 $710070 :: \uE022\uE023 Senda Arco Iris
 $710071 :: \uE024\uE025 Senda Arco Iris
-$710072 :: Senda Espacial
+$710114 :: RMX Senda Arco Iris 1
 $710097 :: Senda Arco Iris DX
 
 #Pickaxe Cup
@@ -130,6 +130,20 @@ $710111 :: Gruta Helada
 $710112 :: \uE024\uE025 Parque del Lago
 $710113 :: Cementerio de Dragones
 
+#Rock Cup
+$700028 :: Copa Roca
+$710060 :: Isla Tuberías
+$710115 :: Neo Metrópolis
+$710116 :: Cumbres Heladas
+$710117 :: Guarida de Gnasty Gnorc
+
+#Moon Cup
+$700029 :: Copa Luna
+$710118 :: RMX Lago Vainilla 1
+$710119 :: Circuito del Acantilado
+$710120 :: Lab. Interestelar
+$710121 :: Fortaleza de Materia Osc.
+
 #Save Data
 $7005 :: Datos de guardado extra\npara CTGP-7 serán creados\nen la tarjeta SD.
 $7003 :: Creando datos...
@@ -153,7 +167,7 @@ state :: Estado
 next :: Siguiente
 select :: Seleccionar
 chng :: Cambiar
-custom :: Customizado
+custom :: Personalizado
 page :: Página
 race_noun :: Carrera
 state_mode :: Activado :: Desactivado
@@ -163,6 +177,8 @@ valid_inf :: Válido :: Inválido
 num_betw :: El número tiene que ser entre %d y %d.
 settings :: Opciones
 exit :: Salir
+default :: Por defecto
+button :: Botón
 
 #Folders
 gameplay_folder :: Funciones del Juego :: Configuración de funciones adicionales para el juego. 
@@ -179,6 +195,8 @@ cuskart :: Karts Personalizados :: Carga karts personalizados desde la carpeta M
 trackorder :: Orden de Circuitos :: Elige como aparecen ordenados los circuitos en linea.
 itmprb :: Ruleta de Objetos Mejorada :: Muestra las probabilidades reales en la ruleta de objetos en vez de objetos aleatorios.
 imtrick :: Trucos Mejorados :: Los karts girarán sobre sí mismos al hacer un truco en una rampa con panel turbo. Usa el \uE077 Circle Pad para cambiar la dirección de rotación.
+autoaccel :: Aceleración Automática :: Al pulsar \uE000 o \uE003 se activará la aceleración automática del kart hasta que se pulse \uE001.
+imbrakedrift :: Derrape en Frenada Mejorado :: Podrás frenar mientras derrapas pulsando \uE001 sin perder el miniturbo.
 
 #Speedometer text
 spd_set :: Opciones de Velocímetro.
@@ -206,6 +224,7 @@ commugen :: Generar Código de Comunidad :: Genera un código basado en las opci
 def_spd :: Velocidad por defecto.
 rand_tr :: Forzar circuitos aleatorios
 code :: Código
+cusitem :: Objetos modificados
 
 #Change Round Number
 chgrnd :: Cambiar Número de Rondas :: Cambia el número de rondas en los modos VS y batalla.
@@ -221,9 +240,13 @@ char_select :: Elige un personaje para configurar.
 reboot_req :: (Se requiere un reinicio para aplicar cambios.)
 char_replace :: Selecciona un personaje para:\n
 green_info :: Verde → Opción activa.
+face_raider_sel :: Selecciona una cara
 
 #Online track order
 order_mode :: Por defecto :: Alfabético
+
+#Auto Acceleration
+autoaccel_button :: Elige el botón que activará\nla aceleración automática.
 
 #Online update check
 update_check :: Buscando actualizaciones... :: La última versión de CTGP-7\nes necesaria para jugar en línea.
@@ -245,6 +268,10 @@ RanAll :: Aleatorio (Todos)
 OrderH :: Orden Horizontal
 OrderV :: Orden Vertical
 NextRac :: Elige el próximo circuito.\nRondas restantes:
+extra_diff :: Muy Difícil :: EXTREMO
+cusitem_notice :: NOTA: El objeto por defecto (%s) puede seguir apareciendo en algunos casos.
+item_mega :: Mega Champiñón
+item_fib :: Bloque Sorpresa
 
 #Reset Ghosts
 resghost :: Resetear Corredor Fantasma :: Permite resetear el corredor fantasma de cualquier circuito.

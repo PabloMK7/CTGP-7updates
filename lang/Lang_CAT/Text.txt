@@ -49,7 +49,7 @@ $710051 :: CTR Cova Crash
 #Bullet Cup
 $700016 :: Copa Bala
 $710056 :: CTR Castell de Cortex
-$710060 :: \uE033 Circuit Dokan
+$710072 :: Camí Espacial
 $710061 :: \uE031\uE032 Illa Xocolata 2
 $710064 :: Tobogan Estel·lar
 
@@ -99,7 +99,7 @@ $710073 :: Cumpleanys de Miku
 $700017 :: Copa Arc de Sant Martí
 $710070 :: \uE022\uE023 Camí Arc de Sant Martí
 $710071 :: \uE024\uE025 Camí Arc de Sant Martí
-$710072 :: Camí Espacial
+$710114 :: RMX Camí Arc de Sant Martí 1
 $710097 :: Camí Arc de Sant Martí DX
 
 #Pickaxe Cup
@@ -130,6 +130,20 @@ $710111 :: Gruta Gelada
 $710112 :: \uE024\uE025 Parc del Llac
 $710113 :: Cementeri de Dragons
 
+#Rock Cup
+$700028 :: Copa Roca
+$710060 :: Illa Canonades
+$710115 :: Neo Metròpolis
+$710116 :: Cims Gelats
+$710117 :: Cau de Gnasty Gnorc
+
+#Moon Cup
+$700029 :: Copa Lluna
+$710118 :: RMX Llac Vainilla 1
+$710119 :: Circuit del Penya-segat
+$710120 :: Lab. Interestel·lar
+$710121 :: Fortalesa de Matèria Osc.
+
 #Save Data
 $7005 :: Dades de desament extra\nper CTGP-7 es crearan\na la targeta SD.
 $7003 :: Creant dades...
@@ -153,7 +167,7 @@ state :: Estat
 next :: Següent
 select :: Seleccionar
 chng :: Canviar
-custom :: Customitzat
+custom :: Personalitzat
 page :: Pàgina
 race_noun :: Carrera
 state_mode :: Activat :: Desactivat
@@ -163,6 +177,8 @@ valid_inf :: Vàlid :: Invàlid
 num_betw :: El nombre ha de ser entre %d i %d.
 settings :: Opcions
 exit :: Sortir
+default :: Per omissió
+button :: Botó
 
 #Folders
 gameplay_folder :: Funcions del Joc :: Configuració de funcions adicionals per al joc.
@@ -179,6 +195,8 @@ cuskart :: Karts Editats :: Carrega karts editats des de la carpeta MyStuff.
 trackorder :: Ordre de Circuits :: Tria com s'ordenen els circuits en línia.
 itmprb :: Ruleta d'Objectes Millorada :: Mostra les probabilitats reals a la ruleta d'objectes en comptes d'objectes aleatoris.
 imtrick :: Trucs Millorats :: Els karts giraran sobre si mateixos al fer un truc en una rampa amb panell turbo. Utilitza el \uE077 Circle Pad per canviar la direcció de rotació.
+autoaccel :: Acceleració Automàtica :: En prémer \uE000 o \uE003 s'activarà l'acceleració automàtica del kart fins que es premi \uE001.
+imbrakedrift :: Derrape en Frenada Millorat :: Podràs frenar mentre derrapes prement \uE001 sense perdre el miniturbo.
 
 #Speedometer text
 spd_set :: Opcions de Velocímetre.
@@ -206,6 +224,7 @@ commugen :: Generar Codi de Comunitat :: Genera un codi basat en les opcions act
 def_spd :: Velocitat per omissió.
 rand_tr :: Forçar circuits aleatoris
 code :: Codi
+cusitem :: Objectes modificats
 
 #Change Round Number
 chgrnd :: Canviar Nombre de Rondes :: Canvia el nombre de rondes en les modalitats VS i batalla.
@@ -221,9 +240,13 @@ char_select :: Tria un personatge per configurar.
 reboot_req :: (Es requereix un reinici per aplicar canvis.)
 char_replace :: Selecciona un personatge per a:\n
 green_info :: Verd → Opció activa.
+face_raider_sel :: Selecciona una cara
 
 #Online track order
-order_mode :: Por omissió :: Alfabètic
+order_mode :: Per omissió :: Alfabètic
+
+#Auto Acceleration
+autoaccel_button :: Trieu el botó que activarà\nl'acceleració automàtica.
 
 #Online update check
 update_check :: Buscant actualitzacions... :: L'última versió de CTGP-7\nes necessària per jugar en línia.
@@ -245,6 +268,10 @@ RanAll :: Aleatori (Tots)
 OrderH :: Ordre Horitzontal
 OrderV :: Ordre Vertical
 NextRac :: Tria el próxim circuit.\nRondes restants:
+extra_diff :: Molt Difícil :: EXTREM
+cusitem_notice :: NOTA: L'objecte per omissió (%s) pot continuar apareixent en alguns casos.
+item_mega :: Mega Xampinyó
+item_fib :: Bloc Sorpresa
 
 #Reset Ghosts
 resghost :: Resetejar Corredor Fantasma :: Permitix resetejar el corredor fantasma de qualsevol circuit.

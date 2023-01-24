@@ -49,7 +49,7 @@ $710051 :: CTR Crique Crash
 #Bullet Cup
 $700016 :: Coupe Bill Balle
 $710056 :: CTR Château Cortex
-$710060 :: \uE033 Circuit Dokan
+$710072 :: Route Spatiale
 $710061 :: \uE031\uE032 Île Choco 2
 $710064 :: Pente Étoilée
 
@@ -99,7 +99,7 @@ $710073 :: Spectacle Miku
 $700017 :: Coupe Arc-en-ciel
 $710070 :: \uE022\uE023 Route Arc-en-ciel
 $710071 :: \uE024\uE025 Route Arc-en-ciel
-$710072 :: Route Spatiale
+$710114 :: RMX Route Arc-en-ciel 1
 $710097 :: Route Arc-en-ciel Deluxe
 
 #Pickaxe Cup
@@ -129,6 +129,20 @@ $710110 :: Autodrome Rétro
 $710111 :: Grotte Gelée
 $710112 :: \uE024\uE025 Bord du Lac
 $710113 :: Cimetière du Dragon
+
+#Rock Cup
+$700028 :: Coupe Pierre
+$710060 :: Île Tuyau
+$710115 :: Neopolis 
+$710116 :: Sommet Givré
+$710117 :: Repère de Gnasty Gnorc
+
+#Moon Cup
+$700029 :: Coupe Lune
+$710118 :: RMX Lac Vanille 1
+$710119 :: Circuit Falaise
+$710120 :: Laboratoire Interstellaire
+$710121 :: Forteresse de Matière Noire
 
 #Save Data
 $7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
@@ -163,6 +177,8 @@ valid_inf :: Valide :: Invalide
 num_betw :: La valeur doit être comprise entre %d et %d.
 settings :: Paramètres
 exit :: Fermer
+default :: Par défaut
+button :: Bouton
 
 #Folders
 gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalités du jeu additionnel.
@@ -172,13 +188,15 @@ other_folder :: Paramètres supplémentaires :: Paramètres contrôlant d'autres
 #Entries
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran supérieur.
 ccsel :: Sélecteur de CC :: Règle les CC à la valeur souhaitée (doit être activée avant de commencer une course).
-itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée, en jaune lorsqu'un éclair est utilisé etc...
+itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée et en jaune lorsqu'un éclair est utilisé.
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Notez que vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
 charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
 itmprb :: Roulette d'objet améliorée :: À la place de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
 imtrick :: Sauts améliorés :: Les sauts effectués sur certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
+autoaccel :: Accélération auto :: Appuyez sur \uE000 ou \uE003 pour activer l'accélération auto. Pour la désactiver, appuyez sur \uE001.  
+imbrakedrift :: Amélioration du freinage en dérapant :: Maintenez \uE001 en dérapant pour freiner sans perdre votre mini-turbo.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -206,6 +224,7 @@ commugen :: Générateur de code communautaire :: Génère un code basé selon v
 def_spd :: Vitesse par défaut
 rand_tr :: Forcer la sélection des courses aléatoires
 code :: Code
+cusitem :: Objets customisés
 
 #Change Round Number
 chgrnd :: Changer le nombre de manches :: Change le nombre des manches dans les modes Course VS et Bataille.
@@ -221,9 +240,13 @@ char_select :: Sélectionnez un personnage à configurer.
 reboot_req :: (Redémarrage nécessaire pour appliquer\nles changements.)
 char_replace :: Sélectionnez un personnage customisé pour :\n
 green_info :: L'entrée en verte est celle actuellement\nactivée.
+face_raider_sel :: Sélectionnez un visage
 
 #Online track order
 order_mode :: Par défaut :: Alphabétique
+
+#Auto Acceleration
+autoaccel_button :: Choisissez le bouton qui activera l'accélération auto
 
 #Online update check
 update_check :: Vérification des mises à jour... :: La dernière version de CTGP-7\nest nécessaire pour jouer en ligne.
@@ -245,6 +268,10 @@ RanAll :: Aléatoire (Tous)
 OrderH :: Ordre horizontal
 OrderV :: Ordre vertical
 NextRac :: Choisissez le prochain circuit.\nPartie(s) restante(s) :
+extra_diff :: Très difficile :: EXTRÊME
+cusitem_notice :: NOTE: L'objet par défaut (%s) peut apparaître dans certaines situations.
+item_mega :: Méga champignon
+item_fib :: Fausse Boîte à Objets
 
 #Reset Ghosts
 resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantômes de n'importe quel circuit.

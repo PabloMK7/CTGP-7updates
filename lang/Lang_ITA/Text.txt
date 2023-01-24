@@ -40,7 +40,7 @@ $710066 :: \uE033 Deserto Picchiasol
 $710069 :: Castello del Tempo
 
 #Egg Cup
-$700015 :: Trofeo Wovo
+$700015 :: Trofeo Uovo
 $710063 :: \uE033 Cascate di Yoshi
 $710047 :: \uE022\uE023 Cioccocanyon
 $710048 :: \uE033 Colli Fungo
@@ -49,7 +49,7 @@ $710051 :: CTR Crash Cove
 #Bullet Cup
 $700016 :: Trofeo Pallottolo Bill
 $710056 :: CTR Cortex Castle
-$710060 :: \uE033 Circuito Dokan
+$710072 :: Strada Spaziale
 $710061 :: \uE031\uE032 Cioccoisola 2
 $710064 :: Pendio Stellare
 
@@ -99,7 +99,7 @@ $710073 :: Speciale di Compleanno di Miku
 $700017 :: Trofeo Arcobaleno
 $710070 :: \uE022\uE023 Pista Arcobaleno
 $710071 :: \uE024\uE025 Pista Arcobaleno
-$710072 :: Strada Spaziale
+$710114 :: RMX Pista Arcobaleno 1
 $710097 :: Pista Arcobaleno DX
 
 #Pickaxe Cup
@@ -129,6 +129,20 @@ $710110 :: Pista Classica
 $710111 :: Grotta Ghiacciato
 $710112 :: \uE024\uE025 Parco Lungolago
 $710113 :: Sepolcro del Drago
+
+#Rock Cup
+$700028 :: Trofeo Roccia
+$710060 :: Tubo Trasporto Isola
+$710115 :: Nuova Metropoli
+$710116 :: Colline Gelide
+$710117 :: Covo di Nasty Norc
+
+#Moon Cup
+$700029 :: Trofeo Luna
+$710118 :: RMX Lago Vaniglia 1
+$710119 :: Circuito di Scogliera
+$710120 :: Laboratorio Interstellare
+$710121 :: Fortezza Della Materia Oscura
 
 #Save Data
 $7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
@@ -163,6 +177,8 @@ valid_inf :: Valido :: Non valido
 num_betw :: Il numero deve essere compreso tra %d e %d.
 settings :: Impostazioni
 exit :: Esci
+default :: Predefinito
+button :: Pulsante
 
 #Folders
 gameplay_folder :: Funzioni di Gameplay :: Configurazione per caratteristiche aggiuntive del gameplay.
@@ -179,6 +195,8 @@ cuskart :: Kart personalizzati :: Carica kart personalizzati dalla cartella MySt
 trackorder :: Ordine Delle piste online :: Gestisci l'ordine in cui le piste appariranno nel gioco online.
 itmprb :: Roulette migliorata :: Mostra le probabilità effettive sulla roulette di oggetti invece di oggetti casuali.
 imtrick :: Acrobazie migliorate :: I kart ruoteranno quando si fa un accrobazia. Usa il Pad Scorrevole per cambiare la direzione di rotazione del kart.
+autoaccel :: Accelerazione automatica :: Premendo \uE000 o \uE003 si abilita l'accelerazione automatica finché non si preme \uE001.
+imbrakedrift :: Deriva frenata migliorata :: Tieni premuto \uE001 durante la derapata per frenare senza perdere il miniturbo.
 
 #Speedometer text
 spd_set :: Accelerometro.
@@ -206,6 +224,7 @@ commugen :: Generatore Codice Community :: Genera un codice dipendente dalle imp
 def_spd :: Velocità di default
 rand_tr :: Forza piste casuali
 code :: Codice
+cusitem :: Articoli personalizzati
 
 #Change Round Number
 chgrnd :: Cambia numero round :: Cambia il numero di round nelle modalità Sfida e Battaglia.
@@ -220,10 +239,14 @@ enhmap :: Mappa Migliorata :: Aggiunge la funzionalità di zoom alla mappa usand
 char_select :: Seleziona un personaggio da configurare.
 reboot_req :: (Riavvia il gioco per applicare i cambiamenti.)
 char_replace :: Seleziona un personaggio custom per:\n
-green_info :: Verde → Personaggio abilitato.
+green_info :: Verde -> Personaggio abilitato.
+face_raider_sel :: Seleziona una faccia
 
 #Online track order
 order_mode :: Di default :: Alfabetico
+
+#Auto Acceleration
+autoaccel_button :: Scegli il pulsante che attiverà\nl'accelerazione automatica.
 
 #Online update check
 update_check :: Controllo aggiornamenti... :: L'ultima versione di CTGP-7\nè richiesta per giocare online.
@@ -245,6 +268,10 @@ RanAll :: Casuali (Tutte)
 OrderH :: Ordine orizzontale
 OrderV :: Ordine verticale
 NextRac :: Seleziona la prossima pista.\nGare rimanenti:
+extra_diff :: Molto Difficile :: ESTREMO
+cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
+item_mega :: Mega Fungo
+item_fib :: Oggetto Finto
 
 #Reset Ghosts
 resghost :: Resetta Fantasma :: Permette di resettare il fantasma di qualunque pista.

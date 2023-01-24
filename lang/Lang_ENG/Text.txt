@@ -49,7 +49,7 @@ $710051 :: CTR Crash Cove
 #Bullet Cup
 $700016 :: Bullet Cup
 $710056 :: CTR Cortex Castle
-$710060 :: \uE033 Dokan Course
+$710072 :: Space Road
 $710061 :: \uE031\uE032 Choco Island 2
 $710064 :: Star Slope
 
@@ -99,7 +99,7 @@ $710073 :: Miku's Birthday Spec.
 $700017 :: Rainbow Cup
 $710070 :: \uE022\uE023 Rainbow Road
 $710071 :: \uE024\uE025 Rainbow Road
-$710072 :: Space Road
+$710114 :: RMX Rainbow Road 1
 $710097 :: Rainbow Road DX
 
 #Pickaxe Cup
@@ -129,6 +129,20 @@ $710110 :: Retro Raceway
 $710111 :: Frozen Grotto
 $710112 :: \uE024\uE025 Lakeside Park
 $710113 :: Dragon Burial Grounds
+
+#Rock Cup
+$700028 :: Rock Cup
+$710060 :: Warp Pipe Island
+$710115 :: Neo Metropolis
+$710116 :: Frosty Heights
+$710117 :: Gnasty Gnorc's Lair
+
+#Moon Cup
+$700029 :: Moon Cup
+$710118 :: RMX Vanilla Lake 1
+$710119 :: Cliffside Circuit
+$710120 :: Interstellar Laboratory
+$710121 :: Dark Matter Fortress
 
 #Save Data
 $7005 :: Extra save data for CTGP-7\nwill be created in the SD card.
@@ -163,6 +177,8 @@ valid_inf :: Valid :: Invalid
 num_betw :: Number must be between %d and %d.
 settings :: Settings
 exit :: Exit
+default :: Default
+button :: Button
 
 #Folders
 gameplay_folder :: Gameplay Features :: Configuration for additional gameplay features.
@@ -179,6 +195,8 @@ cuskart :: Custom Karts :: Load custom karts from the MyStuff folder.
 trackorder :: Online Track Order :: Choose how the tracks will be ordered in cups online.
 itmprb :: Improved Item Roulette :: Displays the real item probabilities in the item roulette instead of showing random items.
 imtrick :: Improved Tricks ::  Karts will spin when doing a trick on a boost ramp. Use the \uE077 Circle Pad to change the spin direction.
+autoaccel :: Auto Acceleration :: Pressing \uE000 or \uE003 will enable automatic acceleration until \uE001 is pressed.  
+imbrakedrift :: Improved Brake Drift :: Hold \uE001 while drifting to brake without losing your miniturbo.
 
 #Speedometer text
 spd_set :: Speedometer settings.
@@ -206,6 +224,7 @@ commugen :: Community Code Generator ::  Generates a code based on the current u
 def_spd :: Default speed
 rand_tr :: Force random tracks
 code :: Code
+cusitem :: Custom items
 
 #Change Round Number
 chgrnd :: Change Round Number :: Changes the amount of rounds in VS and battle modes.
@@ -221,9 +240,13 @@ char_select :: Select a character to configure.
 reboot_req :: (Reboot required to apply changes.)
 char_replace :: Select a custom character for:\n
 green_info :: Green -> Current activated entry.
+face_raider_sel :: Select a face
 
 #Online track order
 order_mode :: Default :: Alphabetical
+
+#Auto Acceleration
+autoaccel_button :: Choose the button that will\nactivate auto-acceleration.
 
 #Online update check
 update_check :: Checking for updates... :: The latest version of CTGP-7\nis required to play online.
@@ -245,6 +268,10 @@ RanAll :: Random (All)
 OrderH :: Horizontal Order
 OrderV :: Vertical Order
 NextRac :: Select next track.\nRemaining races:
+extra_diff :: Very Hard :: EXTREME
+cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
+item_mega :: Mega Mushroom
+item_fib :: Fake Item Box
 
 #Reset Ghosts
 resghost :: Reset Ghost :: Allows resetting the ghost from any track.

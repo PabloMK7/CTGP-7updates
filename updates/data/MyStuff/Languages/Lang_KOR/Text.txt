@@ -269,8 +269,8 @@ OrderH :: 가로 순서
 OrderV :: 세로 순서
 NextRac :: 다음 트랙을 선택해 주세요.\n남아있는 레이스: 
 extra_diff :: 매우 어려움 :: 익스트림
-cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
-item_mega :: Mega Mushroom
+cusitem_notice :: 주의: 특정 상황에서는 기본값 아이템 (%s)이 출현할 수도 있습니다.
+item_mega :: 거대버섯
 item_fib :: Fake Item Box
 
 #Reset Ghosts

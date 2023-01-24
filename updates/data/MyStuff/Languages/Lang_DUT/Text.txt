@@ -210,7 +210,7 @@ spd_types2 :: Double Dash
 #CC Selector text
 cc_set :: Opties CC selectie.
 cc_val :: Waarde
-cc_entv :: Voer nieuwe CC waarde in.
+cc_entv :: Voer een nieuwe CC waarde in.
 cc_chgv :: Verander waarde
 
 #Course Manager
@@ -228,16 +228,16 @@ cusitem :: Nieuwe voorwerpen
 
 #Change Round Number
 chgrnd :: Verander aantal rondes :: Verandert het aantal rondes in races en gevechten.
-chgrnd_desc :: Selecteer het aantal rondes\die gespeeld worden in VS races of gevechten.\nWerkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben.
+chgrnd_desc :: Selecteer het aantal rondes\ndat je in VS races of gevechten wilt spelen.\nWerkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben.
 rounds :: Rondes
 rnd_sel :: Selecteer het aantal rondes.
 
 #Enhanced Local Map
-enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scherm met gebruik van het \uE058 touchscreen.
+enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scherm door middel van het \uE058 touchscreen.
 
 #Custom character manager text
 char_select :: Selecteer een karakter om te configureren.
-reboot_req :: (Opnieuw opstarten nodig om veranderingen toe te passen.)
+reboot_req :: (Opnieuw opstarten vereist om veranderingen toe te passen.)
 char_replace :: Selecteer een karakter voor:\n
 green_info :: Groen → Huidige geactiveerde item.
 face_raider_sel :: Selecteer een gezicht
@@ -269,7 +269,7 @@ OrderH :: Horizontale volgorde
 OrderV :: Verticale volgorde
 NextRac :: Selecteer volgende circuit.\nOvergebleven races:
 extra_diff :: Erg Moeilijk :: EXTREEM
-cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
+cusitem_notice :: Het standaard voorwerp (%s) zal in sommige gevallen toch voor kunnen komen.
 item_mega :: Megapaddenstoel
 item_fib :: Fake Item Box
 
