@@ -34,6 +34,7 @@ M/gamefs/Course/Ctgp_GalvarnyFalls.szs
 M/gamefs/Course/Ctgp_GBABroknPier.szs
 M/gamefs/Course/Ctgp_GBALksdPrk.szs
 M/gamefs/Course/Ctgp_GBALuigiCirc.szs
+M/gamefs/Course/Ctgp_GCBowserCastle.szs
 M/gamefs/Course/Ctgp_GCNMarioCirc.szs
 M/gamefs/Course/Ctgp_GhostValleyT.szs
 M/gamefs/Course/Ctgp_GlacrMine.szs
@@ -55,7 +56,6 @@ M/gamefs/Course/Ctgp_SandCastle.szs
 M/gamefs/Course/Ctgp_SeasidePalace.szs
 M/gamefs/Course/Ctgp_SkaiiGarden.szs
 M/gamefs/Course/Ctgp_SMORCChallen.szs
-M/gamefs/Course/Ctgp_SpeiceRouad.szs
 M/gamefs/Course/Ctgp_StarGSumm.szs
 M/gamefs/Course/Ctgp_StarSlopeee.szs
 M/gamefs/Course/Ctgp_SunsetRacewa.szs
@@ -183,6 +183,8 @@ M/gamefs/Sound/stream/STRM_CC_FROZEN_GROTTO_F.bcstm
 M/gamefs/Sound/stream/STRM_CC_FROZEN_GROTTO_N.bcstm
 M/gamefs/Sound/stream/STRM_CC_GALVARNY_FALLS_F.bcstm
 M/gamefs/Sound/stream/STRM_CC_GALVARNY_FALLS_N.bcstm
+M/gamefs/Sound/stream/STRM_CC_GCN_BC_F.bcstm
+M/gamefs/Sound/stream/STRM_CC_GCN_BC_N.bcstm
 M/gamefs/Sound/stream/STRM_CC_GLACIER_MINE_F.bcstm
 M/gamefs/Sound/stream/STRM_CC_GLACIER_MINE_N.bcstm
 M/gamefs/Sound/stream/STRM_CC_JUNGLE_FALLS_F.bcstm
@@ -259,7 +261,9 @@ M/gamefs/Sound/stream/STRM_CC_WARP_PIPE_ISLAND_F.bcstm
 M/gamefs/Sound/stream/STRM_CC_WARP_PIPE_ISLAND_N.bcstm
 M/gamefs/Sound/stream/STRM_MENU_SINGLE_MULTI.bcstm
 M/gamefs/Sound/stream/STRM_MENU_WIFI.bcstm
+M/gamefs/Sound/stream/STRM_STAFF_MOD.bcstm
 M/gamefs/Sound/stream/STRM_TITLE.bcstm
+M/gamefs/Sound/stream/STRM_TITLE_ALT.bcstm
 M/gamefs/UI/no_archive/logo_l.bmp
 M/gamefs/UI/no_archive/logo_r.bmp
 M/gamefs/UI/no_archive/title_capture_top_l.bclim
@@ -714,6 +718,8 @@ M/MyStuff/musicSlotsUser.ini
 M/MyStuff/stream/empty.txt
 M/resources/courseCredits.ini
 M/resources/coursePreviews.sarc
+M/resources/credits.ini
+M/resources/creditsImages.sarc
 M/resources/CTGP-7.3gx
 C/resources/CTGP-7.3gx
 M/resources/CTGP-7.sarc
