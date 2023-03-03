@@ -8,7 +8,7 @@
 $700010 :: Glocken-Cup
 $710042 :: Harmoniestadt
 $710059 :: \uE022\uE023 Marios Piste
-$710044 :: Galvarnyfälle
+$710044 :: Galvarny-Kaskaden
 $710045 :: \uE024\uE025 Wolkenpiste
 
 #Acorn Cup
@@ -35,7 +35,7 @@ $710065 :: \uE033 Cheep-Cheep-Strand
 #Spring Cup
 $700014 :: Feder-Pilz-Cup
 $710067 :: \uE033 Ticktack-Trauma
-$710058 :: Melodien-Heiligtum
+$710058 :: Melodie-Heiligtum
 $710066 :: \uE033 Glühheiße Wüste
 $710069 :: Schloss der Zeit
 
@@ -49,7 +49,7 @@ $710051 :: CTR Crash-Bucht
 #Bullet Cup
 $700016 :: Kugelwilli-Cup
 $710056 :: CTR Burg Cortex
-$710072 :: Weltraumstraße
+$710089 :: Revo-Piste
 $710061 :: \uE031\uE032 Schoko-Insel 2
 $710064 :: Sternenhang
 
@@ -79,7 +79,7 @@ $700021 :: Bob-omb-Cup
 $710086 :: \uE033 Wario-Arena
 $710087 :: Ermiis Piste
 $710088 :: \uE026\uE027 Baby-Park
-$710089 :: Revos Piste
+$710072 :: \uE026\uE027 Bowsers Festung
 
 #Cherry Cup
 $700022 :: Kirsch-Cup
@@ -142,7 +142,7 @@ $700029 :: Mond-Cup
 $710118 :: RMX Vanillesee 1
 $710119 :: Klippenpiste
 $710120 :: Interstellar-Labor
-$710121 :: Dunkelmaterien-Festung
+$710121 :: Dunkle-Materie-Festung
 
 #Save Data
 $7005 :: Extradaten für CTGP-7 werden\njetzt auf der SD Card erstellt.
@@ -156,9 +156,12 @@ welc_1 :: Hallo!\nVom Ingame-Menü aus\nkannst du verschiedene\ninteressante Fun
 welc_2 :: Um die Funktionen zu verwenden,\nwähle mit dem Zeiger einen\nEintrag aus und drücke A,\num es zu aktivieren oder zu\nkonfigurieren.
 welc_3 :: Beachte aber, dass manche Funk-\ntionen wie z.B. die CCM-Einstel-\nlungen nicht im Online-\nModus funktionieren.
 welc_4 :: Deine Statistiken werden auf\ndem CTGP-7-Server hochgeladen,\ndamit Sie jeder sehen kann.\n(Diese Daten bleiben anonym.)\nIm Ingame-Menü kannst du\nden Daten-Upload ausschalten.
-welc_5 :: Durch das Nutzen des CTWWs\nakzeptierst du den Nutzerbedin-\ngungen.\nHier kannst du diese nachlesen:\nctgp-7.github.io/ctww.html
+welc_5 :: Durch das Nutzen des CTWW\nakzeptierst du den Nutzerbedin-\ngungen.\nHier kannst du diese nachlesen:\nctgp-7.github.io/ctww.html
 welc_6 :: Schau auf dem\nCTGP-7-Discord-Server\nvorbei. Einladungslink:\ninvite.gg/ctgp7
-welc_7 :: Wir hoffen, dir gefällt der Mod!\n^w^
+welc_7 :: Wir hoffen, dir gefällt der Mod!\n^ω^
+
+#Achievements
+achiev_all_gold :: Du hast einen Gold-Pokal in\nallen benutzerdef. Cups\nerhalten.\n\nHerzlichen Glückwunsch!
 
 #General text
 warning :: WARNUNG
@@ -306,7 +309,7 @@ disc_data :: Account :: Spitzname
 disc_beta :: Berechtigt für private Betatests. :: Nicht berechtigt für private Betatests.
 
 #Render Optimizations
-render_optim :: Rendering-Optimierungen :: Deaktiviert den 3D-Modus des Topscreens und wendet CPU-Erweiterungen für New Nintendo 3DS-Systeme an.
+render_optim :: Render-Optimierungen :: Deaktiviert den 3D-Modus des Top-Screens und aktiviert CPU-Erweiterungen für New Nintendo 3DS-Systeme.
 
 #Missions
 ms_miss :: Missionen

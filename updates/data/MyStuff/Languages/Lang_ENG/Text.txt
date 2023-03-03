@@ -49,7 +49,7 @@ $710051 :: CTR Crash Cove
 #Bullet Cup
 $700016 :: Bullet Cup
 $710056 :: CTR Cortex Castle
-$710072 :: Space Road
+$710089 :: Revo Circuit
 $710061 :: \uE031\uE032 Choco Island 2
 $710064 :: Star Slope
 
@@ -79,7 +79,7 @@ $700021 :: Bob-omb Cup
 $710086 :: \uE033 Wario Stadium
 $710087 :: Ermii Circuit
 $710088 :: \uE026\uE027 Baby Park
-$710089 :: Revo Circuit
+$710072 :: \uE026\uE027 Bowser Castle
 
 #Cherry Cup
 $700022 :: Cherry Cup
@@ -159,6 +159,9 @@ welc_4 :: Your statistics will be uploaded\nto the CTGP-7 Server so they\nare av
 welc_5 :: By using the CTWW feature,\nyou agree to its rules.\n\nYou can check them here:\nctgp-7.github.io/ctww.html
 welc_6 :: Remember to check out\nthe CTGP-7 discord server!\n\nInvitation link:\ninvite.gg/ctgp7
 welc_7 :: We hope you enjoy the mod!\n^w^
+
+#Achievements
+achiev_all_gold :: You have got a gold trophy\nin all custom cups.\n\nCongratulations!
 
 #General text
 warning :: WARNING

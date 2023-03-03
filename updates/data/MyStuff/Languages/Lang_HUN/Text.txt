@@ -49,7 +49,7 @@ $710051 :: _
 #Bullet Cup
 $700016 :: Rakéta kupa
 $710056 :: CTR Cortex vára
-$710072 :: Világűr út
+$710089 :: Revo pálya
 $710061 :: \uE031\uE032 Csoki-sziget 2
 $710064 :: Csillag-lejtő
 
@@ -79,7 +79,7 @@ $700021 :: Bob-omb kupa
 $710086 :: \uE033 Wario stadion
 $710087 :: Ermii pálya
 $710088 :: \uE026\uE027 Baba park
-$710089 :: Revo pálya
+$710072 :: \uE026\uE027 Bowser vára
 
 #Cherry Cup
 $700022 :: Cseresznye kupa
@@ -159,6 +159,9 @@ welc_4 :: Bizonyos statisztikákat\nfeltöltünk a CTGP-7 szerverre,\nahol bárk
 welc_5 :: A CTWW használatával elfogadod\na felhasználási feltételeket.\n\nEzeket itt tekintheted meg:\nctgp-7.github.io/ctww.html
 welc_6 :: Végezetül javasoljuk,\nhogy keresd fel a\nCTGP-7 Discord-szerverét is!\n\nMeghívó:\ninvite.gg/ctgp7
 welc_7 :: Jó szórakozást\na modhoz!\n^w^
+
+#Achievements
+achiev_all_gold :: You have got a gold trophy\nin all custom cups.\n\nCongratulations!
 
 #General text
 warning :: FIGYELMEZTETÉS

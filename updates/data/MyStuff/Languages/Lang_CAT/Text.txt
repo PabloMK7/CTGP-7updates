@@ -49,7 +49,7 @@ $710051 :: CTR Cova Crash
 #Bullet Cup
 $700016 :: Copa Bala
 $710056 :: CTR Castell de Cortex
-$710072 :: Camí Espacial
+$710089 :: Circuit Revo
 $710061 :: \uE031\uE032 Illa Xocolata 2
 $710064 :: Tobogan Estel·lar
 
@@ -79,7 +79,7 @@ $700021 :: Copa Bob-omb
 $710086 :: \uE033 Estadi Wario
 $710087 :: Circuit Ermii
 $710088 :: \uE026\uE027 Parc Bebè
-$710089 :: Circuit Revo
+$710072 :: \uE026\uE027 Castell de Bowser
 
 #Cherry Cup
 $700022 :: Copa Cirera
@@ -159,6 +159,9 @@ welc_4 :: Les teves estadístiques seran\npujades al servidor de CTGP-7\nperquè
 welc_5 :: Si utilitzes la funció CTWW\nacceptes les seves regles.\n\nPots veure-les aquí:\nctgp-7.github.io/ctww.html
 welc_6 :: Recorda visitar el servidor\nde Discord de CTGP-7!\n\nEnllaç d'invitació:\ninvite.gg/ctgp7
 welc_7 :: Esperem que gaudeixis el mod!\n^ω^
+
+#Achievements
+achiev_all_gold :: Has obtingut un trofeu d'or en\ntotes les copes personalitzades.\n\nEnhorabona!
 
 #General text
 warning :: ADVERTÈNCIA

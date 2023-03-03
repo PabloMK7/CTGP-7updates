@@ -49,7 +49,7 @@ $710051 :: CTR Baía do Crash
 #Bullet Cup
 $700016 :: Taça Bala
 $710056 :: CTR Castelo de Cortex
-$710072 :: Estrada Espacial
+$710089 :: Circuito Revo
 $710061 :: Ilha Chocolate 2 \uE031\uE032
 $710064 :: Descida Estelar
 
@@ -79,7 +79,7 @@ $700021 :: Taça Bob-bomba
 $710086 :: Estádio do Wario \uE033
 $710087 :: Circuito do Ermii
 $710088 :: Parque Bebé \uE026\uE027
-$710089 :: Circuito Revo
+$710072 :: Castelo do Bowser \uE026\uE027
 
 #Cherry Cup
 $700022 :: Taça Cereja
@@ -159,6 +159,9 @@ welc_4 :: Suas estatísticas serão enviadas\npara o servidor de CTGP-7 então e
 welc_5 :: Usando o CTWW,\nvocê concorda com suas regras.\n\nPodes ver-las aqui:\nctgp-7.github.io/ctww.html
 welc_6 :: Lembre-se de checar o\nservidor discord de CTGP-7!\n\nLink do convite:\ninvite.gg/ctgp7
 welc_7 :: Esperamos que goste do mod! ^ω^
+
+#Achievements
+achiev_all_gold :: Conseguiste um troféu de ouro em\ntodas as taças personalizadas.\n\nParabéns!
 
 #General text
 warning :: ALERTA

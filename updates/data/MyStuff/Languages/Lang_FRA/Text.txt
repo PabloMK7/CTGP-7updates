@@ -49,7 +49,7 @@ $710051 :: CTR Crique Crash
 #Bullet Cup
 $700016 :: Coupe Bill Balle
 $710056 :: CTR Château Cortex
-$710072 :: Route Spatiale
+$710089 :: Circuit Revo
 $710061 :: \uE031\uE032 Île Choco 2
 $710064 :: Pente Étoilée
 
@@ -79,7 +79,7 @@ $700021 :: Coupe Bob-Omb
 $710086 :: \uE033 Stade Wario
 $710087 :: Circuit Ermii
 $710088 :: \uE026\uE027 Parc Baby
-$710089 :: Circuit Revo
+$710072 :: \uE026\uE027 Château de Bowser
 
 #Cherry Cup
 $700022 :: Coupe Cerise
@@ -159,6 +159,9 @@ welc_4 :: Vos statistiques seront envoyées\nsur le serveur CTGP-7 et seront\n\n
 welc_5 :: En utilisant les fonctionnalités du\nCTWW, vous acceptez ses règles.\n\nVous pouvez les consulter ici :\nctgp-7.github.io/ctww.html
 welc_6 :: N'oubliez pas de jeter un coup\nd'œil au serveur discord CTGP-7 !\n\nLien d'invitation :\ninvite.gg/ctgp7
 welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
+
+#Achievements
+achiev_all_gold :: Vous avez obtenu un trophée\nd’or dans toutes les\ncoupes personnalisées.\n\nFélicitations!
 
 #General text
 warning :: ATTENTION

@@ -49,7 +49,7 @@ $710051 :: CTR Crash Cove
 #Bullet Cup
 $700016 :: Trofeo Pallottolo Bill
 $710056 :: CTR Cortex Castle
-$710072 :: Strada Spaziale
+$710089 :: Circuito di Revo
 $710061 :: \uE031\uE032 Cioccoisola 2
 $710064 :: Pendio Stellare
 
@@ -79,7 +79,7 @@ $700021 :: Trofeo Bob-omba
 $710086 :: \uE033 Stadio di Wario
 $710087 :: Circuito di Ermii
 $710088 :: \uE026\uE027 Baby Park
-$710089 :: Circuito di Revo
+$710072 :: \uE026\uE027 Castello di Bowser
 
 #Cherry Cup
 $700022 :: Trofeo Doppia Ciliegia
@@ -159,6 +159,9 @@ welc_4 :: La tua statistica verrà caricata nel server di CTGP-7\ncosì è dispo
 welc_5 :: Usando il CTWW,\ntu concordi alle sue regole.\n\nPuoi vederle qui:\nctgp-7.github.io/ctww.html
 welc_6 :: Ricordati di dare un'occhiata al\nserver discord di CTGP-7!\n\nEcco l'invito:\ninvite.gg/ctgp7
 welc_7 :: Speriamo ti piaccia!\n^w^
+
+#Achievements
+achiev_all_gold :: You have got a gold trophy\nin all custom cups.\n\nCongratulations!
 
 #General text
 warning :: AVVISO
