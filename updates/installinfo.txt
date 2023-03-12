@@ -279,7 +279,6 @@ M/gamefs/UI/no_archive/title_wing_r.bclim
 M/gamefs/UI/no_archive/title_yoshi_l.bclim
 M/gamefs/UI/no_archive/title_yoshi_r.bclim
 M/MyStuff/Characters/BabyDaisy/Driver/lk/lk.bcmdl
-M/MyStuff/Characters/BabyDaisy/Driver/lk_lod/lk_lod - Copie.bcmdl
 M/MyStuff/Characters/BabyDaisy/Driver/lk_lod/lk_lod.bcmdl
 M/MyStuff/Characters/BabyDaisy/Kart/Body/body_pipe/body_pipe_lk.bcmdl
 M/MyStuff/Characters/BabyDaisy/Kart/Body/body_pipe_lod/body_pipe_lod_lk.bcmdl
