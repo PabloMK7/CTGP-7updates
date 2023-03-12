@@ -162,6 +162,11 @@ welc_7 :: Esperamos que disfrutes el mod!\n^ω^
 
 #Achievements
 achiev_all_gold :: Has obtenido un trofeo de oro en\ntodas las copas personalizadas.\n\n¡Enhorabuena!
+achiev_all_1star :: Has obtenido una estrella en\ntodas las copas personalizadas.\n\n¡Enhorabuena!
+achiev_all_3star :: Has obtenido tres estrellas en\ntodas las copas personalizadas.\n\n¡Enhorabuena!
+achiev_all_mission :: Has obtenido 10 puntos en\ntodas las misiones.\n\n¡Enhorabuena!
+achiev_5000_vr :: Has obtenido 5000 PC en\ncircuitos personalizados\nen línea.\n\n¡Enhorabuena!
+unlocked_item :: Has desbloqueado:\n\n
 
 #General text
 warning :: ADVERTENCIA

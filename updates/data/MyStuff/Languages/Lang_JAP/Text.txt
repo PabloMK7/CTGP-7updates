@@ -161,7 +161,12 @@ welc_6 :: CTGP-7のサーバーをかくにん\nすることをわすれない�
 welc_7 :: modをおたのしみください！\n^w^
 
 #Achievements
-achiev_all_gold :: すべてのカップで\nゴールドトロフィーをとりました。\n\nおめでとうございます！
+achiev_all_gold :: すべてのカスタムカップで\nゴールドトロフィーをとりました。\n\nおめでとうございます！
+achiev_all_1star :: すべてのカスタムカップで\nほし１つをとりました。\n\nおめでとうございます！
+achiev_all_3star :: すべてのカスタムカップで\nほし３つをとりました。\n\nおめでとうございます！
+achiev_all_mission :: すべてのミッションで\n10点をとりました。\n\nおめでとうございます！
+achiev_5000_vr :: CTWWで\n5000 VRにたっしました。\n\nおめでとうございます！
+unlocked_item :: さいごのアンロック:\n\n
 
 #General text
 warning :: 警告

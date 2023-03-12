@@ -162,6 +162,11 @@ welc_7 :: Esperem que gaudeixis el mod!\n^ω^
 
 #Achievements
 achiev_all_gold :: Has obtingut un trofeu d'or en\ntotes les copes personalitzades.\n\nEnhorabona!
+achiev_all_1star :: Has obtingut una estrella en\ntotes les copes personalitzades.\n\nEnhorabona!
+achiev_all_3star :: Has obtingut tres estrelles en\ntotes les copes personalitzades.\n\nEnhorabona!
+achiev_all_mission :: Has obtingut 10 punts en\ntotes les missions.\n\nEnhorabona!
+achiev_5000_vr :: Has obtingut 5000 PC en\ncircuits personalitzats\nen línia.\n\nEnhorabona!
+unlocked_item :: Has desbloquejat:\n\n
 
 #General text
 warning :: ADVERTÈNCIA

@@ -161,7 +161,12 @@ welc_6 :: CTGP-7 디스코드 서버도\n한번 확인해 주세요!\n\n초대 �
 welc_7 :: 모드를 즐겨 주세요!\n^w^
 
 #Achievements
-achiev_all_gold :: 모든 컵에서\n금 트로피를 얻었습니다.\n\n축하드립니다!
+achiev_all_gold :: 모든 커스텀 컵에서\n금 트로피를 얻었습니다.\n\n축하드립니다!
+achiev_all_1star :: 모든 커스텀 컵에서\n별 1개를 얻었습니다.\n\n축하드립니다!
+achiev_all_3star :: 모든 커스텀 컵에서\n별 3개 얻었습니다.\n\n축하드립니다!
+achiev_all_mission :: 모든 미션에서\n10점를 얻었습니다.\n\n축하드립니다!
+achiev_5000_vr :: CTWW에서\n5000 VR에 도달했습니다.\n\n축하드립니다!
+unlocked_item :: 잠금 해제됨:\n\n
 
 #General text
 warning :: 주의

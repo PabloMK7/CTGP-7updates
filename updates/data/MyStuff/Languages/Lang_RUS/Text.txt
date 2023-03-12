@@ -14,7 +14,7 @@ $710045 :: Облачный сад \uE024\uE025
 #Acorn Cup
 $700011 :: Кубок желудя
 $710046 :: Осенний лес
-$710068 :: Речной парк \uE024\uE025
+$710068 :: Прибрежный парк \uE024\uE025
 $710043 :: Трасса Марио 1 \uE031\uE032
 $710049 :: Замок Боузера 3 \uE024\uE025
 
@@ -161,7 +161,12 @@ welc_6 :: Не забудь заглянуть на\nDiscord-сервер CTGP-7
 welc_7 :: Надеемся, тебе понравится\nнаш мод! ^ω^
 
 #Achievements
-achiev_all_gold :: You have got a gold trophy\nin all custom cups.\n\nCongratulations!
+achiev_all_gold :: Ты заработал золотой\nтрофей во всех\nфанатских кубках!\n\nПоздравляем!
+achiev_all_1star :: You have got 1 star\nin all custom cups.\n\nCongratulations!
+achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations!
+achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
+achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
+unlocked_item :: You have unlocked:\n\n
 
 #General text
 warning :: ВНИМАНИЕ

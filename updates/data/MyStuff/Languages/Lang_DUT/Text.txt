@@ -161,7 +161,12 @@ welc_6 :: Vergeet niet de CTGP-7\nDiscord server te bekijken!!\n\nUitnodigingsli
 welc_7 :: We hopen dat je de mod leuk vind!\n^w^
 
 #Achievements
-achiev_all_gold :: You have got a gold trophy\nin all custom cups.\n\nCongratulations!
+achiev_all_gold :: Je hebt een gouden trofee\nbehaald in alle custom bekers.\n\nGefeliciteerd!
+achiev_all_1star :: You have got 1 star\nin all custom cups.\n\nCongratulations!
+achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations!
+achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
+achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
+unlocked_item :: You have unlocked:\n\n
 
 #General text
 warning :: WAARSCHUWING

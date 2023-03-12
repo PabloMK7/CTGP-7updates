@@ -162,6 +162,11 @@ welc_7 :: Wir hoffen, dir gefällt der Mod!\n^ω^
 
 #Achievements
 achiev_all_gold :: Du hast einen Gold-Pokal in\nallen benutzerdef. Cups\nerhalten.\n\nHerzlichen Glückwunsch!
+achiev_all_1star :: Du hast 1 Stern in allen\nbenutzerdef. Cups\nerrungen.\nHerzlichen Glückwunsch!
+achiev_all_3star :: Du hast 3 Sterne in allen\nbenutzerdef. Cups\nerrungen.\nHerzlichen Glückwunsch!
+achiev_all_mission :: Du hast 10 Punkte in allen\nMissionen errungen.\n\nHerzlichen Glückwunsch!
+achiev_5000_vr :: Du hast 5000 RP im\nCTWW errungen.\n\nHerzlichen Glückwunsch!
+unlocked_item :: Du freigeschaltet hast:\n\n
 
 #General text
 warning :: WARNUNG

@@ -14,7 +14,7 @@ $710045 :: Jardim Celeste \uE024\uE025
 #Acorn Cup
 $700011 :: Taça Bolota
 $710046 :: Floresta Outono
-$710068 :: Parque Riverside \uE024\uE025
+$710068 :: Parque Fluvial \uE024\uE025
 $710043 :: Circuito do Mario 1 \uE031\uE032
 $710049 :: Castelo 3 do Bowser \uE024\uE025
 
@@ -162,6 +162,11 @@ welc_7 :: Esperamos que goste do mod! ^ω^
 
 #Achievements
 achiev_all_gold :: Conseguiste um troféu de ouro em\ntodas as taças personalizadas.\n\nParabéns!
+achiev_all_1star :: Conseguiste uma estrela em\ntodas as taças personalizadas.\n\nParabéns!
+achiev_all_3star :: Conseguiste três estrelas em\ntodas as taças personalizadas.\n\nParabéns!
+achiev_all_mission :: Conseguiste 10 pontos em\ntodas as missões.\n\nParabéns!
+achiev_5000_vr :: Conseguiste 5000 VR em\ncircúitos personalizados\nonline.\n\nParabéns!
+unlocked_item :: Desbloqueaste:\n\n
 
 #General text
 warning :: ALERTA

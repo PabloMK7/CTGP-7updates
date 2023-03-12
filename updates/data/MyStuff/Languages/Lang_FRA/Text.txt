@@ -14,7 +14,7 @@ $710045 :: \uE024\uE025 Jardin Volant
 #Acorn Cup
 $700011 :: Coupe Noisette
 $710046 :: Forêt Automnale
-$710068 :: \uE024\uE025 Bord du Fleuve
+$710068 :: \uE024\uE025 Riverside Parc
 $710043 :: \uE031\uE032 Circuit Mario 1
 $710049 :: \uE024\uE025 Château de Bowser 3
 
@@ -155,13 +155,18 @@ welc_t :: Bienvenue sur CTGP-7 !
 welc_1 :: Salut ! Depuis le menu du jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir ce menu,\nappuyez sur (SELECT).
 welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
 welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
-welc_4 :: Vos statistiques seront envoyées\nsur le serveur CTGP-7 et seront\n\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi des\nstatistiques depuis le menu du jeu.
+welc_4 :: Vos statistiques seront envoyées\nsur le serveur CTGP-7 et seront\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi des\nstatistiques depuis le menu du jeu.
 welc_5 :: En utilisant les fonctionnalités du\nCTWW, vous acceptez ses règles.\n\nVous pouvez les consulter ici :\nctgp-7.github.io/ctww.html
 welc_6 :: N'oubliez pas de jeter un coup\nd'œil au serveur discord CTGP-7 !\n\nLien d'invitation :\ninvite.gg/ctgp7
 welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
 
 #Achievements
 achiev_all_gold :: Vous avez obtenu un trophée\nd’or dans toutes les\ncoupes personnalisées.\n\nFélicitations!
+achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes personalisées.\n\nFélicitations!
+achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes personalisées.\n\nFélicitations!
+achiev_all_mission :: Vous avez obtenu dix points\ndans tous les missions.\n\nFélicitations!
+achiev_5000_vr :: Vous avez atteint 5000 PC dans CTWW.\n\nFélicitations!
+unlocked_item :: Vous avez obtenu:\n\n
 
 #General text
 warning :: ATTENTION
