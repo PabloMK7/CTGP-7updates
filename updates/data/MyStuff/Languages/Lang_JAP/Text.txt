@@ -166,7 +166,7 @@ achiev_all_1star :: すべてのカスタムカップで\nほし１つをとり�
 achiev_all_3star :: すべてのカスタムカップで\nほし３つをとりました。\n\nおめでとうございます！
 achiev_all_mission :: すべてのミッションで\n10点をとりました。\n\nおめでとうございます！
 achiev_5000_vr :: CTWWで\n5000 VRにたっしました。\n\nおめでとうございます！
-unlocked_item :: さいごのアンロック:\n\n
+unlocked_item :: 次のものが解除されました！\n\n
 
 #General text
 warning :: 警告
