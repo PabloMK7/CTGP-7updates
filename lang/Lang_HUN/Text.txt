@@ -44,12 +44,12 @@ $700015 :: Tojás kupa
 $710063 :: \uE033 Yoshi-vízesés
 $710047 :: \uE022\uE023 Csoki-hegy
 $710048 :: \uE033 Gomba-gerinc
-$710051 :: _
+$710051 :: CTR Crash barlangja
 
 #Bullet Cup
 $700016 :: Rakéta kupa
 $710056 :: CTR Cortex vára
-$710072 :: Világűr út
+$710089 :: Revo pálya
 $710061 :: \uE031\uE032 Csoki-sziget 2
 $710064 :: Csillag-lejtő
 
@@ -79,7 +79,7 @@ $700021 :: Bob-omb kupa
 $710086 :: \uE033 Wario stadion
 $710087 :: Ermii pálya
 $710088 :: \uE026\uE027 Baba park
-$710089 :: Revo pálya
+$710072 :: \uE026\uE027 Bowser vára
 
 #Cherry Cup
 $700022 :: Cseresznye kupa
@@ -159,6 +159,14 @@ welc_4 :: Bizonyos statisztikákat\nfeltöltünk a CTGP-7 szerverre,\nahol bárk
 welc_5 :: A CTWW használatával elfogadod\na felhasználási feltételeket.\n\nEzeket itt tekintheted meg:\nctgp-7.github.io/ctww.html
 welc_6 :: Végezetül javasoljuk,\nhogy keresd fel a\nCTGP-7 Discord-szerverét is!\n\nMeghívó:\ninvite.gg/ctgp7
 welc_7 :: Jó szórakozást\na modhoz!\n^w^
+
+#Achievements
+achiev_all_gold :: Megszerezted az arany serleget\nminden egyéni kupában!\n\nGratulálunk!
+achiev_all_1star :: You have got 1 star\nin all custom cups.\n\nCongratulations!
+achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations!
+achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
+achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
+unlocked_item :: You have unlocked:\n\n
 
 #General text
 warning :: FIGYELMEZTETÉS
@@ -269,9 +277,9 @@ OrderH :: Balról jobbra
 OrderV :: Felülről lefelé
 NextRac :: Válaszd ki a következő pályát.\nHátralévő versenyek száma:
 extra_diff :: Nagyon nehéz :: EXTRÉM
-cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
-item_mega :: Mega Mushroom
-item_fib :: Fake Item Box
+cusitem_notice :: MEGJEGYZÉS: Az eredeti tárgy (%s) bizonyos esetekben még előfordulhat.
+item_mega :: Óriásgomba
+item_fib :: Hamis tárgydoboz
 
 #Reset Ghosts
 resghost :: Szellem visszaállítása :: Alaphelyzetbe állít egy szellemet akármelyik pályán.

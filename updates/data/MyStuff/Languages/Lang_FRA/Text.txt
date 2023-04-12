@@ -135,7 +135,7 @@ $700028 :: Coupe Pierre
 $710060 :: Île Tuyau
 $710115 :: Neopolis 
 $710116 :: Sommet Givré
-$710117 :: Repère de Gnasty Gnorc
+$710117 :: Repaire de Gnasty Gnorc
 
 #Moon Cup
 $700029 :: Coupe Lune
@@ -162,8 +162,8 @@ welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
 
 #Achievements
 achiev_all_gold :: Vous avez obtenu un trophée\nd’or dans toutes les\ncoupes personnalisées.\n\nFélicitations!
-achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes personalisées.\n\nFélicitations!
-achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes personalisées.\n\nFélicitations!
+achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes personnalisées.\n\nFélicitations!
+achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes personnalisées.\n\nFélicitations!
 achiev_all_mission :: Vous avez obtenu dix points\ndans tous les missions.\n\nFélicitations!
 achiev_5000_vr :: Vous avez atteint 5000 PC dans CTWW.\n\nFélicitations!
 unlocked_item :: Vous avez obtenu:\n\n

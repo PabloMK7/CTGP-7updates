@@ -1,6 +1,4 @@
 S/670000000
-M/cia/tooInstall.3dsx
-C/cia/tooInstall.3dsx
 M/cia/tooInstall.cia
 C/cia/tooInstall.cia
 M/config/expectedVer.bin
@@ -825,6 +823,7 @@ M/MyStuff/Languages/Lang_SPA/Text.txt
 M/MyStuff/Languages/Lang_SPA/thankyou-es.szs
 M/MyStuff/Languages/Lang_SPA/trophy-es.szs
 M/MyStuff/Languages/Lang_SPA.ini
+M/MyStuff/Missions/empty.txt
 M/MyStuff/musicSlotsUser.ini
 M/MyStuff/stream/empty.txt
 M/resources/courseCredits.ini

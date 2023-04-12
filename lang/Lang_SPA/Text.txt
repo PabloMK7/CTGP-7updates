@@ -49,7 +49,7 @@ $710051 :: CTR Cueva Crash
 #Bullet Cup
 $700016 :: Copa Bala
 $710056 :: CTR Castillo de Cortex
-$710072 :: Senda Espacial
+$710089 :: Circuito Revo
 $710061 :: \uE031\uE032 Isla Chocolate 2
 $710064 :: Tobogán Estelar
 
@@ -79,7 +79,7 @@ $700021 :: Copa Bob-omb
 $710086 :: \uE033 Estadio Wario
 $710087 :: Circuito Ermii
 $710088 :: \uE026\uE027 Parque Bebé
-$710089 :: Circuito Revo
+$710072 :: \uE026\uE027 Castillo de Bowser
 
 #Cherry Cup
 $700022 :: Copa Cereza
@@ -159,6 +159,14 @@ welc_4 :: Tus estadísticas serán subidas\nal servidor de CTGP-7 para que\ntodo
 welc_5 :: Al usar la función CTWW\naceptas sus reglas.\n\nPuedes verlas aquí:\nctgp-7.github.io/ctww.html
 welc_6 :: ¡Recueda visitar el servidor\nde discord de CTGP-7!\n\nEnlace de invitación:\ninvite.gg/ctgp7
 welc_7 :: Esperamos que disfrutes el mod!\n^ω^
+
+#Achievements
+achiev_all_gold :: Has obtenido un trofeo de oro en\ntodas las copas personalizadas.\n\n¡Enhorabuena!
+achiev_all_1star :: Has obtenido una estrella en\ntodas las copas personalizadas.\n\n¡Enhorabuena!
+achiev_all_3star :: Has obtenido tres estrellas en\ntodas las copas personalizadas.\n\n¡Enhorabuena!
+achiev_all_mission :: Has obtenido 10 puntos en\ntodas las misiones.\n\n¡Enhorabuena!
+achiev_5000_vr :: Has obtenido 5000 PC en\ncircuitos personalizados\nen línea.\n\n¡Enhorabuena!
+unlocked_item :: Has desbloqueado:\n\n
 
 #General text
 warning :: ADVERTENCIA

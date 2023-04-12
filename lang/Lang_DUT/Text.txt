@@ -49,7 +49,7 @@ $710051 :: CTR Crash' Grot
 #Bullet Cup
 $700016 :: Bullet Bill-Beker
 $710056 :: CTR Cortex-Kasteel
-$710072 :: Ruimteweg
+$710089 :: Revo-Circuit
 $710061 :: \uE031\uE032 Choco-Eiland 2
 $710064 :: Sterrenhelling
 
@@ -79,7 +79,7 @@ $700021 :: Bob-omb-Beker
 $710086 :: \uE033 Wario's Stadion
 $710087 :: Ermii's Circuit
 $710088 :: \uE026\uE027 Babypark
-$710089 :: Revo-Circuit
+$710072 :: \uE026\uE027 Bowsers Kasteel
 
 #Cherry Cup
 $700022 :: Kersenbeker
@@ -159,6 +159,14 @@ welc_4 :: Jouw statistieken zullen worden geüpload \nnaar de CTGP-7 server zoda
 welc_5 :: Bij het gebruik van CTWW,\nga je akkoord met de regels.\n\nJe kan ze hier lezen:\nctgp-7.github.io/ctww.html
 welc_6 :: Vergeet niet de CTGP-7\nDiscord server te bekijken!!\n\nUitnodigingslink:\ninvite.gg/ctgp7
 welc_7 :: We hopen dat je de mod leuk vind!\n^w^
+
+#Achievements
+achiev_all_gold :: Je hebt een gouden trofee\nbehaald in alle custom bekers.\n\nGefeliciteerd!
+achiev_all_1star :: You have got 1 star\nin all custom cups.\n\nCongratulations!
+achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations!
+achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
+achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
+unlocked_item :: You have unlocked:\n\n
 
 #General text
 warning :: WAARSCHUWING

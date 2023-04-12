@@ -162,8 +162,8 @@ welc_7 :: modをおたのしみください！\n^w^
 
 #Achievements
 achiev_all_gold :: すべてのカスタムカップで\nゴールドトロフィーをとりました。\n\nおめでとうございます！
-achiev_all_1star :: すべてのカスタムカップで\nほし１つをとりました。\n\nおめでとうございます！
-achiev_all_3star :: すべてのカスタムカップで\nほし３つをとりました。\n\nおめでとうございます！
+achiev_all_1star :: すべてのカスタムカップで\nほし1つをとりました。\n\nおめでとうございます！
+achiev_all_3star :: すべてのカスタムカップで\nほし3つをとりました。\n\nおめでとうございます！
 achiev_all_mission :: すべてのミッションで\n10点をとりました。\n\nおめでとうございます！
 achiev_5000_vr :: CTWWで\n5000 VRにたっしました。\n\nおめでとうございます！
 unlocked_item :: 次のものが解除されました！\n\n
@@ -277,7 +277,7 @@ OrderH :: 横方向
 OrderV :: 縦方向
 NextRac :: 次のコースを選択してください。\n残りのレース:
 extra_diff :: とてもむずかしい :: EXTREME
-cusitem_notice :: 注意：いくつかの場合ではデフォルトのアイテム（%s）が出る可能性もあります。
+cusitem_notice :: 注意: いくつかの場合ではデフォルトのアイテム（%s）が出る可能性もあります。
 item_mega :: 巨大キノコ
 item_fib :: にせアイテムボックス
 
