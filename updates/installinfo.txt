@@ -742,6 +742,7 @@ M/MyStuff/Karts/Lang_ENG.txt
 M/MyStuff/Karts/Lang_FRA.txt
 M/MyStuff/Karts/Lang_ITA.txt
 M/MyStuff/Karts/Lang_JAP.txt
+M/MyStuff/Karts/Lang_KOR.txt
 M/MyStuff/Karts/Lang_POR.txt
 M/MyStuff/Karts/Lang_RUS.txt
 M/MyStuff/Karts/Lang_SPA.txt
