@@ -49,7 +49,7 @@ $710051 :: CTR Crash' Grot
 #Bullet Cup
 $700016 :: Bullet Bill-Beker
 $710056 :: CTR Cortex-Kasteel
-$710060 :: \uE033 Dokan Baan
+$710089 :: Revo-Circuit
 $710061 :: \uE031\uE032 Choco-Eiland 2
 $710064 :: Sterrenhelling
 
@@ -79,13 +79,13 @@ $700021 :: Bob-omb-Beker
 $710086 :: \uE033 Wario's Stadion
 $710087 :: Ermii's Circuit
 $710088 :: \uE026\uE027 Babypark
-$710089 :: Revo-Circuit
+$710072 :: \uE026\uE027 Bowsers Kasteel
 
 #Cherry Cup
 $700022 :: Kersenbeker
 $710090 :: \uE031\uE032 Mario's Circuit 3
 $710091 :: Big Blue
-$710092 :: \uE024\uE025 Shy Guy's Strand
+$710092 :: \uE024\uE025 Shy Guys Strand
 $710093 :: Bingo Party
 
 #Coin Cup
@@ -99,7 +99,7 @@ $710073 :: Miku's Verjaardag Spec.
 $700017 :: Regenboogbeker
 $710070 :: \uE022\uE023 Regenboogbaan
 $710071 :: \uE024\uE025 Regenboogbaan
-$710072 :: Ruimteweg
+$710114 :: RMX Regenboogbaan 1
 $710097 :: Regenboogbaan DX
 
 #Pickaxe Cup
@@ -130,6 +130,20 @@ $710111 :: Bevroren Grot
 $710112 :: \uE024\uE025 Meerpark
 $710113 :: Drakenkerkhof
 
+#Rock Cup
+$700028 :: Rotsbeker
+$710060 :: Buizeneiland
+$710115 :: Neo-Metropool
+$710116 :: Kille Hoogtes
+$710117 :: Gnasty Gnorcs Hol
+
+#Moon Cup
+$700029 :: Maanbeker
+$710118 :: RMX Vanillemeer 1
+$710119 :: Klifcircuit
+$710120 :: Interstellair Lab
+$710121 :: Donkere Materie-Vesting
+
 #Save Data
 $7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt.
 $7003 :: Extra save data maken...
@@ -146,6 +160,14 @@ welc_5 :: Bij het gebruik van CTWW,\nga je akkoord met de regels.\n\nJe kan ze h
 welc_6 :: Vergeet niet de CTGP-7\nDiscord server te bekijken!!\n\nUitnodigingslink:\ninvite.gg/ctgp7
 welc_7 :: We hopen dat je de mod leuk vind!\n^w^
 
+#Achievements
+achiev_all_gold :: Je hebt een gouden trofee\nbehaald in alle custom bekers.\n\nGefeliciteerd!
+achiev_all_1star :: You have got 1 star\nin all custom cups.\n\nCongratulations!
+achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations!
+achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
+achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
+unlocked_item :: You have unlocked:\n\n
+
 #General text
 warning :: WAARSCHUWING
 error :: ERROR
@@ -159,9 +181,12 @@ race_noun :: Race
 state_mode :: Aan :: Uit
 state_inf :: Zet aan :: Zet uit
 allow_inf :: Toestaan :: Weigeren
+valid_inf :: Geldig :: Ongeldig
 num_betw :: Nummer moet tussen %d en %d zitten.
 settings :: Instellingen
 exit :: Terug
+default :: Standaard
+button :: Knop
 
 #Folders
 gameplay_folder :: Spelfuncties :: Configuratie voor aanvullende spelfuncties.
@@ -178,6 +203,8 @@ cuskart :: Nieuwe karts :: Laad nieuwe karts van de MyStuff map.
 trackorder :: Online circuitvolgorde :: Kies in welke volgorde de circuits in bekers online zitten.
 itmprb :: Verbeterde voorwerproulette :: Laat de echte voorwerpkansen zien op de voorwerproulette in plaats van willekeurige voorwerpen.
 imtrick :: Verbeterde springboosts ::  Karts gaan draaien tijdens een truc op een boost ramp. Gebruik de \uE077 Circle Pad om de draairichting te veranderen.
+autoaccel :: Auto-Acceleratie :: Wanneer op \uE000 of \uE003 wordt gedrukt, wordt auto-acceleratie aangezet totdat op \uE001 wordt gedrukt.
+imbrakedrift :: Verbeterde Rem-Drift :: Druk op \uE001 tijdens het driften om te remmen zonder jouw mini-turbo te verliezen.
 
 #Speedometer text
 spd_set :: Opties snelheidsmeter.
@@ -191,7 +218,7 @@ spd_types2 :: Double Dash
 #CC Selector text
 cc_set :: Opties CC selectie.
 cc_val :: Waarde
-cc_entv :: Voer nieuwe CC waarde in.
+cc_entv :: Voer een nieuwe CC waarde in.
 cc_chgv :: Verander waarde
 
 #Course Manager
@@ -205,24 +232,29 @@ commugen :: Community-Code Generator :: Genereert een code gebaseerd op de huidi
 def_spd :: Standaard snelheid
 rand_tr :: Forceer willekeurige circuits
 code :: Code
+cusitem :: Nieuwe voorwerpen
 
 #Change Round Number
 chgrnd :: Verander aantal rondes :: Verandert het aantal rondes in races en gevechten.
-chgrnd_desc :: Selecteer het aantal rondes\die gespeeld worden in VS races of gevechten.\nWerkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben.
+chgrnd_desc :: Selecteer het aantal rondes\ndat je in VS races of gevechten wilt spelen.\nWerkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben.
 rounds :: Rondes
 rnd_sel :: Selecteer het aantal rondes.
 
 #Enhanced Local Map
-enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scherm met gebruik van het \uE058 touchscreen.
+enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scherm door middel van het \uE058 touchscreen.
 
 #Custom character manager text
 char_select :: Selecteer een karakter om te configureren.
-reboot_req :: (Opnieuw opstarten nodig om veranderingen toe te passen.)
+reboot_req :: (Opnieuw opstarten vereist om veranderingen toe te passen.)
 char_replace :: Selecteer een karakter voor:\n
 green_info :: Groen → Huidige geactiveerde item.
+face_raider_sel :: Selecteer een gezicht
 
 #Online track order
 order_mode :: Standaard :: Alphabetisch
+
+#Auto Acceleration
+autoaccel_button :: Selecteer de knop die auto-\nacceleratie activeert.
 
 #Online update check
 update_check :: Zoeken naar updates... :: De nieuwste versie van CTGP-7\nis nodig om online te spelen.
@@ -244,6 +276,10 @@ RanAll :: Willekeurig (Alle)
 OrderH :: Horizontale volgorde
 OrderV :: Verticale volgorde
 NextRac :: Selecteer volgende circuit.\nOvergebleven races:
+extra_diff :: Erg Moeilijk :: EXTREEM
+cusitem_notice :: Het standaard voorwerp (%s) zal in sommige gevallen toch voor kunnen komen.
+item_mega :: Megapaddenstoel
+item_fib :: Fake Item Box
 
 #Reset Ghosts
 resghost :: Reset spook :: Staat het resetten van het spook toe op elk circuit.
@@ -254,7 +290,7 @@ ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :
 servsett :: Serverinstellingen :: CTGP-7 server gerelateerde instellingen
 serv_consID :: CTGP-7 ConsoleID
 serv_statsupl :: Statistieken uploaden
-serv_displname :: Namen tonen :: Selecteer de modus voor het tonen van namen.
+serv_displname :: Namen tonen :: Selecteer de modus voor het tonen van\nnamen.
 serv_disphid :: Verborgen
 serv_dispmii :: Mii Naam
 serv_dispcust :: Voer aangepaste naam in. :: Naam kan maar 15\nkarakters lang zijn.
@@ -265,6 +301,7 @@ stats_tpl :: Keren gespeeld
 stats_tot :: Totale offline races :: Totale online races
 stats_vnll :: Origineel
 stats_most :: Meest gespeelde circuits :: Meest gespeelde arenas
+stats_rpoints :: Race punten
 
 #Discord
 disc_info :: Discordinformatie
@@ -293,3 +330,6 @@ msstat_msnplay :: Missies gespeeld
 msstat_state :: Voltooid :: Gefaald
 msstat_perfgrad :: (met perfecte rang)
 msstat_usermsn :: Eigen missies
+
+#Course Checksum
+course_check :: Circuit Checksum

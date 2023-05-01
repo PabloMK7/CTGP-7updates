@@ -44,12 +44,12 @@ $700015 :: Tojás kupa
 $710063 :: \uE033 Yoshi-vízesés
 $710047 :: \uE022\uE023 Csoki-hegy
 $710048 :: \uE033 Gomba-gerinc
-$710051 :: _
+$710051 :: CTR Crash barlangja
 
 #Bullet Cup
 $700016 :: Rakéta kupa
 $710056 :: CTR Cortex vára
-$710060 :: \uE033 Csöves pálya
+$710089 :: Revo pálya
 $710061 :: \uE031\uE032 Csoki-sziget 2
 $710064 :: Csillag-lejtő
 
@@ -79,7 +79,7 @@ $700021 :: Bob-omb kupa
 $710086 :: \uE033 Wario stadion
 $710087 :: Ermii pálya
 $710088 :: \uE026\uE027 Baba park
-$710089 :: Revo pálya
+$710072 :: \uE026\uE027 Bowser vára
 
 #Cherry Cup
 $700022 :: Cseresznye kupa
@@ -99,7 +99,7 @@ $710073 :: Miku szülinapi látv.
 $700017 :: Szivárvány kupa
 $710070 :: \uE022\uE023 Szivárvány út
 $710071 :: \uE024\uE025 Szivárvány út
-$710072 :: Világűr út
+$710114 :: RMX Szivárvány út 1
 $710097 :: Szivárvány út DX
 
 #Pickaxe Cup
@@ -130,6 +130,20 @@ $710111 :: Fagyos-barlang
 $710112 :: \uE024\uE025 Tóparti park
 $710113 :: Sárkánytemető
 
+#Rock Cup
+$700028 :: Szikla kupa
+$710060 :: Cső kupa
+$710115 :: Új-Metropolisz
+$710116 :: Fagyos-csúcs
+$710117 :: Gnasty Gnork odúja
+
+#Moon Cup
+$700029 :: Hold kupa
+$710118 :: RMX Vanília-tó 1
+$710119 :: Sziklaoldali pálya
+$710120 :: Csillagközi labor
+$710121 :: Sötétanyag-vár
+
 #Save Data
 $7005 :: Az SD kártyán egy extra\njátékmentés lesz létrehozva.
 $7003 :: Extra mentés létrehozása...
@@ -146,6 +160,14 @@ welc_5 :: A CTWW használatával elfogadod\na felhasználási feltételeket.\n\n
 welc_6 :: Végezetül javasoljuk,\nhogy keresd fel a\nCTGP-7 Discord-szerverét is!\n\nMeghívó:\ninvite.gg/ctgp7
 welc_7 :: Jó szórakozást\na modhoz!\n^w^
 
+#Achievements
+achiev_all_gold :: Megszerezted az arany serleget\nminden egyéni kupában!\n\nGratulálunk!
+achiev_all_1star :: You have got 1 star\nin all custom cups.\n\nCongratulations!
+achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations!
+achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
+achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
+unlocked_item :: You have unlocked:\n\n
+
 #General text
 warning :: FIGYELMEZTETÉS
 error :: HIBA
@@ -159,9 +181,12 @@ race_noun :: Verseny
 state_mode :: Engedélyezve :: Letiltva
 state_inf :: Engedélyezés :: Letiltás
 allow_inf :: Engedélyezés :: Megtiltás
+valid_inf :: Érvényes :: Érvénytelen
 num_betw :: Az értéknek %d és %d között kell lennie.
 settings :: Beállítások
 exit :: Kilépés
+default :: Alapértelmezett
+button :: Gomb
 
 #Folders
 gameplay_folder :: Játékfunkciók :: Extra funkciók beállításai.
@@ -178,6 +203,8 @@ cuskart :: Egyéni gokartok :: Egyéni gokartok betöltése a MyStuff mappából
 trackorder :: Online pálya rendezés :: Válaszd ki a pályák rendezését online.
 itmprb :: Javított rulett :: A tárgyrulett pörgés közben a tényleges esélyeket mutatja véletlenszerű tárgyak helyett.
 imtrick :: Javított trükkök :: Gyorsítórámpáról indított trükközéskor a gokart pördül egyet. A pördülés irányát a \uE077 Circle Pad határozza meg.
+autoaccel :: Automatikus gáz :: A(z) \uE000 vagy \uE003 gomb megnyomása után a gokart a gomb nyomva tartása nékül is folytatja az előre haladást. Megszakítható a(z) \uE001 gombbal.
+imbrakedrift :: Javított fékező farolás :: Tartsd lenyomva a(z) \uE001 gombot farolás közben a miniturbód elvesztése nélküli fékezéshez.
 
 #Speedometer text
 spd_set :: Sebességmérő beállításai.
@@ -205,6 +232,7 @@ commugen :: Közösségi kód generátor :: Generál egy kódot a beállításai
 def_spd :: Alapértelmezett sebesség
 rand_tr :: Csak véletlenszerű pályák
 code :: Kód
+cusitem :: Egyéni tárgyak
 
 #Change Round Number
 chgrnd :: Körök száma :: Megváltoztatja a körök számát verseny és csata módban.
@@ -220,9 +248,13 @@ char_select :: Válaszd ki a beállítandó karaktert.
 reboot_req :: A változtatások érvényesítéséhez\nújrainsítás szükséges.
 char_replace :: Válassz ki egy egyéni karaktert helyette:\n
 green_info :: Zöld → Jelenlegi beállítás.
+face_raider_sel :: Válassz ki egy arcot!
 
 #Online track order
 order_mode :: Alapértelmezett :: ABC-sorrend
+
+#Auto Acceleration
+autoaccel_button :: Válaszd ki az automatikus gáz\nkioldógombját!
 
 #Online update check
 update_check :: Frissítések keresése... :: A CTGP-7 legújabb verziója\nszükséges az online játékhoz.
@@ -244,6 +276,10 @@ RanAll :: Véletlenszerű (mind)
 OrderH :: Balról jobbra
 OrderV :: Felülről lefelé
 NextRac :: Válaszd ki a következő pályát.\nHátralévő versenyek száma:
+extra_diff :: Nagyon nehéz :: EXTRÉM
+cusitem_notice :: MEGJEGYZÉS: Az eredeti tárgy (%s) bizonyos esetekben még előfordulhat.
+item_mega :: Óriásgomba
+item_fib :: Hamis tárgydoboz
 
 #Reset Ghosts
 resghost :: Szellem visszaállítása :: Alaphelyzetbe állít egy szellemet akármelyik pályán.
@@ -265,6 +301,7 @@ stats_tpl :: Játékok száma
 stats_tot :: Offline versenyek száma :: Online versenyek száma
 stats_vnll :: Alappályák
 stats_most :: Legtöbbet játszott pályák :: Legtöbbet játszott csatapályák
+stats_rpoints :: Versenypontok
 
 #Discord
 disc_info :: Discord információ
@@ -293,6 +330,9 @@ msstat_msnplay :: Játszott küldetések
 msstat_state :: Sikeres :: Sikertelen
 msstat_perfgrad :: (hibátlanul)
 msstat_usermsn :: Egyéni küldetések
+
+#Course Checksum
+course_check :: Pálya ellenörzőösszege
 
 #Characters
 $1000 :: Mario
@@ -437,7 +477,7 @@ $1704 :: \uE033 Luigi kúriája
 $1705 :: \uE033 Waluigi flipper
 $1706 :: \uE033 DK-szoros
 $1707 :: \uE033 Léghajó vár
-$1708 :: \uE067 Kókusz áruház
+$1708 :: \uE067 Kókusz Áruház
 $1709 :: \uE067 Koopa-fok
 $1710 :: \uE067 Juhar fasor
 $1711 :: \uE067 Gomba-torok

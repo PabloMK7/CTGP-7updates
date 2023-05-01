@@ -1,0 +1,1 @@
+https://github.com/PabloMK7/CTGP-7updates/releases/download/v%s/filelist.txt

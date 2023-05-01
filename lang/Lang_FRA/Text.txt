@@ -14,7 +14,7 @@ $710045 :: \uE024\uE025 Jardin Volant
 #Acorn Cup
 $700011 :: Coupe Noisette
 $710046 :: Forêt Automnale
-$710068 :: \uE024\uE025 Bord du Fleuve
+$710068 :: \uE024\uE025 Riverside Parc
 $710043 :: \uE031\uE032 Circuit Mario 1
 $710049 :: \uE024\uE025 Château de Bowser 3
 
@@ -49,7 +49,7 @@ $710051 :: CTR Crique Crash
 #Bullet Cup
 $700016 :: Coupe Bill Balle
 $710056 :: CTR Château Cortex
-$710060 :: \uE033 Circuit Dokan
+$710089 :: Circuit Revo
 $710061 :: \uE031\uE032 Île Choco 2
 $710064 :: Pente Étoilée
 
@@ -79,7 +79,7 @@ $700021 :: Coupe Bob-Omb
 $710086 :: \uE033 Stade Wario
 $710087 :: Circuit Ermii
 $710088 :: \uE026\uE027 Parc Baby
-$710089 :: Circuit Revo
+$710072 :: \uE026\uE027 Château de Bowser
 
 #Cherry Cup
 $700022 :: Coupe Cerise
@@ -99,7 +99,7 @@ $710073 :: Spectacle Miku
 $700017 :: Coupe Arc-en-ciel
 $710070 :: \uE022\uE023 Route Arc-en-ciel
 $710071 :: \uE024\uE025 Route Arc-en-ciel
-$710072 :: Route Spatiale
+$710114 :: RMX Route Arc-en-ciel 1
 $710097 :: Route Arc-en-ciel Deluxe
 
 #Pickaxe Cup
@@ -130,6 +130,20 @@ $710111 :: Grotte Gelée
 $710112 :: \uE024\uE025 Bord du Lac
 $710113 :: Cimetière du Dragon
 
+#Rock Cup
+$700028 :: Coupe Pierre
+$710060 :: Île Tuyau
+$710115 :: Neopolis 
+$710116 :: Sommet Givré
+$710117 :: Repaire de Gnasty Gnorc
+
+#Moon Cup
+$700029 :: Coupe Lune
+$710118 :: RMX Lac Vanille 1
+$710119 :: Circuit Falaise
+$710120 :: Laboratoire Interstellaire
+$710121 :: Forteresse de Matière Noire
+
 #Save Data
 $7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 $7003 :: Création du fichier\nde sauvegarde...
@@ -141,10 +155,18 @@ welc_t :: Bienvenue sur CTGP-7 !
 welc_1 :: Salut ! Depuis le menu du jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir ce menu,\nappuyez sur (SELECT).
 welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
 welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
-welc_4 :: Vos statistiques seront envoyées\nsur le serveur CTGP-7 et seront\n\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi des\nstatistiques depuis le menu du jeu.
+welc_4 :: Vos statistiques seront envoyées\nsur le serveur CTGP-7 et seront\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi des\nstatistiques depuis le menu du jeu.
 welc_5 :: En utilisant les fonctionnalités du\nCTWW, vous acceptez ses règles.\n\nVous pouvez les consulter ici :\nctgp-7.github.io/ctww.html
 welc_6 :: N'oubliez pas de jeter un coup\nd'œil au serveur discord CTGP-7 !\n\nLien d'invitation :\ninvite.gg/ctgp7
 welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
+
+#Achievements
+achiev_all_gold :: Vous avez obtenu un trophée\nd’or dans toutes les\ncoupes personnalisées.\n\nFélicitations!
+achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes personnalisées.\n\nFélicitations!
+achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes personnalisées.\n\nFélicitations!
+achiev_all_mission :: Vous avez obtenu dix points\ndans tous les missions.\n\nFélicitations!
+achiev_5000_vr :: Vous avez atteint 5000 PC dans CTWW.\n\nFélicitations!
+unlocked_item :: Vous avez obtenu:\n\n
 
 #General text
 warning :: ATTENTION
@@ -159,9 +181,12 @@ race_noun :: Course
 state_mode :: Activé :: Désactivé
 state_inf :: Activer :: Désactiver
 allow_inf :: Autoriser :: Refuser
+valid_inf :: Valide :: Invalide
 num_betw :: La valeur doit être comprise entre %d et %d.
 settings :: Paramètres
 exit :: Fermer
+default :: Par défaut
+button :: Bouton
 
 #Folders
 gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalités du jeu additionnel.
@@ -171,13 +196,15 @@ other_folder :: Paramètres supplémentaires :: Paramètres contrôlant d'autres
 #Entries
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran supérieur.
 ccsel :: Sélecteur de CC :: Règle les CC à la valeur souhaitée (doit être activée avant de commencer une course).
-itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée, en jaune lorsqu'un éclair est utilisé etc...
+itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée et en jaune lorsqu'un éclair est utilisé.
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Notez que vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
 charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
 itmprb :: Roulette d'objet améliorée :: À la place de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
 imtrick :: Sauts améliorés :: Les sauts effectués sur certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
+autoaccel :: Accélération auto :: Appuyez sur \uE000 ou \uE003 pour activer l'accélération auto. Pour la désactiver, appuyez sur \uE001.  
+imbrakedrift :: Amélioration du freinage en dérapant :: Maintenez \uE001 en dérapant pour freiner sans perdre votre mini-turbo.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -205,10 +232,11 @@ commugen :: Générateur de code communautaire :: Génère un code basé selon v
 def_spd :: Vitesse par défaut
 rand_tr :: Forcer la sélection des courses aléatoires
 code :: Code
+cusitem :: Objets customisés
 
 #Change Round Number
 chgrnd :: Changer le nombre de manches :: Change le nombre des manches dans les modes Course VS et Bataille.
-chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode Course VS ou Bataille.\n(Notez que ceci ne fonctionne pas en\nmode téléchargement. En multijoueur local, tout le monde\ndoit avoir les mêmes paramètres.)
+chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode Course VS ou Bataille.\n(Notez que ceci ne fonctionne pas en\nmode téléchargement. En multijoueur local,\ntout le monde doit avoir les mêmes\nparamètres.)
 rounds :: Manches
 rnd_sel :: Choisissez le nombre de manches souhaité.
 
@@ -217,12 +245,16 @@ enhmap :: Carte améliorée :: Ajoute une option de zoom pour la carte en toucha
 
 #Custom character manager text
 char_select :: Sélectionnez un personnage à configurer.
-reboot_req :: (Redémarrage nécessaire pour appliquer les changements.)
+reboot_req :: (Redémarrage nécessaire pour appliquer\nles changements.)
 char_replace :: Sélectionnez un personnage customisé pour :\n
-green_info :: L'entrée en verte est celle actuellement activée.
+green_info :: L'entrée en verte est celle actuellement\nactivée.
+face_raider_sel :: Sélectionnez un visage
 
 #Online track order
 order_mode :: Par défaut :: Alphabétique
+
+#Auto Acceleration
+autoaccel_button :: Choisissez le bouton qui activera l'accélération auto
 
 #Online update check
 update_check :: Vérification des mises à jour... :: La dernière version de CTGP-7\nest nécessaire pour jouer en ligne.
@@ -244,6 +276,10 @@ RanAll :: Aléatoire (Tous)
 OrderH :: Ordre horizontal
 OrderV :: Ordre vertical
 NextRac :: Choisissez le prochain circuit.\nPartie(s) restante(s) :
+extra_diff :: Très difficile :: EXTRÊME
+cusitem_notice :: NOTE: L'objet par défaut (%s) peut apparaître dans certaines situations.
+item_mega :: Méga champignon
+item_fib :: Fausse Boîte à Objets
 
 #Reset Ghosts
 resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantômes de n'importe quel circuit.
@@ -257,7 +293,7 @@ serv_statsupl :: Envoie des statistiques
 serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
 serv_dispmii :: Nom de Mii
-serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au maximum.
+serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au\nmaximum.
 
 #Statistics
 statsentry :: Statistiques locales :: Consultez vos statistiques privées de CTGP-7 ici.
@@ -265,6 +301,7 @@ stats_tpl :: Nombre de fois joué
 stats_tot :: Parties local :: Parties en ligne
 stats_vnll :: Original
 stats_most :: Circuits les plus joués :: Arènes batailles les plus jouées
+stats_rpoints :: Points de course
 
 #Discord
 disc_info :: Information Discord
@@ -293,3 +330,6 @@ msstat_msnplay :: Missions jouées
 msstat_state :: Terminées :: Échouées
 msstat_perfgrad :: (avec la meilleure note)
 msstat_usermsn :: Missions de l'utilisateur
+
+#Course Checksum
+course_check :: Checksum du circuit

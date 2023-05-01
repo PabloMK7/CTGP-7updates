@@ -14,7 +14,7 @@ $710045 :: Jardim Celeste \uE024\uE025
 #Acorn Cup
 $700011 :: Taça Bolota
 $710046 :: Floresta Outono
-$710068 :: Parque Riverside \uE024\uE025
+$710068 :: Parque Fluvial \uE024\uE025
 $710043 :: Circuito do Mario 1 \uE031\uE032
 $710049 :: Castelo 3 do Bowser \uE024\uE025
 
@@ -49,7 +49,7 @@ $710051 :: CTR Baía do Crash
 #Bullet Cup
 $700016 :: Taça Bala
 $710056 :: CTR Castelo de Cortex
-$710060 :: Curso Dokan \uE033
+$710089 :: Circuito Revo
 $710061 :: Ilha Chocolate 2 \uE031\uE032
 $710064 :: Descida Estelar
 
@@ -79,7 +79,7 @@ $700021 :: Taça Bob-bomba
 $710086 :: Estádio do Wario \uE033
 $710087 :: Circuito do Ermii
 $710088 :: Parque Bebé \uE026\uE027
-$710089 :: Circuito Revo
+$710072 :: Castelo do Bowser \uE026\uE027
 
 #Cherry Cup
 $700022 :: Taça Cereja
@@ -99,36 +99,50 @@ $710073 :: Especial de Aniversário da Miku
 $700017 :: Taça Arco-íris
 $710070 :: Estrada Arco-íris \uE022\uE023 
 $710071 :: Estrada Arco-íris \uE024\uE025
-$710072 :: Estrada Espacial
+$710114 :: RMX Estrada Arco-íris 1
 $710097 :: Estrada Arco-íris DX
 
 #Pickaxe Cup
-$700024 :: Copa Picareta
+$700024 :: Taça Picareta
 $710098 :: Cume Estelar
 $710099 :: Pista do Ocaso
 $710100 :: Cais Quebrado \uE024\uE025
 $710101 :: Mina Glacial
 
 #Mega Cup
-$700025 :: Copa Mega
+$700025 :: Taça Mega
 $710102 :: Fortaleza Floral
 $710103 :: Palácio Costeiro
 $710104 :: DKR Cidade Estrela
 $710105 :: Montanha Cogumelo
 
 #Propeller Cup
-$700026 :: Copa Hélice
+$700026 :: Taça Hélice
 $710106 :: Circuito Gelado \uE022\uE023
 $710107 :: Ilha Bloco
 $710108 :: Castelo do Bowser \uE033
 $710109 :: DKR Cataratas da Selva
 
 #POW Cup
-$700027 :: Copa POW
+$700027 :: Taça POW
 $710110 :: Pista Retro
 $710111 :: Gruta Gelada
 $710112 :: Parque Lacustre \uE024\uE025
 $710113 :: Cemitério de Dragões
+
+#Rock Cup
+$700028 :: Taça Pedra
+$710060 :: Ilha Cano
+$710115 :: Neo Metrópole
+$710116 :: Montanhas Geladas
+$710117 :: Lar de Gnasty Gnorc
+
+#Moon Cup
+$700029 :: Taça Lua
+$710118 :: RMX Lago Vanilla 1
+$710119 :: Circuito do Penhasco
+$710120 :: Laboratório Interestelar
+$710121 :: Fortaleza da Matéria Escura
 
 #Save Data
 $7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
@@ -146,6 +160,14 @@ welc_5 :: Usando o CTWW,\nvocê concorda com suas regras.\n\nPodes ver-las aqui:
 welc_6 :: Lembre-se de checar o\nservidor discord de CTGP-7!\n\nLink do convite:\ninvite.gg/ctgp7
 welc_7 :: Esperamos que goste do mod! ^ω^
 
+#Achievements
+achiev_all_gold :: Conseguiste um troféu de ouro em\ntodas as taças personalizadas.\n\nParabéns!
+achiev_all_1star :: Conseguiste uma estrela em\ntodas as taças personalizadas.\n\nParabéns!
+achiev_all_3star :: Conseguiste três estrelas em\ntodas as taças personalizadas.\n\nParabéns!
+achiev_all_mission :: Conseguiste 10 pontos em\ntodas as missões.\n\nParabéns!
+achiev_5000_vr :: Conseguiste 5000 VR em\ncircúitos personalizados\nonline.\n\nParabéns!
+unlocked_item :: Desbloqueaste:\n\n
+
 #General text
 warning :: ALERTA
 error :: ERRO
@@ -159,9 +181,12 @@ race_noun :: Corrida
 state_mode :: Ativado :: Desativado
 state_inf :: Ativar :: Desativar
 allow_inf :: Permitir :: Não Permitir
+valid_inf :: Válido :: Inválido
 num_betw :: O número tem de estar entre %d e %d.
 settings :: Opções
 exit :: Sair
+default :: Padrão 
+button :: Botão
 
 #Folders
 gameplay_folder :: Funcionalidades do jogo :: Configuração para recursos adicionais de jogabilidade.
@@ -178,6 +203,8 @@ cuskart :: Karts personalizados :: Carregar karts personalizados da pasta MyStuf
 trackorder :: Ordem de pistas online :: Escolha como as pistas serão organizadas em taças online.
 itmprb :: Roleta de Item Melhorada :: Mostra a probabilidade real de um item na roleta de item ao invés de itens aleatórios.
 imtrick :: Manobras Melhoradas ::  Os Karts irão rodopiar quando fizerem uma manobra em uma rampa. Use o \uE077 Painel Analógico para trocar as direções.
+autoaccel :: Aceleração Automática :: Pressionando \uE000 ou \uE003 irá ativar a aceleração automática até \uE001 ser pressionado.  
+imbrakedrift :: Freio de Drift Melhorado :: Segure \uE001 enquanto derrapa para freiar sem perder seu miniturbo.
 
 #Speedometer text
 spd_set :: Opções do velocímetro.
@@ -205,10 +232,11 @@ commugen :: Gerador de códigos da comunidade :: Gera um código baseado nas atu
 def_spd :: Velocidade padrão
 rand_tr :: Forçar pistas aleatórias
 code :: Código
+cusitem :: Itens personalizados
 
 #Change Round Number
 chgrnd :: Alterar o número de rondas :: Altera o número de rondas nos modos VS ou batalha.
-chgrnd_desc :: Selecione o número de rondas a serem\njogadas nos modos VS ou batalha.\nNOTE: Não funciona no modo download.\nNo modo de multijogador local, todos os jogadores têm\nde ter as mesmas definições.
+chgrnd_desc :: Selecione o número de rondas a serem\njogadas nos modos VS ou batalha.\nNOTE: Não funciona no modo download.\nNo modo de multijogador local, todos os\njogadores têm de ter as mesmas\ndefinições.
 rounds :: Rondas
 rnd_sel :: Selecione o número de rondas.
 
@@ -220,9 +248,13 @@ char_select :: Selecione uma personagem para configurar.
 reboot_req :: (Reinício requerido para aplicar as definições.)
 char_replace :: Selecione uma personagem personalizada para:\n
 green_info :: Verde → Entrada atual ativada.
+face_raider_sel :: Selecione um rosto
 
 #Online track order
 order_mode :: Padrão :: Alfabético
+
+#Auto Acceleration
+autoaccel_button :: Selecione o botão que irá\nativar
 
 #Online update check
 update_check :: A procurar atualizações... :: A última versão do CTGP-7\né requerida para jogar online.
@@ -244,6 +276,10 @@ RanAll :: Aleatório (tudo)
 OrderH :: Ordem horizontal
 OrderV :: Ordem vertical
 NextRac :: Selecione a próxima pista.\nCorridas restantes:
+extra_diff :: Muito Difícil :: EXTREMO
+cusitem_notice :: O item padrão (%s) provavelmente apareça em alguns casos.
+item_mega :: Mega Cogumelo
+item_fib :: Bloco Surpresa
 
 #Reset Ghosts
 resghost :: Reiniciar Corredor Fantasma :: Permite reiniciar o corredor fantasma de qualquer pista.
@@ -265,6 +301,7 @@ stats_tpl :: Horas jogadas
 stats_tot :: Total de Corridas Offline  :: Total de Corridas Online
 stats_vnll :: Vanilla
 stats_most :: Pistas mais jogadas :: Arenas mais jogadas
+stats_rpoints :: Pontos de corrida
 
 #Discord
 disc_info :: Informação Discord
@@ -293,3 +330,6 @@ msstat_msnplay :: Missões Jogadas
 msstat_state :: Completadas :: Fracassadas
 msstat_perfgrad :: (com nota máxima)
 msstat_usermsn :: Missões do usuário
+
+#Course Checksum
+course_check :: Checksum de pista

@@ -25,7 +25,7 @@ $1111 :: Kart Bandicoot
 
 #Kart Wheel Parts
 $1202 :: \uE033 Mastodonte
-$1206 :: Écrabouilleur Bleu
+$1206 :: Écrab. bleu
 
 #Kart Glider Parts
 $1304 :: Swooper de Feu
