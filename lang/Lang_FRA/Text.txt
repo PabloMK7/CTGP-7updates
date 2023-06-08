@@ -161,12 +161,12 @@ welc_6 :: N'oubliez pas de jeter un coup\nd'œil au serveur discord CTGP-7 !\n\n
 welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
 
 #Achievements
-achiev_all_gold :: Vous avez obtenu un trophée\nd’or dans toutes les\ncoupes personnalisées.\n\nFélicitations!
-achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes personnalisées.\n\nFélicitations!
-achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes personnalisées.\n\nFélicitations!
-achiev_all_mission :: Vous avez obtenu dix points\ndans tous les missions.\n\nFélicitations!
-achiev_5000_vr :: Vous avez atteint 5000 PC dans CTWW.\n\nFélicitations!
-unlocked_item :: Vous avez obtenu:\n\n
+achiev_all_gold :: Vous avez obtenu un trophée\ndoré dans toutes les\ncoupes personnalisées.\n\nFélicitations !
+achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes personnalisées.\n\nFélicitations !
+achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes personnalisées.\n\nFélicitations !
+achiev_all_mission :: Vous avez obtenu dix points\ndans toutes les missions.\n\nFélicitations !
+achiev_5000_vr :: Vous avez atteint 5000 PC dans CTWW.\n\nFélicitations !
+unlocked_item :: Vous avez obtenu :\n\n
 
 #General text
 warning :: ATTENTION
@@ -195,10 +195,10 @@ other_folder :: Paramètres supplémentaires :: Paramètres contrôlant d'autres
 
 #Entries
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran supérieur.
-ccsel :: Sélecteur de CC :: Règle les CC à la valeur souhaitée (doit être activée avant de commencer une course).
+ccsel :: Changer de classe (cc):: Règle la classe à la valeur souhaitée. (Elle doit être activée avant de commencer une course.)
 itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée et en jaune lorsqu'un éclair est utilisé.
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Notez que vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
-charman :: Gestionnaire de personnages :: Choisissez entre les personnages par défaut et personnalisés.
+charman :: Gestionnaire des personnages :: Choisissez entre les personnages par défaut et personnalisés.
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
 itmprb :: Roulette d'objet améliorée :: À la place de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
@@ -216,9 +216,9 @@ spd_types1 :: Numérique :: Analogique
 spd_types2 :: Double Dash
 
 #CC Selector text
-cc_set :: Paramètres du sélecteur de CC
+cc_set :: Paramètres du sélecteur de classe
 cc_val :: Valeur
-cc_entv :: Entrez une nouvelle valeur de CC.
+cc_entv :: Entrez une nouvelle valeur de classe.
 cc_chgv :: Modifier la valeur
 
 #Course Manager
@@ -245,10 +245,11 @@ enhmap :: Carte améliorée :: Ajoute une option de zoom pour la carte en toucha
 
 #Custom character manager text
 char_select :: Sélectionnez un personnage à configurer.
-reboot_req :: (Redémarrage nécessaire pour appliquer\nles changements.)
+reboot_req :: Redémarrage nécessaire pour appliquer\nles changements.
 char_replace :: Sélectionnez un personnage customisé pour :\n
 green_info :: L'entrée en verte est celle actuellement\nactivée.
 face_raider_sel :: Sélectionnez un visage
+authors :: Auteurs
 
 #Online track order
 order_mode :: Par défaut :: Alphabétique
@@ -277,7 +278,7 @@ OrderH :: Ordre horizontal
 OrderV :: Ordre vertical
 NextRac :: Choisissez le prochain circuit.\nPartie(s) restante(s) :
 extra_diff :: Très difficile :: EXTRÊME
-cusitem_notice :: NOTE: L'objet par défaut (%s) peut apparaître dans certaines situations.
+cusitem_notice :: NOTE : L'objet par défaut (%s) peut apparaître dans certaines situations.
 item_mega :: Méga champignon
 item_fib :: Fausse Boîte à Objets
 

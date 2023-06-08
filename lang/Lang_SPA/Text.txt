@@ -245,10 +245,11 @@ enhmap :: Mapa Local Mejorado :: Añade la posibilidad de hacer zoom en el mapa 
 
 #Custom character manager text
 char_select :: Elige un personaje para configurar.
-reboot_req :: (Se requiere un reinicio para aplicar cambios.)
+reboot_req :: Se requiere un reinicio para aplicar cambios.
 char_replace :: Selecciona un personaje para:\n
 green_info :: Verde → Opción activa.
 face_raider_sel :: Selecciona una cara
+authors :: Autores
 
 #Online track order
 order_mode :: Por defecto :: Alfabético

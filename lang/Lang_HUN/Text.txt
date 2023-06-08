@@ -249,6 +249,7 @@ reboot_req :: A változtatások érvényesítéséhez\nújrainsítás szüksége
 char_replace :: Válassz ki egy egyéni karaktert helyette:\n
 green_info :: Zöld → Jelenlegi beállítás.
 face_raider_sel :: Válassz ki egy arcot!
+authors :: Szerzői
 
 #Online track order
 order_mode :: Alapértelmezett :: ABC-sorrend

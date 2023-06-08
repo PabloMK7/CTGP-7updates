@@ -245,10 +245,11 @@ enhmap :: Verbesserte Karte :: Fügt der Karte eine Zoomfunktion hinzu. Diese ka
 
 #Custom character manager text
 char_select :: Wähle einen Fahrer, um ihn zu ändern.
-reboot_req :: (Es wird ein Neustart benötigt, um\njegliche Änderungen zu speichern.)
+reboot_req :: Es wird ein Neustart benötigt, um\njegliche Änderungen zu speichern.
 char_replace :: Wähle einen neuen Fahrer für:\n
 green_info :: Grün → Zurzeit gewählter Eintrag
 face_raider_sel :: Wähle ein Gesicht
+authors :: Autoren
 
 #Online track order
 order_mode :: Normal :: Alphabetisch

@@ -245,10 +245,11 @@ enhmap :: Enhanced Local Map :: Adds zoom functionality to the bottom screen loc
 
 #Custom character manager text
 char_select :: Select a character to configure.
-reboot_req :: (Reboot required to apply changes.)
+reboot_req :: Reboot required to apply changes.
 char_replace :: Select a custom character for:\n
 green_info :: Green -> Current activated entry.
 face_raider_sel :: Select a face
+authors :: Authors
 
 #Online track order
 order_mode :: Default :: Alphabetical

@@ -21,7 +21,7 @@ $710049 :: \uE024\uE025 Bowsers Kasteel 3
 #Cloud Cup
 $700012 :: Wolkenbeker
 $710050 :: Altijdgroene Oversteek
-$710054 :: \uE022\uE023 Boe Boe Boederij
+$710054 :: \uE022\uE023 Boe Boe Boerderij
 $710052 :: Archipel-Laan
 $710053 :: \uE022\uE023 Frappe Sneeuwland
 
@@ -162,11 +162,11 @@ welc_7 :: We hopen dat je de mod leuk vind!\n^w^
 
 #Achievements
 achiev_all_gold :: Je hebt een gouden trofee\nbehaald in alle custom bekers.\n\nGefeliciteerd!
-achiev_all_1star :: You have got 1 star\nin all custom cups.\n\nCongratulations!
-achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations!
-achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
-achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
-unlocked_item :: You have unlocked:\n\n
+achiev_all_1star :: Je hebt 1 ster\nin alle custom bekers.\n\nGefeliciteerd!
+achiev_all_3star :: Je hebt 3 sterren\nin alle custom bekers.\n\nGefeliciteerd!
+achiev_all_mission :: Je hebt 10 punten\nin alle missies.\n\nGefeliciteerd!
+achiev_5000_vr :: Je hebt 5000 VR\nin custom bekers wereldwijd.\n\nGefeliciteerd!
+unlocked_item :: Je hebt vrijgespeeld:\n\n
 
 #General text
 warning :: WAARSCHUWING
@@ -195,8 +195,8 @@ other_folder :: Andere opties :: Andere opties en functies.
 
 #Entries
 spdmeter :: Snelheidsmeter :: Laat een snelheidsmeter zien rechstonder op het bovenste scherm.
-ccsel :: CC selectie :: Zet de huidige CC op een andere waarde (moet aanstaan voor het starten van een race).
-itemled :: Waarschuw voor voorwerpen met LED :: De notificatie LED knippert blauw waneer een Blauw Schild is gebruikt en geel waneer Bliksem wordt gebruikt.
+ccsel :: CC selectie :: Zet de huidige CC op een andere waarde (moet aanstaan vóór het starten van een race).
+itemled :: Waarschuw voor voorwerpen met LED :: De notificatie LED knippert blauw wanneer een Blauw Schild is gebruikt en geel wanneer Bliksem wordt gebruikt.
 backcam :: Achteruit kijken :: Druk op \uE002 om te zien wat er achter je zit, net zoals in andere Mario Kart spellen! (De \uE002 knop zal geen voorwerpen meer gebruiken)
 charman :: Karakter-manager :: Wissel tussen de originele en nieuwe karakters.
 cuskart :: Nieuwe karts :: Laad nieuwe karts van de MyStuff map.
@@ -232,7 +232,7 @@ commugen :: Community-Code Generator :: Genereert een code gebaseerd op de huidi
 def_spd :: Standaard snelheid
 rand_tr :: Forceer willekeurige circuits
 code :: Code
-cusitem :: Nieuwe voorwerpen
+cusitem :: Custom voorwerpen
 
 #Change Round Number
 chgrnd :: Verander aantal rondes :: Verandert het aantal rondes in races en gevechten.
@@ -245,10 +245,11 @@ enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scher
 
 #Custom character manager text
 char_select :: Selecteer een karakter om te configureren.
-reboot_req :: (Opnieuw opstarten vereist om veranderingen toe te passen.)
+reboot_req :: Opnieuw opstarten vereist om veranderingen toe te passen.
 char_replace :: Selecteer een karakter voor:\n
-green_info :: Groen → Huidige geactiveerde item.
+green_info :: Groen → Huidig geactiveerde item.
 face_raider_sel :: Selecteer een gezicht
+authors :: Auteurs
 
 #Online track order
 order_mode :: Standaard :: Alphabetisch
@@ -287,7 +288,7 @@ ghostseltrack :: Selecteer het circuit waarvan het spook moet worden gereset:
 ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :: Het spook is gereset.
 
 #Server Settings
-servsett :: Serverinstellingen :: CTGP-7 server gerelateerde instellingen
+servsett :: Serverinstellingen :: CTGP-7 server-gerelateerde instellingen
 serv_consID :: CTGP-7 ConsoleID
 serv_statsupl :: Statistieken uploaden
 serv_displname :: Namen tonen :: Selecteer de modus voor het tonen van\nnamen.
@@ -325,7 +326,7 @@ ms_gradelim :: Max. Rang :: Min. Rang
 ms_timescor :: Tijd :: Score
 ms_failed :: Missie gefaald!
 ms_nodata :: Geen data
-ms_delsave :: (Verwijder Save: \uE002) :: Verijder de save data van deze missie?
+ms_delsave :: (Verwijder Save: \uE002) :: Verwijder de save data van deze missie?
 msstat_msnplay :: Missies gespeeld
 msstat_state :: Voltooid :: Gefaald
 msstat_perfgrad :: (met perfecte rang)

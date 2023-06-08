@@ -245,10 +245,11 @@ enhmap :: 로컬 맵 개선 :: \uE058 터치 스크린을 이용해서 하단 �
 
 #Custom character manager text
 char_select :: 설정을 변경할 캐릭터를 선택해 주세요.
-reboot_req :: (기기 다시 시작 시 변경 적용)
+reboot_req :: 기기 다시 시작 시 변경 적용
 char_replace :: 아래 캐릭터를 위한 커스텀 캐릭터를 선택하세요.\n
 green_info :: 초록색 → 현재 적용 중 캐릭터
 face_raider_sel :: 얼굴을 선택해 주세요
+authors :: 창조자
 
 #Online track order
 order_mode :: 기본 :: 알파벳순

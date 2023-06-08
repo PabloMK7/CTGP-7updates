@@ -245,10 +245,11 @@ enhmap :: ローカルマップの拡張 :: \uE058タッチスクリーンを使
 
 #Custom character manager text
 char_select :: 設定するキャラクターを選んでください。
-reboot_req :: (変更を適用するには再起動が必要です。)
+reboot_req :: 変更を適用するには再起動が必要です。
 char_replace :: この中からカスタムキャラクターを選んでください。:\n
 green_info :: 緑 → 現在有効化しているエントリーです。
 face_raider_sel :: 顔を選んでください
+authors :: クリエイター
 
 #Online track order
 order_mode :: デフォルト :: アルファベット順

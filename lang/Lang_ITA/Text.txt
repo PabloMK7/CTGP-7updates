@@ -245,10 +245,11 @@ enhmap :: Mappa Migliorata :: Aggiunge la funzionalità di zoom alla mappa usand
 
 #Custom character manager text
 char_select :: Seleziona un personaggio da configurare.
-reboot_req :: (Riavvia il gioco per applicare i cambiamenti.)
+reboot_req :: Riavvia il gioco per applicare i cambiamenti.
 char_replace :: Seleziona un personaggio custom per:\n
 green_info :: Verde -> Personaggio abilitato.
 face_raider_sel :: Seleziona una faccia
+authors :: Autori
 
 #Online track order
 order_mode :: Di default :: Alfabetico
