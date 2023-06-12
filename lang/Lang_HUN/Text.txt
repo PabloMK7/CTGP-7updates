@@ -162,11 +162,11 @@ welc_7 :: Jó szórakozást\na modhoz!\n^w^
 
 #Achievements
 achiev_all_gold :: Megszerezted az arany serleget\nminden egyéni kupában!\n\nGratulálunk!
-achiev_all_1star :: You have got 1 star\nin all custom cups.\n\nCongratulations!
-achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations!
-achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
-achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
-unlocked_item :: You have unlocked:\n\n
+achiev_all_1star :: Megszerezted az 1 csillagot\nminden egyéni kupában!\n\nGratulálunk!
+achiev_all_3star :: Megszerezted az 3 csillagot\nminden egyéni kupában!\n\nGratulálunk!
+achiev_all_mission :: Minden küldetésben\n10 pont van.\n\nGratulálunk!
+achiev_5000_vr :: 5000 VR van a CTWW-ben.\n\nGratulálunk!
+unlocked_item :: Feloldottad:\n\n
 
 #General text
 warning :: FIGYELMEZTETÉS

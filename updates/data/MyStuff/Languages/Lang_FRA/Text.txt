@@ -140,7 +140,7 @@ $710117 :: Repaire de Gnasty Gnorc
 #Moon Cup
 $700029 :: Coupe Lune
 $710118 :: RMX Lac Vanille 1
-$710119 :: Circuit Falaise
+$710119 :: Circuit de la Falaise
 $710120 :: Laboratoire Interstellaire
 $710121 :: Forteresse de Matière Noire
 

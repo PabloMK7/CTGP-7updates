@@ -126,7 +126,7 @@ $710109 :: DKR Cascate Selvagge
 #POW Cup
 $700027 :: Trofeo Blocco POW
 $710110 :: Pista Classica
-$710111 :: Grotta Ghiacciato
+$710111 :: Grotta Ghiacciata
 $710112 :: \uE024\uE025 Parco Lungolago
 $710113 :: Sepolcro del Drago
 
@@ -140,7 +140,7 @@ $710117 :: Covo di Nasty Norc
 #Moon Cup
 $700029 :: Trofeo Luna
 $710118 :: RMX Lago Vaniglia 1
-$710119 :: Circuito di Scogliera
+$710119 :: Circuito del Picco
 $710120 :: Laboratorio Interstellare
 $710121 :: Fortezza Della Materia Oscura
 
@@ -161,12 +161,12 @@ welc_6 :: Ricordati di dare un'occhiata al\nserver discord di CTGP-7!\n\nEcco l'
 welc_7 :: Speriamo ti piaccia!\n^w^
 
 #Achievements
-achiev_all_gold :: You have got a gold trophy\nin all custom cups.\n\nCongratulations!
-achiev_all_1star :: You have got 1 star\nin all custom cups.\n\nCongratulations!
-achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations!
-achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
-achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
-unlocked_item :: You have unlocked:\n\n
+achiev_all_gold :: Hai ottenuto un trofeo d'oro\nin tutti i trofei custom.\n\nCongratulazioni!
+achiev_all_1star :: Hai ottenuto 1 stella\nin tutti i trofei custom.\n\nCongratulazioni!
+achiev_all_3star :: Hai ottenuto 3 stelle\nin tutti i trofei custom.\n\nCongratulazioni!
+achiev_all_mission :: Hai ottenuto 10 punti\nin tutte le missioni.\n\nCongratulazioni!
+achiev_5000_vr :: Hai ottenuto 5000 PC\nin CTWW.\n\nCongratulazioni!
+unlocked_item :: Hai sbloccato:\n\n
 
 #General text
 warning :: AVVISO
@@ -278,7 +278,7 @@ OrderH :: Ordine orizzontale
 OrderV :: Ordine verticale
 NextRac :: Seleziona la prossima pista.\nGare rimanenti:
 extra_diff :: Molto Difficile :: ESTREMO
-cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
+cusitem_notice :: NOTA: L'oggetto default (%s) potrebbe ancora apparire in alcuni casi.
 item_mega :: Mega Fungo
 item_fib :: Oggetto Finto
 
