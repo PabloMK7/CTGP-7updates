@@ -205,6 +205,7 @@ itmprb :: Improved Item Roulette :: Displays the real item probabilities in the 
 imtrick :: Improved Tricks ::  Karts will spin when doing a trick on a boost ramp. Use the \uE077 Circle Pad to change the spin direction.
 autoaccel :: Auto Acceleration :: Pressing \uE000 or \uE003 will enable automatic acceleration until \uE001 is pressed.  
 imbrakedrift :: Improved Brake Drift :: Hold \uE001 while drifting to brake without losing your miniturbo.
+autodelaydrift :: Automatic Delay Drift :: Helps preventing the kart from loosing speed when starting a drift.
 
 #Speedometer text
 spd_set :: Speedometer settings.

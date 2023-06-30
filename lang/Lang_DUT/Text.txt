@@ -205,6 +205,7 @@ itmprb :: Verbeterde voorwerproulette :: Laat de echte voorwerpkansen zien op de
 imtrick :: Verbeterde springboosts ::  Karts gaan draaien tijdens een truc op een boost ramp. Gebruik de \uE077 Circle Pad om de draairichting te veranderen.
 autoaccel :: Auto-Acceleratie :: Wanneer op \uE000 of \uE003 wordt gedrukt, wordt auto-acceleratie aangezet totdat op \uE001 wordt gedrukt.
 imbrakedrift :: Verbeterde Rem-Drift :: Druk op \uE001 tijdens het driften om te remmen zonder jouw mini-turbo te verliezen.
+autodelaydrift :: Automatische "Delay Drift" :: Helpt voorkomen dat de kart snelheid verliest wanneer hij begint te driften.
 
 #Speedometer text
 spd_set :: Opties snelheidsmeter.

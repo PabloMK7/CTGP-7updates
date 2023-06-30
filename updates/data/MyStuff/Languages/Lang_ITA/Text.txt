@@ -205,6 +205,7 @@ itmprb :: Roulette migliorata :: Mostra le probabilità effettive sulla roulette
 imtrick :: Acrobazie migliorate :: I kart ruoteranno quando si fa un accrobazia. Usa il Pad Scorrevole per cambiare la direzione di rotazione del kart.
 autoaccel :: Accelerazione automatica :: Premendo \uE000 o \uE003 si abilita l'accelerazione automatica finché non si preme \uE001.
 imbrakedrift :: Deriva frenata migliorata :: Tieni premuto \uE001 durante la derapata per frenare senza perdere il miniturbo.
+autodelaydrift :: "Delay Drift" Automatico :: Aiuta a prevenire la perdita di velocità quando il kart inizia a deriva.
 
 #Speedometer text
 spd_set :: Accelerometro.
@@ -247,7 +248,7 @@ enhmap :: Mappa Migliorata :: Aggiunge la funzionalità di zoom alla mappa usand
 char_select :: Seleziona un personaggio da configurare.
 reboot_req :: Riavvia il gioco per applicare i cambiamenti.
 char_replace :: Seleziona un personaggio custom per:\n
-green_info :: Verde -> Personaggio abilitato.
+green_info :: Verde → Personaggio abilitato.
 face_raider_sel :: Seleziona una faccia
 authors :: Autori
 

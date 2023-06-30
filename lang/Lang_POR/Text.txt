@@ -205,6 +205,7 @@ itmprb :: Roleta de Item Melhorada :: Mostra a probabilidade real de um item na 
 imtrick :: Manobras Melhoradas ::  Os Karts irão rodopiar quando fizerem uma manobra em uma rampa. Use o \uE077 Painel Analógico para trocar as direções.
 autoaccel :: Aceleração Automática :: Pressionando \uE000 ou \uE003 irá ativar a aceleração automática até \uE001 ser pressionado.  
 imbrakedrift :: Freio de Drift Melhorado :: Segure \uE001 enquanto derrapa para freiar sem perder seu miniturbo.
+autodelaydrift :: "Delay Drift" Automático :: Ajuda a evitar que o kart perca velocidade quando começa a derrapar.
 
 #Speedometer text
 spd_set :: Opções do velocímetro.

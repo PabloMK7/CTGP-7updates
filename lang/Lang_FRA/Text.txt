@@ -205,6 +205,7 @@ itmprb :: Roulette d'objet améliorée :: À la place de faire défiler des obje
 imtrick :: Sauts améliorés :: Les sauts effectués sur certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
 autoaccel :: Accélération auto :: Appuyez sur \uE000 ou \uE003 pour activer l'accélération auto. Pour la désactiver, appuyez sur \uE001.  
 imbrakedrift :: Amélioration du freinage en dérapant :: Maintenez \uE001 en dérapant pour freiner sans perdre votre mini-turbo.
+autodelaydrift :: "Delay Drift" Automatique :: Aide à prévenir la perte de vitesse lors du début d'un dérapage.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -322,7 +323,7 @@ ms_miss :: Missions
 ms_desc :: Relevez les défis et obtenez la meilleure note.
 ms_selmiss :: Changer de mission
 ms_rcrd :: Record
-ms_gradelim :: Note min. :: Note max.
+ms_gradelim :: Note max. :: Note min.
 ms_timescor :: Temps :: Score
 ms_failed :: Mission échouée
 ms_nodata :: Aucune donnée

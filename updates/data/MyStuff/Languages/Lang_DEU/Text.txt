@@ -205,6 +205,7 @@ itmprb :: Verbessertes Item-Roulett :: Zeigt die wahren Wahrscheinlichkeiten fü
 imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer Rampe drehen. Ändere deren Richtung mit dem \uE077 Circle Pad.
 autoaccel :: Auto-Beschleunigung :: Das Drücken von \uE000 oder \uE003 aktiviert die automatische Beschleunigung, welche aktiv bleibt, bis \uE001 gedrückt wird.
 imbrakedrift :: Verbesserter Brems-Drift :: Halte \uE001 beim Driften, um zu bremsen, ohne deinen Mini-Turbo zu verlieren.
+autodelaydrift :: Automatischer Delay-Drift :: Verhindert, dass das Kart Geschwindigkeit verliert, wenn ein Drift gestartet wird.
 
 #Speedometer text
 spd_set :: Tachometer-Einstellungen

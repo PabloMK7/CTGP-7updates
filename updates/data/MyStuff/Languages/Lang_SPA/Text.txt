@@ -205,6 +205,7 @@ itmprb :: Ruleta de Objetos Mejorada :: Muestra las probabilidades reales en la 
 imtrick :: Trucos Mejorados :: Los karts girarán sobre sí mismos al hacer un truco en una rampa con panel turbo. Usa el \uE077 Circle Pad para cambiar la dirección de rotación.
 autoaccel :: Aceleración Automática :: Al pulsar \uE000 o \uE003 se activará la aceleración automática del kart hasta que se pulse \uE001.
 imbrakedrift :: Derrape en Frenada Mejorado :: Podrás frenar mientras derrapas pulsando \uE001 sin perder el miniturbo.
+autodelaydrift :: "Delay Drift" Automático :: Ayuda a prevenir que el kart pierda velocidad al comenzar a derrapar.
 
 #Speedometer text
 spd_set :: Opciones de Velocímetro.

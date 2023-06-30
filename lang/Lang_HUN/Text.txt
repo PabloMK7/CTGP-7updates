@@ -205,6 +205,7 @@ itmprb :: Javított rulett :: A tárgyrulett pörgés közben a tényleges esél
 imtrick :: Javított trükkök :: Gyorsítórámpáról indított trükközéskor a gokart pördül egyet. A pördülés irányát a \uE077 Circle Pad határozza meg.
 autoaccel :: Automatikus gáz :: A(z) \uE000 vagy \uE003 gomb megnyomása után a gokart a gomb nyomva tartása nékül is folytatja az előre haladást. Megszakítható a(z) \uE001 gombbal.
 imbrakedrift :: Javított fékező farolás :: Tartsd lenyomva a(z) \uE001 gombot farolás közben a miniturbód elvesztése nélküli fékezéshez.
+autodelaydrift :: Automatikus "Delay Drift" :: Segít megelőzni a sebességvesztést amikor elkezd farolás.
 
 #Speedometer text
 spd_set :: Sebességmérő beállításai.
