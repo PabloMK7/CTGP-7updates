@@ -205,7 +205,7 @@ itmprb :: 아이템 룰렛 개선 :: 랜덤한 아이템을 보이는 대신, �
 imtrick :: 점프 트릭 개선 :: 카트가 점프대 위에서 트릭을 할 시, 회전합니다. \uE077 서클 패드를 사용하면 회전 방향을 바꿀 수 있습니다.
 autoaccel :: 자동 가속 :: \uE000나 \uE003를 누르면 \uE001이 눌러질 때까지 자동으로 가속합니다.
 imbrakedrift :: 브레이크 드리프트 개선 :: \uE001을 드리프트 중에 눌러서 미니 터보를 잃지 않고 브레이크를 할 수 있습니다.
-autodelaydrift :: Automatic Delay Drift :: Helps preventing the kart from loosing speed when starting a drift.
+autodelaydrift :: Automatic Delay Drift :: Helps preventing the kart from losing speed when starting a drift.
 
 #Speedometer text
 spd_set :: 속도계 설정
