@@ -156,7 +156,7 @@ welc_1 :: Hallo daar!\nVanaf het in-game menu\nkan je wat interessante functies 
 welc_2 :: Om een functie te gebruiken, plaats je de\ncursor over een item\nen druk je op A om het aan te zetten/te configureren.
 welc_3 :: Sommige functies zoals\n"CC Selectie" zullen uitgeschakeld\nzijn tijdens een online spel.
 welc_4 :: Jouw statistieken zullen worden geüpload \nnaar de CTGP-7 server zodat ze\npubliek beschikbaar zijn\n(Data is geanonimiseerd.)\nJe kan het uploaden van statistieken\nvanuit het ingame menu uitzetten.
-welc_5 :: Bij het gebruik van CTWW,\nga je akkoord met de regels.\n\nJe kan ze hier lezen:\nctgp-7.github.io/ctww.html
+welc_5 :: Bij het gebruik van CTGP-7 Network,\nga je akkoord met de regels.\n\nJe kan ze hier lezen:\nctgp-7.github.io/ctww.html
 welc_6 :: Vergeet niet de CTGP-7\nDiscord server te bekijken!!\n\nUitnodigingslink:\ninvite.gg/ctgp7
 welc_7 :: We hopen dat je de mod leuk vind!\n^w^
 
@@ -335,3 +335,10 @@ msstat_usermsn :: Eigen missies
 
 #Course Checksum
 course_check :: Circuit Checksum
+
+#Custom Server
+server_name :: Nintendo Network :: CTGP-7 Network
+server_choice :: Selecteer een onlineserver:\n\n%s:\n    - Alleen voor CTGP-7-spelers\n    - CTWW en originele circuits\n    - Sterke anti-cheat\n%s:\n    - Voor alle MK7-spelers\n    - Originele circuits en community's\n    - Zwakke anti-cheat
+server_ctgp7_conn :: Bezig verbinding te maken\nmet CTGP-7 Network...
+server_ctgp7_dconn :: Wil je de verbinding met\nCTGP-7 Network verbreken?
+server_ctgp7_nocomm :: Community's zijn niet beschikbaar\nin het CTGP-7 Network.

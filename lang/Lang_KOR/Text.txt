@@ -156,7 +156,7 @@ welc_1 :: 안녕하세요!\n게임 내 메뉴에서\n흥미로운 몇가지 기�
 welc_2 :: 기능을 사용하려면, 커서를\n그 위에 올려서 A를\n눌러서 사용 설정해 주세요.
 welc_3 :: "CC 셀렉터" 등 기능은\n온라인 플레이 시는\n비활성화되는 것을\n염두해 주세요.
 welc_4 :: 당신의 스탯 등은\n다른 사람들이 볼 수 있도록\nCTGP-7 서버에 업로드될 것입니다.\n(데이터는 익명화됩니다.)\n업로드 비활성화는\n게임 내 메뉴에서 해 주세요.
-welc_5 :: CTWW를 사용하심에 따라,\n그 규칙에 동의하는 것으로 간주됩니다.\n\n다음 링크에서 확인해 주세요.\nctgp-7.github.io/ctww.html
+welc_5 :: CTGP-7 네트워크를 사용하심에 따라,\n그 규칙에 동의하는 것으로 간주됩니다.\n\n다음 링크에서 확인해 주세요.\nctgp-7.github.io/ctww.html
 welc_6 :: CTGP-7 디스코드 서버도\n한번 확인해 주세요!\n\n초대 링크:\ninvite.gg/ctgp7
 welc_7 :: 모드를 즐겨 주세요!\n^w^
 
@@ -205,7 +205,7 @@ itmprb :: 아이템 룰렛 개선 :: 랜덤한 아이템을 보이는 대신, �
 imtrick :: 점프 트릭 개선 :: 카트가 점프대 위에서 트릭을 할 시, 회전합니다. \uE077 서클 패드를 사용하면 회전 방향을 바꿀 수 있습니다.
 autoaccel :: 자동 가속 :: \uE000나 \uE003를 누르면 \uE001이 눌러질 때까지 자동으로 가속합니다.
 imbrakedrift :: 브레이크 드리프트 개선 :: \uE001을 드리프트 중에 눌러서 미니 터보를 잃지 않고 브레이크를 할 수 있습니다.
-autodelaydrift :: Automatic Delay Drift :: Helps preventing the kart from losing speed when starting a drift.
+autodelaydrift :: 자동 딜레이 드리프트 :: 드리프트를 시작할 때 속도를 잃는 것을 방지하게 돕습니다.
 
 #Speedometer text
 spd_set :: 속도계 설정
@@ -335,3 +335,10 @@ msstat_usermsn :: 유저 미션
 
 #Course Checksum
 course_check :: 코스 체크섬
+
+#Custom Server
+server_name :: 닌텐도 네트워크 :: CTGP-7 네트워크
+server_choice :: 온라인 서버를 선택해 주세요.\n\n%s:\n    - CTGP-7 플레이어 전용\n    - CTWW와 기존 트랙\n    - 강력한 안티치트\n%s:\n    - 모든 마리오 카트 7 플레이어용\n    - 기존 트랙과 커뮤니티\n    - 약한 안티치트
+server_ctgp7_conn :: CTGP-7 네트워크에 접속 중...
+server_ctgp7_dconn :: CTGP-7 네트워크\n연결을 해제하시겠어요?
+server_ctgp7_nocomm :: CTGP-7 네트워크에서는\n커뮤니티를 사용하실 수 없습니다.

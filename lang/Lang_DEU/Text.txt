@@ -156,7 +156,7 @@ welc_1 :: Hallo!\nVom Ingame-Menü aus\nkannst du verschiedene\ninteressante Fun
 welc_2 :: Um die Funktionen zu verwenden,\nwähle mit dem Zeiger einen\nEintrag aus und drücke A,\num es zu aktivieren oder zu\nkonfigurieren.
 welc_3 :: Beachte aber, dass manche Funk-\ntionen wie z.B. die CCM-Einstel-\nlungen nicht im Online-\nModus funktionieren.
 welc_4 :: Deine Statistiken werden auf\ndem CTGP-7-Server hochgeladen,\ndamit Sie jeder sehen kann.\n(Diese Daten bleiben anonym.)\nIm Ingame-Menü kannst du\nden Daten-Upload ausschalten.
-welc_5 :: Durch das Nutzen des CTWW\nakzeptierst du den Nutzerbedin-\ngungen.\nHier kannst du diese nachlesen:\nctgp-7.github.io/ctww.html
+welc_5 :: Durch das Verwenden des\nCTGP-7-Networks akzeptierst\ndu den Nutzerbedingungen.\nHier kannst du diese nachlesen:\nctgp-7.github.io/ctww.html
 welc_6 :: Schau auf dem\nCTGP-7-Discord-Server\nvorbei. Einladungslink:\ninvite.gg/ctgp7
 welc_7 :: Wir hoffen, dir gefällt der Mod!\n^ω^
 
@@ -245,9 +245,9 @@ rnd_sel :: Wähle die Anzahl der Runden.
 enhmap :: Verbesserte Karte :: Fügt der Karte eine Zoomfunktion hinzu. Diese kann mit dem Touchscreen verwendet werden.
 
 #Custom character manager text
-char_select :: Wähle einen Fahrer, um ihn zu ändern.
+char_select :: Wähle einen Charakter, den du ändern möchtest.
 reboot_req :: Es wird ein Neustart benötigt, um\njegliche Änderungen zu speichern.
-char_replace :: Wähle einen neuen Fahrer für:\n
+char_replace :: Wähle einen neuen Charakter für:\n
 green_info :: Grün → Zurzeit gewählter Eintrag
 face_raider_sel :: Wähle ein Gesicht
 authors :: Autoren
@@ -335,3 +335,10 @@ msstat_usermsn :: Benutzer-Missionen
 
 #Course Checksum
 course_check :: Kurs-Prüfsumme
+
+#Custom Server
+server_name :: Nintendo Network :: CTGP-7-Network
+server_choice :: Bitte wähle einen Online-Server:\n\n%s:\n    - Nur für CTGP-7-Spieler\n    - CTWW & Originalstrecken\n    - Starker Anti-Cheat\n%s:\n    - Für alle MK7-Spieler\n    - Originalstrecken & Communitys\n    - Schwacher Anti-Cheat
+server_ctgp7_conn :: Verbindung zum\nCTGP-7-Network\nwird hergestellt...
+server_ctgp7_dconn :: Möchtest du die Verbindung\nzum CTGP-7-Network\nabbrechen?
+server_ctgp7_nocomm :: Communitys sind im\nCTGP-7-Network\nnicht verfügbar.

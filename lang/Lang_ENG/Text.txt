@@ -156,7 +156,7 @@ welc_1 :: Hello there!\nFrom the ingame menu,\nyou will be able to\nuse some int
 welc_2 :: To use any feature, place the\ncursor over an entry and\npress A to enable/configure it.
 welc_3 :: Keep in mind that some features\nsuch as "CC Selector" will be\ndisabled while playing online.
 welc_4 :: Your statistics will be uploaded\nto the CTGP-7 Server so they\nare available to the public to see.\n(Data is anonymized.)\nYou can turn off stats upload\nfrom the ingame menu.
-welc_5 :: By using the CTWW feature,\nyou agree to its rules.\n\nYou can check them here:\nctgp-7.github.io/ctww.html
+welc_5 :: By using CTGP-7 Network\nyou agree to its rules.\n\nYou can check them here:\nctgp-7.github.io/ctww.html
 welc_6 :: Remember to check out\nthe CTGP-7 discord server!\n\nInvitation link:\ninvite.gg/ctgp7
 welc_7 :: We hope you enjoy the mod!\n^w^
 
@@ -335,3 +335,10 @@ msstat_usermsn :: User Missions
 
 #Course Checksum
 course_check :: Course Checksum
+
+#Custom Server
+server_name :: Nintendo Network :: CTGP-7 Network
+server_choice :: Please select online server:\n\n%s:\n    - Only for CTGP-7 players\n    - CTWW and original tracks\n    - Strong anti-cheat\n%s:\n    - For all MK7 players\n    - Original tracks and communities\n    - Weak anti-cheat
+server_ctgp7_conn :: Connecting to\nCTGP-7 Network...
+server_ctgp7_dconn :: Disconnect from\nCTGP-7 Network?
+server_ctgp7_nocomm :: Communities are not available\nin CTGP-7 Network.

@@ -156,7 +156,7 @@ welc_1 :: Hola!\nDes del menú ingame,\npodràs utilitzar algunes\nfuncions inte
 welc_2 :: Per a utilitzar qualsevol\nfunció, posa el cursor\ndamunt i prem A.
 welc_3 :: Tinguis en compte que algunes\nfuncions com "Selector de CC"\nseran desactivades en\nmultijugador en línia.
 welc_4 :: Les teves estadístiques seran\npujades al servidor de CTGP-7\nperquè tothom les pugui veure.\n(Les dades són anonimitzades.)\nPots desactivar la pujada\ndes del menú ingame.
-welc_5 :: Si utilitzes la funció CTWW\nacceptes les seves regles.\n\nPots veure-les aquí:\nctgp-7.github.io/ctww.html
+welc_5 :: Si utilitzes CTGP-7 Network\nacceptes les seves regles.\n\nPots veure-les aquí:\nctgp-7.github.io/ctww.html
 welc_6 :: Recorda visitar el servidor\nde Discord de CTGP-7!\n\nEnllaç d'invitació:\ninvite.gg/ctgp7
 welc_7 :: Esperem que gaudeixis el mod!\n^ω^
 
@@ -335,6 +335,13 @@ msstat_usermsn :: Missions de l'usuari
 
 #Course Checksum
 course_check :: Checksum del circuit
+
+#Custom Server
+server_name :: Nintendo Network :: CTGP-7 Network
+server_choice :: Selecciona el servidor en línia:\n\n%s:\n    - Només per a jugadors de CTGP-7\n    - CTWW i circuits originals\n    - "Anti-cheat" fort\n%s:\n    - Per a tots els jugadors de MK7\n    - Circuits originals i comunitats\n    - "Anti-cheat" dèbil
+server_ctgp7_conn :: Connectant amb\nCTGP-7 Network
+server_ctgp7_dconn :: Vols sortir de\nCTGP-7 Network?
+server_ctgp7_nocomm :: Les comunitats no estan\ndisponibles en CTGP-7 Network.
 
 #Characters
 $1000 :: Mario

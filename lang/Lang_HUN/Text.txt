@@ -156,7 +156,7 @@ welc_1 :: Szervusz!\nA pluginmenüből néhány\nérdekes funkciót használhats
 welc_2 :: Egy funkció használatához\nválassz ki egy opciót és\nengedélyezd/konfiguráld\naz A-val.
 welc_3 :: Megjegyzés: néhány funkció,\nmint például a „CC választó”\nle lesz tiltva online játék\nközben.
 welc_4 :: Bizonyos statisztikákat\nfeltöltünk a CTGP-7 szerverre,\nahol bárki megtekintheti őket.\n(Az adatok névtelenek.)\nEzt a beállításokban\nkikapcsolhatod.
-welc_5 :: A CTWW használatával elfogadod\na felhasználási feltételeket.\n\nEzeket itt tekintheted meg:\nctgp-7.github.io/ctww.html
+welc_5 :: A CTGP-7 Network használatával\nelfogadod a felhasználási\nfeltételeket.\nEzeket itt tekintheted meg:\nctgp-7.github.io/ctww.html
 welc_6 :: Végezetül javasoljuk,\nhogy keresd fel a\nCTGP-7 Discord-szerverét is!\n\nMeghívó:\ninvite.gg/ctgp7
 welc_7 :: Jó szórakozást\na modhoz!\n^w^
 
@@ -335,6 +335,13 @@ msstat_usermsn :: Egyéni küldetések
 
 #Course Checksum
 course_check :: Pálya ellenörzőösszege
+
+#Custom Server
+server_name :: Nintendo Network :: CTGP-7 Network
+server_choice :: Please select online server:\n\n%s:\n    - Only for CTGP-7 players\n    - CTWW and original tracks\n    - Strong anti-cheat\n%s:\n    - For all MK7 players\n    - Original tracks and communities\n    - Weak anti-cheat
+server_ctgp7_conn :: Csatlakozás a\nCTGP-7 Network-höz...
+server_ctgp7_dconn :: Megszakítod a kapcsolatot\na CTGP-7 Network-kel?
+server_ctgp7_nocomm :: Communities are not available\nin CTGP-7 Network.
 
 #Characters
 $1000 :: Mario

@@ -156,7 +156,7 @@ welc_1 :: Salut ! Depuis le menu du jeu,\nvous pouvez avoir accès\nà de nombre
 welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
 welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
 welc_4 :: Vos statistiques seront envoyées\nsur le serveur CTGP-7 et seront\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi des\nstatistiques depuis le menu du jeu.
-welc_5 :: En utilisant les fonctionnalités du\nCTWW, vous acceptez ses règles.\n\nVous pouvez les consulter ici :\nctgp-7.github.io/ctww.html
+welc_5 :: En utilisant CTGP-7 Network,\nvous acceptez ses règles.\n\nVous pouvez les consulter ici :\nctgp-7.github.io/ctww.html
 welc_6 :: N'oubliez pas de jeter un coup\nd'œil au serveur discord CTGP-7 !\n\nLien d'invitation :\ninvite.gg/ctgp7
 welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
 
@@ -335,3 +335,10 @@ msstat_usermsn :: Missions de l'utilisateur
 
 #Course Checksum
 course_check :: Checksum du circuit
+
+#Custom Server
+server_name :: Nintendo Network :: CTGP-7 Network
+server_choice :: Sélectionner le serveur en ligne:\n\n%s:\n    - Uniquement pour les joueurs CTGP-7\n    - CTWW et circuits originaux\n    - Anti-cheat puissant\n%s:\n    - Pour tous les joueurs de MK7\n    - Pistes originales et communautés\n    - Anti-cheat faible
+server_ctgp7_conn :: Connexion au\nCTGP-7 Network...
+server_ctgp7_dconn :: Se déconnecter du\nCTGP-7 Network ?
+server_ctgp7_nocomm :: Les communautés ne sont pas disponibles\ndans le CTGP-7 Network.:

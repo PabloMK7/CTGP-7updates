@@ -156,7 +156,7 @@ welc_1 :: Ciao!\nDal menu di gioco, potrai usare\ndelle funzioni speciali.\nPer 
 welc_2 :: Per user unable fanzine, muovi\nil cursore sulla funzione e\npremi A per abilitarlo o configurarlo.
 welc_3 :: Ricorda che alcune funzioni,\ncome il "Selettore classe CC", saranno\ndisabilitate durante il gioco online.
 welc_4 :: La tua statistica verrà caricata nel server di CTGP-7\ncosì è disponibile a tutti.\n(I dati saranno anonimi)\npuoi disabilitare il caricamento delle tue statistiche\nnei menu di gioco.
-welc_5 :: Usando il CTWW,\ntu concordi alle sue regole.\n\nPuoi vederle qui:\nctgp-7.github.io/ctww.html
+welc_5 :: Usando CTGP-7 Network,\ntu concordi alle sue regole.\n\nPuoi vederle qui:\nctgp-7.github.io/ctww.html
 welc_6 :: Ricordati di dare un'occhiata al\nserver discord di CTGP-7!\n\nEcco l'invito:\ninvite.gg/ctgp7
 welc_7 :: Speriamo ti piaccia!\n^w^
 
@@ -335,3 +335,10 @@ msstat_usermsn :: Missioni utente
 
 #Course Checksum
 course_check :: Checksum della pista
+
+#Custom Server
+server_name :: Nintendo Network :: CTGP-7 Network
+server_choice :: Please select online server:\n\n%s:\n    - Only for CTGP-7 players\n    - CTWW and original tracks\n    - Strong anti-cheat\n%s:\n    - For all MK7 players\n    - Original tracks and communities\n    - Weak anti-cheat
+server_ctgp7_conn :: Collegamento a\nCTGP-7 Network\nin corso...
+server_ctgp7_dconn :: Vuoi interrompere\nil collegamento a\nCTGP-7 Network?
+server_ctgp7_nocomm :: Communities are not available\nin CTGP-7 Network.
