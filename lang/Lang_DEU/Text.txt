@@ -156,7 +156,7 @@ welc_1 :: Hallo!\nVom Ingame-Menü aus\nkannst du verschiedene\ninteressante Fun
 welc_2 :: Um die Funktionen zu verwenden,\nwähle mit dem Zeiger einen\nEintrag aus und drücke A,\num es zu aktivieren oder zu\nkonfigurieren.
 welc_3 :: Beachte aber, dass manche Funk-\ntionen wie z.B. die CCM-Einstel-\nlungen nicht im Online-\nModus funktionieren.
 welc_4 :: Deine Statistiken werden auf\ndem CTGP-7-Server hochgeladen,\ndamit Sie jeder sehen kann.\n(Diese Daten bleiben anonym.)\nIm Ingame-Menü kannst du\nden Daten-Upload ausschalten.
-welc_5 :: Durch das Verwenden des\nCTGP-7-Networks akzeptierst\ndu den Nutzerbedingungen.\nHier kannst du diese nachlesen:\nctgp-7.github.io/ctww.html
+welc_5 :: Durch das Verwenden des\nCTGP-7-Networks akzeptierst\ndu die Nutzerbedingungen.\nHier kannst du diese nachlesen:\nctgp-7.github.io/ctww.html
 welc_6 :: Schau auf dem\nCTGP-7-Discord-Server\nvorbei. Einladungslink:\ninvite.gg/ctgp7
 welc_7 :: Wir hoffen, dir gefällt der Mod!\n^ω^
 

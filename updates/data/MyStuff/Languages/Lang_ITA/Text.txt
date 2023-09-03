@@ -338,7 +338,7 @@ course_check :: Checksum della pista
 
 #Custom Server
 server_name :: Nintendo Network :: CTGP-7 Network
-server_choice :: Please select online server:\n\n%s:\n    - Only for CTGP-7 players\n    - CTWW and original tracks\n    - Strong anti-cheat\n%s:\n    - For all MK7 players\n    - Original tracks and communities\n    - Weak anti-cheat
+server_choice :: Seleziona il server online:\n\n%s:\n    - Solo per giocatori di CTGP-7\n    - CTWW e circuiti originali\n    - "Anti-cheat" forte\n%s:\n    - Per tutti i giocatori di MK7\n    - Circuiti originali e comunità\n    - "Anti-cheat" debole
 server_ctgp7_conn :: Collegamento a\nCTGP-7 Network\nin corso...
 server_ctgp7_dconn :: Vuoi interrompere\nil collegamento a\nCTGP-7 Network?
-server_ctgp7_nocomm :: Communities are not available\nin CTGP-7 Network.
+server_ctgp7_nocomm :: Le comunità\nnon sono disponibili\nsullaCTGP-7 Network.
