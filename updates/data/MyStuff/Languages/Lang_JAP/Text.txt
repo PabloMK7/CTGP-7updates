@@ -341,4 +341,4 @@ server_name :: ニンテンドーネットワーク :: CTGP-7ネットワーク
 server_choice :: オンラインサーバーを選択してください。\n\n%s：\n    - CTGP-7プレイヤー専用\n    - CTWW及び既存トラック\n    - 強いアンチチート\n%s：\n    - 全てのマリカ７プレイヤー用\n    - 既存トラック及びコミュニティ\n    - 弱いアンチチート
 server_ctgp7_conn :: CTGP-7ネットワークに\n接続中…
 server_ctgp7_dconn :: CTGP-7ネットワークから\n切断しますか？
-server_ctgp7_nocomm :: CTGP-7ネットワークではコミュニティ\nは利用できません。
+server_ctgp7_nocomm :: CTGP-7ネットワークでは\nコミュニティは利用できません。

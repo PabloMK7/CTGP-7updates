@@ -341,4 +341,4 @@ server_name :: Nintendo Network :: CTGP-7 Network
 server_choice :: Sélectionner le serveur en ligne:\n\n%s:\n    - Uniquement pour les joueurs CTGP-7\n    - CTWW et circuits originaux\n    - Anti-cheat puissant\n%s:\n    - Pour tous les joueurs de MK7\n    - Pistes originales et communautés\n    - Anti-cheat faible
 server_ctgp7_conn :: Connexion au\nCTGP-7 Network...
 server_ctgp7_dconn :: Se déconnecter du\nCTGP-7 Network ?
-server_ctgp7_nocomm :: Les communautés ne sont pas disponibles\ndans le CTGP-7 Network.:
+server_ctgp7_nocomm :: Les communautés ne sont\npas disponibles sur le\nCTGP-7 Network.
