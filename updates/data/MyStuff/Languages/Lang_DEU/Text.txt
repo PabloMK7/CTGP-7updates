@@ -340,5 +340,5 @@ course_check :: Kurs-Prüfsumme
 server_name :: Nintendo Network :: CTGP-7-Network
 server_choice :: Bitte wähle einen Online-Server:\n\n%s:\n    - Nur für CTGP-7-Spieler\n    - CTWW & Originalstrecken\n    - Starker Anti-Cheat\n%s:\n    - Für alle MK7-Spieler\n    - Originalstrecken & Communitys\n    - Schwacher Anti-Cheat
 server_ctgp7_conn :: Verbindung zum\nCTGP-7-Network\nwird hergestellt...
-server_ctgp7_dconn :: Möchtest du die Verbindung\nzum CTGP-7-Network\unterbrechen?
+server_ctgp7_dconn :: Möchtest du die Verbindung\nzum CTGP-7-Network\nunterbrechen?
 server_ctgp7_nocomm :: Communitys sind im\nCTGP-7-Network\nnicht verfügbar.
