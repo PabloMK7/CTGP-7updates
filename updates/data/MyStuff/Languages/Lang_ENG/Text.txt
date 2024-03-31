@@ -93,7 +93,7 @@ $700023 :: Coin Cup
 $710094 :: Doge Desert
 $710095 :: \uE022\uE023 Banshee Boardwalk
 $710096 :: \uE026\uE027 Mario Circuit
-$710073 :: Miku's Birthday Spec.
+$710073 :: Mike's Birthday Spec.
 
 #Rainbow Cup
 $700017 :: Rainbow Cup

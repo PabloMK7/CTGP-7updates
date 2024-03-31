@@ -93,7 +93,7 @@ $700023 :: Copa Moneda
 $710094 :: Desert Doge
 $710095 :: \uE022\uE023 Moll Embruixat
 $710096 :: \uE026\uE027 Circuit Mario
-$710073 :: Cumpleanys de Miku
+$710073 :: Cumpleanys de Mike
 
 #Rainbow Cup
 $700017 :: Copa Arc de Sant Martí

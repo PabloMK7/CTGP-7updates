@@ -93,7 +93,7 @@ $700023 :: Trofeo Moneta
 $710094 :: Deserto di Doge
 $710095 :: \uE022\uE023 Pontile Stregato
 $710096 :: \uE026\uE027 Circuito di Mario
-$710073 :: Speciale di Compleanno di Miku
+$710073 :: Speciale di Compleanno di Mike
 
 #Rainbow Cup
 $700017 :: Trofeo Arcobaleno

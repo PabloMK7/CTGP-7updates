@@ -93,7 +93,7 @@ $700023 :: Muntenbeker
 $710094 :: Doge-Woestijn
 $710095 :: \uE022\uE023 Spookpier
 $710096 :: \uE026\uE027 Mario's Circuit
-$710073 :: Miku's Verjaardag Spec.
+$710073 :: Mike's Verjaardag Spec.
 
 #Rainbow Cup
 $700017 :: Regenboogbeker

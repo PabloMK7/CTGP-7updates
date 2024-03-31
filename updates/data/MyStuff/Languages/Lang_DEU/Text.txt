@@ -93,7 +93,7 @@ $700023 :: Münz-Cup
 $710094 :: Doge-Wüste
 $710095 :: \uE022\uE023 Spukpfad
 $710096 :: \uE026\uE027 Marios Piste
-$710073 :: Mikus Geburtstagsspek.
+$710073 :: Mikes Geburtstagsspek.
 
 #Rainbow Cup
 $700017 :: Regenbogen-Cup

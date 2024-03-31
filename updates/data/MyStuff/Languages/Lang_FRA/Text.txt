@@ -93,7 +93,7 @@ $700023 :: Coupe Pièce
 $710094 :: Désert Doge
 $710095 :: \uE022\uE023 Ponton Lugubre
 $710096 :: \uE026\uE027 Circuit Mario
-$710073 :: Spectacle Miku
+$710073 :: Spectacle Mike
 
 #Rainbow Cup
 $700017 :: Coupe Arc-en-ciel

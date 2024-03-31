@@ -93,7 +93,7 @@ $700023 :: Érme kupa
 $710094 :: Doge-sivatag
 $710095 :: \uE022\uE023 Banshee stég
 $710096 :: \uE026\uE027 Mario pálya
-$710073 :: Miku szülinapi látv.
+$710073 :: Mike szülinapi látv.
 
 #Rainbow Cup
 $700017 :: Szivárvány kupa

@@ -93,7 +93,7 @@ $700023 :: Taça Moeda
 $710094 :: Deserto Doge
 $710095 :: Calçada da Alma Penada \uE022\uE023
 $710096 :: Circuito do Mario \uE026\uE027
-$710073 :: Especial de Aniversário da Miku
+$710073 :: Especial de Aniversário da Mike
 
 #Rainbow Cup
 $700017 :: Taça Arco-íris
