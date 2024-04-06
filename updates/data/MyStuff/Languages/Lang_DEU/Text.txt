@@ -71,7 +71,7 @@ $710081 :: \uE024\uE025 Luigis Piste
 $700020 :: Feuerball-Cup
 $710082 :: SMO RC-Herausforderung
 $710083 :: \uE024\uE025 Bowsers Festung 4
-$710084 :: \uE031\uE032 Donut-Ebene 1
+$710084 :: RMX Donut-Ebene 1
 $710085 :: Geheime Rutschbahn
 
 #Bob-omb Cup
@@ -93,7 +93,7 @@ $700023 :: Münz-Cup
 $710094 :: Doge-Wüste
 $710095 :: \uE022\uE023 Spukpfad
 $710096 :: \uE026\uE027 Marios Piste
-$710073 :: Mikes Geburtstagsspek.
+$710073 :: Mikus Geburtstagsspek. 2
 
 #Rainbow Cup
 $700017 :: Regenbogen-Cup
@@ -144,6 +144,20 @@ $710119 :: Klippenpiste
 $710120 :: Interstellar-Labor
 $710121 :: Dunkle-Materie-Festung
 
+#Hammer Cup
+$700030 :: Hammer-Cup
+$710122 :: \uE031\uEß23 Donut-Ebene 2
+$710123 :: Olymphöhen
+$710124 :: \uE022\uE023 Bowsers Festung
+$710125 :: \uE067 DK Skikane
+
+#Wonder Cup
+$700031 :: Wunder-Cup
+$710126 :: Malerische Sumpfrennstrecke
+$710127 :: Roulette-Route
+$710128 :: Orbitaler Außenposten
+$710129 :: \uE033 Regenbogen-Boulevard
+
 #Save Data
 $7005 :: Extradaten für CTGP-7 werden\njetzt auf der SD Card erstellt.
 $7003 :: Extradaten werden erstellt...
@@ -166,7 +180,21 @@ achiev_all_1star :: Du hast 1 Stern in allen\nbenutzerdef. Cups\nerrungen.\nHerz
 achiev_all_3star :: Du hast 3 Sterne in allen\nbenutzerdef. Cups\nerrungen.\nHerzlichen Glückwunsch!
 achiev_all_mission :: Du hast 10 Punkte in allen\nMissionen errungen.\n\nHerzlichen Glückwunsch!
 achiev_5000_vr :: Du hast 5000 RP im\nCTWW errungen.\n\nHerzlichen Glückwunsch!
+achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: Du hast\nalle Blauen Münzen eingesammelt.\nherzlichen Glückwunsch!
 unlocked_item :: Du hast folgendes\nfreigeschalten:\n\n
+types_achievs :: Normale Erfolge :: Spezial Erfolge
+gold_tro_achiev :: Gold in allen Custom Track Cups
+1star_achiev :: 1 Stern in allen Customt Track Cups
+3star_achiev :: 3 Sterne in allen Customt Track Cups
+10pts_msn_achiev :: 10 Punkte in allen Missionen
+5000vr_achiev :: 5000 VR in CTWW
+blue_coin_achiev :: Alle Blauen Münzen eingesammelt
+custom_track_cups :: Custom Tracks Cups
+tro_gold :: Gold
+tro_1star :: 1 Stern
+tro_3star :: 3 Sterne
+tro_10pts :: 10 Punkte
+tro_blue_collected :: Eingesammelt
 
 #General text
 warning :: WARNUNG
@@ -187,6 +215,7 @@ settings :: Einstellungen
 exit :: Zurück
 default :: Standard
 button :: Knopf
+summary :: Zusammenfassung
 
 #Folders
 gameplay_folder :: Gameplay-Features :: Konfiguration für zusätzliche Gameplay-Features
@@ -206,6 +235,7 @@ imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer R
 autoaccel :: Auto-Beschleunigung :: Das Drücken von \uE000 oder \uE003 aktiviert die automatische Beschleunigung, welche aktiv bleibt, bis \uE001 gedrückt wird.
 imbrakedrift :: Verbesserter Brems-Drift :: Halte \uE001 beim Driften, um zu bremsen, ohne deinen Mini-Turbo zu verlieren.
 autodelaydrift :: Automatischer Delay-Drift :: Verhindert, dass das Kart Geschwindigkeit verliert, wenn ein Drift gestartet wird.
+achieventry :: Erfolge :: Siehe den Fortschritt bei den CTGP-7 Erfolgen an.
 
 #Speedometer text
 spd_set :: Tachometer-Einstellungen
@@ -247,10 +277,9 @@ enhmap :: Verbesserte Karte :: Fügt der Karte eine Zoomfunktion hinzu. Diese ka
 #Custom character manager text
 char_select :: Wähle einen Charakter, den du ändern möchtest.
 reboot_req :: Es wird ein Neustart benötigt, um\njegliche Änderungen zu speichern.
-char_replace :: Wähle einen neuen Charakter für:\n
-green_info :: Grün → Zurzeit gewählter Eintrag
 face_raider_sel :: Wähle ein Gesicht
 authors :: Autoren
+change_face :: Gesicht ändern
 
 #Online track order
 order_mode :: Normal :: Alphabetisch
@@ -265,6 +294,7 @@ fail_conn :: Fehler bei der Verbindung\nzum CTGP-7-Server.\n\nVersuche es erneut
 #CTWW
 cntdwn :: Countdown-Rennen
 ctww :: CTWW
+vr :: VR
 CTWWtog :: Möchtest du benutzerdefinierte\nStrecken für den Weltweit-\nModus aktivieren? :: Möchtest du benutzerdefinierte\nStrecken für den Weltweit-\nModus deaktivieren?
 
 #VS Mode
@@ -342,3 +372,8 @@ server_choice :: Bitte wähle einen Online-Server:\n\n%s:\n    - Nur für CTGP-7
 server_ctgp7_conn :: Verbindung zum\nCTGP-7-Network\nwird hergestellt...
 server_ctgp7_dconn :: Möchtest du die Verbindung\nzum CTGP-7-Network\nunterbrechen?
 server_ctgp7_nocomm :: Communitys sind im\nCTGP-7-Network\nnicht verfügbar.
+
+#Blue Coins
+blue_coins :: Blaue Münzen
+blue_coin_obtain :: $Blaue Münzen$\neingesammelt :: %d verbleibende\nStrecken
+blue_coin_all :: Alle Münzen wurden eingesammelt.

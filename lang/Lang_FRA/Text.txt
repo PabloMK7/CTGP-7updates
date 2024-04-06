@@ -71,7 +71,7 @@ $710081 :: \uE024\uE025 Circuit Luigi
 $700020 :: Coupe Boule de Feu
 $710082 :: SMO Défi Voiture Télé.
 $710083 :: \uE024\uE025 Château de Bowser 4
-$710084 :: \uE031\uE032 Plaine Donut 1
+$710084 :: RMX Plaine Donut 1
 $710085 :: Glissade Secrète
 
 #Bob-omb Cup
@@ -93,7 +93,7 @@ $700023 :: Coupe Pièce
 $710094 :: Désert Doge
 $710095 :: \uE022\uE023 Ponton Lugubre
 $710096 :: \uE026\uE027 Circuit Mario
-$710073 :: Spectacle Miku
+$710073 :: Spectacle Miku 2
 
 #Rainbow Cup
 $700017 :: Coupe Arc-en-ciel
@@ -144,6 +144,20 @@ $710119 :: Circuit de la Falaise
 $710120 :: Laboratoire Interstellaire
 $710121 :: Forteresse de Matière Noire
 
+#Hammer Cup
+$700030 :: Coupe Marteau
+$710122 :: \uE031\uE032 Plaine Donut 2
+$710123 :: Circuit Céleste
+$710124 :: \uE022\uE023 Château de Bowser
+$710125 :: \uE067 Pic DK
+
+#Wonder Cup
+$700031 :: Coupe Fleur Prodige
+$710126 :: Toile Marécage
+$710127 :: Rue de la Roulette
+$710128 :: Avant-poste Orbital
+$710129 :: \uE033 Route Arc-en-ciel
+
 #Save Data
 $7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 $7003 :: Création du fichier\nde sauvegarde...
@@ -166,7 +180,21 @@ achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes person
 achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes personnalisées.\n\nFélicitations !
 achiev_all_mission :: Vous avez obtenu dix points\ndans toutes les missions.\n\nFélicitations !
 achiev_5000_vr :: Vous avez atteint 5000 PC dans CTWW.\n\nFélicitations !
+achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: Vous avez obtenu\ntoutes les pièces bleues!\n\nFélicitations!
 unlocked_item :: Vous avez obtenu :\n\n
+types_achievs :: Succès normaux :: Succès spéciaux
+gold_tro_achiev :: Trophée Or dans toutes les coupes circuits customisés
+1star_achiev :: 1 étoile sur toutes les coupes circuits customisés
+3star_achiev :: 3 étoiles sur toutes les coupes circuits customisés
+10pts_msn_achiev :: 10 points dans toutes les missions
+5000vr_achiev :: 5000PC dans CTWW
+blue_coin_achiev :: Toutes les pièces bleues obtenues
+custom_track_cups :: Coupes Circuits Customisés
+tro_gold :: Or
+tro_1star :: 1 Étoile
+tro_3star :: 3 Étoiles
+tro_10pts :: 10 points
+tro_blue_collected :: Obtenue
 
 #General text
 warning :: ATTENTION
@@ -187,6 +215,7 @@ settings :: Paramètres
 exit :: Fermer
 default :: Par défaut
 button :: Bouton
+summary :: Sommaire
 
 #Folders
 gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalités du jeu additionnel.
@@ -206,6 +235,7 @@ imtrick :: Sauts améliorés :: Les sauts effectués sur certaines rampes vont f
 autoaccel :: Accélération auto :: Appuyez sur \uE000 ou \uE003 pour activer l'accélération auto. Pour la désactiver, appuyez sur \uE001.  
 imbrakedrift :: Amélioration du freinage en dérapant :: Maintenez \uE001 en dérapant pour freiner sans perdre votre mini-turbo.
 autodelaydrift :: "Delay Drift" Automatique :: Aide à prévenir la perte de vitesse lors du début d'un dérapage.
+achieventry :: Succès :: Voir votre progrès des succès CTGP-7
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -247,10 +277,9 @@ enhmap :: Carte améliorée :: Ajoute une option de zoom pour la carte en toucha
 #Custom character manager text
 char_select :: Sélectionnez un personnage à configurer.
 reboot_req :: Redémarrage nécessaire pour appliquer\nles changements.
-char_replace :: Sélectionnez un personnage customisé pour :\n
-green_info :: L'entrée en verte est celle actuellement\nactivée.
 face_raider_sel :: Sélectionnez un visage
 authors :: Auteurs
+change_face :: Changer visage
 
 #Online track order
 order_mode :: Par défaut :: Alphabétique
@@ -265,6 +294,7 @@ fail_conn :: Impossible de vous connecter\naux serveurs CTGP-7.\nRéessayez plus
 #CTWW
 cntdwn :: Compte à rebours
 ctww :: CTWW
+vr :: PC
 CTWWtog :: Souhaitez-vous activer les\nCustom Tracks en Mondial ? :: Souhaitez-vous désactiver les\nCustom Tracks en Mondial ?
 
 #VS Mode
@@ -342,3 +372,8 @@ server_choice :: Sélectionner le serveur en ligne:\n\n%s:\n    - Uniquement pou
 server_ctgp7_conn :: Connexion au\nCTGP-7 Network...
 server_ctgp7_dconn :: Se déconnecter du\nCTGP-7 Network ?
 server_ctgp7_nocomm :: Les communautés ne sont\npas disponibles sur le\nCTGP-7 Network.
+
+#Blue Coins
+blue_coins :: Pièces bleues
+blue_coin_obtain :: Vous avez obtenu\nune $pièce bleue$ !:: %d course(s)\nrestante(s).
+blue_coin_all :: Toutes les pièces\nont été obtenues !
