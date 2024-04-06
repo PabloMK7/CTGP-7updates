@@ -71,7 +71,7 @@ $710081 :: \uE024\uE025 루이지 서킷
 $700020 :: 파이어볼 컵
 $710082 :: SMO RC카 챌린지
 $710083 :: \uE024\uE025 쿠파 성 4
-$710084 :: \uE020\uE021 도넛 평야 1
+$710084 :: RMX 도넛 평야 1
 $710085 :: 숨바꼭질 피치 슬라이더
 
 #Bob-omb Cup
@@ -93,7 +93,7 @@ $700023 :: 코인 컵
 $710094 :: 도지 사막
 $710095 :: \uE035 부끄부끄 늪
 $710096 :: \uE034 마리오 서킷
-$710073 :: 마이크 생일 스펙타큘러
+$710073 :: 미쿠의 생일 스펙타큘러 2
 
 #Rainbow Cup
 $700017 :: 무지개 컵
@@ -144,6 +144,20 @@ $710119 :: 벼랑 끝 서킷
 $710120 :: 인터스텔라 연구실
 $710121 :: 암흑 물질 요새
 
+#Hammer Cup
+$700030 :: Hammer Cup
+$710122 :: \uE031\uE032 Donut Plains 2
+$710123 :: Soaring Skyway
+$710124 :: \uE022\uE023 Bowser's Castle
+$710125 :: \uE067 DK Summit
+
+#Wonder Cup
+$700031 :: Wonder Cup
+$710126 :: Painted Swamp Raceway
+$710127 :: Roulette Road
+$710128 :: Orbital Outpost
+$710129 :: \uE033 Rainbow Road
+
 #Save Data
 $7005 :: CTGP-7의 추가 데이터를\nSD 카드에 작성합니다.
 $7003 :: 추가 데이터 작성중...
@@ -166,7 +180,21 @@ achiev_all_1star :: 모든 커스텀 컵에서\n별 1개를 얻었습니다.\n\n
 achiev_all_3star :: 모든 커스텀 컵에서\n별 3개 얻었습니다.\n\n축하드립니다!
 achiev_all_mission :: 모든 미션에서\n10점를 얻었습니다.\n\n축하드립니다!
 achiev_5000_vr :: CTWW에서\n5000 VR에 도달했습니다.\n\n축하드립니다!
+achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: You have collected\nall blue coins!\n\nCongratulations!
 unlocked_item :: 잠금 해제됨:\n\n
+types_achievs :: Normal achievements :: Special achievements
+gold_tro_achiev :: Gold in all custom track cups
+1star_achiev :: 1 star in all custom track cups
+3star_achiev :: 3 star in all custom track cups
+10pts_msn_achiev :: 10 points in all missions
+5000vr_achiev :: 5000VR in CTWW
+blue_coin_achiev :: All blue coins collected
+custom_track_cups :: Custom Track Cups
+tro_gold :: Gold
+tro_1star :: 1 Star
+tro_3star :: 3 Star
+tro_10pts :: 10 points
+tro_blue_collected :: Collected
 
 #General text
 warning :: 주의
@@ -187,6 +215,7 @@ settings :: 설정
 exit :: 나가기
 default :: 기본 설정
 button :: 버튼
+summary :: Summary
 
 #Folders
 gameplay_folder :: 게임플레이 기능 :: 추가적인 게임플레이 기능에 대한 설정.
@@ -206,6 +235,7 @@ imtrick :: 점프 트릭 개선 :: 카트가 점프대 위에서 트릭을 할 �
 autoaccel :: 자동 가속 :: \uE000나 \uE003를 누르면 \uE001이 눌러질 때까지 자동으로 가속합니다.
 imbrakedrift :: 브레이크 드리프트 개선 :: \uE001을 드리프트 중에 눌러서 미니 터보를 잃지 않고 브레이크를 할 수 있습니다.
 autodelaydrift :: 자동 딜레이 드리프트 :: 드리프트를 시작할 때 속도를 잃는 것을 방지하게 돕습니다.
+achieventry :: Achievements :: Check the progress on CTGP-7 achievements.
 
 #Speedometer text
 spd_set :: 속도계 설정
@@ -247,10 +277,9 @@ enhmap :: 로컬 맵 개선 :: \uE058 터치 스크린을 이용해서 하단 �
 #Custom character manager text
 char_select :: 설정을 변경할 캐릭터를 선택해 주세요.
 reboot_req :: 기기 다시 시작 시 변경 적용
-char_replace :: 아래 캐릭터를 위한 커스텀 캐릭터를 선택하세요.\n
-green_info :: 초록색 → 현재 적용 중 캐릭터
 face_raider_sel :: 얼굴을 선택해 주세요
 authors :: 창조자
+change_face :: Change face
 
 #Online track order
 order_mode :: 기본 :: 알파벳순
@@ -265,6 +294,7 @@ fail_conn :: CTGP-7 서버의 접속을 실패했습니다. \n\n나중에 다시
 #CTWW
 cntdwn :: 카운트다운
 ctww :: CTWW
+vr :: VR
 CTWWtog :: 커스텀 트랙을\n활성화하시겠습니까? :: 커스텀 트랙을\n비활성화하시겠습니까?
 
 #VS Mode
@@ -342,3 +372,8 @@ server_choice :: 온라인 서버를 선택해 주세요.\n\n%s:\n    - CTGP-7 �
 server_ctgp7_conn :: CTGP-7 네트워크에 접속 중...
 server_ctgp7_dconn :: CTGP-7 네트워크\n연결을 해제하시겠어요?
 server_ctgp7_nocomm :: CTGP-7 네트워크에서는\n커뮤니티를 사용하실 수 없습니다.
+
+#Blue Coins
+blue_coins :: Blue Coins
+blue_coin_obtain :: $Blue Coin$\ncollected! :: %d tracks\nremaining.
+blue_coin_all :: All coins have\nbeen collected!

@@ -71,7 +71,7 @@ $710081 :: \uE024\uE025 ルイージサーキット
 $700020 :: ファイアボールカップ
 $710082 :: SMO ミニカーチャレンジ
 $710083 :: \uE024\uE025 クッパキャッスル 4
-$710084 :: \uE020\uE021 ドーナツへいや 1
+$710084 :: RMX ドーナツへいや 1
 $710085 :: ピーチのかくれスライダー
 
 #Bob-omb Cup
@@ -93,7 +93,7 @@ $700023 :: コインカップ
 $710094 :: ドージさばく
 $710095 :: \uE035 ヒュードロいけ
 $710096 :: \uE034 マリオサーキット
-$710073 :: ミクのバースデイスペクタクラー
+$710073 :: ミクのバースデイスペクタクラー2
 
 #Rainbow Cup
 $700017 :: レインボーカップ
@@ -144,6 +144,20 @@ $710119 :: クリフサイドサーキット
 $710120 :: インターステラーけんきゅうじょ
 $710121 :: ダークマターのとりで
 
+#Hammer Cup
+$700030 :: Hammer Cup
+$710122 :: \uE031\uE032 Donut Plains 2
+$710123 :: Soaring Skyway
+$710124 :: \uE022\uE023 Bowser's Castle
+$710125 :: \uE067 DK Summit
+
+#Wonder Cup
+$700031 :: Wonder Cup
+$710126 :: Painted Swamp Raceway
+$710127 :: Roulette Road
+$710128 :: Orbital Outpost
+$710129 :: \uE033 Rainbow Road
+
 #Save Data
 $7005 :: CTGP-7の追加データを\nSDカードに作成します。
 $7003 :: 追加データの作成をしています...
@@ -166,7 +180,21 @@ achiev_all_1star :: すべてのカスタムカップで\nほし1つをとりま
 achiev_all_3star :: すべてのカスタムカップで\nほし3つをとりました。\n\nおめでとうございます！
 achiev_all_mission :: すべてのミッションで\n10点をとりました。\n\nおめでとうございます！
 achiev_5000_vr :: CTWWで\n5000 VRにたっしました。\n\nおめでとうございます！
+achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: You have collected\nall blue coins!\n\nCongratulations!
 unlocked_item :: 次のものが解除されました！\n\n
+types_achievs :: Normal achievements :: Special achievements
+gold_tro_achiev :: Gold in all custom track cups
+1star_achiev :: 1 star in all custom track cups
+3star_achiev :: 3 star in all custom track cups
+10pts_msn_achiev :: 10 points in all missions
+5000vr_achiev :: 5000VR in CTWW
+blue_coin_achiev :: All blue coins collected
+custom_track_cups :: Custom Track Cups
+tro_gold :: Gold
+tro_1star :: 1 Star
+tro_3star :: 3 Star
+tro_10pts :: 10 points
+tro_blue_collected :: Collected
 
 #General text
 warning :: 警告
@@ -187,6 +215,7 @@ settings :: 設定
 exit :: 戻る
 default :: デフォルト
 button :: ボタン
+summary :: Summary
 
 #Folders
 gameplay_folder :: ゲームプレイ機能 :: 追加のゲームプレイ機能の構成。
@@ -206,6 +235,7 @@ imtrick :: 改良されたジャンプアクション :: 台でジャンプア�
 autoaccel :: 自動加速 :: \uE000や\uE003を押すことで自動的に加速することができます。\uE001で解除されます。
 imbrakedrift :: 改良されたブレーキドリフト :: \uE001をドリフトしながら押すことでミニターボを無くさずにブレーキをすることができます。
 autodelaydrift :: 自動ディレイドリフト :: ドリフト開始時のカートの速度低下を防ぐ。
+achieventry :: Achievements :: Check the progress on CTGP-7 achievements.
 
 #Speedometer text
 spd_set :: スピードメーターの設定をします。
@@ -247,10 +277,9 @@ enhmap :: ローカルマップの拡張 :: \uE058タッチスクリーンを使
 #Custom character manager text
 char_select :: 設定するキャラクターを選んでください。
 reboot_req :: 変更を適用するには再起動が必要です。
-char_replace :: この中からカスタムキャラクターを選んでください。:\n
-green_info :: 緑 → 現在有効化しているエントリーです。
 face_raider_sel :: 顔を選んでください
 authors :: クリエイター
+change_face :: Change face
 
 #Online track order
 order_mode :: デフォルト :: アルファベット順
@@ -265,6 +294,7 @@ fail_conn :: CTGP-7サーバーとの\nせつぞくにしっぱいしました�
 #CTWW
 cntdwn :: カウントダウン
 ctww :: CTWW
+vr :: VR
 CTWWtog :: CTWWを\n有効にしますか？ :: CTWWを\n無効にしますか？
 
 #VS Mode
@@ -342,3 +372,8 @@ server_choice :: オンラインサーバーを選択してください。\n\n%s
 server_ctgp7_conn :: CTGP-7ネットワークに\n接続中…
 server_ctgp7_dconn :: CTGP-7ネットワークから\n切断しますか？
 server_ctgp7_nocomm :: CTGP-7ネットワークでは\nコミュニティは利用できません。
+
+#Blue Coins
+blue_coins :: Blue Coins
+blue_coin_obtain :: $Blue Coin$\ncollected! :: %d tracks\nremaining.
+blue_coin_all :: All coins have\nbeen collected!

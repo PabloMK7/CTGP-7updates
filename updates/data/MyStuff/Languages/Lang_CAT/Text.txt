@@ -71,7 +71,7 @@ $710081 :: \uE024\uE025 Circuit Luigi
 $700020 :: Copa Foc
 $710082 :: SMO Desafiament RC
 $710083 :: \uE024\uE025 Castell de Bowser 4
-$710084 :: \uE031\uE032 Prat Rosquilla 1
+$710084 :: RMX Prat Rosquilla 1
 $710085 :: Tobogan Secret
 
 #Bob-omb Cup
@@ -93,7 +93,7 @@ $700023 :: Copa Moneda
 $710094 :: Desert Doge
 $710095 :: \uE022\uE023 Moll Embruixat
 $710096 :: \uE026\uE027 Circuit Mario
-$710073 :: Cumpleanys de Mike
+$710073 :: Cumpleanys de Miku 2
 
 #Rainbow Cup
 $700017 :: Copa Arc de Sant Martí
@@ -144,6 +144,20 @@ $710119 :: Circuit del Penya-segat
 $710120 :: Lab. Interestel·lar
 $710121 :: Fortalesa de Matèria Osc.
 
+#Hammer Cup
+$700030 :: Copa Martell
+$710122 :: \uE031\uE032 Prat Rosquilla 1
+$710123 :: Pista de les Altures
+$710124 :: \uE022\uE023 Castell de Bowser
+$710125 :: \uE067 Cimera DK
+
+#Wonder Cup
+$700031 :: Copa Meravella
+$710126 :: Pantà Dibuixat
+$710127 :: Pista Ruleta
+$710128 :: Parada Orbital
+$710129 :: \uE033 Camí Arc de San Martí
+
 #Save Data
 $7005 :: Dades de desament extra\nper CTGP-7 es crearan\na la targeta SD.
 $7003 :: Creant dades...
@@ -166,7 +180,21 @@ achiev_all_1star :: Has obtingut una estrella en\ntotes les copes personalitzade
 achiev_all_3star :: Has obtingut tres estrelles en\ntotes les copes personalitzades.\n\nEnhorabona!
 achiev_all_mission :: Has obtingut 10 punts en\ntotes les missions.\n\nEnhorabona!
 achiev_5000_vr :: Has obtingut 5000 PC en\ncircuits personalitzats\nen línia.\n\nEnhorabona!
+achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: Has obtingut totes les\nmonedes blaves.\n\nEnhorabona!
 unlocked_item :: Has desbloquejat:\n\n
+types_achievs :: Aconseguiments normals :: Aconseguiments especials
+gold_tro_achiev :: Or en totes les copes personalitzades
+1star_achiev :: 1 estrella en totes les copes personalitzades
+3star_achiev :: 3 estrelles en totes les copes personalitzades
+10pts_msn_achiev :: 10 punts en totes les missions
+5000vr_achiev :: 5000PC en CTWW
+blue_coin_achiev :: Totes les monedes blaves obtingudes
+custom_track_cups :: Copes personalitzades
+tro_gold :: Or
+tro_1star :: 1 Estrella
+tro_3star :: 3 Estrelles
+tro_10pts :: 10 punts
+tro_blue_collected :: Obtingudes
 
 #General text
 warning :: ADVERTÈNCIA
@@ -187,6 +215,7 @@ settings :: Opcions
 exit :: Sortir
 default :: Per omissió
 button :: Botó
+summary :: Resum
 
 #Folders
 gameplay_folder :: Funcions del Joc :: Configuració de funcions adicionals per al joc.
@@ -206,6 +235,7 @@ imtrick :: Trucs Millorats :: Els karts giraran sobre si mateixos al fer un truc
 autoaccel :: Acceleració Automàtica :: En prémer \uE000 o \uE003 s'activarà l'acceleració automàtica del kart fins que es premi \uE001.
 imbrakedrift :: Derrape en Frenada Millorat :: Podràs frenar mentre derrapes prement \uE001 sense perdre el miniturbo.
 autodelaydrift :: "Delay Drift" Automàtic :: Ajuda a prevenir que el kart perda velocitat quan comença a derrapar.
+achieventry :: Aconseguiments :: Comprova el progrés dels aconseguiments de CTGP-7 .
 
 #Speedometer text
 spd_set :: Opcions de Velocímetre.
@@ -247,10 +277,9 @@ enhmap :: Mapa Local Millorat :: Afegix la posibilitat de fer zoom al mapa local
 #Custom character manager text
 char_select :: Tria un personatge per configurar.
 reboot_req :: Es requereix un reinici per aplicar canvis.
-char_replace :: Selecciona un personatge per a:\n
-green_info :: Verd → Opció activa.
 face_raider_sel :: Selecciona una cara
 authors :: Autors
+change_face :: Canviar cara
 
 #Online track order
 order_mode :: Per omissió :: Alfabètic
@@ -265,6 +294,7 @@ fail_conn :: No s'ha pogut connectar\namb el servidor de CTGP-7.\n\nProva de nou
 #CTWW
 cntdwn :: Compte Enrere
 ctww :: CTWW
+vr :: PC
 CTWWtog :: Vols activar\nCircuits Editats En Línia? :: Vols desactivar\nCircuits Editats En Línia?
 
 #VS Mode
@@ -342,6 +372,11 @@ server_choice :: Selecciona el servidor en línia:\n\n%s:\n    - Només per a ju
 server_ctgp7_conn :: Connectant amb\nCTGP-7 Network
 server_ctgp7_dconn :: Vols sortir de\nCTGP-7 Network?
 server_ctgp7_nocomm :: Les comunitats no estan\ndisponibles en CTGP-7 Network.
+
+#Blue Coins
+blue_coins :: Monedes Blaves
+blue_coin_obtain :: $Moneda Blava$\nobtinguda! :: Queden %d\ncircuits.
+blue_coin_all :: Totes les monedes\ns'han obtingut!
 
 #Characters
 $1000 :: Mario

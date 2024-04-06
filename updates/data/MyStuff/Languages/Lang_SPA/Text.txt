@@ -71,7 +71,7 @@ $710081 :: \uE024\uE025 Circuito Luigi
 $700020 :: Copa Fuego
 $710082 :: SMO Desafío RC
 $710083 :: \uE024\uE025 Castillo de Bowser 4
-$710084 :: \uE031\uE032 Prado Rosquilla 1
+$710084 :: RMX Prado Rosquilla 1
 $710085 :: Tobogán Secreto
 
 #Bob-omb Cup
@@ -93,7 +93,7 @@ $700023 :: Copa Moneda
 $710094 :: Desierto Doge
 $710095 :: \uE022\uE023 Muelle Embrujado
 $710096 :: \uE026\uE027 Circuito Mario
-$710073 :: Cumpleaños de Mike
+$710073 :: Cumpleaños de Miku 2
 
 #Rainbow Cup
 $700017 :: Copa Arco Iris
@@ -144,6 +144,20 @@ $710119 :: Circuito del Acantilado
 $710120 :: Lab. Interestelar
 $710121 :: Fortaleza de Materia Osc.
 
+#Hammer Cup
+$700030 :: Copa Martillo
+$710122 :: \uE031\uE032 Prado Rosquilla 2
+$710123 :: Pista de las Alturas
+$710124 :: \uE022\uE023 Castillo de Bowser
+$710125 :: \uE067 Cumbre DK
+
+#Wonder Cup
+$700031 :: Copa Maravilla
+$710126 :: Pantano Dibujado
+$710127 :: Pista Ruleta
+$710128 :: Estación Extraterrestre
+$710129 :: \uE033 Senda Arco Iris
+
 #Save Data
 $7005 :: Datos de guardado extra\npara CTGP-7 serán creados\nen la tarjeta SD.
 $7003 :: Creando datos...
@@ -166,7 +180,21 @@ achiev_all_1star :: Has obtenido una estrella en\ntodas las copas personalizadas
 achiev_all_3star :: Has obtenido tres estrellas en\ntodas las copas personalizadas.\n\n¡Enhorabuena!
 achiev_all_mission :: Has obtenido 10 puntos en\ntodas las misiones.\n\n¡Enhorabuena!
 achiev_5000_vr :: Has obtenido 5000 PC en\ncircuitos personalizados\nen línea.\n\n¡Enhorabuena!
+achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: Has obtenido todas las\nmonedas azules.\n\n¡Enhorabuena!
 unlocked_item :: Has desbloqueado:\n\n
+types_achievs :: Logros normales :: Logros especiales
+gold_tro_achiev :: Oro en todas las copas personalizadas
+1star_achiev :: 1 estrella en todas las copas personalizadas
+3star_achiev :: 3 estrellas en todas las copas personalizadas
+10pts_msn_achiev :: 10 puntos en todas las misiones
+5000vr_achiev :: 5000PC en CTWW
+blue_coin_achiev :: Todas las monedas azules obtenidas
+custom_track_cups :: Copas Personalizadas
+tro_gold :: Oro
+tro_1star :: 1 Estrella
+tro_3star :: 3 Estrellas
+tro_10pts :: 10 puntos
+tro_blue_collected :: Obtenidas
 
 #General text
 warning :: ADVERTENCIA
@@ -187,6 +215,7 @@ settings :: Opciones
 exit :: Salir
 default :: Por defecto
 button :: Botón
+summary :: Resumen
 
 #Folders
 gameplay_folder :: Funciones del Juego :: Configuración de funciones adicionales para el juego. 
@@ -206,6 +235,7 @@ imtrick :: Trucos Mejorados :: Los karts girarán sobre sí mismos al hacer un t
 autoaccel :: Aceleración Automática :: Al pulsar \uE000 o \uE003 se activará la aceleración automática del kart hasta que se pulse \uE001.
 imbrakedrift :: Derrape en Frenada Mejorado :: Podrás frenar mientras derrapas pulsando \uE001 sin perder el miniturbo.
 autodelaydrift :: "Delay Drift" Automático :: Ayuda a prevenir que el kart pierda velocidad al comenzar a derrapar.
+achieventry :: Logros :: Comprueba el progreso de los logros de CTGP-7.
 
 #Speedometer text
 spd_set :: Opciones de Velocímetro.
@@ -247,10 +277,9 @@ enhmap :: Mapa Local Mejorado :: Añade la posibilidad de hacer zoom en el mapa 
 #Custom character manager text
 char_select :: Elige un personaje para configurar.
 reboot_req :: Se requiere un reinicio para aplicar cambios.
-char_replace :: Selecciona un personaje para:\n
-green_info :: Verde → Opción activa.
 face_raider_sel :: Selecciona una cara
 authors :: Autores
+change_face :: Cambiar cara
 
 #Online track order
 order_mode :: Por defecto :: Alfabético
@@ -265,6 +294,7 @@ fail_conn :: No se ha podido conectar\ncon el servidor de CTGP-7.\n\nPrueba de n
 #CTWW
 cntdwn :: Cuenta Atrás
 ctww :: CTWW
+vr :: PC
 CTWWtog :: ¿Quieres activar\nCircuitos Editados En Línea? :: ¿Quieres desactivar\nCircuitos Editados En Línea?
 
 #VS Mode
@@ -342,3 +372,8 @@ server_choice :: Selecciona el servidor en línea:\n\n%s:\n    - Solo para jugad
 server_ctgp7_conn :: Conectando a\nCTGP-7 Network...
 server_ctgp7_dconn :: ¿Quieres salir de\nCTGP-7 Network?
 server_ctgp7_nocomm :: Las comunidades no están\ndisponibles en CTGP-7 Network.
+
+#Blue Coins
+blue_coins :: Monedas Azules
+blue_coin_obtain :: ¡$Moneda Azul$\nobtenida! :: Quedan %d\ncircuitos.
+blue_coin_all :: ¡Todas las monedas\nhan sido obtenidas!

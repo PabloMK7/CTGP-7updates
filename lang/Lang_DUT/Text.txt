@@ -71,7 +71,7 @@ $710081 :: \uE024\uE025 Luigi's Circuit
 $700020 :: Vuurbalbeker
 $710082 :: SMO RC Uitdaging
 $710083 :: \uE024\uE025 Bowsers Kasteel 4
-$710084 :: \uE031\uE032 Donutvlakte 1
+$710084 :: RMX Donutvlakte 1
 $710085 :: Geheime Glijbaan
 
 #Bob-omb Cup
@@ -93,7 +93,7 @@ $700023 :: Muntenbeker
 $710094 :: Doge-Woestijn
 $710095 :: \uE022\uE023 Spookpier
 $710096 :: \uE026\uE027 Mario's Circuit
-$710073 :: Miku's Verjaardag Spec.
+$710073 :: Miku's Verjaardag Spec. 2
 
 #Rainbow Cup
 $700017 :: Regenboogbeker
@@ -144,6 +144,20 @@ $710119 :: Klifcircuit
 $710120 :: Interstellair Lab
 $710121 :: Donkere Materie-Vesting
 
+#Hammer Cup
+$700030 :: Hamer-Beker
+$710122 :: \uE031\uE032 Donutvlakte 2
+$710123 :: Vliegende Luchtweg
+$710124 :: \uE022\uE023 Bowsers Kasteel
+$710125 :: \uE067 DK's Skipark
+
+#Wonder Cup
+$700031 :: Wonderbeker
+$710126 :: Schilderachtig Moerasracebaan
+$710127 :: Roulettebaan
+$710128 :: Ruimtelijke Uitkijkpost
+$710129 :: \uE033 Regenboogbaan
+
 #Save Data
 $7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt.
 $7003 :: Extra save data maken...
@@ -166,7 +180,21 @@ achiev_all_1star :: Je hebt 1 ster\nin alle custom bekers.\n\nGefeliciteerd!
 achiev_all_3star :: Je hebt 3 sterren\nin alle custom bekers.\n\nGefeliciteerd!
 achiev_all_mission :: Je hebt 10 punten\nin alle missies.\n\nGefeliciteerd!
 achiev_5000_vr :: Je hebt 5000 VR\nin custom bekers wereldwijd.\n\nGefeliciteerd!
+achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: Je hebt alle Blauwe\n munten verzameld! \n\n Gefeliciteerd!
 unlocked_item :: Je hebt vrijgespeeld:\n\n
+types_achievs :: Normale prestaties :: Speciale prestaties
+gold_tro_achiev :: Goud bij alle custom circuit cups
+1star_achiev :: 1 ster bij alle custom bekers
+3star_achiev :: 3 Sterren bij alle custom bekers
+10pts_msn_achiev :: 10 Punten bij alle missies
+5000vr_achiev :: 5000RC in CTWW
+blue_coin_achiev :: Alle blauwe munten verzameld
+custom_track_cups :: Custom Circuit Cups
+tro_gold :: Goud
+tro_1star :: 1 Ster
+tro_3star :: 3 Sterren
+tro_10pts :: 10 Punten
+tro_blue_collected :: Verzameld
 
 #General text
 warning :: WAARSCHUWING
@@ -187,6 +215,7 @@ settings :: Instellingen
 exit :: Terug
 default :: Standaard
 button :: Knop
+summary :: Samenvatting
 
 #Folders
 gameplay_folder :: Spelfuncties :: Configuratie voor aanvullende spelfuncties.
@@ -206,6 +235,7 @@ imtrick :: Verbeterde springboosts ::  Karts gaan draaien tijdens een truc op ee
 autoaccel :: Auto-Acceleratie :: Wanneer op \uE000 of \uE003 wordt gedrukt, wordt auto-acceleratie aangezet totdat op \uE001 wordt gedrukt.
 imbrakedrift :: Verbeterde Rem-Drift :: Druk op \uE001 tijdens het driften om te remmen zonder jouw mini-turbo te verliezen.
 autodelaydrift :: Automatische "Delay Drift" :: Helpt voorkomen dat de kart snelheid verliest wanneer hij begint te driften.
+achieventry :: Prestaties :: Bekijk je voortgang van CTGP-7 prestaties.
 
 #Speedometer text
 spd_set :: Opties snelheidsmeter.
@@ -247,10 +277,9 @@ enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scher
 #Custom character manager text
 char_select :: Selecteer een karakter om te configureren.
 reboot_req :: Opnieuw opstarten vereist om veranderingen toe te passen.
-char_replace :: Selecteer een karakter voor:\n
-green_info :: Groen → Huidig geactiveerde item.
 face_raider_sel :: Selecteer een gezicht
 authors :: Auteurs
+change_face :: Ander gezicht
 
 #Online track order
 order_mode :: Standaard :: Alphabetisch
@@ -265,6 +294,7 @@ fail_conn :: Kon niet verbinden\nmet de CTGP-7 server\n\nProbeer het later opnie
 #CTWW
 cntdwn :: Countdown
 ctww :: CTWW
+vr :: RP
 CTWWtog :: Wil je Custom Tracks Wereldwijd aanzetten? :: Wil je Custom Tracks Wereldwijd uitzetten?
 
 #VS Mode
@@ -342,3 +372,8 @@ server_choice :: Selecteer een onlineserver:\n\n%s:\n    - Alleen voor CTGP-7-sp
 server_ctgp7_conn :: Bezig verbinding te maken\nmet CTGP-7 Network...
 server_ctgp7_dconn :: Wil je de verbinding met\nCTGP-7 Network verbreken?
 server_ctgp7_nocomm :: Community's zijn niet beschikbaar\nin het CTGP-7 Network.
+
+#Blue Coins
+blue_coins :: Blauwe munten
+blue_coin_obtain :: $Blauwe munten$\nverzameld! :: %d circuits \n te gaan.
+blue_coin_all :: Alle munten \nzijn verzameld

@@ -71,7 +71,7 @@ $710081 :: \uE024\uE025 Luigi pálya
 $700020 :: Tűzlabda kupa
 $710082 :: SMO Játékautó kihívás
 $710083 :: \uE024\uE025 Bowser vára 4
-$710084 :: \uE031\uE032 Fánkföld 1
+$710084 :: RMX Fánkföld 1
 $710085 :: Rejtett csúszda
 
 #Bob-omb Cup
@@ -93,7 +93,7 @@ $700023 :: Érme kupa
 $710094 :: Doge-sivatag
 $710095 :: \uE022\uE023 Banshee stég
 $710096 :: \uE026\uE027 Mario pálya
-$710073 :: Mike szülinapi látv.
+$710073 :: Miku szülinapi látv. 2
 
 #Rainbow Cup
 $700017 :: Szivárvány kupa
@@ -144,6 +144,20 @@ $710119 :: Sziklaoldali pálya
 $710120 :: Csillagközi labor
 $710121 :: Sötétanyag-vár
 
+#Hammer Cup
+$700030 :: Kalapács kupa
+$710122 :: \uE031\uE032 Fánkföld 2
+$710123 :: Hasító égút
+$710124 :: \uE022\uE023 Bowser vára
+$710125 :: \uE067 DK havas csúcsai
+
+#Wonder Cup
+$700031 :: Csoda kupa
+$710126 :: Festői mocsár
+$710127 :: Kaszinó kavalkád
+$710128 :: Orbitális tábor
+$710129 :: \uE033 Szivárvány út
+
 #Save Data
 $7005 :: Az SD kártyán egy extra\njátékmentés lesz létrehozva.
 $7003 :: Extra mentés létrehozása...
@@ -166,7 +180,21 @@ achiev_all_1star :: Megszerezted az 1 csillagot\nminden egyéni kupában!\n\nGra
 achiev_all_3star :: Megszerezted az 3 csillagot\nminden egyéni kupában!\n\nGratulálunk!
 achiev_all_mission :: Minden küldetésben\n10 pont van.\n\nGratulálunk!
 achiev_5000_vr :: 5000 VR van a CTWW-ben.\n\nGratulálunk!
+achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: Gratulálunk!\nMegszerezted az összes\nkék érmét!
 unlocked_item :: Feloldottad:\n\n
+types_achievs :: Sima teljesítmények :: Különleges teljesítmények
+gold_tro_achiev :: Szerezz aranyérmet minden egyéni pályás kupán
+1star_achiev :: Érj el egycsillagos teljesítményt minden egyéni pályás kupán
+3star_achiev :: Érj el háromcsillagos teljesítményt minden egyéni pályás kupán
+10pts_msn_achiev :: Érj el tízpontos teljesítményt minden küldetésen
+5000vr_achiev :: Érj el 5000 VR-os teljesítményt a CTWW-n
+blue_coin_achiev :: Szerezd meg az összes kék érmét
+custom_track_cups :: Egyéni pályás kupák
+tro_gold :: Aranyérem
+tro_1star :: 1 csillag
+tro_3star :: 3 csillag
+tro_10pts :: 10 pont
+tro_blue_collected :: Megszerezve
 
 #General text
 warning :: FIGYELMEZTETÉS
@@ -187,6 +215,7 @@ settings :: Beállítások
 exit :: Kilépés
 default :: Alapértelmezett
 button :: Gomb
+summary :: Összegzés
 
 #Folders
 gameplay_folder :: Játékfunkciók :: Extra funkciók beállításai.
@@ -206,6 +235,7 @@ imtrick :: Javított trükkök :: Gyorsítórámpáról indított trükközésko
 autoaccel :: Automatikus gáz :: A(z) \uE000 vagy \uE003 gomb megnyomása után a gokart a gomb nyomva tartása nékül is folytatja az előre haladást. Megszakítható a(z) \uE001 gombbal.
 imbrakedrift :: Javított fékező farolás :: Tartsd lenyomva a(z) \uE001 gombot farolás közben a miniturbód elvesztése nélküli fékezéshez.
 autodelaydrift :: Automatikus "Delay Drift" :: Segít megelőzni a sebességvesztést amikor elkezd farolás.
+achieventry :: Teljesítmények :: CTGP-7-teljesítményhaladás megtekintése.
 
 #Speedometer text
 spd_set :: Sebességmérő beállításai.
@@ -247,10 +277,9 @@ enhmap :: Javított helyi térkép :: Zoom-olhatóvá teszi a helyi térképet a
 #Custom character manager text
 char_select :: Válaszd ki a beállítandó karaktert.
 reboot_req :: A változtatások érvényesítéséhez\nújrainsítás szükséges.
-char_replace :: Válassz ki egy egyéni karaktert helyette:\n
-green_info :: Zöld → Jelenlegi beállítás.
 face_raider_sel :: Válassz ki egy arcot!
 authors :: Szerzői
+change_face :: Arc megváltoztatása
 
 #Online track order
 order_mode :: Alapértelmezett :: ABC-sorrend
@@ -265,6 +294,7 @@ fail_conn :: Nem sikerült csatlakozni\na CTGP-7 szerverhez.\n\nPróbáld újra 
 #CTWW
 cntdwn :: Visszaszámlálás
 ctww :: CTWW
+vr :: VR
 CTWWtog :: Szeretnéd engedélyezni az egyéni\npályákat globálisan (CTWW)? :: Szeretnéd letiltani az egyéni\npályákat globálisan (CTWW)?
 
 #VS Mode
@@ -328,7 +358,7 @@ ms_timescor :: Idő :: Pontszám
 ms_failed :: Sikertelen küldetés!
 ms_nodata :: Nincsenek adatok
 ms_delsave :: (\uE002 Mentés törlése) :: Biztosan törölni akarod a küldetés mentését?
-msstat_msnplay :: Játszott küldetések
+msstat_msnplay :: Elindított küldetések
 msstat_state :: Sikeres :: Sikertelen
 msstat_perfgrad :: (hibátlanul)
 msstat_usermsn :: Egyéni küldetések
@@ -338,10 +368,15 @@ course_check :: Pálya ellenörzőösszege
 
 #Custom Server
 server_name :: Nintendo Network :: CTGP-7 Network
-server_choice :: Please select online server:\n\n%s:\n    - Only for CTGP-7 players\n    - CTWW and original tracks\n    - Strong anti-cheat\n%s:\n    - For all MK7 players\n    - Original tracks and communities\n    - Weak anti-cheat
+server_choice :: Online szerver kiválasztása:\n\n%s:\n    - Csak CTGP-7-játékosok\n    - Egyéni- és eredeti pályák\n    - Erős csalásgátló\n%s:\n    - Minden MK7-játékos\n    - Eredeti pályák és közösségek\n    - Gyenge csalásgátló
 server_ctgp7_conn :: Csatlakozás a\nCTGP-7 Network-höz...
 server_ctgp7_dconn :: Megszakítod a kapcsolatot\na CTGP-7 Network-kel?
-server_ctgp7_nocomm :: Communities are not available\nin CTGP-7 Network.
+server_ctgp7_nocomm :: A CTGP-7 Network használata közben\na közösségek nem elérhetők.
+
+#Blue Coins
+blue_coins :: Kék érmék
+blue_coin_obtain :: Megszerezted\na $kék érmét$! :: Még %d pálya\nvan hátra.
+blue_coin_all :: Megszerezted az\nösszes érmét!
 
 #Characters
 $1000 :: Mario
