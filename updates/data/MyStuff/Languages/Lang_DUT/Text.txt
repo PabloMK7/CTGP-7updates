@@ -180,7 +180,7 @@ achiev_all_1star :: Je hebt 1 ster\nin alle custom bekers.\n\nGefeliciteerd!
 achiev_all_3star :: Je hebt 3 sterren\nin alle custom bekers.\n\nGefeliciteerd!
 achiev_all_mission :: Je hebt 10 punten\nin alle missies.\n\nGefeliciteerd!
 achiev_5000_vr :: Je hebt 5000 VR\nin custom bekers wereldwijd.\n\nGefeliciteerd!
-achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: Je hebt alle Blauwe\n munten verzameld! \n\n Gefeliciteerd!
+achiev_blue_coin :: Je hebt alle Blauwe\n munten verzameld! \n\n Gefeliciteerd!
 unlocked_item :: Je hebt vrijgespeeld:\n\n
 types_achievs :: Normale prestaties :: Speciale prestaties
 gold_tro_achiev :: Goud bij alle custom circuit cups
@@ -377,3 +377,4 @@ server_ctgp7_nocomm :: Community's zijn niet beschikbaar\nin het CTGP-7 Network.
 blue_coins :: Blauwe munten
 blue_coin_obtain :: $Blauwe munten$\nverzameld! :: %d circuits \n te gaan.
 blue_coin_all :: Alle munten \nzijn verzameld
+blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

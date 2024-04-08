@@ -180,7 +180,7 @@ achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes person
 achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes personnalisées.\n\nFélicitations !
 achiev_all_mission :: Vous avez obtenu dix points\ndans toutes les missions.\n\nFélicitations !
 achiev_5000_vr :: Vous avez atteint 5000 PC dans CTWW.\n\nFélicitations !
-achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: Vous avez obtenu\ntoutes les pièces bleues!\n\nFélicitations!
+achiev_blue_coin :: Vous avez obtenu\ntoutes les pièces bleues!\n\nFélicitations!
 unlocked_item :: Vous avez obtenu :\n\n
 types_achievs :: Succès normaux :: Succès spéciaux
 gold_tro_achiev :: Trophée Or dans toutes les coupes circuits customisés
@@ -377,3 +377,4 @@ server_ctgp7_nocomm :: Les communautés ne sont\npas disponibles sur le\nCTGP-7 
 blue_coins :: Pièces bleues
 blue_coin_obtain :: Vous avez obtenu\nune $pièce bleue$ !:: %d course(s)\nrestante(s).
 blue_coin_all :: Toutes les pièces\nont été obtenues !
+blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

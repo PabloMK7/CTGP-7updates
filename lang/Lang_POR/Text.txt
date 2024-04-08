@@ -180,7 +180,7 @@ achiev_all_1star :: Conseguiste uma estrela em\ntodas as taças personalizadas.\
 achiev_all_3star :: Conseguiste três estrelas em\ntodas as taças personalizadas.\n\nParabéns!
 achiev_all_mission :: Conseguiste 10 pontos em\ntodas as missões.\n\nParabéns!
 achiev_5000_vr :: Conseguiste 5000 VR em\ncircúitos personalizados\nonline.\n\nParabéns!
-achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: You have collected\nall blue coins!\n\nCongratulations!
+achiev_blue_coin :: You have collected\nall blue coins!\n\nCongratulations!
 unlocked_item :: Desbloqueaste:\n\n
 types_achievs :: Normal achievements :: Special achievements
 gold_tro_achiev :: Gold in all custom track cups
@@ -377,3 +377,4 @@ server_ctgp7_nocomm :: As comunidades não estão\ndisponíveis na CTGP-7 Networ
 blue_coins :: Blue Coins
 blue_coin_obtain :: $Blue Coin$\ncollected! :: %d tracks\nremaining.
 blue_coin_all :: All coins have\nbeen collected!
+blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

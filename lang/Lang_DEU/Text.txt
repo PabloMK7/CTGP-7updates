@@ -146,7 +146,7 @@ $710121 :: Dunkle-Materie-Festung
 
 #Hammer Cup
 $700030 :: Hammer-Cup
-$710122 :: \uE031\uEß23 Donut-Ebene 2
+$710122 :: \uE031\uE023 Donut-Ebene 2
 $710123 :: Olymphöhen
 $710124 :: \uE022\uE023 Bowsers Festung
 $710125 :: \uE067 DK Skikane
@@ -180,7 +180,7 @@ achiev_all_1star :: Du hast 1 Stern in allen\nbenutzerdef. Cups\nerrungen.\nHerz
 achiev_all_3star :: Du hast 3 Sterne in allen\nbenutzerdef. Cups\nerrungen.\nHerzlichen Glückwunsch!
 achiev_all_mission :: Du hast 10 Punkte in allen\nMissionen errungen.\n\nHerzlichen Glückwunsch!
 achiev_5000_vr :: Du hast 5000 RP im\nCTWW errungen.\n\nHerzlichen Glückwunsch!
-achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: Du hast\nalle Blauen Münzen eingesammelt.\nherzlichen Glückwunsch!
+achiev_blue_coin :: Du hast\nalle Blauen Münzen eingesammelt.\nherzlichen Glückwunsch!
 unlocked_item :: Du hast folgendes\nfreigeschalten:\n\n
 types_achievs :: Normale Erfolge :: Spezial Erfolge
 gold_tro_achiev :: Gold in allen Custom Track Cups
@@ -377,3 +377,4 @@ server_ctgp7_nocomm :: Communitys sind im\nCTGP-7-Network\nnicht verfügbar.
 blue_coins :: Blaue Münzen
 blue_coin_obtain :: $Blaue Münzen$\neingesammelt :: %d verbleibende\nStrecken
 blue_coin_all :: Alle Münzen wurden eingesammelt.
+blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

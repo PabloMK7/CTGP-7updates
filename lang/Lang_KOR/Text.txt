@@ -180,7 +180,7 @@ achiev_all_1star :: 모든 커스텀 컵에서\n별 1개를 얻었습니다.\n\n
 achiev_all_3star :: 모든 커스텀 컵에서\n별 3개 얻었습니다.\n\n축하드립니다!
 achiev_all_mission :: 모든 미션에서\n10점를 얻었습니다.\n\n축하드립니다!
 achiev_5000_vr :: CTWW에서\n5000 VR에 도달했습니다.\n\n축하드립니다!
-achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: You have collected\nall blue coins!\n\nCongratulations!
+achiev_blue_coin :: You have collected\nall blue coins!\n\nCongratulations!
 unlocked_item :: 잠금 해제됨:\n\n
 types_achievs :: Normal achievements :: Special achievements
 gold_tro_achiev :: Gold in all custom track cups
@@ -377,3 +377,4 @@ server_ctgp7_nocomm :: CTGP-7 네트워크에서는\n커뮤니티를 사용하�
 blue_coins :: Blue Coins
 blue_coin_obtain :: $Blue Coin$\ncollected! :: %d tracks\nremaining.
 blue_coin_all :: All coins have\nbeen collected!
+blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

@@ -180,7 +180,7 @@ achiev_all_1star :: You have got 1 star\nin all custom cups.\n\nCongratulations!
 achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations!
 achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
 achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
-achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: You have collected\nall blue coins!\n\nCongratulations!
+achiev_blue_coin :: You have collected\nall blue coins!\n\nCongratulations!
 unlocked_item :: You have unlocked:\n\n
 types_achievs :: Normal achievements :: Special achievements
 gold_tro_achiev :: Gold in all custom track cups
@@ -377,3 +377,4 @@ server_ctgp7_nocomm :: Communities are not available\nin CTGP-7 Network.
 blue_coins :: Blue Coins
 blue_coin_obtain :: $Blue Coin$\ncollected! :: %d tracks\nremaining.
 blue_coin_all :: All coins have\nbeen collected!
+blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

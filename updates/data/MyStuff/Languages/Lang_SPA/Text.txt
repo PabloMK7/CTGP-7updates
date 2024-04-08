@@ -180,7 +180,7 @@ achiev_all_1star :: Has obtenido una estrella en\ntodas las copas personalizadas
 achiev_all_3star :: Has obtenido tres estrellas en\ntodas las copas personalizadas.\n\n¡Enhorabuena!
 achiev_all_mission :: Has obtenido 10 puntos en\ntodas las misiones.\n\n¡Enhorabuena!
 achiev_5000_vr :: Has obtenido 5000 PC en\ncircuitos personalizados\nen línea.\n\n¡Enhorabuena!
-achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: Has obtenido todas las\nmonedas azules.\n\n¡Enhorabuena!
+achiev_blue_coin :: Has obtenido todas las\nmonedas azules.\n\n¡Enhorabuena!
 unlocked_item :: Has desbloqueado:\n\n
 types_achievs :: Logros normales :: Logros especiales
 gold_tro_achiev :: Oro en todas las copas personalizadas
@@ -377,3 +377,4 @@ server_ctgp7_nocomm :: Las comunidades no están\ndisponibles en CTGP-7 Network.
 blue_coins :: Monedas Azules
 blue_coin_obtain :: ¡$Moneda Azul$\nobtenida! :: Quedan %d\ncircuitos.
 blue_coin_all :: ¡Todas las monedas\nhan sido obtenidas!
+blue_coin_nocc :: Las monedas azules no\nse pueden obtener con el\nselector de CC activado.

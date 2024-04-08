@@ -180,7 +180,7 @@ achiev_all_1star :: Ты заработал по одной звезде\nво �
 achiev_all_3star :: Ты заработал по три звезды\nво всех фанатских кубках!\n\nПоздравляем!
 achiev_all_mission :: Ты заработал по 10 очков\nво всех миссиях!\n\nПоздравляем!
 achiev_5000_vr :: Ты заработал 5000 ИР\nв CTWW!\n\nПоздравляем!
-achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: You have collected\nall blue coins!\n\nCongratulations!
+achiev_blue_coin :: You have collected\nall blue coins!\n\nCongratulations!
 unlocked_item :: Ты разблокировал:\n\n
 types_achievs :: Normal achievements :: Special achievements
 gold_tro_achiev :: Gold in all custom track cups
@@ -377,3 +377,4 @@ server_ctgp7_nocomm :: Сообщества не доступны\nдля сет
 blue_coins :: Blue Coins
 blue_coin_obtain :: $Blue Coin$\ncollected! :: %d tracks\nremaining.
 blue_coin_all :: All coins have\nbeen collected!
+blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

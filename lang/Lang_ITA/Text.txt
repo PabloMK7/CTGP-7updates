@@ -145,18 +145,18 @@ $710120 :: Laboratorio Interstellare
 $710121 :: Fortezza Della Materia Oscura
 
 #Hammer Cup
-$700030 :: Hammer Cup
-$710122 :: \uE031\uE032 Donut Plains 2
-$710123 :: Soaring Skyway
-$710124 :: \uE022\uE023 Bowser's Castle
-$710125 :: \uE067 DK Summit
+$700030 :: Trofeo Martello
+$710122 :: \uE031\uE023 Pianura Ciambella 2
+$710123 :: Viale dei Cieli
+$710124 :: \uE022\uE023 Castello di Bowser
+$710125 :: \uE067 Pista Snowboard DK
 
 #Wonder Cup
-$700031 :: Wonder Cup
-$710126 :: Painted Swamp Raceway
-$710127 :: Roulette Road
-$710128 :: Orbital Outpost
-$710129 :: \uE033 Rainbow Road
+$700031 :: Trofeo Meraviglia
+$710126 :: Palude Variopinta
+$710127 :: Circuito Roulette
+$710128 :: Avamposto Orbitale
+$710129 :: \uE033 Pista Arcobaleno
 
 #Save Data
 $7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
@@ -180,7 +180,7 @@ achiev_all_1star :: Hai ottenuto 1 stella\nin tutti i trofei custom.\n\nCongratu
 achiev_all_3star :: Hai ottenuto 3 stelle\nin tutti i trofei custom.\n\nCongratulazioni!
 achiev_all_mission :: Hai ottenuto 10 punti\nin tutte le missioni.\n\nCongratulazioni!
 achiev_5000_vr :: Hai ottenuto 5000 PC\nin CTWW.\n\nCongratulazioni!
-achiev_blue_coin	You have collected\nall Blue Coins!\n\nCongratulations! :: You have collected\nall blue coins!\n\nCongratulations!
+achiev_blue_coin :: You have collected\nall blue coins!\n\nCongratulations!
 unlocked_item :: Hai sbloccato:\n\n
 types_achievs :: Normal achievements :: Special achievements
 gold_tro_achiev :: Gold in all custom track cups
@@ -377,3 +377,4 @@ server_ctgp7_nocomm :: Le comunità\nnon sono disponibili\nsullaCTGP-7 Network.
 blue_coins :: Blue Coins
 blue_coin_obtain :: $Blue Coin$\ncollected! :: %d tracks\nremaining.
 blue_coin_all :: All coins have\nbeen collected!
+blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
