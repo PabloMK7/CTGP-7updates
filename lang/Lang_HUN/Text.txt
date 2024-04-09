@@ -375,6 +375,7 @@ server_ctgp7_nocomm :: A CTGP-7 Network használata közben\na közösségek nem
 
 #Blue Coins
 blue_coins :: Kék érmék
+blue_coins_desc :: A blue coin will appear in every track. Collect them all to unlock something!
 blue_coin_obtain :: Megszerezted\na $kék érmét$! :: Még %d pálya\nvan hátra.
 blue_coin_all :: Megszerezted az\nösszes érmét!
 blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

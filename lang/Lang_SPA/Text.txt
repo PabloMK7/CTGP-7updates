@@ -375,6 +375,7 @@ server_ctgp7_nocomm :: Las comunidades no están\ndisponibles en CTGP-7 Network.
 
 #Blue Coins
 blue_coins :: Monedas Azules
+blue_coins_desc :: Una moneda azul aparecerá en todas las pistas. ¡Obtenlas todas para desbloquear algo!
 blue_coin_obtain :: ¡$Moneda Azul$\nobtenida! :: Quedan %d\ncircuitos.
 blue_coin_all :: ¡Todas las monedas\nhan sido obtenidas!
 blue_coin_nocc :: Las monedas azules no\nse pueden obtener con el\nselector de CC activado.

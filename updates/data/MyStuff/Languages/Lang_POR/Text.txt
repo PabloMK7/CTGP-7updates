@@ -375,6 +375,7 @@ server_ctgp7_nocomm :: As comunidades não estão\ndisponíveis na CTGP-7 Networ
 
 #Blue Coins
 blue_coins :: Blue Coins
+blue_coins_desc :: A blue coin will appear in every track. Collect them all to unlock something!
 blue_coin_obtain :: $Blue Coin$\ncollected! :: %d tracks\nremaining.
 blue_coin_all :: All coins have\nbeen collected!
 blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

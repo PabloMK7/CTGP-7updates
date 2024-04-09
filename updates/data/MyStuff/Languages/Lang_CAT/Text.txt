@@ -375,6 +375,7 @@ server_ctgp7_nocomm :: Les comunitats no estan\ndisponibles en CTGP-7 Network.
 
 #Blue Coins
 blue_coins :: Monedes Blaves
+blue_coins_desc :: Una moneda blava apareixerà en totes les pistes. Obtingueu-les totes per a desbloquejar alguna cosa!
 blue_coin_obtain :: $Moneda Blava$\nobtinguda! :: Queden %d\ncircuits.
 blue_coin_all :: Totes les monedes\ns'han obtingut!
 blue_coin_nocc :: Les monedes blaves no\nes poden obtenir amb el\nselector de CC activat.

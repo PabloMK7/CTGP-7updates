@@ -375,6 +375,7 @@ server_ctgp7_nocomm :: Community's zijn niet beschikbaar\nin het CTGP-7 Network.
 
 #Blue Coins
 blue_coins :: Blauwe munten
+blue_coins_desc :: A blue coin will appear in every track. Collect them all to unlock something!
 blue_coin_obtain :: $Blauwe munten$\nverzameld! :: %d circuits \n te gaan.
 blue_coin_all :: Alle munten \nzijn verzameld
 blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

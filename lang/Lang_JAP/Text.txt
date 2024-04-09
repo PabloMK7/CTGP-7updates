@@ -375,6 +375,7 @@ server_ctgp7_nocomm :: CTGP-7ネットワークでは\nコミュニティは利�
 
 #Blue Coins
 blue_coins :: あおコイン
+blue_coins_desc :: A blue coin will appear in every track. Collect them all to unlock something!
 blue_coin_obtain :: $あおコイン$をゲット！ :: 残り%dトラック
 blue_coin_all :: 全てのコインを\nゲットしました！
 blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.

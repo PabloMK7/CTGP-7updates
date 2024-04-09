@@ -146,7 +146,7 @@ $710121 :: Dunkle-Materie-Festung
 
 #Hammer Cup
 $700030 :: Hammer-Cup
-$710122 :: \uE031\uE023 Donut-Ebene 2
+$710122 :: \uE031\uE032 Donut-Ebene 2
 $710123 :: Olymphöhen
 $710124 :: \uE022\uE023 Bowsers Festung
 $710125 :: \uE067 DK Skikane
@@ -375,6 +375,7 @@ server_ctgp7_nocomm :: Communitys sind im\nCTGP-7-Network\nnicht verfügbar.
 
 #Blue Coins
 blue_coins :: Blaue Münzen
+blue_coins_desc :: A blue coin will appear in every track. Collect them all to unlock something!
 blue_coin_obtain :: $Blaue Münzen$\neingesammelt :: %d verbleibende\nStrecken
 blue_coin_all :: Alle Münzen wurden eingesammelt.
 blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
