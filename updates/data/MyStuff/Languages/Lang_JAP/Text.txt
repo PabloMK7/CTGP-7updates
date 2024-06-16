@@ -93,7 +93,7 @@ $700023 :: コインカップ
 $710094 :: ドージさばく
 $710095 :: \uE035 ヒュードロいけ
 $710096 :: \uE034 マリオサーキット
-$710073 :: ミクのバースデイスペクタクラー2
+$710073 :: ミクのバースデイスペクタキュラー2
 
 #Rainbow Cup
 $700017 :: レインボーカップ
@@ -147,15 +147,15 @@ $710121 :: ダークマターのとりで
 #Hammer Cup
 $700030 :: ハンマーカップ
 $710122 :: \uE020\uE021 ドーナツへいや 2
-$710123 :: Soaring Skyway
-$710124 :: \uE022\uE023 Bowser's Castle
-$710125 :: /uE067 DKスノーボードクロス
+$710123 :: ソアリングスカイウェイ
+$710124 :: \uE035 クッパキャッスル
+$710125 :: \uE067 DKスノーボードクロス
 
 #Wonder Cup
 $700031 :: ワンダーカップ
-$710126 :: Painted Swamp Raceway
+$710126 :: ペインティッドスワンプレースウェイ
 $710127 :: ルーレットロード
-$710128 :: Orbital Outpost
+$710128 :: オービタルアウトポスト
 $710129 :: \uE033 レインボーロード
 
 #Save Data
@@ -184,17 +184,17 @@ achiev_blue_coin :: すべての\nあおコインをあつめました。\n\nお
 unlocked_item :: 次のものが解除されました！\n\n
 types_achievs :: 一般功績 :: スペシャル功績
 gold_tro_achiev :: 全てのカスタムカップで1位
-1star_achiev :: 全てのカスタムカップで1星
-3star_achiev :: 全てのカスタムカップで3星
-10pts_msn_achiev :: 全てのミッションで10点
+1star_achiev :: 全てのカスタムカップで星1
+3star_achiev :: 全てのカスタムカップで星3
+10pts_msn_achiev :: 全てのミッションで10 pts
 5000vr_achiev :: CTWWで5000VR
 blue_coin_achiev :: 全てのあおコインをゲット
-custom_track_cups :: Custom Track Cups
-tro_gold :: Gold
-tro_1star :: 1 Star
-tro_3star :: 3 Star
-tro_10pts :: 10 points
-tro_blue_collected :: Collected
+custom_track_cups :: カスタムトラックカップ
+tro_gold :: ゴールド
+tro_1star :: 星1
+tro_3star :: 星3
+tro_10pts :: 10 pts
+tro_blue_collected :: 集めた数
 
 #General text
 warning :: 警告
@@ -215,7 +215,7 @@ settings :: 設定
 exit :: 戻る
 default :: デフォルト
 button :: ボタン
-summary :: Summary
+summary :: 概要
 
 #Folders
 gameplay_folder :: ゲームプレイ機能 :: 追加のゲームプレイ機能の構成。
@@ -234,8 +234,8 @@ itmprb :: 改良されたアイテムルーレット :: ランダムにアイテ
 imtrick :: 改良されたジャンプアクション :: 台でジャンプアクションを行うとカートが回転します。 \uE077スライドパッドを使用して、回転方向を変更します。
 autoaccel :: 自動加速 :: \uE000や\uE003を押すことで自動的に加速することができます。\uE001で解除されます。
 imbrakedrift :: 改良されたブレーキドリフト :: \uE001をドリフトしながら押すことでミニターボを無くさずにブレーキをすることができます。
-autodelaydrift :: 自動ディレイドリフト :: ドリフト開始時のカートの速度低下を防ぐ。
-achieventry :: 功績 :: CTGP-7功績の進行状況を確認します。
+autodelaydrift :: 自動ディレイドリフト :: ドリフト開始時のカートの速度の低下を防ぎます。
+achieventry :: 功績 :: CTGP-7の功績の進行状況を確認します。
 
 #Speedometer text
 spd_set :: スピードメーターの設定をします。
@@ -259,7 +259,6 @@ ct_endis :: カスタムトラックを有効にしました。 :: カスタム�
 ori_endis :: オリジナルトラックを有効にしました。 :: オリジナルトラックを無効にしました。
 
 #Community Code Generator
-commugen :: コミュニティコードジェネレーター :: 現在のユーザー設定に基づいてコードを生成します。コミュニティの説明にコードを入力すると、そのコミュニティの全員の設定が有効になります。
 def_spd :: デフォルトの速度
 rand_tr :: ランダムトラックを強制する
 code :: コード
@@ -278,8 +277,8 @@ enhmap :: ローカルマップの拡張 :: \uE058タッチスクリーンを使
 char_select :: 設定するキャラクターを選んでください。
 reboot_req :: 変更を適用するには再起動が必要です。
 face_raider_sel :: 顔を選んでください
-authors :: クリエイター
-change_face :: Change face
+authors :: 作者
+change_face :: 顔を変える
 
 #Online track order
 order_mode :: デフォルト :: アルファベット順
@@ -375,7 +374,12 @@ server_ctgp7_nocomm :: CTGP-7ネットワークでは\nコミュニティは利�
 
 #Blue Coins
 blue_coins :: あおコイン
-blue_coins_desc :: A blue coin will appear in every track. Collect them all to unlock something!
-blue_coin_obtain :: $あおコイン$をゲット！ :: 残り%dトラック
+blue_coins_desc :: コース毎にあおコインが出現します。全て集めて何らかのロックを解除しましょう！
+blue_coin_obtain :: $あおコイン$をゲット！ :: のこり%dトラック
 blue_coin_all :: 全てのコインを\nゲットしました！
-blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
+blue_coin_nocc :: CCセレクターが有効になっていると、\nあおコインを取得できません。
+
+#Lobby
+lobby_type :: Public lobby :: Private lobby
+choose_lobby :: Choose online lobby:\n\n- Public: Play with other CTGP-7 players.\n- Private: Play with other players privately.\n\nNOTE: Vanilla VR will be used in private lobbies.
+enter_lobby_code :: Enter private lobby code.\nShare this code with others to play together! :: Lobby code is too short.

@@ -259,7 +259,6 @@ ct_endis :: Circuits Editats activats :: Circuits Editats desactivats
 ori_endis :: Circuits Originals activats :: Circuits Originals desactivats
 
 #Community Code Generator
-commugen :: Generar Codi de Comunitat :: Genera un codi basat en les opcions activades. En posar el codi en la descripció d'una comunitat farà que les opcions s'activin per a tots els jugadors.
 def_spd :: Velocitat per omissió.
 rand_tr :: Forçar circuits aleatoris
 code :: Codi
@@ -379,6 +378,11 @@ blue_coins_desc :: Una moneda blava apareixerà en totes les pistes. Obtingueu-l
 blue_coin_obtain :: $Moneda Blava$\nobtinguda! :: Queden %d\ncircuits.
 blue_coin_all :: Totes les monedes\ns'han obtingut!
 blue_coin_nocc :: Les monedes blaves no\nes poden obtenir amb el\nselector de CC activat.
+
+#Lobby
+lobby_type :: Lobby públic :: Lobby privat
+choose_lobby :: Trieu el tipus de lobby en línia:\n\n- Públic: Juga amb altres jugadors de CTGP-7.\n- Privat: Juga amb altres jugadors en privat.\n\nNOTA: S'usarà el VR vanilla en lobbies privats.
+enter_lobby_code :: Introdueix codi de lobby privat.\nComparteix aquest codi amb altres\nper jugar junts! :: El codi de lobby és massa curt.
 
 #Characters
 $1000 :: Mario

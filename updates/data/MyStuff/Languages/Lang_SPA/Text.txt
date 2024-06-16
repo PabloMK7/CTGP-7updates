@@ -259,7 +259,6 @@ ct_endis :: Circuitos Editados activados :: Circuitos Editados desactivados
 ori_endis :: Circuitos Originales activados :: Circuitos Originales desactivados
 
 #Community Code Generator
-commugen :: Generar Código de Comunidad :: Genera un código basado en las opciones activadas. Al poner el código en la descripción de una comunidad hará que esas opciones se activen para todo el mundo.
 def_spd :: Velocidad por defecto.
 rand_tr :: Forzar circuitos aleatorios
 code :: Código
@@ -379,3 +378,8 @@ blue_coins_desc :: Una moneda azul aparecerá en todas las pistas. ¡Obtenlas to
 blue_coin_obtain :: ¡$Moneda Azul$\nobtenida! :: Quedan %d\ncircuitos.
 blue_coin_all :: ¡Todas las monedas\nhan sido obtenidas!
 blue_coin_nocc :: Las monedas azules no\nse pueden obtener con el\nselector de CC activado.
+
+#Lobby
+lobby_type :: Lobby público :: Lobby privado
+choose_lobby :: Elige el tipo de lobby en línea:\n\n- Público: Juega con otros jugadores de CTGP-7.\n- Privado: Juega con otros jugadores en privado.\n\nNOTA: Se usará el VR vanilla en lobbies privados.
+enter_lobby_code :: Introduce código de lobby privado.\n¡Comparte este código con otros\npara jugar juntos! :: El código de lobby es demasiado corto.

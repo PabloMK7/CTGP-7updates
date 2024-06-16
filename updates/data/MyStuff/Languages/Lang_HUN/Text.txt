@@ -259,7 +259,6 @@ ct_endis :: Egyéni pályák engedélyezése :: Egyéni pályák letiltása
 ori_endis :: Eredeti pályák engedélyezése :: Eredeti pályák letiltása
 
 #Community Code Generator
-commugen :: Közösségi kód generátor :: Generál egy kódot a beállításaid alapján. A kód megadása egy közösség leírásában mindenki számára engedélyezni fogja ugyanezeket a beállításokat.
 def_spd :: Alapértelmezett sebesség
 rand_tr :: Csak véletlenszerű pályák
 code :: Kód
@@ -379,6 +378,11 @@ blue_coins_desc :: A blue coin will appear in every track. Collect them all to u
 blue_coin_obtain :: Megszerezted\na $kék érmét$! :: Még %d pálya\nvan hátra.
 blue_coin_all :: Megszerezted az\nösszes érmét!
 blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
+
+#Lobby
+lobby_type :: Public lobby :: Private lobby
+choose_lobby :: Choose online lobby:\n\n- Public: Play with other CTGP-7 players.\n- Private: Play with other players privately.\n\nNOTE: Vanilla VR will be used in private lobbies.
+enter_lobby_code :: Enter private lobby code.\nShare this code with others to play together! :: Lobby code is too short.
 
 #Characters
 $1000 :: Mario
