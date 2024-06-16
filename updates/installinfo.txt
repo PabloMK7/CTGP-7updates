@@ -67,7 +67,7 @@ M/gamefs/Course/Gcn_YoshiCircuit.szs
 M/gamefs/Course/Gds_WarioStad.szs
 M/gamefs/Course/Ggba_ShyGuyBeach.szs
 M/gamefs/Course/Ggcn_BabyParkNin.szs
-M/gamefs/Course/Gn64_BansheeBoard.szs
+M/gamefs/Course/Ctgp_N64BansheeBoard.szs
 M/gamefs/Course/Gn64_ChocoMountainn.szs
 M/gamefs/Course/Gn64_SecretSl.szs
 M/gamefs/Course/Gsfc_ChocoIsland.szs
@@ -318,12 +318,14 @@ M/MyStuff/Characters/Birdo_Yellow.chpack
 M/MyStuff/Characters/Black_Yoshi.chpack
 M/MyStuff/Characters/Blue_Toad.chpack
 M/MyStuff/Characters/Boshi.chpack
+M/MyStuff/Characters/Bowser_Jr.chpack
 M/MyStuff/Characters/ChainChomp.chpack
 M/MyStuff/Characters/Coin.chpack
 M/MyStuff/Characters/Cyan_Yoshi.chpack
 M/MyStuff/Characters/Dark_Blue_Yoshi.chpack
 M/MyStuff/Characters/Dry_Bones.chpack
 M/MyStuff/Characters/Dry_Bowser.chpack
+M/MyStuff/Characters/E_gadd.chpack
 M/MyStuff/Characters/Eshop_Bag.chpack
 M/MyStuff/Characters/Face_Raider.chpack
 M/MyStuff/Characters/Funky_Kong.chpack
@@ -350,6 +352,8 @@ M/MyStuff/Characters/Midbus.chpack
 M/MyStuff/Characters/Mr._L.chpack
 M/MyStuff/Characters/Nabbit.chpack
 M/MyStuff/Characters/Orange_Yoshi.chpack
+M/MyStuff/Characters/Paratroopa.chpack
+M/MyStuff/Characters/Paratroopa_Spiny.chpack
 M/MyStuff/Characters/Petey_Piranha.chpack
 M/MyStuff/Characters/Pink_Yoshi.chpack
 M/MyStuff/Characters/Poochy.chpack
@@ -381,8 +385,6 @@ M/MyStuff/Characters/Yellow_Yoshi.chpack
 M/MyStuff/Courses/README.txt
 M/MyStuff/CourseTextures/README.txt
 M/MyStuff/debugSkipConfig.ini
-M/MyStuff/Karts/Kart/Body/body_egg/body_egg.bcmdl
-M/MyStuff/Karts/Kart/Body/body_egg_lod/body_egg_lod.bcmdl
 M/MyStuff/Karts/Kart/Body/body_gng/body_gng.bcmdl
 M/MyStuff/Karts/Kart/Body/body_kpc/body_kpc.bcmdl
 M/MyStuff/Karts/Kart/Body/body_pipe/body_pipe_bw.bcmdl
