@@ -24,7 +24,6 @@ M/gamefs/Course/Ctgp_DSBowserCastle.szs
 M/gamefs/Course/Ctgp_DSShroomRidge.szs
 M/gamefs/Course/Ctgp_ElementalCave.szs
 M/gamefs/Course/Ctgp_ErmiiCir.szs
-M/gamefs/Course/Ctgp_EvGre.szs
 M/gamefs/Course/Ctgp_FlowerBFort.szs
 M/gamefs/Course/Ctgp_FrapeSnow.szs
 M/gamefs/Course/Ctgp_FrzGrotto.szs
@@ -43,6 +42,7 @@ M/gamefs/Course/Ctgp_MelodSanc.szs
 M/gamefs/Course/Ctgp_MetroMadness.szs
 M/gamefs/Course/Ctgp_MoooMoooFarm.szs
 M/gamefs/Course/Ctgp_MushroomMount.szs
+M/gamefs/Course/Ctgp_N64DKJungleParkway.szs
 M/gamefs/Course/Ctgp_N64RainbowR.szs
 M/gamefs/Course/Ctgp_N64ShbLnd.szs
 M/gamefs/Course/Ctgp_RainbowRdDX.szs
@@ -179,8 +179,6 @@ M/gamefs/Sound/stream/STRM_CC_ELEMENTAL_CAVE_F.bcstm
 M/gamefs/Sound/stream/STRM_CC_ELEMENTAL_CAVE_N.bcstm
 M/gamefs/Sound/stream/STRM_CC_ERMII_CIRCUIT_F.bcstm
 M/gamefs/Sound/stream/STRM_CC_ERMII_CIRCUIT_N.bcstm
-M/gamefs/Sound/stream/STRM_CC_EVERGREEN_CROSS_F.bcstm
-M/gamefs/Sound/stream/STRM_CC_EVERGREEN_CROSS_N.bcstm
 M/gamefs/Sound/stream/STRM_CC_FLOWERBED_FORTRESS_F.bcstm
 M/gamefs/Sound/stream/STRM_CC_FLOWERBED_FORTRESS_N.bcstm
 M/gamefs/Sound/stream/STRM_CC_FRAPPE_SNOWLAND_F.bcstm
@@ -207,6 +205,8 @@ M/gamefs/Sound/stream/STRM_CC_MOO_MOO_FARM_F.bcstm
 M/gamefs/Sound/stream/STRM_CC_MOO_MOO_FARM_N.bcstm
 M/gamefs/Sound/stream/STRM_CC_MUSHROOM_MOUNTAIN_F.bcstm
 M/gamefs/Sound/stream/STRM_CC_MUSHROOM_MOUNTAIN_N.bcstm
+M/gamefs/Sound/stream/STRM_CC_N64_DK_JUNGLE_F.bcstm
+M/gamefs/Sound/stream/STRM_CC_N64_DK_JUNGLE_N.bcstm
 M/gamefs/Sound/stream/STRM_CC_N64_RAINBOW_ROAD_F.bcstm
 M/gamefs/Sound/stream/STRM_CC_N64_RAINBOW_ROAD_N.bcstm
 M/gamefs/Sound/stream/STRM_CC_RAINBOW_ROAD_DX_F.bcstm
