@@ -20,7 +20,7 @@ $710049 :: \uE024\uE025 Bowser vára 3
 
 #Cloud Cup
 $700012 :: Felhő kupa
-$710050 :: Örökzöld-átkelő
+$710050 :: \uE022\uE023 DK ösvény
 $710054 :: \uE022\uE023 Mú mú farm
 $710052 :: Szigetvilág sugárút
 $710053 :: \uE022\uE023 Frappé hóföld

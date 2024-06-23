@@ -20,7 +20,7 @@ $710049 :: \uE024\uE025 Bowsers Kasteel 3
 
 #Cloud Cup
 $700012 :: Wolkenbeker
-$710050 :: Altijdgroene Oversteek
+$710050 :: \uE022\uE023 DK's Jungleweg
 $710054 :: \uE022\uE023 Boe Boe Boerderij
 $710052 :: Archipellaan
 $710053 :: \uE022\uE023 Frappe-Sneeuwland

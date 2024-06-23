@@ -20,7 +20,7 @@ $710049 :: Castelo 3 do Bowser \uE024\uE025
 
 #Cloud Cup
 $700012 :: Taça Nuvem
-$710050 :: Cruzamento Perene
+$710050 :: Parque da Selva do DK \uE022\uE023
 $710054 :: Quinta Mu Mu \uE022\uE023
 $710052 :: Avenida do Arquipélago
 $710053 :: Circuito Nevado \uE022\uE023
@@ -145,18 +145,18 @@ $710120 :: Laboratório Interestelar
 $710121 :: Fortaleza da Matéria Escura
 
 #Hammer Cup
-$700030 :: Hammer Cup
-$710122 :: \uE031\uE032 Donut Plains 2
-$710123 :: Soaring Skyway
-$710124 :: \uE022\uE023 Bowser's Castle
-$710125 :: \uE067 DK Summit
+$700030 :: Taça Martelo
+$710122 :: Planície Donut 2 \uE031\uE032
+$710123 :: Pista das Alturas
+$710124 :: Castelo do Bowser \uE022\uE023
+$710125 :: Pico DK \uE067
 
 #Wonder Cup
-$700031 :: Wonder Cup
-$710126 :: Painted Swamp Raceway
-$710127 :: Roulette Road
-$710128 :: Orbital Outpost
-$710129 :: \uE033 Rainbow Road
+$700031 :: Taça Maravilha
+$710126 :: Pântano Pintado
+$710127 :: Pista Roleta
+$710128 :: Estação Espacial
+$710129 :: Estrada Arco-íris \uE033
 
 #Save Data
 $7005 :: Os dados de gravação adicionais\ndo CTGP-7 serão criados no\ncartão SD.
@@ -180,21 +180,21 @@ achiev_all_1star :: Conseguiste uma estrela em\ntodas as taças personalizadas.\
 achiev_all_3star :: Conseguiste três estrelas em\ntodas as taças personalizadas.\n\nParabéns!
 achiev_all_mission :: Conseguiste 10 pontos em\ntodas as missões.\n\nParabéns!
 achiev_5000_vr :: Conseguiste 5000 VR em\ncircúitos personalizados\nonline.\n\nParabéns!
-achiev_blue_coin :: You have collected\nall blue coins!\n\nCongratulations!
+achiev_blue_coin :: Conseguiste todas as\nmonedas azuis.\n\nParabéns!
 unlocked_item :: Desbloqueaste:\n\n
-types_achievs :: Normal achievements :: Special achievements
-gold_tro_achiev :: Gold in all custom track cups
-1star_achiev :: 1 star in all custom track cups
-3star_achiev :: 3 star in all custom track cups
-10pts_msn_achiev :: 10 points in all missions
-5000vr_achiev :: 5000VR in CTWW
-blue_coin_achiev :: All blue coins collected
-custom_track_cups :: Custom Track Cups
-tro_gold :: Gold
-tro_1star :: 1 Star
-tro_3star :: 3 Star
-tro_10pts :: 10 points
-tro_blue_collected :: Collected
+types_achievs :: Conquistas Normais :: Conquistas Especiais
+gold_tro_achiev :: Ouro em todas as taças personalizadas
+1star_achiev :: 1 estrela em todas as taças personalizadas
+3star_achiev :: 3 estrelas em todas as taças personalizadas
+10pts_msn_achiev :: 10 pontos em todas as missões
+5000vr_achiev :: 5000VR em CTWW
+blue_coin_achiev :: Todas as moedas azuis obtidas
+custom_track_cups :: Taças Personalizadas
+tro_gold :: Ouro
+tro_1star :: 1 Estrela
+tro_3star :: 3 Estrelas
+tro_10pts :: 10 pontos
+tro_blue_collected :: Obtidas
 
 #General text
 warning :: ALERTA
@@ -215,7 +215,7 @@ settings :: Opções
 exit :: Sair
 default :: Padrão 
 button :: Botão
-summary :: Summary
+summary :: Resumo
 
 #Folders
 gameplay_folder :: Funcionalidades do jogo :: Configuração para recursos adicionais de jogabilidade.
@@ -235,7 +235,7 @@ imtrick :: Manobras Melhoradas ::  Os Karts irão rodopiar quando fizerem uma ma
 autoaccel :: Aceleração Automática :: Pressionando \uE000 ou \uE003 irá ativar a aceleração automática até \uE001 ser pressionado.  
 imbrakedrift :: Freio de Drift Melhorado :: Segure \uE001 enquanto derrapa para freiar sem perder seu miniturbo.
 autodelaydrift :: "Delay Drift" Automático :: Ajuda a evitar que o kart perca velocidade quando começa a derrapar.
-achieventry :: Achievements :: Check the progress on CTGP-7 achievements.
+achieventry :: Conquistas :: Veja o progresso das conquistas de CTGP-7
 
 #Speedometer text
 spd_set :: Opções do velocímetro.
@@ -259,7 +259,6 @@ ct_endis :: Pistas personalizadas ativadas :: Pistas personalizadas desativadas
 ori_endis :: Pistas originais ativadas :: Tracks Originais desativadas
 
 #Community Code Generator
-commugen :: Gerador de códigos da comunidade :: Gera um código baseado nas atuais definições do utilizador. Colocando o código numa descrição de comunidade irá ativar as definições para todos naquela comunidade.
 def_spd :: Velocidade padrão
 rand_tr :: Forçar pistas aleatórias
 code :: Código
@@ -279,7 +278,7 @@ char_select :: Selecione uma personagem para configurar.
 reboot_req :: Reinício requerido para aplicar as definições.
 face_raider_sel :: Selecione um rosto
 authors :: Autores
-change_face :: Change face
+change_face :: Trocar rosto
 
 #Online track order
 order_mode :: Padrão :: Alfabético
@@ -374,8 +373,13 @@ server_ctgp7_dconn :: Sair da CTGP-7 Network?
 server_ctgp7_nocomm :: As comunidades não estão\ndisponíveis na CTGP-7 Network.
 
 #Blue Coins
-blue_coins :: Blue Coins
-blue_coins_desc :: A blue coin will appear in every track. Collect them all to unlock something!
-blue_coin_obtain :: $Blue Coin$\ncollected! :: %d tracks\nremaining.
-blue_coin_all :: All coins have\nbeen collected!
-blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
+blue_coins :: Moedas Azuis
+blue_coins_desc :: Moedas azuis aparecerão em todas as pistas. Colete todas para desbloquear algo!
+blue_coin_obtain :: $Moeda Azul$\ncoletada! :: %d pistas\nrestando.
+blue_coin_all :: Todas as moedas\nforam obtidas!
+blue_coin_nocc :: As moedas azuis não\n podem ser obtidas com o\nseletor CC habilitado.
+
+#Lobby
+lobby_type :: Sala pública :: Sala privada
+choose_lobby :: Escolha o tipo de sala:\n\n- Público: Joga com outros jogadores de CTGP-7.\n- Privado: Joga com outros jogadores em privado.\n\nNOTA: Usará o VR vanilla em salas privadas.
+enter_lobby_code :: Introduza o código de sala privada.\nCompartilhe este código com outros\npara jogar juntos! :: O código de sala está muito curto.

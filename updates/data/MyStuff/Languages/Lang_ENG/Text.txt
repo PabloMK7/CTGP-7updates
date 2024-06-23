@@ -20,7 +20,7 @@ $710049 :: \uE024\uE025 Bowser Castle 3
 
 #Cloud Cup
 $700012 :: Cloud Cup
-$710050 :: Evergreen Crossing
+$710050 :: \uE022\uE023 DK's Jungle Parkway
 $710054 :: \uE022\uE023 Moo Moo Farm
 $710052 :: Archipelago Avenue
 $710053 :: \uE022\uE023 Frappe Snowland

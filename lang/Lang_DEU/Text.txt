@@ -20,7 +20,7 @@ $710049 :: \uE024\uE025 Bowsers Festung 3
 
 #Cloud Cup
 $700012 :: Wolken-Cup
-$710050 :: Immergrüner Wald
+$710050 :: \uE022\uE023 DKs Dschungelpark
 $710054 :: \uE022\uE023 Kuhmuh-Farm
 $710052 :: Archipel-Allee
 $710053 :: \uE022\uE023 Polar-Parcours
@@ -259,7 +259,6 @@ ct_endis :: Benutzerdef. Strecken aktiviert :: Benutzerdef. Strecken deaktiviert
 ori_endis :: Originale Strecken aktiviert :: Originale Strecken deaktiviert
 
 #Community Code Generator
-commugen :: Community-Code-Generator :: Generiert einen Code, basierend auf den aktuellen Einstellungen. Das Einfügen dieses Codes in eine Community-Beschreibung aktiviert diese für jeden Spieler.
 def_spd :: Normale Geschwindigkeit
 rand_tr :: Zufällige Strecken erzwingen
 code :: Code
@@ -375,7 +374,12 @@ server_ctgp7_nocomm :: Communitys sind im\nCTGP-7-Network\nnicht verfügbar.
 
 #Blue Coins
 blue_coins :: Blaue Münzen
-blue_coins_desc :: A blue coin will appear in every track. Collect them all to unlock something!
+blue_coins_desc :: Eine blaue Münze wird in jeder Strecke auftauchen. Sammle sie alle, um etwas freizuschalten!
 blue_coin_obtain :: $Blaue Münzen$\neingesammelt :: %d verbleibende\nStrecken
 blue_coin_all :: Alle Münzen wurden eingesammelt.
 blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
+
+#Lobby
+lobby_type :: Public lobby :: Private lobby
+choose_lobby :: Choose online lobby:\n\n- Public: Play with other CTGP-7 players.\n- Private: Play with other players privately.\n\nNOTE: Vanilla VR will be used in private lobbies.
+enter_lobby_code :: Enter private lobby code.\nShare this code with others to play together! :: Lobby code is too short.

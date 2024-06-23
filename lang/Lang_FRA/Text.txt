@@ -20,7 +20,7 @@ $710049 :: \uE024\uE025 Château de Bowser 3
 
 #Cloud Cup
 $700012 :: Coupe Nuage
-$710050 :: Traversée Enneigée
+$710050 :: \uE022\uE023 Jungle DK
 $710054 :: \uE022\uE023 Ferme Meuh Meuh
 $710052 :: Avenue de l'Archipel
 $710053 :: \uE022\uE023 Route Glagla
@@ -247,9 +247,9 @@ spd_types1 :: Numérique :: Analogique
 spd_types2 :: Double Dash
 
 #CC Selector text
-cc_set :: Paramètres du sélecteur de classe
+cc_set :: Paramètres du modificateur de la cylindrée.
 cc_val :: Valeur
-cc_entv :: Entrez une nouvelle valeur de classe.
+cc_entv :: Entrez une nouvelle valeur de cylindrée.
 cc_chgv :: Modifier la valeur
 
 #Course Manager
@@ -259,7 +259,6 @@ ct_endis :: Les circuits customisés sont activés :: Les circuits customisés s
 ori_endis :: Les circuits originaux sont activés :: Les circuits originaux sont désactivés
 
 #Community Code Generator
-commugen :: Générateur de code communautaire :: Génère un code basé selon vos règles. Entrer ce code dans la description d'une communauté activera les mêmes paramètres chez tous les utiliateurs qui participeront à cette dernière.
 def_spd :: Vitesse par défaut
 rand_tr :: Forcer la sélection des courses aléatoires
 code :: Code
@@ -375,7 +374,12 @@ server_ctgp7_nocomm :: Les communautés ne sont\npas disponibles sur le\nCTGP-7 
 
 #Blue Coins
 blue_coins :: Pièces bleues
-blue_coins_desc :: A blue coin will appear in every track. Collect them all to unlock something!
+blue_coins_desc :: Une pièce bleue apparaîtra dans chaque course. Ramassez-les afin de débloquer quelque chose !
 blue_coin_obtain :: Vous avez obtenu\nune $pièce bleue$ !:: %d course(s)\nrestante(s).
 blue_coin_all :: Toutes les pièces\nont été obtenues !
-blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
+blue_coin_nocc :: Les pièces bleues ne\npeuvent pas être\ncollectées avec le\nmodificateur de la\ncylindrée activée.
+
+#Lobby
+lobby_type :: Groupe public :: Groupe privé
+choose_lobby :: Choisissez un groupe :\n\n- Public : Jouez avec d'autres joueurs CTGP-7.\n- Privé : Jouez avec d'autres joueurs en privé.\n\nNotez que les points de courses en ligne d'origine (PC) seront utilisés dans les groupes privés.
+enter_lobby_code :: Entrez l'identifiant de groupe.\nPartagez ce code avec d'autres joueurs dont vous souhaitez jouer avec ! :: Le code est trop court.

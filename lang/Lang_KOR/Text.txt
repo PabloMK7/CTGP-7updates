@@ -20,7 +20,7 @@ $710049 :: \uE024\uE025 쿠파 성 3
 
 #Cloud Cup
 $700012 :: 구름 컵
-$710050 :: 상록수의 숲
+$710050 :: \uE035 DK 정글 파크
 $710054 :: \uE035 음매음매 목장
 $710052 :: 아르치페라고 애비뉴
 $710053 :: \uE035 프라페 스노우랜드
@@ -259,7 +259,6 @@ ct_endis :: 커스텀 트랙 활성화됨 :: 커스텀 트랙 비활성화됨
 ori_endis :: 오리지널 트랙 활성화됨 :: 오리지널 트랙 비활성화됨
 
 #Community Code Generator
-commugen :: 커뮤니티 코드 생생기 :: 현재 유저 설정에 따라 코드를 생성합니다. 커뮤니티 설명란에 해당 코드를 입력하면 커뮤니티 내 모든 사람의 설정이 코드대로 바뀝니다.
 def_spd :: 기본 스피드
 rand_tr :: 랜덤 트랙 강제하기
 code :: 코드
@@ -379,3 +378,8 @@ blue_coins_desc :: A blue coin will appear in every track. Collect them all to u
 blue_coin_obtain :: $Blue Coin$\ncollected! :: %d tracks\nremaining.
 blue_coin_all :: All coins have\nbeen collected!
 blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
+
+#Lobby
+lobby_type :: Public lobby :: Private lobby
+choose_lobby :: Choose online lobby:\n\n- Public: Play with other CTGP-7 players.\n- Private: Play with other players privately.\n\nNOTE: Vanilla VR will be used in private lobbies.
+enter_lobby_code :: Enter private lobby code.\nShare this code with others to play together! :: Lobby code is too short.

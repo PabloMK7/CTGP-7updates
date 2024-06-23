@@ -20,7 +20,7 @@ $710049 :: \uE024\uE025 Castello di Bowser 3
 
 #Cloud Cup
 $700012 :: Trofeo Nuvola
-$710050 :: Incrocio Sempreverde
+$710050 :: \uE022\uE023 Viale Giungla DK
 $710054 :: \uE022\uE023 Fattoria Muu Muu
 $710052 :: Viale Arcipelago
 $710053 :: \uE022\uE023 Circuito Innevato
