@@ -187,7 +187,7 @@ gold_tro_achiev :: Trophée Or dans toutes les coupes circuits customisés
 1star_achiev :: 1 étoile sur toutes les coupes circuits customisés
 3star_achiev :: 3 étoiles sur toutes les coupes circuits customisés
 10pts_msn_achiev :: 10 points dans toutes les missions
-5000vr_achiev :: 5000PC dans CTWW
+5000vr_achiev :: 5000PC dans le mode CTWW
 blue_coin_achiev :: Toutes les pièces bleues obtenues
 custom_track_cups :: Coupes Circuits Customisés
 tro_gold :: Or
@@ -224,7 +224,7 @@ other_folder :: Paramètres supplémentaires :: Paramètres contrôlant d'autres
 
 #Entries
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran supérieur.
-ccsel :: Changer de classe (cc):: Règle la classe à la valeur souhaitée. (Elle doit être activée avant de commencer une course.)
+ccsel :: Changer de cylindrée (cc):: Règle la cylindrée à la valeur souhaitée. (Elle doit être activée avant de commencer une course.)
 itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée et en jaune lorsqu'un éclair est utilisé.
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Notez que vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
 charman :: Gestionnaire des personnages :: Choisissez entre les personnages par défaut et personnalisés.
@@ -323,7 +323,7 @@ serv_consID :: ID Console CTGP-7
 serv_statsupl :: Envoie des statistiques
 serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
-serv_dispmii :: Nom de Mii
+serv_dispmii :: Nom du Mii
 serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au\nmaximum.
 
 #Statistics
@@ -337,7 +337,7 @@ stats_rpoints :: Points de course
 #Discord
 disc_info :: Information Discord
 disc_notlink :: Cette console n'est pas liée à\nun compte Discord.\n\nVoulez-vous lier cette console à\nvotre compte ?
-disc_linksteps1 :: Veuillez suivre ces étapes pour\n lier votre compte.
+disc_linksteps1 :: Veuillez suivre ces étapes pour\nlier votre compte.
 disc_linksteps2 :: 1) Rejoignez le serveur Discord CTGP-7\nsi vous ne l'avez pas déjà fait.\n(Lien : invite.gg/ctgp7)
 disc_linksteps3 :: 2) Allez dans le salon \#bots du serveur.
 disc_linksteps4 :: 3) Envoyez-y le message suivant :
@@ -381,5 +381,5 @@ blue_coin_nocc :: Les pièces bleues ne\npeuvent pas être\ncollectées avec le\
 
 #Lobby
 lobby_type :: Groupe public :: Groupe privé
-choose_lobby :: Choisissez un groupe :\n\n- Public : Jouez avec d'autres joueurs CTGP-7.\n- Privé : Jouez avec d'autres joueurs en privé.\n\nNotez que les points de courses en ligne d'origine (PC) seront utilisés dans les groupes privés.
-enter_lobby_code :: Entrez l'identifiant de groupe.\nPartagez ce code avec d'autres joueurs dont vous souhaitez jouer avec ! :: Le code est trop court.
+choose_lobby :: Choisissez un groupe :\n\n- Public : Jouez avec d'autres joueurs CTGP-7.\n- Privé : Jouez avec d'autres joueurs en privé.\n\nNotez que les points de courses en ligne (PC) du jeu d'origine (Mario Kart 7) seront utilisés dans les groupes privés.
+enter_lobby_code :: Entrez l'identifiant de groupe.\nPartagez l'ID avec qui vous voulez jouer ! :: L'identifiant est trop court.
