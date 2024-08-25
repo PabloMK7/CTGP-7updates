@@ -507,12 +507,12 @@ $1602 :: Cheep Cheep-fok
 $1603 :: Alpesi-szoros
 $1604 :: Toad pálya
 $1605 :: Shy Guy bazár
-$1606 :: Wuhu-sziget körút
+$1606 :: Wuhu-szigeti körút
 $1607 :: Wario vitorlása
 $1608 :: Piranhanövény csatorna
 $1609 :: Dallamos autópálya
 $1610 :: Koopa város
-$1611 :: Wuhu-hegy körút
+$1611 :: Wuhu-hegyi körút
 $1612 :: DK-dzsungel
 $1613 :: Rosalina jégvilága
 $1614 :: Bowser vára
@@ -537,7 +537,7 @@ $1714 :: \uE022\uE023 Koopa katona-part
 $1715 :: \uE031\uE032 Szivárvány út
 
 #Balloon battle tracks
-$1800 :: Mézesméz ház
+$1800 :: Mézesméz-ház
 $1801 :: Sörbet korcsolyapálya
 $1802 :: Wuhufalva
 $1803 :: \uE024\uE025 Csatapálya 1
