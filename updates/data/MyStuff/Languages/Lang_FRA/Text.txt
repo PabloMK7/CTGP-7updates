@@ -58,7 +58,7 @@ $700018 :: Coupe Bloups
 $710074 :: Parc Château de Sable
 $710075 :: \uE033 Circuit Mario
 $710076 :: \uE026\uE027 Circuit Luigi
-$710077 :: Plage Volcanique
+$710077 :: Plage Volc. en Ruines
 
 #Feather Cup
 $700019 :: Coupe Plume
