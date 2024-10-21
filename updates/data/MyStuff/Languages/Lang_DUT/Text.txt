@@ -383,3 +383,7 @@ blue_coin_nocc :: Blauwe munten kunnen niet\nworden verzameld met \ncc-selectie 
 lobby_type :: Openbare groep :: Privégroep
 choose_lobby :: Kies online groep:\n\n- Openbaar: Speel met andere CTGP-7-spelers.\n- Privé: Speel met andere spelers in het privé.\n\nMerk op: originele RP wordt gebruikt in privégroepen.
 enter_lobby_code :: Vul code van privégroep in.\nDeel deze code met anderen om samen te spelen! :: Groepscode is te kort.
+
+#Proximity Chat
+proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
+proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727

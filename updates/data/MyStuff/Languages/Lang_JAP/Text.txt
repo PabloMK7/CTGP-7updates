@@ -383,3 +383,7 @@ blue_coin_nocc :: CCセレクターが有効になっていると、\nあおコ�
 lobby_type :: パブリックロビー :: プライベートロビー
 choose_lobby :: オンラインロビーの選択:\n\n- パブリック: CTGP-7のプレイヤーとプレイします。\n- プライベート: コードを共有したプレイヤーとプライベートでプレイします。\n\n注: プライベートロビーではバニラ環境のVRが使用されます
 enter_lobby_code :: プライベートロビーコードを入力してください。\nこのコードを他のユーザーに共有して、一緒にプレイしてください！ :: ロビーコードが短すぎます。
+
+#Proximity Chat
+proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
+proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727

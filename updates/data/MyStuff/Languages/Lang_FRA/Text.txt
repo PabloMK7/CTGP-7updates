@@ -383,3 +383,7 @@ blue_coin_nocc :: Les pièces bleues ne\npeuvent pas être\ncollectées avec le\
 lobby_type :: Groupe public :: Groupe privé
 choose_lobby :: Choisissez un groupe :\n\n- Public : Jouez avec d'autres joueurs CTGP-7.\n- Privé : Jouez avec d'autres joueurs en privé.\n\nNotez que les points de courses en ligne (PC) du jeu d'origine (Mario Kart 7) seront utilisés dans les groupes privés.
 enter_lobby_code :: Entrez l'identifiant de groupe.\nPartagez l'ID de groupe avec qui vous voulez jouer ! :: L'identifiant est trop court.
+
+#Proximity Chat
+proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
+proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727

@@ -383,3 +383,7 @@ blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
 lobby_type :: Public lobby :: Private lobby
 choose_lobby :: Choose online lobby:\n\n- Public: Play with other CTGP-7 players.\n- Private: Play with other players privately.\n\nNOTE: Vanilla VR will be used in private lobbies.
 enter_lobby_code :: Enter private lobby code.\nShare this code with others to play together! :: Lobby code is too short.
+
+#Proximity Chat
+proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
+proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727

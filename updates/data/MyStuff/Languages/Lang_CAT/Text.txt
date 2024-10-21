@@ -384,6 +384,10 @@ lobby_type :: Lobby públic :: Lobby privat
 choose_lobby :: Trieu el tipus de lobby en línia:\n\n- Públic: Juga amb altres jugadors de CTGP-7.\n- Privat: Juga amb altres jugadors en privat.\n\nNOTA: S'usarà el VR vanilla en lobbies privats.
 enter_lobby_code :: Introdueix codi de lobby privat.\nComparteix aquest codi amb altres\nper jugar junts! :: El codi de lobby és massa curt.
 
+#Proximity Chat
+proximity_chat :: Xat de proximitat :: (pulsa \uE002 per activar)
+proximity_chat_desc :: Introduïx l'adreça del client de xat de proximitat.\n\n(Prem \uE001 per cancel·lar.)\n\nMés info: pastebin.com/ZPQs0FWR :: Direcció invàlida.\nExample: 127.0.0.1:2728
+
 #Characters
 $1000 :: Mario
 $1001 :: Luigi

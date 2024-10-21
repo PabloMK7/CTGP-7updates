@@ -383,3 +383,7 @@ blue_coin_nocc :: Blaue Münzen können nicht\neingesammelt werden während der 
 lobby_type :: Öffentliche Lobby :: Private Lobby
 choose_lobby :: Wähle Online-Lobby aus:\n\n- Public: Spiele mit anderen CTGP-7 Spielern.\n- Private: Spiele privat mit anderen Spielern.\n\nNOTE: Normale VR-Punkte werden in Privaten Lobbys benutzt
 enter_lobby_code :: Geb Code der Privaten Lobby ein.\nTeile diesen Code mit anderen Spielern um zusammen zu spielen! :: Lobby Code ist zu kurz.
+
+#Proximity Chat
+proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
+proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727

@@ -169,7 +169,7 @@ welc_t :: Benvenuto a CTGP-7
 welc_1 :: Ciao!\nDal menu di gioco, potrai usare\ndelle funzioni speciali.\nPer aprire il menu di gioco,\npremi (SELECT).
 welc_2 :: Per user unable fanzine, muovi\nil cursore sulla funzione e\npremi A per abilitarlo o configurarlo.
 welc_3 :: Ricorda che alcune funzioni,\ncome il "Selettore classe CC", saranno\ndisabilitate durante il gioco online.
-welc_4 :: La tua statistica verrà caricata nel server di CTGP-7\ncosì è disponibile a tutti.\n(I dati saranno anonimi)\npuoi disabilitare il caricamento delle tue statistiche\nnei menu di gioco.
+welc_4 :: La tua statistica verrà caricata\nnel server di CTGP-7 così\nsarà disponibile a tutti.\n(I dati saranno anonimi)\nPuoi disabilitare il caricamento delle tue\nstatistiche nei menu di gioco.
 welc_5 :: Usando CTGP-7 Network,\ntu concordi alle sue regole.\n\nPuoi vederle qui:\nctgp-7.github.io/ctww.html
 welc_6 :: Ricordati di dare un'occhiata al\nserver discord di CTGP-7!\n\nEcco l'invito:\ninvite.gg/ctgp7
 welc_7 :: Speriamo ti piaccia!\n^w^
@@ -223,7 +223,7 @@ settings_folder :: Opzioni di Gioco :: Impostazioni specifiche di CTGP-7.
 other_folder :: Altre Opzioni :: Altre informazioni e caratteristiche varie.
 
 #Entries
-spdmeter :: Accelerometro :: mostra un accelerometro al lato dello schermo.
+spdmeter :: Tachimetro :: mostra un tachimetro al lato dello schermo.
 ccsel :: Selettore classe CC :: Imposta il valore della classe CC ad un numero arbitrario (imposta prima dell'inizio di una gara per abilitare).
 itemled :: Avviso LED per oggetti :: Il LED della console lampeggerà di blu se un Guscio Blu è usato, e giallo se un Fulmine è usato.
 backcam :: Retrovisore :: Premi \uE002 per vedette dieter di te, esattamente come gli altri giochi della serie! (Nota: Il pulsante \uE002 non potrà più essere usato per attivare gli oggetti.)
@@ -233,16 +233,16 @@ trackorder :: Ordine Delle piste online :: Gestisci l'ordine in cui le piste app
 itmprb :: Roulette migliorata :: Mostra le probabilità effettive sulla roulette di oggetti invece di oggetti casuali.
 imtrick :: Acrobazie migliorate :: I kart ruoteranno quando si fa un accrobazia. Usa il Pad Scorrevole per cambiare la direzione di rotazione del kart.
 autoaccel :: Accelerazione automatica :: Premendo \uE000 o \uE003 si abilita l'accelerazione automatica finché non si preme \uE001.
-imbrakedrift :: Deriva frenata migliorata :: Tieni premuto \uE001 durante la derapata per frenare senza perdere il miniturbo.
-autodelaydrift :: "Delay Drift" Automatico :: Aiuta a prevenire la perdita di velocità quando il kart inizia a deriva.
+imbrakedrift :: Derapata lenta migliorata :: Tieni premuto \uE001 durante la derapata per frenare senza perdere il miniturbo.
+autodelaydrift :: "Delay Drift" Automatico :: Aiuta a prevenire la perdita di velocità quando il kart inizia a derapare.
 achieventry :: Obbiettivi :: Controlla i progressi con gli obbiettivi di CTGP-7
 
 #Speedometer text
-spd_set :: Accelerometro.
+spd_set :: Tachimetro.
 spd_unit :: Unità
 spd_type :: Tipo
 spd_sunit :: Seleziona l'unità di misura.
-spd_stype :: Seleziona il tipo di accelerometro.
+spd_stype :: Seleziona il tipo di tachimetro.
 spd_types1 :: Digital :: Analogico
 spd_types2 :: Double Dash
 
@@ -268,7 +268,7 @@ cusitem :: Articoli personalizzati
 chgrnd :: Cambia numero round :: Cambia il numero di round nelle modalità Sfida e Battaglia.
 chgrnd_desc :: Seleziona il numero di round da\ngiocare nelle modalità Sfida e Battaglia.\nNOTA: non funziona nella modalità Download.\nIn multigiocatore locale, tutti devono\nusare le stesse impostazioni.
 rounds :: Round
-rnd_sel :: Seleeziona il numero di round.
+rnd_sel :: Seleziona il numero di round.
 
 #Enhanced Local Map
 enhmap :: Mappa Migliorata :: Aggiunge la funzionalità di zoom alla mappa usando il \uE058 touch screen.
@@ -383,3 +383,7 @@ blue_coin_nocc :: Le Monete Blu non possono\nessere ottenute quando\nil Selettor
 lobby_type :: Partita pubblica :: Partita privata
 choose_lobby :: Scegli partita online:\n\n- Pubblica: Gioca con gli altri giocatori di CTGP-7.\n- Privata: Gioca con gli altri giocatori in privato.\n\nNOTA: Verranno usati i PC originali nelle partite private.
 enter_lobby_code :: Inserire codice per partita privata.\nCondividi questo codice con gli altri per giocare insieme! :: Il codice partita è troppo corto.
+
+#Proximity Chat
+proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
+proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727

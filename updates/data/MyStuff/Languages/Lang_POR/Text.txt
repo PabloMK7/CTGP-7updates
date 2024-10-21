@@ -383,3 +383,7 @@ blue_coin_nocc :: As moedas azuis não\n podem ser obtidas com o\nseletor CC hab
 lobby_type :: Sala pública :: Sala privada
 choose_lobby :: Escolha o tipo de sala:\n\n- Público: Joga com outros jogadores de CTGP-7.\n- Privado: Joga com outros jogadores em privado.\n\nNOTA: Usará o VR vanilla em salas privadas.
 enter_lobby_code :: Introduza o código de sala privada.\nCompartilhe este código com outros\npara jogar juntos! :: O código de sala está muito curto.
+
+#Proximity Chat
+proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
+proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727
