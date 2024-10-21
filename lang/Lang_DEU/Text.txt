@@ -184,8 +184,8 @@ achiev_blue_coin :: Du hast\nalle Blauen Münzen eingesammelt.\nherzlichen Glüc
 unlocked_item :: Du hast folgendes\nfreigeschalten:\n\n
 types_achievs :: Normale Erfolge :: Spezial Erfolge
 gold_tro_achiev :: Gold in allen Custom Track Cups
-1star_achiev :: 1 Stern in allen Customt Track Cups
-3star_achiev :: 3 Sterne in allen Customt Track Cups
+1star_achiev :: 1 Stern in allen Custom Track Cups
+3star_achiev :: 3 Sterne in allen Custom Track Cups
 10pts_msn_achiev :: 10 Punkte in allen Missionen
 5000vr_achiev :: 5000 VR in CTWW
 blue_coin_achiev :: Alle Blauen Münzen eingesammelt
