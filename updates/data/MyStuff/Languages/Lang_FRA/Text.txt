@@ -385,5 +385,5 @@ choose_lobby :: Choisissez un groupe :\n\n- Public : Jouez avec d'autres joueurs
 enter_lobby_code :: Entrez l'identifiant de groupe.\nPartagez l'ID de groupe avec qui vous voulez jouer ! :: L'identifiant est trop court.
 
 #Proximity Chat
-proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
-proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727
+proximity_chat :: Chat de proximité :: (Appuyez sur \uE002 pour alterner)
+proximity_chat_desc :: Connectez le client du chat de proximité.\nEn savoir plus: pastebin.com/ZPQs0FWR\n\nAdresse du serveur : %s\nAppuyez sur \uE001 pour annuler. :: Une erreur est survenue.\nAppuyez sur \uE001 pour quitter.

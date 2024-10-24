@@ -385,5 +385,5 @@ choose_lobby :: Wähle Online-Lobby aus:\n\n- Public: Spiele mit anderen CTGP-7 
 enter_lobby_code :: Geb Code der Privaten Lobby ein.\nTeile diesen Code mit anderen Spielern um zusammen zu spielen! :: Lobby Code ist zu kurz.
 
 #Proximity Chat
-proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
-proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727
+proximity_chat :: Proximity-Chat :: (zum Umschalten \uE002 drücken)
+proximity_chat_desc :: Bitte verbinden Sie den Proximity-Chat-Client.\nWeitere Informationen:\npastebin.com/ZPQs0FWR\n\nServeradresse: %s\nDrücken Sie \uE001, um abzubrechen. :: Ein Fehler ist aufgetreten.\nDrücken Sie \uE001, um zu beenden.

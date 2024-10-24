@@ -386,7 +386,7 @@ enter_lobby_code :: Enter private lobby code.\nShare this code with others to pl
 
 #Proximity Chat
 proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
-proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727
+proximity_chat_desc :: Please connect the proximity chat client.\nLearn more: pastebin.com/ZPQs0FWR\n\nServer address: %s\nPress \uE001 to cancel. :: An error has occurred.\nPress \uE001 to exit.
 
 #Characters
 $1000 :: Mario

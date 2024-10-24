@@ -385,5 +385,5 @@ choose_lobby :: Escolha o tipo de sala:\n\n- Público: Joga com outros jogadores
 enter_lobby_code :: Introduza o código de sala privada.\nCompartilhe este código com outros\npara jogar juntos! :: O código de sala está muito curto.
 
 #Proximity Chat
-proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
-proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727
+proximity_chat :: Chat de proximidade :: (pressione \uE002 para ativar)
+proximity_chat_desc :: Ligue o cliente de chat de proximidade. \nMais info: pastebin.com/ZPQs0FWR\n\nEndereço do servidor: %s\nPressione \uE001 para cancelar. :: Ocorreu um erro. \nPressione \uE001 para sair.

@@ -385,5 +385,5 @@ choose_lobby :: Scegli partita online:\n\n- Pubblica: Gioca con gli altri giocat
 enter_lobby_code :: Inserire codice per partita privata.\nCondividi questo codice con gli altri per giocare insieme! :: Il codice partita è troppo corto.
 
 #Proximity Chat
-proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
-proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727
+proximity_chat :: Chat di prossimità :: (premi \uE002 per attivare)
+proximity_chat_desc :: Connetti il ​​client di chat di prossimità.\nUlteriori informazioni:\npastebin.com/ZPQs0FWR\n\nIndirizzo del server: %s\nPremi \uE001 per annullare. :: Si è verificato un errore.\nPremi \uE001 per uscire.

@@ -385,5 +385,5 @@ choose_lobby :: Kies online groep:\n\n- Openbaar: Speel met andere CTGP-7-speler
 enter_lobby_code :: Vul code van privégroep in.\nDeel deze code met anderen om samen te spelen! :: Groepscode is te kort.
 
 #Proximity Chat
-proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
-proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727
+proximity_chat :: Proximity Chat :: (druk op \uE002 om te wisselen)
+proximity_chat_desc :: Maak verbinding met de proximity chatclient.\nMeer informatie: pastebin.com/ZPQs0FWR\n\nServeradres: %s\nDruk op \uE001 om te annuleren. :: Er is een fout opgetreden.\nDruk op \uE001 om af te sluiten.

@@ -308,7 +308,7 @@ OrderH :: 横方向
 OrderV :: 縦方向
 NextRac :: 次のコースを選択してください。\n残りのレース:
 extra_diff :: とてもむずかしい :: EXTREME
-cusitem_notice :: 注意: 場合によってはデフォルトのアイテム（%s）が出る可能性もあります。
+cusitem_notice :: 注意: デフォルトのアイテム（%s）が\n出る可能性もあります。
 item_mega :: 巨大キノコ
 item_fib :: にせアイテムボックス
 
@@ -385,5 +385,5 @@ choose_lobby :: オンラインロビーの選択:\n\n- パブリック: CTGP-7�
 enter_lobby_code :: プライベートロビーコードを入力してください。\nこのコードを他のユーザーに共有して、一緒にプレイしてください！ :: ロビーコードが短すぎます。
 
 #Proximity Chat
-proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
-proximity_chat_desc :: Enter proximity chat client address.\n(Press \uE001 to cancel.)\n\nLearn more: pastebin.com/ZPQs0FWR :: Invalid address.\nExample: 127.0.0.1:2727
+proximity_chat :: 近接チャット :: (\uE002で切り替え)
+proximity_chat_desc :: Please connect the proximity chat client.\nLearn more: pastebin.com/ZPQs0FWR\n\nServer address: %s\nPress \uE001 to cancel. :: An error has occurred.\nPress \uE001 to exit.

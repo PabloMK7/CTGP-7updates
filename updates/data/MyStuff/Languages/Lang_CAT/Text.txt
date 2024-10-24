@@ -386,7 +386,7 @@ enter_lobby_code :: Introdueix codi de lobby privat.\nComparteix aquest codi amb
 
 #Proximity Chat
 proximity_chat :: Xat de proximitat :: (pulsa \uE002 per activar)
-proximity_chat_desc :: Introduïx l'adreça del client de xat de proximitat.\n\n(Prem \uE001 per cancel·lar.)\n\nMés info: pastebin.com/ZPQs0FWR :: Direcció invàlida.\nExample: 127.0.0.1:2728
+proximity_chat_desc :: Connecta el client de xat de proximitat.\nMés info: pastebin.com/ZPQs0FWR\n\nAdreça del servidor: %s\nPrem \uE001 per cancel·lar. :: S'ha produït un error.\nPrem \uE001 per sortir.
 
 #Characters
 $1000 :: Mario
