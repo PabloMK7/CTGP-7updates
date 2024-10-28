@@ -93,7 +93,7 @@ $700023 :: Copa Moneda
 $710094 :: Desert Doge
 $710095 :: \uE022\uE023 Moll Embruixat
 $710096 :: \uE026\uE027 Circuit Mario
-$710073 :: Cumpleanys de Miku 2
+$710073 :: Aniversari de Miku 2
 
 #Rainbow Cup
 $700017 :: Copa Arc de Sant Martí
@@ -383,6 +383,10 @@ blue_coin_nocc :: Les monedes blaves no\nes poden obtenir amb el\nselector de CC
 lobby_type :: Lobby públic :: Lobby privat
 choose_lobby :: Trieu el tipus de lobby en línia:\n\n- Públic: Juga amb altres jugadors de CTGP-7.\n- Privat: Juga amb altres jugadors en privat.\n\nNOTA: S'usarà el VR vanilla en lobbies privats.
 enter_lobby_code :: Introdueix codi de lobby privat.\nComparteix aquest codi amb altres\nper jugar junts! :: El codi de lobby és massa curt.
+
+#Proximity Chat
+proximity_chat :: Xat de proximitat :: (pulsa \uE002 per activar)
+proximity_chat_desc :: Connecta el client de xat de proximitat.\nMés info: pastebin.com/ZPQs0FWR\n\nAdreça del servidor: %s\nPrem \uE001 per cancel·lar. :: S'ha produït un error.\nPrem \uE001 per sortir.
 
 #Characters
 $1000 :: Mario

@@ -383,3 +383,7 @@ blue_coin_nocc :: Las monedas azules no\nse pueden obtener con el\nselector de C
 lobby_type :: Lobby público :: Lobby privado
 choose_lobby :: Elige el tipo de lobby en línea:\n\n- Público: Juega con otros jugadores de CTGP-7.\n- Privado: Juega con otros jugadores en privado.\n\nNOTA: Se usará el VR vanilla en lobbies privados.
 enter_lobby_code :: Introduce código de lobby privado.\n¡Comparte este código con otros\npara jugar juntos! :: El código de lobby es demasiado corto.
+
+#Proximity Chat
+proximity_chat :: Chat de proximidad :: (pulsa \uE002 para activar)
+proximity_chat_desc :: Conecta el cliente de chat de proximidad.\nMás info: pastebin.com/ZPQs0FWR\n\nDirección del servidor: %s\nPulsa \uE001 para cancelar. :: Se ha producido un error.\nPulsa \uE001 para salir.

@@ -377,9 +377,13 @@ blue_coins :: Blaue Münzen
 blue_coins_desc :: Eine blaue Münze wird in jeder Strecke auftauchen. Sammle sie alle, um etwas freizuschalten!
 blue_coin_obtain :: $Blaue Münzen$\neingesammelt :: %d verbleibende\nStrecken
 blue_coin_all :: Alle Münzen wurden eingesammelt.
-blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
+blue_coin_nocc :: Blaue Münzen können nicht\neingesammelt werden während der CC\nselector aktiviert ist
 
 #Lobby
-lobby_type :: Public lobby :: Private lobby
-choose_lobby :: Choose online lobby:\n\n- Public: Play with other CTGP-7 players.\n- Private: Play with other players privately.\n\nNOTE: Vanilla VR will be used in private lobbies.
-enter_lobby_code :: Enter private lobby code.\nShare this code with others to play together! :: Lobby code is too short.
+lobby_type :: Öffentliche Lobby :: Private Lobby
+choose_lobby :: Wähle Online-Lobby aus:\n\n- Public: Spiele mit anderen CTGP-7 Spielern.\n- Private: Spiele privat mit anderen Spielern.\n\nNOTE: Normale VR-Punkte werden in Privaten Lobbys benutzt
+enter_lobby_code :: Geb Code der Privaten Lobby ein.\nTeile diesen Code mit anderen Spielern um zusammen zu spielen! :: Lobby Code ist zu kurz.
+
+#Proximity Chat
+proximity_chat :: Proximity-Chat :: (zum Umschalten \uE002 drücken)
+proximity_chat_desc :: Bitte verbinden Sie den Proximity-Chat-Client.\nWeitere Informationen:\npastebin.com/ZPQs0FWR\n\nServeradresse: %s\nDrücken Sie \uE001, um abzubrechen. :: Ein Fehler ist aufgetreten.\nDrücken Sie \uE001, um zu beenden.

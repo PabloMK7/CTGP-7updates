@@ -33,14 +33,14 @@ $710057 :: \uE031\uE032 Geestenvallei 2
 $710065 :: \uE033 Cheep Cheep-Strand
 
 #Spring Cup
-$700014 :: Springveer-Beker
+$700014 :: Springveerbeker
 $710067 :: \uE033 Tik-Tok-Klok
 $710058 :: Melodieheiligdom
 $710066 :: \uE033 Woestijnheuvels
 $710069 :: Kasteel der Tijd
 
 #Egg Cup
-$700015 :: Ei-Beker
+$700015 :: Eibeker
 $710063 :: \uE033 Yoshi's Watervallen
 $710047 :: \uE022\uE023 Chocoberg
 $710048 :: \uE033 Paddenstoelenklif
@@ -61,7 +61,7 @@ $710076 :: \uE026\uE027 Luigi's Circuit
 $710077 :: Vulkaanstrandruïnes
 
 #Feather Cup
-$700019 :: Veer-Beker
+$700019 :: Veerbeker
 $710078 :: \uE026\uE027 Yoshi's Circuit
 $710079 :: \uE024\uE025 Peach' Circuit
 $710080 :: Metro-Gekheid
@@ -110,7 +110,7 @@ $710100 :: \uE024\uE025 Kapotte Pier
 $710101 :: Gletsjermijn
 
 #Mega Cup
-$700025 :: Mega-Beker
+$700025 :: Megabeker
 $710102 :: Bloemenbedvesting
 $710103 :: Zeepaleis
 $710104 :: DKR Sterrenstad
@@ -145,7 +145,7 @@ $710120 :: Interstellair Lab
 $710121 :: Donkerematerievesting
 
 #Hammer Cup
-$700030 :: Hamer-Beker
+$700030 :: Hamerbeker
 $710122 :: \uE031\uE032 Donutvlakte 2
 $710123 :: Vliegende Luchtweg
 $710124 :: \uE022\uE023 Bowsers Kasteel
@@ -153,43 +153,43 @@ $710125 :: \uE067 DK's Skipark
 
 #Wonder Cup
 $700031 :: Wonderbeker
-$710126 :: Schilderachtig Moerasracebaan
+$710126 :: Schilderachtige Moerasracebaan
 $710127 :: Roulettebaan
 $710128 :: Ruimtelijke Uitkijkpost
 $710129 :: \uE033 Regenboogbaan
 
 #Save Data
-$7005 :: Extra save data voor CTGP-7\nwordt op de SD kaart gemaakt.
-$7003 :: Extra save data maken...
-$7004 :: Exta save data\nis aangemaakt.
-$7007 :: Mario Kart 7 save data\nbestaat niet, open alsjeblieft\nde game om nieuwe save\ndata te maken.\n\nDruk op de POWER knop.
+$7005 :: Extra opslagdata voor CTGP-7\nwordt op de SD kaart gemaakt.
+$7003 :: Extra opslagdata maken...
+$7004 :: Extra opslagdata\nis aangemaakt.
+$7007 :: Mario Kart 7-opslagdata\nbestaat niet, open alsjeblieft\nhet spel om nieuwe opslag-\ndata te maken.\n\nDruk op de POWER-knop.
 
 #First opening welcome message
 welc_t :: Welkom bij CTGP-7!
-welc_1 :: Hallo daar!\nVanaf het in-game menu\nkan je wat interessante functies gebruiken.\nGebruik de (SELECT) knop\nom het in-game menu te openen
+welc_1 :: Hallo daar!\nVanaf het ingebouwde menu\nkan je wat interessante functies gebruiken.\nGebruik de (SELECT)-knop\nom het ingebouwde menu te openen.
 welc_2 :: Om een functie te gebruiken, plaats je de\ncursor over een item\nen druk je op A om het aan te zetten/te configureren.
-welc_3 :: Sommige functies zoals\n"CC Selectie" zullen uitgeschakeld\nzijn tijdens een online spel.
-welc_4 :: Jouw statistieken zullen worden geüpload \nnaar de CTGP-7 server zodat ze\npubliek beschikbaar zijn\n(Data is geanonimiseerd.)\nJe kan het uploaden van statistieken\nvanuit het ingame menu uitzetten.
-welc_5 :: Bij het gebruik van CTGP-7 Network,\nga je akkoord met de regels.\n\nJe kan ze hier lezen:\nctgp-7.github.io/ctww.html
-welc_6 :: Vergeet niet de CTGP-7\nDiscord server te bekijken!!\n\nUitnodigingslink:\ninvite.gg/ctgp7
+welc_3 :: Sommige functies zoals\n"cc-selector" zullen uitgeschakeld\nzijn tijdens een online race.
+welc_4 :: Jouw statistieken zullen worden geüpload \nnaar de CTGP-7 server zodat ze\nopenbaar beschikbaar zijn\n(Data is geanonimiseerd.)\nJe kan het uploaden van statistieken\nvanuit het ingebouwde menu uitzetten.
+welc_5 :: Bij gebruik van het CTGP-7-netwerk\nga je akkoord met de regels.\n\nJe kan ze hier lezen:\nctgp-7.github.io/ctww.html
+welc_6 :: Vergeet niet de CTGP-7\nDiscord-server te bekijken!\n\nUitnodigingslink:\ninvite.gg/ctgp7
 welc_7 :: We hopen dat je de mod leuk vind!\n^w^
 
 #Achievements
-achiev_all_gold :: Je hebt een gouden trofee\nbehaald in alle custom bekers.\n\nGefeliciteerd!
-achiev_all_1star :: Je hebt 1 ster\nin alle custom bekers.\n\nGefeliciteerd!
-achiev_all_3star :: Je hebt 3 sterren\nin alle custom bekers.\n\nGefeliciteerd!
+achiev_all_gold :: Je hebt een gouden trofee\nbehaald in alle nieuwe bekers.\n\nGefeliciteerd!
+achiev_all_1star :: Je hebt 1 ster\nin alle nieuwe bekers.\n\nGefeliciteerd!
+achiev_all_3star :: Je hebt 3 sterren\nin alle nieuwe bekers.\n\nGefeliciteerd!
 achiev_all_mission :: Je hebt 10 punten\nin alle missies.\n\nGefeliciteerd!
-achiev_5000_vr :: Je hebt 5000 VR\nin custom bekers wereldwijd.\n\nGefeliciteerd!
-achiev_blue_coin :: Je hebt alle Blauwe\n munten verzameld! \n\n Gefeliciteerd!
+achiev_5000_vr :: Je hebt 5000 rp.\nin CTWW.\n\nGefeliciteerd!
+achiev_blue_coin :: Je hebt alle blauwe\n munten verzameld! \n\n Gefeliciteerd!
 unlocked_item :: Je hebt vrijgespeeld:\n\n
 types_achievs :: Normale prestaties :: Speciale prestaties
-gold_tro_achiev :: Goud bij alle custom circuit cups
-1star_achiev :: 1 ster bij alle custom bekers
-3star_achiev :: 3 Sterren bij alle custom bekers
-10pts_msn_achiev :: 10 Punten bij alle missies
-5000vr_achiev :: 5000RC in CTWW
+gold_tro_achiev :: Goud bij alle nieuwe bekers
+1star_achiev :: 1 ster bij alle nieuwe bekers
+3star_achiev :: 3 sterren bij alle nieuwe bekers
+10pts_msn_achiev :: 10 punten bij alle missies
+5000vr_achiev :: 5000 rp. in CTWW
 blue_coin_achiev :: Alle blauwe munten verzameld
-custom_track_cups :: Custom Circuit Cups
+custom_track_cups :: Nieuwe bekers
 tro_gold :: Goud
 tro_1star :: 1 Ster
 tro_3star :: 3 Sterren
@@ -206,11 +206,11 @@ chng :: Veranderen
 custom :: Aangepast
 page :: Pagina
 race_noun :: Race
-state_mode :: Aan :: Uit
-state_inf :: Zet aan :: Zet uit
+state_mode :: Ingeschakeld :: Uitgeschakeld
+state_inf :: Schakel in :: Schakel uit
 allow_inf :: Toestaan :: Weigeren
 valid_inf :: Geldig :: Ongeldig
-num_betw :: Nummer moet tussen %d en %d zitten.
+num_betw :: Nummer moet tussen %d en %d in zitten.
 settings :: Instellingen
 exit :: Terug
 default :: Standaard
@@ -224,18 +224,18 @@ other_folder :: Andere opties :: Andere opties en functies.
 
 #Entries
 spdmeter :: Snelheidsmeter :: Laat een snelheidsmeter zien rechstonder op het bovenste scherm.
-ccsel :: CC selectie :: Zet de huidige CC op een andere waarde (moet aanstaan vóór het starten van een race).
-itemled :: Waarschuw voor voorwerpen met LED :: De notificatie LED knippert blauw wanneer een Blauw Schild is gebruikt en geel wanneer Bliksem wordt gebruikt.
-backcam :: Achteruit kijken :: Druk op \uE002 om te zien wat er achter je zit, net zoals in andere Mario Kart spellen! (De \uE002 knop zal geen voorwerpen meer gebruiken)
-charman :: Karakter-manager :: Wissel tussen de originele en nieuwe karakters.
-cuskart :: Nieuwe karts :: Laad nieuwe karts van de MyStuff map.
+ccsel :: cc-selectie :: Zet de huidige cc op een andere waarde (moet ingeschakeld zijn vóór het starten van een race).
+itemled :: Waarschuw voorwerpen met led :: De led-verlichting knippert blauw wanneer een Spiny-schild is gebruikt en geel wanneer Bliksem wordt gebruikt.
+backcam :: Achteruitkijken :: Druk op \uE002 om te zien wat er achter je zit, net zoals in andere Mario Kart-spellen! (Merk op: de \uE002-knop zal geen voorwerpen meer gebruiken.)
+charman :: Coureurmanager :: Wissel tussen de originele en nieuwe coureurs.
+cuskart :: Nieuwe karts :: Laad nieuwe karts van de MyStuff-map.
 trackorder :: Online circuitvolgorde :: Kies in welke volgorde de circuits in bekers online zitten.
 itmprb :: Verbeterde voorwerproulette :: Laat de echte voorwerpkansen zien op de voorwerproulette in plaats van willekeurige voorwerpen.
-imtrick :: Verbeterde springboosts ::  Karts gaan draaien tijdens een truc op een boost ramp. Gebruik de \uE077 Circle Pad om de draairichting te veranderen.
+imtrick :: Verbeterde springboosts ::  Karts gaan draaien tijdens een trucje op een schans. Gebruik de \uE077 draaiknop om de draairichting te veranderen.
 autoaccel :: Auto-Acceleratie :: Wanneer op \uE000 of \uE003 wordt gedrukt, wordt auto-acceleratie aangezet totdat op \uE001 wordt gedrukt.
-imbrakedrift :: Verbeterde Rem-Drift :: Druk op \uE001 tijdens het driften om te remmen zonder jouw mini-turbo te verliezen.
-autodelaydrift :: Automatische "Delay Drift" :: Helpt voorkomen dat de kart snelheid verliest wanneer hij begint te driften.
-achieventry :: Prestaties :: Bekijk je voortgang van CTGP-7 prestaties.
+imbrakedrift :: Verbeterde Rem-Drift :: Druk op \uE001 tijdens het driften om te remmen zonder een miniturbo te verliezen.
+autodelaydrift :: Automatische "Delay Drift" :: Helpt voorkomen dat de kart snelheid verliest wanneer deze begint te driften.
+achieventry :: Prestaties :: Bekijk je voortgang van CTGP-7-prestaties.
 
 #Speedometer text
 spd_set :: Opties snelheidsmeter.
@@ -247,16 +247,16 @@ spd_types1 :: Digitaal :: Analoog
 spd_types2 :: Double Dash
 
 #CC Selector text
-cc_set :: Opties CC selectie.
+cc_set :: Opties cc-selectie.
 cc_val :: Waarde
-cc_entv :: Voer een nieuwe CC waarde in.
+cc_entv :: Voer een nieuwe cc-waarde in.
 cc_chgv :: Verander waarde
 
 #Course Manager
 track_ct :: Custom Tracks
 track_ori :: Originele Circuits
-ct_endis :: Custom tracks aangezet :: Custom tracks uitgezet
-ori_endis :: Originele circuits aangezet :: Originele circuits uitgezet
+ct_endis :: Custom tracks ingeschakeld :: Custom tracks uitgeschakeld
+ori_endis :: Originele circuits ingeschakeld :: Originele circuits uitgeschakeld
 
 #Community Code Generator
 def_spd :: Standaard snelheid
@@ -266,15 +266,15 @@ cusitem :: Custom voorwerpen
 
 #Change Round Number
 chgrnd :: Verander aantal rondes :: Verandert het aantal rondes in races en gevechten.
-chgrnd_desc :: Selecteer het aantal rondes\ndat je in VS races of gevechten wilt spelen.\nWerkt niet in Download Play.\nIn lokale multiplayer moet iedereen\ndezelfde instellingen hebben.
+chgrnd_desc :: Selecteer het aantal rondes\ndat je in VS races of gevechten wilt spelen.\nMerk op: werkt niet met Download Play.\nIn lokale Multiplayer moet iedereen\ndezelfde instellingen hebben.
 rounds :: Rondes
 rnd_sel :: Selecteer het aantal rondes.
 
 #Enhanced Local Map
-enhmap :: Aangepaste Lokale Minimap :: Voegt inzoomen toe aan het onderste scherm door middel van het \uE058 touchscreen.
+enhmap :: Aangepaste lokale kaart :: Voegt inzoomen toe aan het onderste scherm door middel van het \uE058 touchscreen.
 
 #Custom character manager text
-char_select :: Selecteer een karakter om te configureren.
+char_select :: Selecteer een coureur om te configureren.
 reboot_req :: Opnieuw opstarten vereist om veranderingen toe te passen.
 face_raider_sel :: Selecteer een gezicht
 authors :: Auteurs
@@ -288,64 +288,64 @@ autoaccel_button :: Selecteer de knop die auto-\nacceleratie activeert.
 
 #Online update check
 update_check :: Zoeken naar updates... :: De nieuwste versie van CTGP-7\nis nodig om online te spelen.
-fail_conn :: Kon niet verbinden\nmet de CTGP-7 server\n\nProbeer het later opnieuw.
+fail_conn :: Kon niet verbinden\nmet de CTGP-7-server.\n\nProbeer het later opnieuw.
 
 #CTWW
 cntdwn :: Countdown
 ctww :: CTWW
-vr :: RP
-CTWWtog :: Wil je Custom Tracks Wereldwijd aanzetten? :: Wil je Custom Tracks Wereldwijd uitzetten?
+vr :: rp.
+CTWWtog :: Wil je CTWW inschakelen? :: Wil je CTWW uitschakelen?
 
 #VS Mode
 VSSet :: VS Instellingen
 CourOrd :: Circuitvolgorde
 RacAm :: Aantal races
-CpuAm :: CPU Spelers
+CpuAm :: CPU-spelers
 RanCT :: Willekeurig (CTs)
 RanOri :: Willekeurig (Origineel)
 RanAll :: Willekeurig (Alle)
 OrderH :: Horizontale volgorde
 OrderV :: Verticale volgorde
-NextRac :: Selecteer volgende circuit.\nOvergebleven races:
+NextRac :: Selecteer volgende circuit.\nRaces te gaan:
 extra_diff :: Erg Moeilijk :: EXTREEM
-cusitem_notice :: Het standaard voorwerp (%s) zal in sommige gevallen toch voor kunnen komen.
+cusitem_notice :: Merk op: Het standaard voorwerp (%s) zal in sommige gevallen toch voor kunnen komen.
 item_mega :: Megapaddenstoel
-item_fib :: Fake Item Box
+item_fib :: Nep-blok
 
 #Reset Ghosts
-resghost :: Reset spook :: Staat het resetten van het spook toe op elk circuit.
-ghostseltrack :: Selecteer het circuit waarvan het spook moet worden gereset:
-ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :: Het spook is gereset.
+resghost :: Reset ghost :: Staat het resetten van een ghost toe op elk circuit.
+ghostseltrack :: Selecteer het circuit waarvan de ghost moet worden gereset:
+ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :: De ghost is gereset.
 
 #Server Settings
 servsett :: Serverinstellingen :: CTGP-7 server-gerelateerde instellingen
 serv_consID :: CTGP-7 ConsoleID
 serv_statsupl :: Statistieken uploaden
-serv_displname :: Namen tonen :: Selecteer de modus voor het tonen van\nnamen.
+serv_displname :: Naam weergeven :: Selecteer de modus voor het tonen van\njouw naam.
 serv_disphid :: Verborgen
-serv_dispmii :: Mii Naam
+serv_dispmii :: Mii-naam
 serv_dispcust :: Voer aangepaste naam in. :: Naam kan maar 15\nkarakters lang zijn.
 
 #Statistics
-statsentry :: Lokale statistieken :: Kijk hier je CTGP-7 statistieken na.
+statsentry :: Lokale statistieken :: Kijk hier je CTGP-7-statistieken na.
 stats_tpl :: Keren gespeeld
 stats_tot :: Totale offline races :: Totale online races
 stats_vnll :: Origineel
 stats_most :: Meest gespeelde circuits :: Meest gespeelde arenas
-stats_rpoints :: Race punten
+stats_rpoints :: Racepunten
 
 #Discord
-disc_info :: Discordinformatie
-disc_notlink :: Deze console is niet gelinkt\nmet een Discord account.\n\nWil je een account linken?
-disc_linksteps1 :: Volg deze stappen om\neen Discord account te linken:
-disc_linksteps2 :: 1. Ga naar de CTGP-7 Discord server.\n(Link: invite.gg/ctgp7)
-disc_linksteps3 :: 2. Ga naar het \#bots kanaal
+disc_info :: Discord-informatie
+disc_notlink :: Deze console is niet gekoppeld\naan een Discord-account.\n\nWil je een account koppelen?
+disc_linksteps1 :: Volg deze stappen om\neen Discord-account te koppelen:
+disc_linksteps2 :: 1. Ga naar de CTGP-7 Discord-server.\n(Link: invite.gg/ctgp7)
+disc_linksteps3 :: 2. Ga naar het \#bots-kanaal.
 disc_linksteps4 :: 3. Stuur het volgende bericht:
 disc_data :: Account :: Gebruikersnaam
-disc_beta :: Komt in aanmerking voor privé bèta testen. :: Komt niet in aanmerking voor privé bèta testen.
+disc_beta :: Komt in aanmerking voor privé bètatesten. :: Komt niet in aanmerking voor privé bètatesten.
 
 #Render Optimizations
-render_optim :: Weergaven Optimalizaties :: Zet 3D Modus uit op het bovenste scherm, en zet de New 3DS CPU-verbeteringen aan.
+render_optim :: Renderoptimaliseringen :: Schakelt 3D-modus op het bovenste scherm uit en schakelt de New 3DS CPU-verbeteringen in.
 
 #Missions
 ms_miss :: Missies
@@ -356,7 +356,7 @@ ms_gradelim :: Max. Rang :: Min. Rang
 ms_timescor :: Tijd :: Score
 ms_failed :: Missie gefaald!
 ms_nodata :: Geen data
-ms_delsave :: (Verwijder Save: \uE002) :: Verwijder de save data van deze missie?
+ms_delsave :: (Verwijder data: \uE002) :: Verwijder data van deze missie?
 msstat_msnplay :: Missies gespeeld
 msstat_state :: Voltooid :: Gefaald
 msstat_perfgrad :: (met perfecte rang)
@@ -366,20 +366,24 @@ msstat_usermsn :: Eigen missies
 course_check :: Circuit Checksum
 
 #Custom Server
-server_name :: Nintendo Network :: CTGP-7 Network
+server_name :: Nintendo-netwerk :: CTGP-7-netwerk
 server_choice :: Selecteer een onlineserver:\n\n%s:\n    - Alleen voor CTGP-7-spelers\n    - CTWW en originele circuits\n    - Sterke anti-cheat\n%s:\n    - Voor alle MK7-spelers\n    - Originele circuits en community's\n    - Zwakke anti-cheat
-server_ctgp7_conn :: Bezig verbinding te maken\nmet CTGP-7 Network...
-server_ctgp7_dconn :: Wil je de verbinding met\nCTGP-7 Network verbreken?
-server_ctgp7_nocomm :: Community's zijn niet beschikbaar\nin het CTGP-7 Network.
+server_ctgp7_conn :: Bezig verbinding te maken\nmet het CTGP-7-netwerk...
+server_ctgp7_dconn :: Wil je de verbinding met\nhet CTGP-7-netwerk verbreken?
+server_ctgp7_nocomm :: Community's zijn niet beschikbaar\nin het CTGP-7-netwerk.
 
 #Blue Coins
 blue_coins :: Blauwe munten
 blue_coins_desc :: Een blauwe munt zal verschijnen op elk circuit. Verzamel ze allemaal om iets te ontgrendelen!
 blue_coin_obtain :: $Blauwe munt$\nverzameld! :: %d circuits \n te gaan.
-blue_coin_all :: Alle munten \nzijn verzameld
-blue_coin_nocc :: Blauwe munten kunnen niet\nworden verzameld met de\nCC-selector ingeschakeld.
+blue_coin_all :: Alle munten \nzijn verzameld!
+blue_coin_nocc :: Blauwe munten kunnen niet\nworden verzameld met \ncc-selectie ingeschakeld.
 
 #Lobby
-lobby_type :: Public lobby :: Private lobby
-choose_lobby :: Choose online lobby:\n\n- Public: Play with other CTGP-7 players.\n- Private: Play with other players privately.\n\nNOTE: Vanilla VR will be used in private lobbies.
-enter_lobby_code :: Enter private lobby code.\nShare this code with others to play together! :: Lobby code is too short.
+lobby_type :: Openbare groep :: Privégroep
+choose_lobby :: Kies online groep:\n\n- Openbaar: Speel met andere CTGP-7-spelers.\n- Privé: Speel met andere spelers in het privé.\n\nMerk op: originele RP wordt gebruikt in privégroepen.
+enter_lobby_code :: Vul code van privégroep in.\nDeel deze code met anderen om samen te spelen! :: Groepscode is te kort.
+
+#Proximity Chat
+proximity_chat :: Proximity Chat :: (druk op \uE002 om te wisselen)
+proximity_chat_desc :: Maak verbinding met de proximity chatclient.\nMeer informatie: pastebin.com/ZPQs0FWR\n\nServeradres: %s\nDruk op \uE001 om te annuleren. :: Er is een fout opgetreden.\nDruk op \uE001 om af te sluiten.

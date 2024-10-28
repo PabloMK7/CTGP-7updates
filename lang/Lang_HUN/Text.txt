@@ -384,6 +384,10 @@ lobby_type :: Public lobby :: Private lobby
 choose_lobby :: Choose online lobby:\n\n- Public: Play with other CTGP-7 players.\n- Private: Play with other players privately.\n\nNOTE: Vanilla VR will be used in private lobbies.
 enter_lobby_code :: Enter private lobby code.\nShare this code with others to play together! :: Lobby code is too short.
 
+#Proximity Chat
+proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
+proximity_chat_desc :: Please connect the proximity chat client.\nLearn more: pastebin.com/ZPQs0FWR\n\nServer address: %s\nPress \uE001 to cancel. :: An error has occurred.\nPress \uE001 to exit.
+
 #Characters
 $1000 :: Mario
 $1001 :: Luigi
@@ -507,12 +511,12 @@ $1602 :: Cheep Cheep-fok
 $1603 :: Alpesi-szoros
 $1604 :: Toad pálya
 $1605 :: Shy Guy bazár
-$1606 :: Wuhu-sziget körút
+$1606 :: Wuhu-szigeti körút
 $1607 :: Wario vitorlása
 $1608 :: Piranhanövény csatorna
 $1609 :: Dallamos autópálya
 $1610 :: Koopa város
-$1611 :: Wuhu-hegy körút
+$1611 :: Wuhu-hegyi körút
 $1612 :: DK-dzsungel
 $1613 :: Rosalina jégvilága
 $1614 :: Bowser vára
@@ -537,7 +541,7 @@ $1714 :: \uE022\uE023 Koopa katona-part
 $1715 :: \uE031\uE032 Szivárvány út
 
 #Balloon battle tracks
-$1800 :: Mézesméz ház
+$1800 :: Mézesméz-ház
 $1801 :: Sörbet korcsolyapálya
 $1802 :: Wuhufalva
 $1803 :: \uE024\uE025 Csatapálya 1

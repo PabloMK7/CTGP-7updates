@@ -180,7 +180,7 @@ achiev_all_1star :: 모든 커스텀 컵에서\n별 1개를 얻었습니다.\n\n
 achiev_all_3star :: 모든 커스텀 컵에서\n별 3개 얻었습니다.\n\n축하드립니다!
 achiev_all_mission :: 모든 미션에서\n10점를 얻었습니다.\n\n축하드립니다!
 achiev_5000_vr :: CTWW에서\n5000 VR에 도달했습니다.\n\n축하드립니다!
-achiev_blue_coin :: You have collected\nall blue coins!\n\nCongratulations!
+achiev_blue_coin :: 블루코인 을\n 모두 모았습니다!\n\n축하합니다!
 unlocked_item :: 잠금 해제됨:\n\n
 types_achievs :: 일반 도전과제 :: 스페셜 도전과제
 gold_tro_achiev :: 모든 커스텀컵 1등
@@ -215,7 +215,7 @@ settings :: 설정
 exit :: 나가기
 default :: 기본 설정
 button :: 버튼
-summary :: Summary
+summary :: 요약
 
 #Folders
 gameplay_folder :: 게임플레이 기능 :: 추가적인 게임플레이 기능에 대한 설정.
@@ -235,7 +235,7 @@ imtrick :: 점프 트릭 개선 :: 카트가 점프대 위에서 트릭을 할 �
 autoaccel :: 자동 가속 :: \uE000나 \uE003를 누르면 \uE001이 눌러질 때까지 자동으로 가속합니다.
 imbrakedrift :: 브레이크 드리프트 개선 :: \uE001을 드리프트 중에 눌러서 미니 터보를 잃지 않고 브레이크를 할 수 있습니다.
 autodelaydrift :: 자동 딜레이 드리프트 :: 드리프트를 시작할 때 속도를 잃는 것을 방지하게 돕습니다.
-achieventry :: Achievements :: Check the progress on CTGP-7 achievements.
+achieventry :: 업적 :: CTGP-7 업적 진행 상황 보기.
 
 #Speedometer text
 spd_set :: 속도계 설정
@@ -381,9 +381,9 @@ blue_coin_nocc :: CC선택자가 활성화되어 있다면,\n블루코인을 가
 
 #Lobby
 lobby_type :: 공개 방 :: 비공개 방
-choose_lobby :: Choose online lobby:\n\n- Public: Play with other CTGP-7 players.\n- Private: Play with other players privately.\n\nNOTE: Vanilla VR will be used in private lobbies.
-enter_lobby_code :: Enter private lobby code.\nShare this code with others to play together! :: Lobby code is too short.
+choose_lobby :: 온라인 로비 선택:\n\n- 공개: 다른 CTGP-7 플레이어와 플레이하세요.\n- 비공개: 다른 플레이어와 비공개로 플레이하세요.\n\n메모: 마리오 카트 7 VR은 개인 로비에서 사용됩니다.
+enter_lobby_code :: 비공개 로비 코드를 입력해 주세요.\n이 코드를 다른 사람들과 공유하여 함께 플레이해 보세요! :: 로비 코드가 너무 짧습니다.
 
 #Proximity Chat
-proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
-proximity_chat_desc :: Please connect the proximity chat client.\nLearn more: pastebin.com/ZPQs0FWR\n\nServer address: %s\nPress \uE001 to cancel. :: An error has occurred.\nPress \uE001 to exit.
+proximity_chat :: 근접채팅 :: (\uE002로 전환하기)
+proximity_chat_desc :: 근접채팅 클라이언트를 연결해 주세요.\n더 자세히 알아보기: pastebin.com/ZPQs0FWR\n\n서버의주소: %s\n취소하려면 \uE001를 누르세요. :: 에러가 발생했습니다.\n돌아가려면 \uE001를 누르세요.

@@ -12,7 +12,7 @@ $710044 :: Chutes Galvarny
 $710045 :: \uE024\uE025 Jardin Volant
 
 #Acorn Cup
-$700011 :: Coupe Noisette
+$700011 :: Coupe Gland
 $710046 :: Forêt Automnale
 $710068 :: \uE024\uE025 Riverside Parc
 $710043 :: \uE031\uE032 Circuit Mario 1
@@ -70,7 +70,7 @@ $710081 :: \uE024\uE025 Circuit Luigi
 #Fire Cup
 $700020 :: Coupe Boule de Feu
 $710082 :: SMO Défi Voiture Télé.
-$710083 :: \uE024\uE025 Château de Bowser 4
+$710083 :: \uE024\uE025 Château Bowser 4
 $710084 :: RMX Plaine Donut 1
 $710085 :: Glissade Secrète
 
@@ -162,34 +162,34 @@ $710129 :: \uE033 Route Arc-en-ciel
 $7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 $7003 :: Création du fichier\nde sauvegarde...
 $7004 :: Le fichier de sauvegarde\na été créé.
-$7007 :: Les données de sauvergarde\n de Mario Kart 7 n'existent\npas, veuillez lancer le jeu pour\n générer les données de sauvegarde.\nAppuyez sur le bouton POWER.
+$7007 :: Les données de sauvergarde\nde Mario Kart 7 n'existent\npas, veuillez lancer le jeu pour\ngénérer les données de sauvegarde.\nAppuyez sur le bouton POWER.
 
 #First opening welcome message
 welc_t :: Bienvenue sur CTGP-7 !
 welc_1 :: Salut ! Depuis le menu du jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir ce menu,\nappuyez sur (SELECT).
 welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
-welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme le\n"Sélécteur de CC", seront\ndésactivées en ligne.
+welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme\n"Changer de (cc)", seront\ndésactivées en ligne.
 welc_4 :: Vos statistiques seront envoyées\nsur le serveur CTGP-7 et seront\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi des\nstatistiques depuis le menu du jeu.
 welc_5 :: En utilisant CTGP-7 Network,\nvous acceptez ses règles.\n\nVous pouvez les consulter ici :\nctgp-7.github.io/ctww.html
 welc_6 :: N'oubliez pas de jeter un coup\nd'œil au serveur discord CTGP-7 !\n\nLien d'invitation :\ninvite.gg/ctgp7
 welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
 
 #Achievements
-achiev_all_gold :: Vous avez obtenu un trophée\ndoré dans toutes les\ncoupes personnalisées.\n\nFélicitations !
-achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes personnalisées.\n\nFélicitations !
-achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes personnalisées.\n\nFélicitations !
+achiev_all_gold :: Vous avez obtenu un trophée\ndoré dans toutes les\ncoupes additionnelles.\n\nFélicitations !
+achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes additionnelles.\n\nFélicitations !
+achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes additionnelles.\n\nFélicitations !
 achiev_all_mission :: Vous avez obtenu dix points\ndans toutes les missions.\n\nFélicitations !
-achiev_5000_vr :: Vous avez atteint 5000 PC dans CTWW.\n\nFélicitations !
-achiev_blue_coin :: Vous avez obtenu\ntoutes les pièces bleues!\n\nFélicitations!
+achiev_5000_vr :: Vous avez atteint 5000 PC\nen Custom Tracks Mondial.\n\nFélicitations !
+achiev_blue_coin :: Vous avez obtenu\ntoutes les pièces bleues !\n\nFélicitations !
 unlocked_item :: Vous avez obtenu :\n\n
 types_achievs :: Succès normaux :: Succès spéciaux
-gold_tro_achiev :: Trophée Or dans toutes les coupes circuits customisés
-1star_achiev :: 1 étoile sur toutes les coupes circuits customisés
-3star_achiev :: 3 étoiles sur toutes les coupes circuits customisés
+gold_tro_achiev :: Trophée Or dans toutes les coupes des custom tracks
+1star_achiev :: 1 étoile sur toutes les coupes des custom tracks
+3star_achiev :: 3 étoiles sur toutes les coupes des custom tracks
 10pts_msn_achiev :: 10 points dans toutes les missions
-5000vr_achiev :: 5000PC dans CTWW
+5000vr_achiev :: 5000PC en Custom Tracks Mondial
 blue_coin_achiev :: Toutes les pièces bleues obtenues
-custom_track_cups :: Coupes Circuits Customisés
+custom_track_cups :: Coupes Custom Tracks
 tro_gold :: Or
 tro_1star :: 1 Étoile
 tro_3star :: 3 Étoiles
@@ -224,7 +224,7 @@ other_folder :: Paramètres supplémentaires :: Paramètres contrôlant d'autres
 
 #Entries
 spdmeter :: Compteur de vitesse :: Affiche un compteur de vitesse en bas à droite sur l'écran supérieur.
-ccsel :: Changer de classe (cc):: Règle la classe à la valeur souhaitée. (Elle doit être activée avant de commencer une course.)
+ccsel :: Changer de cylindrée (cc) :: Règle la cylindrée à la valeur souhaitée. (Elle doit être activée avant de commencer une course.)
 itemled :: Signaler les objets avec le témoin lumineux :: Le témoin lumineux de notification clignotera en bleu quand une carapace à épine est utilisée et en jaune lorsqu'un éclair est utilisé.
 backcam :: Vue arrière :: Appuyez sur \uE002 pour regarder derrière vous, comme dans les autres Mario Kart ! (Notez que vous ne pourrez plus utiliser ce même bouton pour utiliser vos objets.)
 charman :: Gestionnaire des personnages :: Choisissez entre les personnages par défaut et personnalisés.
@@ -253,9 +253,9 @@ cc_entv :: Entrez une nouvelle valeur de cylindrée.
 cc_chgv :: Modifier la valeur
 
 #Course Manager
-track_ct :: Circuits customisés
+track_ct :: Custom Tracks
 track_ori :: Circuits originaux
-ct_endis :: Les circuits customisés sont activés :: Les circuits customisés sont désactivés
+ct_endis :: Les Custom Tracks sont activés :: Les Custom Tracks sont désactivés
 ori_endis :: Les circuits originaux sont activés :: Les circuits originaux sont désactivés
 
 #Community Code Generator
@@ -265,10 +265,10 @@ code :: Code
 cusitem :: Objets customisés
 
 #Change Round Number
-chgrnd :: Changer le nombre de manches :: Change le nombre des manches dans les modes Course VS et Bataille.
+chgrnd :: Changer le nombre de manches :: Change le nombre de manche dans les modes Course VS et Bataille.
 chgrnd_desc :: Sélectionnez le nombre de manches à\njouer en mode Course VS ou Bataille.\n(Notez que ceci ne fonctionne pas en\nmode téléchargement. En multijoueur local,\ntout le monde doit avoir les mêmes\nparamètres.)
 rounds :: Manches
-rnd_sel :: Choisissez le nombre de manches souhaité.
+rnd_sel :: Choisissez le nombre de manches souhaitées.
 
 #Enhanced Local Map
 enhmap :: Carte améliorée :: Ajoute une option de zoom pour la carte en touchant \uE058 l'écran tactile.
@@ -291,7 +291,7 @@ update_check :: Vérification des mises à jour... :: La dernière version de CT
 fail_conn :: Impossible de vous connecter\naux serveurs CTGP-7.\nRéessayez plus tard.
 
 #CTWW
-cntdwn :: Compte à rebours
+cntdwn :: Countdown
 ctww :: CTWW
 vr :: PC
 CTWWtog :: Souhaitez-vous activer les\nCustom Tracks en Mondial ? :: Souhaitez-vous désactiver les\nCustom Tracks en Mondial ?
@@ -301,8 +301,8 @@ VSSet :: Paramètres Course VS
 CourOrd :: Ordre des circuits
 RacAm :: Nombre de parties
 CpuAm :: Joueurs IA
-RanCT :: Aléatoire (Custom.)
-RanOri :: Aléatoire (Orig.)
+RanCT :: Aléatoire (Custom)
+RanOri :: Aléatoire (Originaux)
 RanAll :: Aléatoire (Tous)
 OrderH :: Ordre horizontal
 OrderV :: Ordre vertical
@@ -310,12 +310,12 @@ NextRac :: Choisissez le prochain circuit.\nPartie(s) restante(s) :
 extra_diff :: Très difficile :: EXTRÊME
 cusitem_notice :: NOTE : L'objet par défaut (%s) peut apparaître dans certaines situations.
 item_mega :: Méga champignon
-item_fib :: Fausse Boîte à Objets
+item_fib :: Fausse boîte à objets
 
 #Reset Ghosts
 resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantômes de n'importe quel circuit.
-ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitialiser les fantômes :
-ghostcantrecov :: Les données des fantômes de ce circuit vont être effacées. Cette action est irréversible.\nVoulez-vous continuer ? :: Les fantômes de ce circuit ont été réinitialisé avec succès.
+ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitialiser le fantôme :
+ghostcantrecov :: Les données du fantôme de ce circuit vont être effacées. Cette action est irréversible.\nVoulez-vous continuer ? :: Les fantômes de ce circuit ont été réinitialisé avec succès.
 
 #Server Settings
 servsett :: Paramètres du serveur :: Paramètres liés au serveur CTGP-7. 
@@ -323,7 +323,7 @@ serv_consID :: ID Console CTGP-7
 serv_statsupl :: Envoie des statistiques
 serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
-serv_dispmii :: Nom de Mii
+serv_dispmii :: Nom du Mii
 serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au\nmaximum.
 
 #Statistics
@@ -337,7 +337,7 @@ stats_rpoints :: Points de course
 #Discord
 disc_info :: Information Discord
 disc_notlink :: Cette console n'est pas liée à\nun compte Discord.\n\nVoulez-vous lier cette console à\nvotre compte ?
-disc_linksteps1 :: Veuillez suivre ces étapes pour\n lier votre compte.
+disc_linksteps1 :: Veuillez suivre ces étapes pour\nlier votre compte.
 disc_linksteps2 :: 1) Rejoignez le serveur Discord CTGP-7\nsi vous ne l'avez pas déjà fait.\n(Lien : invite.gg/ctgp7)
 disc_linksteps3 :: 2) Allez dans le salon \#bots du serveur.
 disc_linksteps4 :: 3) Envoyez-y le message suivant :
@@ -349,7 +349,7 @@ render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran sup�
 
 #Missions
 ms_miss :: Missions
-ms_desc :: Relevez les défis et obtenez la meilleure note.
+ms_desc :: Relevez les défis et obtenez la meilleure note !
 ms_selmiss :: Changer de mission
 ms_rcrd :: Record
 ms_gradelim :: Note max. :: Note min.
@@ -367,7 +367,7 @@ course_check :: Checksum du circuit
 
 #Custom Server
 server_name :: Nintendo Network :: CTGP-7 Network
-server_choice :: Sélectionner le serveur en ligne:\n\n%s:\n    - Uniquement pour les joueurs CTGP-7\n    - CTWW et circuits originaux\n    - Anti-cheat puissant\n%s:\n    - Pour tous les joueurs de MK7\n    - Pistes originales et communautés\n    - Anti-cheat faible
+server_choice :: Sélectionner le serveur en ligne:\n\n%s:\n    - Uniquement pour les joueurs CTGP-7\n    - CTWW et circuits originaux\n    - Anti-cheat puissant\n%s:\n    - Pour tous les joueurs de MK7\n    - Circuits originaux et communautés\n    - Anti-cheat faible
 server_ctgp7_conn :: Connexion au\nCTGP-7 Network...
 server_ctgp7_dconn :: Se déconnecter du\nCTGP-7 Network ?
 server_ctgp7_nocomm :: Les communautés ne sont\npas disponibles sur le\nCTGP-7 Network.
@@ -381,5 +381,9 @@ blue_coin_nocc :: Les pièces bleues ne\npeuvent pas être\ncollectées avec le\
 
 #Lobby
 lobby_type :: Groupe public :: Groupe privé
-choose_lobby :: Choisissez un groupe :\n\n- Public : Jouez avec d'autres joueurs CTGP-7.\n- Privé : Jouez avec d'autres joueurs en privé.\n\nNotez que les points de courses en ligne d'origine (PC) seront utilisés dans les groupes privés.
-enter_lobby_code :: Entrez l'identifiant de groupe.\nPartagez ce code avec d'autres joueurs dont vous souhaitez jouer avec ! :: Le code est trop court.
+choose_lobby :: Choisissez un groupe :\n\n- Public : Jouez avec d'autres joueurs CTGP-7.\n- Privé : Jouez avec d'autres joueurs en privé.\n\nNotez que les points de courses en ligne (PC) du jeu d'origine (Mario Kart 7) seront utilisés dans les groupes privés.
+enter_lobby_code :: Entrez l'identifiant de groupe.\nPartagez l'ID de groupe avec qui vous voulez jouer ! :: L'identifiant est trop court.
+
+#Proximity Chat
+proximity_chat :: Chat de proximité :: (Appuyez sur \uE002 pour alterner)
+proximity_chat_desc :: Connectez le client du chat de proximité.\nEn savoir plus: pastebin.com/ZPQs0FWR\n\nAdresse du serveur : %s\nAppuyez sur \uE001 pour annuler. :: Une erreur est survenue.\nAppuyez sur \uE001 pour quitter.
