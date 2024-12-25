@@ -20,10 +20,10 @@ $710049 :: \uE024\uE025 Castillo de Bowser 3
 
 #Cloud Cup
 $700012 :: Copa Nube
-$710050 :: \uE022\uE023 Pista de la Jungla DK
+$710053 :: \uE022\uE023 Circuito Nevado
 $710054 :: \uE022\uE023 Granja Mu-Mu
 $710052 :: Avenida Archipiélago
-$710053 :: \uE022\uE023 Circuito Nevado
+$710096 :: \uE026\uE027 Circuito Mario
 
 #Boo Cup
 $700013 :: Copa Boo
@@ -35,7 +35,7 @@ $710065 :: \uE033 Playa Cheep Cheep
 #Spring Cup
 $700014 :: Copa Muelle
 $710067 :: \uE033 Reloj TicTac
-$710058 :: Santuario Musical
+$710075 :: \uE026\uE027 Puente Champiñón
 $710066 :: \uE033 Desierto Sol-Sol
 $710069 :: Castillo del Tiempo
 
@@ -56,7 +56,7 @@ $710064 :: Tobogán Estelar
 #Blooper Cup
 $700018 :: Copa Blooper
 $710074 :: Fortaleza de Arena
-$710075 :: \uE033 Circuito Mario
+$710058 :: Ruinas de la Jungla
 $710076 :: \uE026\uE027 Circuito Luigi
 $710077 :: Ruinas de Playa Volcánica
 
@@ -92,7 +92,7 @@ $710093 :: Bingo Party
 $700023 :: Copa Moneda
 $710094 :: Desierto Doge
 $710095 :: \uE022\uE023 Muelle Embrujado
-$710096 :: \uE026\uE027 Circuito Mario
+$710050 :: \uE022\uE023 Pista de la Jungla DK
 $710073 :: Cumpleaños de Miku 2
 
 #Rainbow Cup
@@ -236,6 +236,8 @@ autoaccel :: Aceleración Automática :: Al pulsar \uE000 o \uE003 se activará 
 imbrakedrift :: Derrape en Frenada Mejorado :: Podrás frenar mientras derrapas pulsando \uE001 sin perder el miniturbo.
 autodelaydrift :: "Delay Drift" Automático :: Ayuda a prevenir que el kart pierda velocidad al comenzar a derrapar.
 achieventry :: Logros :: Comprueba el progreso de los logros de CTGP-7.
+badgesentry :: Insignias :: Mirar insignias de CTGP-7 obtenidas (requiere conexión a internet).
+optionsentry :: Opciones :: Configura las opciones de CTGP-7.
 
 #Speedometer text
 spd_set :: Opciones de Velocímetro.
@@ -343,6 +345,7 @@ disc_linksteps3 :: 2. Accede al canal \#bots.
 disc_linksteps4 :: 3. Envía el siguiente mensaje:
 disc_data :: Cuenta :: Apodo
 disc_beta :: Elegible para pruebas beta privadas. :: No elegible para pruebas beta privadas.
+disc_unlink :: Desenlazar :: ¿Quieres desenlazar tu\ncuenta de discord?
 
 #Render Optimizations
 render_optim :: Optimizaciones de Rendimiento :: Desactiva el modo 3D de la pantalla superior y activa las mejoras de CPU de New 3DS.
@@ -387,3 +390,11 @@ enter_lobby_code :: Introduce código de lobby privado.\n¡Comparte este código
 #Proximity Chat
 proximity_chat :: Chat de proximidad :: (pulsa \uE002 para activar)
 proximity_chat_desc :: Conecta el cliente de chat de proximidad.\nMás info: pastebin.com/ZPQs0FWR\n\nDirección del servidor: %s\nPulsa \uE001 para cancelar. :: Se ha producido un error.\nPulsa \uE001 para salir.
+
+#Badges
+badges_obtained :: Insignias obtenidas:
+badges_use_online :: Usar en línea :: No usar en línea
+badge_name_desc :: Nombre de la insignia :: Descripción de la insignia
+badge_date :: Fecha de obtención
+badge_msg :: Has obtenido una nueva\ninsignia de CTGP-7.\n\n¡Enhorabuena!
+badge_date_fmt :: %d/%m/%Y

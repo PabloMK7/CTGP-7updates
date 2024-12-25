@@ -20,10 +20,10 @@ $710049 :: \uE024\uE025 Castell de Bowser 3
 
 #Cloud Cup
 $700012 :: Copa Núvol
-$710050 :: \uE022\uE023 Pista de la Jungla DK
+$710053 :: \uE022\uE023 Circuit Nevat
 $710054 :: \uE022\uE023 Granja Mu-Mu
 $710052 :: Avinguda Arxipèlag
-$710053 :: \uE022\uE023 Circuit Nevat
+$710096 :: \uE026\uE027 Circuit Mario
 
 #Boo Cup
 $700013 :: Copa Boo
@@ -35,7 +35,7 @@ $710065 :: \uE033 Platja Cheep Cheep
 #Spring Cup
 $700014 :: Copa Moll
 $710067 :: \uE033 Rellotge TicTac
-$710058 :: Santuari Musical
+$710075 :: \uE026\uE027 Pont Xampinyó
 $710066 :: \uE033 Desert Sol-Sol
 $710069 :: Castell del Temps
 
@@ -56,7 +56,7 @@ $710064 :: Tobogan Estel·lar
 #Blooper Cup
 $700018 :: Copa Blooper
 $710074 :: Fortalesa de Sorra
-$710075 :: \uE033 Circuit Mario
+$710058 :: Ruïnes de la Jungla
 $710076 :: \uE026\uE027 Circuit Luigi
 $710077 :: Ruïnes de Platja Volcànica
 
@@ -92,7 +92,7 @@ $710093 :: Bingo Party
 $700023 :: Copa Moneda
 $710094 :: Desert Doge
 $710095 :: \uE022\uE023 Moll Embruixat
-$710096 :: \uE026\uE027 Circuit Mario
+$710050 :: \uE022\uE023 Pista de la Jungla DK
 $710073 :: Aniversari de Miku 2
 
 #Rainbow Cup
@@ -236,6 +236,8 @@ autoaccel :: Acceleració Automàtica :: En prémer \uE000 o \uE003 s'activarà 
 imbrakedrift :: Derrape en Frenada Millorat :: Podràs frenar mentre derrapes prement \uE001 sense perdre el miniturbo.
 autodelaydrift :: "Delay Drift" Automàtic :: Ajuda a prevenir que el kart perda velocitat quan comença a derrapar.
 achieventry :: Aconseguiments :: Comprova el progrés dels aconseguiments de CTGP-7 .
+badgesentry :: Insígnies :: Mirar insígnies de CTGP-7 obtingudes (requereix connexió a internet).
+optionsentry :: Opcions :: Configura les opcions de CTGP-7.
 
 #Speedometer text
 spd_set :: Opcions de Velocímetre.
@@ -343,6 +345,7 @@ disc_linksteps3 :: 2. Accedeix al canal \#bots.
 disc_linksteps4 :: 3. Envia el següent missatge:
 disc_data :: Compte :: Sobrenom
 disc_beta :: Elegible per a proves beta privades. :: No elegible per a proves\nbeta privades.
+disc_unlink :: Desenllaçar :: Vols desenllaçar el teu\ncompte de discord?
 
 #Render Optimizations
 render_optim :: Optimitzacions de Rendiment :: Desactiva la funcionalitat 3D de la pantalla superior i activa les millores de CPU de New 3DS.
@@ -387,6 +390,14 @@ enter_lobby_code :: Introdueix codi de lobby privat.\nComparteix aquest codi amb
 #Proximity Chat
 proximity_chat :: Xat de proximitat :: (pulsa \uE002 per activar)
 proximity_chat_desc :: Connecta el client de xat de proximitat.\nMés info: pastebin.com/ZPQs0FWR\n\nAdreça del servidor: %s\nPrem \uE001 per cancel·lar. :: S'ha produït un error.\nPrem \uE001 per sortir.
+
+#Badges
+badges_obtained :: Insígnies obtingudes:
+badges_use_online :: Usar en línia :: No usar en línia
+badge_name_desc :: Nom de la insígnia :: Descripció de la insígnia
+badge_date :: Data d'obtenció
+badge_msg :: Has obtingut una nova\ninsígnia de CTGP-7.\n\nEnhorabona!
+badge_date_fmt :: %d/%m/%Y
 
 #Characters
 $1000 :: Mario

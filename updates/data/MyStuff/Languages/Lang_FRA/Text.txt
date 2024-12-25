@@ -20,10 +20,10 @@ $710049 :: \uE024\uE025 Château de Bowser 3
 
 #Cloud Cup
 $700012 :: Coupe Nuage
-$710050 :: \uE022\uE023 Jungle DK
+$710053 :: \uE022\uE023 Route Glagla
 $710054 :: \uE022\uE023 Ferme Meuh Meuh
 $710052 :: Avenue de l'Archipel
-$710053 :: \uE022\uE023 Route Glagla
+$710096 :: \uE026\uE027 Circuit Mario
 
 #Boo Cup
 $700013 :: Coupe Boo
@@ -35,7 +35,7 @@ $710065 :: \uE033 Plage Cheep Cheep
 #Spring Cup
 $700014 :: Coupe Ressort
 $710067 :: \uE033 Horloge Tic-Tac
-$710058 :: Sanctuaire Mélodique
+$710075 :: \uE026\uE027 Pont Champignon
 $710066 :: \uE033 Désert du Soleil
 $710069 :: Château du Temps
 
@@ -56,7 +56,7 @@ $710064 :: Pente Étoilée
 #Blooper Cup
 $700018 :: Coupe Bloups
 $710074 :: Parc Château de Sable
-$710075 :: \uE033 Circuit Mario
+$710058 :: Ruines Sauvages
 $710076 :: \uE026\uE027 Circuit Luigi
 $710077 :: Plage Volc. en Ruines
 
@@ -92,7 +92,7 @@ $710093 :: Fête du Bingo
 $700023 :: Coupe Pièce
 $710094 :: Désert Doge
 $710095 :: \uE022\uE023 Ponton Lugubre
-$710096 :: \uE026\uE027 Circuit Mario
+$710050 :: \uE022\uE023 Jungle DK
 $710073 :: Spectacle Miku 2
 
 #Rainbow Cup
@@ -236,6 +236,8 @@ autoaccel :: Accélération auto :: Appuyez sur \uE000 ou \uE003 pour activer l'
 imbrakedrift :: Amélioration du freinage en dérapant :: Maintenez \uE001 en dérapant pour freiner sans perdre votre mini-turbo.
 autodelaydrift :: "Delay Drift" Automatique :: Aide à prévenir la perte de vitesse lors du début d'un dérapage.
 achieventry :: Succès :: Voir votre progrès des succès CTGP-7
+badgesentry :: Badges :: Voir les badges CTGP-7 obtenus. (Nécessite une connexion Internet)
+optionsentry :: Options :: Configurer les options de CTGP-7.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -320,7 +322,7 @@ ghostcantrecov :: Les données du fantôme de ce circuit vont être effacées. C
 #Server Settings
 servsett :: Paramètres du serveur :: Paramètres liés au serveur CTGP-7. 
 serv_consID :: ID Console CTGP-7
-serv_statsupl :: Envoie des statistiques
+serv_statsupl :: Envoi des statistiques
 serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
 serv_dispmii :: Nom du Mii
@@ -343,6 +345,7 @@ disc_linksteps3 :: 2) Allez dans le salon \#bots du serveur.
 disc_linksteps4 :: 3) Envoyez-y le message suivant :
 disc_data :: Compte :: Pseudo
 disc_beta :: Vous êtes éligible aux bêta-tests. :: Vous n'êtes pas éligible aux bêta-tests.
+disc_unlink :: Dissocier :: Souhaitez-vous dissocier votre\ncompte Discord ?
 
 #Render Optimizations
 render_optim :: Optimisations de rendu :: Désactive le mode 3D de l'écran supérieur et active les améliorations du processeur des consoles New 3DS et New 3DS XL.
@@ -387,3 +390,11 @@ enter_lobby_code :: Entrez l'identifiant de groupe.\nPartagez l'ID de groupe ave
 #Proximity Chat
 proximity_chat :: Chat de proximité :: (Appuyez sur \uE002 pour alterner)
 proximity_chat_desc :: Connectez le client du chat de proximité.\nEn savoir plus: pastebin.com/ZPQs0FWR\n\nAdresse du serveur : %s\nAppuyez sur \uE001 pour annuler. :: Une erreur est survenue.\nAppuyez sur \uE001 pour quitter.
+
+#Badges
+badges_obtained :: Badges obtenus :
+badges_use_online :: Utiliser en ligne :: Ne pas utiliser en ligne
+badge_name_desc :: Nom du badge :: Description du badge
+badge_date :: Date d'obtention
+badge_msg :: Vous avez obtenu de\nnouveau badges CTGP-7.\n\nFélicitations !
+badge_date_fmt :: %d/%m/%Y

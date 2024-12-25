@@ -20,10 +20,10 @@ $710049 :: \uE024\uE025 Castello di Bowser 3
 
 #Cloud Cup
 $700012 :: Trofeo Nuvola
-$710050 :: \uE022\uE023 Viale Giungla DK
+$710053 :: \uE022\uE023 Circuito Innevato
 $710054 :: \uE022\uE023 Fattoria Muu Muu
 $710052 :: Viale Arcipelago
-$710053 :: \uE022\uE023 Circuito Innevato
+$710096 :: \uE026\uE027 Circuito di Mario
 
 #Boo Cup
 $700013 :: Trofeo Boo
@@ -35,7 +35,7 @@ $710065 :: \uE033 Spiaggia Smack
 #Spring Cup
 $700014 :: Trofeo Molla
 $710067 :: \uE033 Pista Tictac
-$710058 :: Santuario Melodia
+$710075 :: \uE026\uE027 Ponte dei funghi
 $710066 :: \uE033 Deserto Picchiasol
 $710069 :: Castello del Tempo
 
@@ -56,7 +56,7 @@ $710064 :: Pendio Stellare
 #Blooper Cup
 $700018 :: Trofeo Calamako
 $710074 :: Parco Castello di Sabbia
-$710075 :: \uE033 Circuito di Mario
+$710058 :: Rovine della Giungla
 $710076 :: \uE026\uE027 Circuito di Luigi
 $710077 :: Rovine di Spiaggia Vulcano
 
@@ -92,7 +92,7 @@ $710093 :: Bingo Party
 $700023 :: Trofeo Moneta
 $710094 :: Deserto di Doge
 $710095 :: \uE022\uE023 Pontile Stregato
-$710096 :: \uE026\uE027 Circuito di Mario
+$710050 :: \uE022\uE023 Viale Giungla DK
 $710073 :: Speciale di Compleanno di Miku 2
 
 #Rainbow Cup
@@ -236,6 +236,8 @@ autoaccel :: Accelerazione automatica :: Premendo \uE000 o \uE003 si abilita l'a
 imbrakedrift :: Derapata lenta migliorata :: Tieni premuto \uE001 durante la derapata per frenare senza perdere il miniturbo.
 autodelaydrift :: "Delay Drift" Automatico :: Aiuta a prevenire la perdita di velocità quando il kart inizia a derapare.
 achieventry :: Obbiettivi :: Controlla i progressi con gli obbiettivi di CTGP-7
+badgesentry :: Emblemi :: Vedi gli Emblemi ottenuti di CTGP-7 (Richiede connessione ad internet)
+optionsentry :: Opzioni :: Configura le opzioni di CTGP-7
 
 #Speedometer text
 spd_set :: Tachimetro.
@@ -343,6 +345,7 @@ disc_linksteps3 :: 2. Vai nel canale \#bots.
 disc_linksteps4 :: 3. Invia il seguente messaggio:
 disc_data :: Account :: Nickname
 disc_beta :: Eleggibile per i beta test privati. :: Non eleggibile per i beta test privati.
+disc_unlink :: Scollega :: Vuoi scollegare il tuo\naccount Discord?
 
 #Render Optimizations
 render_optim :: Ottimizzazioni del rendering :: Disattiva la modalità 3D sullo schermo superiore e attiva i miglioramenti della CPU del New 3DS.
@@ -387,3 +390,11 @@ enter_lobby_code :: Inserire codice per partita privata.\nCondividi questo codic
 #Proximity Chat
 proximity_chat :: Chat di prossimità :: (premi \uE002 per attivare)
 proximity_chat_desc :: Connetti il ​​client di chat di prossimità.\nUlteriori informazioni:\npastebin.com/ZPQs0FWR\n\nIndirizzo del server: %s\nPremi \uE001 per annullare. :: Si è verificato un errore.\nPremi \uE001 per uscire.
+
+#Badges
+badges_obtained :: Emblemi ottenuti:
+badges_use_online :: Usa online :: Non usare online
+badge_name_desc :: Nome Emblema :: Descrizione Emblema
+badge_date :: Ottenuto in data
+badge_msg :: Hai ottenuto un nuovo\nEmblema CTGP-7. \n\nCongratulazioni!
+badge_date_fmt :: %d.%m.%Y

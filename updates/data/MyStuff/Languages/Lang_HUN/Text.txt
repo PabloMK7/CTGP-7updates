@@ -20,10 +20,10 @@ $710049 :: \uE024\uE025 Bowser vára 3
 
 #Cloud Cup
 $700012 :: Felhő kupa
-$710050 :: \uE022\uE023 DK ösvény
+$710053 :: \uE022\uE023 Frappé hóföld
 $710054 :: \uE022\uE023 Mú mú farm
 $710052 :: Szigetvilág sugárút
-$710053 :: \uE022\uE023 Frappé hóföld
+$710096 :: \uE026\uE027 Mario pálya
 
 #Boo Cup
 $700013 :: Boo kupa
@@ -35,7 +35,7 @@ $710065 :: \uE033 Cheep Cheep-part
 #Spring Cup
 $700014 :: Rugó kupa
 $710067 :: \uE033 Tikk takk óra
-$710058 :: Dallam szentély
+$710075 :: \uE026\uE027 Mushroom Bridge
 $710066 :: \uE033 Sivatagi buckák
 $710069 :: Az idő temploma
 
@@ -56,7 +56,7 @@ $710064 :: Csillag-lejtő
 #Blooper Cup
 $700018 :: Blooper kupa
 $710074 :: Homokvár park
-$710075 :: \uE033 Mario pálya
+$710058 :: Dzsungel romjai
 $710076 :: \uE026\uE027 Luigi pálya
 $710077 :: Vulkán-part romok
 
@@ -92,7 +92,7 @@ $710093 :: Bingó parti
 $700023 :: Érme kupa
 $710094 :: Doge-sivatag
 $710095 :: \uE022\uE023 Banshee stég
-$710096 :: \uE026\uE027 Mario pálya
+$710050 :: \uE022\uE023 DK ösvény
 $710073 :: Miku szülinapi látv. 2
 
 #Rainbow Cup
@@ -218,24 +218,26 @@ button :: Gomb
 summary :: Összegzés
 
 #Folders
-gameplay_folder :: Játékfunkciók :: Extra funkciók beállításai.
+gameplay_folder :: Játékfunkciók :: Az extra funkciók beállításai.
 settings_folder :: Beállítások :: CTGP-7-specifikus beállítások.
 other_folder :: Egyéb :: Egyéb beállítások
 
 #Entries
-spdmeter :: Sebességmérő :: Mutatja a sebességet a felső képernyő jobb alsó sarkában.
-ccsel :: CC választó :: Egy adott értékre állítja a CC-t (ezt a verseny kezdete előtt kell engedélyezni).
-itemled :: Figyelmeztető LED :: Az értesítési LED kéken villog, ha valaki elindít egy Kék páncélt, illetve sárgán, ha valaki Villámcsapást használ.
-backcam :: Visszapillantó :: Nyomd meg az \uE002 gombot a hátra pillantáshoz, mint a többi Mario Kart játékban! (Megjegyzés: az \uE002 gomb nem fog tárgyakat használni.)
-charman :: Egyéni karakter-kezelő :: Válts eredeti és egyéni karakterek között.
+spdmeter :: Sebességmérő :: Sebesség mutatása a felső képernyő jobb alsó sarkában.
+ccsel :: CC-választó :: A CC adott értékre állítása (ezt a verseny kezdete előtt kell engedélyezni).
+itemled :: Figyelmeztető LED :: Az értesítési LED kéken villogtatása, ha valaki útjára indít egy kék páncélt, illetve sárgán, ha valaki villámcsapást használ.
+backcam :: Visszapillantó :: Hátrapillantás az \uE002 gombbal, a többi Mario Kart játékhoz hasonlóan. (Megjegyzés: Ha ez be van kapcsolva, akkor az \uE002 gomb nem fog tárgyakat használni.)
+charman :: Egyénikarakter-kezelő :: Váltás eredeti és egyéni karakterek között.
 cuskart :: Egyéni gokartok :: Egyéni gokartok betöltése a MyStuff mappából.
-trackorder :: Online pálya rendezés :: Válaszd ki a pályák rendezését online.
-itmprb :: Javított rulett :: A tárgyrulett pörgés közben a tényleges esélyeket mutatja véletlenszerű tárgyak helyett.
+trackorder :: Online pályarendezés :: A pályák online rendezési módjának megadása.
+itmprb :: Javított rulett :: Tényleges esélyek mutatása a tárgyruletten, véletlenszerű tárgyak helyett.
 imtrick :: Javított trükkök :: Gyorsítórámpáról indított trükközéskor a gokart pördül egyet. A pördülés irányát a \uE077 Circle Pad határozza meg.
 autoaccel :: Automatikus gáz :: A(z) \uE000 vagy \uE003 gomb megnyomása után a gokart a gomb nyomva tartása nékül is folytatja az előre haladást. Megszakítható a(z) \uE001 gombbal.
 imbrakedrift :: Javított fékező farolás :: Tartsd lenyomva a(z) \uE001 gombot farolás közben a miniturbód elvesztése nélküli fékezéshez.
-autodelaydrift :: Automatikus "Delay Drift" :: Segít megelőzni a sebességvesztést amikor elkezd farolás.
-achieventry :: Teljesítmények :: CTGP-7-teljesítményhaladás megtekintése.
+autodelaydrift :: Automatikus „Delay Drift” :: A gokart sebességvesztésének megelőzése farolás megkezdésekor.
+achieventry :: Teljesítmények :: A CTGP-7-es teljesítményhaladás megtekintése.
+badgesentry :: Kitűzők :: A megszerzett CTGP-7-es kitűzők megtekintése (internetkapcsolat szükséges.)
+optionsentry :: Beállítások :: A CTGP-7 beállításainak testreszabása.
 
 #Speedometer text
 spd_set :: Sebességmérő beállításai.
@@ -343,6 +345,7 @@ disc_linksteps3 :: 2. Kattints a \#bots csatornára.
 disc_linksteps4 :: 3. Küldd el az alábbi üzenetet:
 disc_data :: Fiók :: Felhasználónév
 disc_beta :: Jogosult tesztverziók kipróbálására. :: Nem jogosult tesztverziók kipróbálására.
+disc_unlink :: Unlink :: Would you like to unlink your\ndiscord account?
 
 #Render Optimizations
 render_optim :: Renderelés optimalizálása :: A felső kijelző 3D módjának letiltása és a New 3DS CPU-javításainak engedélyezése.
@@ -374,19 +377,27 @@ server_ctgp7_nocomm :: A CTGP-7 Network használata közben\na közösségek nem
 
 #Blue Coins
 blue_coins :: Kék érmék
-blue_coins_desc :: A blue coin will appear in every track. Collect them all to unlock something!
+blue_coins_desc :: Minden pálya egy kék érmét rejt. Gyűjtsd össze mind és talán történik valami!
 blue_coin_obtain :: Megszerezted\na $kék érmét$! :: Még %d pálya\nvan hátra.
 blue_coin_all :: Megszerezted az\nösszes érmét!
-blue_coin_nocc :: Blue Coins cannot be\nobtained with the CC\nselector enabled.
+blue_coin_nocc :: A CC-választó\nhasználata közben\nnem gyűjthetsz\nkék érméket.
 
 #Lobby
-lobby_type :: Public lobby :: Private lobby
-choose_lobby :: Choose online lobby:\n\n- Public: Play with other CTGP-7 players.\n- Private: Play with other players privately.\n\nNOTE: Vanilla VR will be used in private lobbies.
-enter_lobby_code :: Enter private lobby code.\nShare this code with others to play together! :: Lobby code is too short.
+lobby_type :: Nyilvános szoba :: Privát szoba
+choose_lobby :: Az online szobák típusának megadása:\n\n- Nyilvános: Játék más CTGP-7-játékosokkal.\n- Privát: Rejtett játék.\n\nMEGJEGYZÉS: A privát szobákban az alapjátékos VR lesz használatba véve.
+enter_lobby_code :: Add meg a privát szoba kódját!\nA közös játékhoz ezt kell megosztanod másokkal. :: A szoba kódja túl rövid.
 
 #Proximity Chat
-proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
-proximity_chat_desc :: Please connect the proximity chat client.\nLearn more: pastebin.com/ZPQs0FWR\n\nServer address: %s\nPress \uE001 to cancel. :: An error has occurred.\nPress \uE001 to exit.
+proximity_chat :: Közelségi hangosbeszéd :: (\uE002 – Be/Ki)
+proximity_chat_desc :: Csatlakoztasd a közelségi hangosbeszéd kliensét!\nTovábbi információ: pastebin.com/ZPQs0FWR\n\nKiszolgáló címe: %s\n\uE001: Megszakítás. :: Hiba történt.\n\uE001: Kilépés.
+
+#Badges
+badges_obtained :: Megszerzett kitűzők:
+badges_use_online :: Online-funkciók használata :: Online-funkciók letiltása
+badge_name_desc :: Kitűző neve :: Kitűző leírása
+badge_date :: Megszerzés dátuma
+badge_msg :: Új CTGP-7-es kitűzőket\nszereztél meg.\n\nGratulálunk!
+badge_date_fmt :: %Y.%m.%d
 
 #Characters
 $1000 :: Mario

@@ -20,10 +20,10 @@ $710049 :: \uE024\uE025 Bowsers Festung 3
 
 #Cloud Cup
 $700012 :: Wolken-Cup
-$710050 :: \uE022\uE023 DKs Dschungelpark
+$710053 :: \uE022\uE023 Polar-Parcours
 $710054 :: \uE022\uE023 Kuhmuh-Farm
 $710052 :: Archipel-Allee
-$710053 :: \uE022\uE023 Polar-Parcours
+$710096 :: \uE026\uE027 Marios Piste
 
 #Boo Cup
 $700013 :: Buu-Huu-Cup
@@ -35,7 +35,7 @@ $710065 :: \uE033 Cheep-Cheep-Strand
 #Spring Cup
 $700014 :: Feder-Pilz-Cup
 $710067 :: \uE033 Ticktack-Trauma
-$710058 :: Melodie-Heiligtum
+$710075 :: \uE026\uE027 Pilz-Brücke
 $710066 :: \uE033 Glühheiße Wüste
 $710069 :: Schloss der Zeit
 
@@ -56,7 +56,7 @@ $710064 :: Sternenhang
 #Blooper Cup
 $700018 :: Blooper-Cup
 $710074 :: Sandburg-Park
-$710075 :: \uE033 Marios Piste
+$710058 :: Dschungel-Ruinen
 $710076 :: \uE026\uE027 Luigis Piste
 $710077 :: Vulkan-Strand-Ruinen
 
@@ -92,7 +92,7 @@ $710093 :: Bingo-Party
 $700023 :: Münz-Cup
 $710094 :: Doge-Wüste
 $710095 :: \uE022\uE023 Spukpfad
-$710096 :: \uE026\uE027 Marios Piste
+$710050 :: \uE022\uE023 DKs Dschungelpark
 $710073 :: Mikus Geburtstagsspek. 2
 
 #Rainbow Cup
@@ -180,16 +180,16 @@ achiev_all_1star :: Du hast 1 Stern in allen\nbenutzerdef. Cups\nerrungen.\nHerz
 achiev_all_3star :: Du hast 3 Sterne in allen\nbenutzerdef. Cups\nerrungen.\nHerzlichen Glückwunsch!
 achiev_all_mission :: Du hast 10 Punkte in allen\nMissionen errungen.\n\nHerzlichen Glückwunsch!
 achiev_5000_vr :: Du hast 5000 RP im\nCTWW errungen.\n\nHerzlichen Glückwunsch!
-achiev_blue_coin :: Du hast\nalle Blauen Münzen eingesammelt.\nherzlichen Glückwunsch!
-unlocked_item :: Du hast folgendes\nfreigeschalten:\n\n
-types_achievs :: Normale Erfolge :: Spezial Erfolge
+achiev_blue_coin :: Du hast\nalle Blauen Münzen eingesammelt.\nHerzlichen Glückwunsch!
+unlocked_item :: Du hast Folgendes\nfreigeschaltet:\n\n
+types_achievs :: Normale Erfolge :: Spezial-Erfolge
 gold_tro_achiev :: Gold in allen Custom Track Cups
-1star_achiev :: 1 Stern in allen Customt Track Cups
-3star_achiev :: 3 Sterne in allen Customt Track Cups
+1star_achiev :: 1 Stern in allen Custom Track Cups
+3star_achiev :: 3 Sterne in allen Custom Track Cups
 10pts_msn_achiev :: 10 Punkte in allen Missionen
 5000vr_achiev :: 5000 VR in CTWW
 blue_coin_achiev :: Alle Blauen Münzen eingesammelt
-custom_track_cups :: Custom Tracks Cups
+custom_track_cups :: Custom Track Cups
 tro_gold :: Gold
 tro_1star :: 1 Stern
 tro_3star :: 3 Sterne
@@ -218,24 +218,26 @@ button :: Knopf
 summary :: Zusammenfassung
 
 #Folders
-gameplay_folder :: Gameplay-Features :: Konfiguration für zusätzliche Gameplay-Features
-settings_folder :: Spiel-Einstellungen :: CTGP-7-spezifische Einstellungen
+gameplay_folder :: Gameplay-Features :: Konfiguration für zusätzliche Gameplay-Features.
+settings_folder :: Spiel-Einstellungen :: CTGP-7-spezifische Einstellungen.
 other_folder :: Andere Optionen :: Andere Optionen und Funktionen.
 
 #Entries
 spdmeter :: Tachometer :: Zeigt ein Tachometer in der rechten unteren Ecke des Topscreens.
-ccsel :: CCM-Einstellungen :: Setzt den aktuelen Hubraum auf einen bestimmten Wert. (Muss geändert werden, bevor ein Rennen beginnt).
-itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachipanzer benutzt wird und gelb, wenn ein Blitz benutzt wird.
+ccsel :: CCM-Einstellungen :: Setzt den aktuellen Hubraum auf einen bestimmten Wert. (Muss geändert werden, bevor ein Rennen beginnt).
+itemled :: Warnung vor Items mit LED :: Die Mitteilungs-LED blinkt blau, wenn ein Stachi-Panzer benutzt wird und gelb, wenn ein Blitz benutzt wird.
 backcam :: Rückspiegel :: Drücke \uE002, um zu sehen, was hinter dir ist, wie in anderen Mario Kart-Spielen! (Bedenke, dass der \uE002-Knopf keine Items mehr aktivieren wird.)
 charman :: Benutzerdef.-Fahrer-Einstellungen :: Wechsle zwischen originalen und neuen Fahrern.
-cuskart :: Benutzerdefinierte Karts :: Lade benutzerdefinierte Karts, und deren Teile, aus dem MyStuff-Ordner.
+cuskart :: Benutzerdefinierte Karts :: Lade benutzerdefinierte Karts und deren Teile aus dem MyStuff-Ordner.
 trackorder :: Online-Strecken-Reihenfolge :: Wähle aus, wie benutzerdefinierte Strecken im Online-Modus geordnet sein sollen.
-itmprb :: Verbessertes Item-Roulett :: Zeigt die wahren Wahrscheinlichkeiten für Items an, anstelle von zufälligen Items.
-imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer Rampe drehen. Ändere deren Richtung mit dem \uE077 Circle Pad.
+itmprb :: Verbessertes Item-Roulette :: Anstatt durch alle Items zu scrollen, zeigt das Roulette nur diejenigen an, welche tatsächlich für die aktuelle Position verfügbar sind.
+imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer Rampe drehen. Ändere die Richtung der Drehung mit dem \uE077 Schiebepad.
 autoaccel :: Auto-Beschleunigung :: Das Drücken von \uE000 oder \uE003 aktiviert die automatische Beschleunigung, welche aktiv bleibt, bis \uE001 gedrückt wird.
 imbrakedrift :: Verbesserter Brems-Drift :: Halte \uE001 beim Driften, um zu bremsen, ohne deinen Mini-Turbo zu verlieren.
 autodelaydrift :: Automatischer Delay-Drift :: Verhindert, dass das Kart Geschwindigkeit verliert, wenn ein Drift gestartet wird.
-achieventry :: Erfolge :: Siehe den Fortschritt bei den CTGP-7 Erfolgen an.
+achieventry :: Erfolge :: Sieh deinen Fortschritt bei den CTGP-7-Erfolgen an.
+badgesentry :: Orden :: Erhaltene CTGP-7 Orden ansehen (Internet-Verbindung benötigt).
+optionsentry :: Optionen :: CTGP-7 Einstellungen verwalten.
 
 #Speedometer text
 spd_set :: Tachometer-Einstellungen
@@ -266,7 +268,7 @@ cusitem :: Neue Items
 
 #Change Round Number
 chgrnd :: Rundenanzahl ändern :: Ändert die Rundenzahl im VS- und im Wettkampf-Modus.
-chgrnd_desc :: Wähle die Anzahl an Runden,\ndie gespielt werden soll.\nHINWEIS: Diese Option funktioniert nicht\nim Download-Spiel.\nIm lokalen Mehrspieler muss jeder die-\nselben Einstellungen haben.
+chgrnd_desc :: Wähle die Anzahl an Runden,\ndie gespielt werden sollen.\nHINWEIS: Diese Option funktioniert nicht\nim Download-Spiel.\nIm lokalen Mehrspieler muss jeder die-\nselben Einstellungen haben.
 rounds :: Runden
 rnd_sel :: Wähle die Anzahl der Runden.
 
@@ -343,6 +345,7 @@ disc_linksteps3 :: 2. Öffne den \#bots-Kanal.
 disc_linksteps4 :: 3. Sende die folgende Nachricht:
 disc_data :: Account :: Spitzname
 disc_beta :: Berechtigt für private Betatests. :: Nicht berechtigt für private Betatests.
+disc_unlink :: Verknüpfung aufheben :: Möchtest du die Verknüpfung zu deinem\nDiscord-Account aufheben?
 
 #Render Optimizations
 render_optim :: Render-Optimierungen :: Deaktiviert den 3D-Modus des Top-Screens und aktiviert CPU-Erweiterungen für New Nintendo 3DS-Systeme.
@@ -374,16 +377,24 @@ server_ctgp7_nocomm :: Communitys sind im\nCTGP-7-Network\nnicht verfügbar.
 
 #Blue Coins
 blue_coins :: Blaue Münzen
-blue_coins_desc :: Eine blaue Münze wird in jeder Strecke auftauchen. Sammle sie alle, um etwas freizuschalten!
+blue_coins_desc :: Eine Blaue Münze wird in jeder Strecke auftauchen. Sammle sie alle, um etwas freizuschalten!
 blue_coin_obtain :: $Blaue Münzen$\neingesammelt :: %d verbleibende\nStrecken
 blue_coin_all :: Alle Münzen wurden eingesammelt.
-blue_coin_nocc :: Blaue Münzen können nicht\neingesammelt werden während der CC\nselector aktiviert ist
+blue_coin_nocc :: Blaue Münzen können nicht\neingesammelt werden, während der CC\nselector aktiviert ist
 
 #Lobby
 lobby_type :: Öffentliche Lobby :: Private Lobby
 choose_lobby :: Wähle Online-Lobby aus:\n\n- Public: Spiele mit anderen CTGP-7 Spielern.\n- Private: Spiele privat mit anderen Spielern.\n\nNOTE: Normale VR-Punkte werden in Privaten Lobbys benutzt
-enter_lobby_code :: Geb Code der Privaten Lobby ein.\nTeile diesen Code mit anderen Spielern um zusammen zu spielen! :: Lobby Code ist zu kurz.
+enter_lobby_code :: Gib Code der Privaten Lobby ein.\nTeile diesen Code mit anderen Spielern, um zusammen zu spielen! :: Lobby-Code ist zu kurz.
 
 #Proximity Chat
 proximity_chat :: Proximity-Chat :: (zum Umschalten \uE002 drücken)
-proximity_chat_desc :: Bitte verbinden Sie den Proximity-Chat-Client.\nWeitere Informationen:\npastebin.com/ZPQs0FWR\n\nServeradresse: %s\nDrücken Sie \uE001, um abzubrechen. :: Ein Fehler ist aufgetreten.\nDrücken Sie \uE001, um zu beenden.
+proximity_chat_desc :: Bitte verbinde den Proximity-Chat-Client.\nWeitere Informationen:\npastebin.com/ZPQs0FWR\n\nServeradresse: %s\nDrücken Sie \uE001, um abzubrechen. :: Ein Fehler ist aufgetreten.\nDrücken Sie \uE001, um zu beenden.
+
+#Badges
+badges_obtained :: Erhaltene Orden:
+badges_use_online :: Online nutzen :: Online nicht nutzen
+badge_name_desc :: Name des Ordens :: Beschreibung des Ordens
+badge_date :: Datum des Erhalts
+badge_msg :: Du hast neue\nCTGP-7 Orden erhalten.\n\nGlückwunsch!
+badge_date_fmt :: %d.%m.%Y

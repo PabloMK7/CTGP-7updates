@@ -20,10 +20,10 @@ $710049 :: \uE024\uE025 Bowsers Kasteel 3
 
 #Cloud Cup
 $700012 :: Wolkenbeker
-$710050 :: \uE022\uE023 DK's Jungleweg
+$710053 :: \uE022\uE023 Frappe-Sneeuwland
 $710054 :: \uE022\uE023 Boe Boe Boerderij
 $710052 :: Archipellaan
-$710053 :: \uE022\uE023 Frappe-Sneeuwland
+$710096 :: \uE026\uE027 Mario's Circuit
 
 #Boo Cup
 $700013 :: Boo-Beker
@@ -35,7 +35,7 @@ $710065 :: \uE033 Cheep Cheep-Strand
 #Spring Cup
 $700014 :: Springveerbeker
 $710067 :: \uE033 Tik-Tok-Klok
-$710058 :: Melodieheiligdom
+$710075 :: \uE026\uE027 Paddenstoelenbrug
 $710066 :: \uE033 Woestijnheuvels
 $710069 :: Kasteel der Tijd
 
@@ -56,7 +56,7 @@ $710064 :: Sterrenhelling
 #Blooper Cup
 $700018 :: Blooper-Beker
 $710074 :: Zandkasteelpark
-$710075 :: \uE033 Mario's Circuit
+$710058 :: Jungleruïnes
 $710076 :: \uE026\uE027 Luigi's Circuit
 $710077 :: Vulkaanstrandruïnes
 
@@ -92,7 +92,7 @@ $710093 :: Bingo Party
 $700023 :: Muntenbeker
 $710094 :: Doge-Woestijn
 $710095 :: \uE022\uE023 Spookpier
-$710096 :: \uE026\uE027 Mario's Circuit
+$710050 :: \uE022\uE023 DK's Jungleweg
 $710073 :: Miku's Verjaardag Spec. 2
 
 #Rainbow Cup
@@ -236,6 +236,8 @@ autoaccel :: Auto-Acceleratie :: Wanneer op \uE000 of \uE003 wordt gedrukt, word
 imbrakedrift :: Verbeterde Rem-Drift :: Druk op \uE001 tijdens het driften om te remmen zonder een miniturbo te verliezen.
 autodelaydrift :: Automatische "Delay Drift" :: Helpt voorkomen dat de kart snelheid verliest wanneer deze begint te driften.
 achieventry :: Prestaties :: Bekijk je voortgang van CTGP-7-prestaties.
+badgesentry :: Badges :: Bekijk verkregen CTGP-7-badges (internetverbinding vereist).
+optionsentry :: Opties :: Configureer CTGP-7-opties.
 
 #Speedometer text
 spd_set :: Opties snelheidsmeter.
@@ -343,6 +345,7 @@ disc_linksteps3 :: 2. Ga naar het \#bots-kanaal.
 disc_linksteps4 :: 3. Stuur het volgende bericht:
 disc_data :: Account :: Gebruikersnaam
 disc_beta :: Komt in aanmerking voor privé bètatesten. :: Komt niet in aanmerking voor privé bètatesten.
+disc_unlink :: Ontkoppelen :: Wil je je Discord-account\nontkoppelen?
 
 #Render Optimizations
 render_optim :: Renderoptimaliseringen :: Schakelt 3D-modus op het bovenste scherm uit en schakelt de New 3DS CPU-verbeteringen in.
@@ -387,3 +390,11 @@ enter_lobby_code :: Vul code van privégroep in.\nDeel deze code met anderen om 
 #Proximity Chat
 proximity_chat :: Proximity Chat :: (druk op \uE002 om te wisselen)
 proximity_chat_desc :: Maak verbinding met de proximity chatclient.\nMeer informatie: pastebin.com/ZPQs0FWR\n\nServeradres: %s\nDruk op \uE001 om te annuleren. :: Er is een fout opgetreden.\nDruk op \uE001 om af te sluiten.
+
+#Badges
+badges_obtained :: Verkregen badges:
+badges_use_online :: Gebruik online :: Gebruik niet online
+badge_name_desc :: Badgenaam :: Badgebeschrijving
+badge_date :: Datum verkregen
+badge_msg :: Je hebt nieuwe CTGP-7-\nbadges verkregen.\n\nGefeliciteerd!
+badge_date_fmt :: %d-%m-%Y

@@ -20,10 +20,10 @@ $710049 :: \uE024\uE025 Bowser Castle 3
 
 #Cloud Cup
 $700012 :: Cloud Cup
-$710050 :: \uE022\uE023 DK's Jungle Parkway
+$710053 :: \uE022\uE023 Frappe Snowland
 $710054 :: \uE022\uE023 Moo Moo Farm
 $710052 :: Archipelago Avenue
-$710053 :: \uE022\uE023 Frappe Snowland
+$710096 :: \uE026\uE027 Mario Circuit
 
 #Boo Cup
 $700013 :: Boo Cup
@@ -35,7 +35,7 @@ $710065 :: \uE033 Cheep Cheep Beach
 #Spring Cup
 $700014 :: Spring Cup
 $710067 :: \uE033 Tick Tock Clock
-$710058 :: Melody Sanctum
+$710075 :: \uE026\uE027 Mushroom Bridge
 $710066 :: \uE033 Desert Hills
 $710069 :: Castle of Time
 
@@ -56,7 +56,7 @@ $710064 :: Star Slope
 #Blooper Cup
 $700018 :: Blooper Cup
 $710074 :: Sandcastle Park
-$710075 :: \uE033 Mario Circuit
+$710058 :: Jungle Ruins
 $710076 :: \uE026\uE027 Luigi Circuit
 $710077 :: Volcano Beach Ruins
 
@@ -92,7 +92,7 @@ $710093 :: Bingo Party
 $700023 :: Coin Cup
 $710094 :: Doge Desert
 $710095 :: \uE022\uE023 Banshee Boardwalk
-$710096 :: \uE026\uE027 Mario Circuit
+$710050 :: \uE022\uE023 DK's Jungle Parkway
 $710073 :: Miku's Birthday Spec. 2
 
 #Rainbow Cup
@@ -236,6 +236,8 @@ autoaccel :: Auto Acceleration :: Pressing \uE000 or \uE003 will enable automati
 imbrakedrift :: Improved Brake Drift :: Hold \uE001 while drifting to brake without losing your miniturbo.
 autodelaydrift :: Automatic Delay Drift :: Helps preventing the kart from losing speed when starting a drift.
 achieventry :: Achievements :: Check the progress on CTGP-7 achievements.
+badgesentry :: Badges :: View obtained CTGP-7 badges (requires internet connection).
+optionsentry :: Options :: Configure CTGP-7 options.
 
 #Speedometer text
 spd_set :: Speedometer settings.
@@ -343,6 +345,7 @@ disc_linksteps3 :: 2. Go to the \#bots channel.
 disc_linksteps4 :: 3. Send the following message:
 disc_data :: Account :: Nickname
 disc_beta :: Eligible for private beta tests. :: Not eligible for private beta tests.
+disc_unlink :: Unlink :: Would you like to unlink your\ndiscord account?
 
 #Render Optimizations
 render_optim :: Render Optimizations :: Disables the top screen 3D mode and enables the New 3DS CPU improvements.
@@ -387,3 +390,11 @@ enter_lobby_code :: Enter private lobby code.\nShare this code with others to pl
 #Proximity Chat
 proximity_chat :: Proximity Chat :: (press \uE002 to toggle)
 proximity_chat_desc :: Please connect the proximity chat client.\nLearn more: pastebin.com/ZPQs0FWR\n\nServer address: %s\nPress \uE001 to cancel. :: An error has occurred.\nPress \uE001 to exit.
+
+#Badges
+badges_obtained :: Obtained badges:
+badges_use_online :: Use online :: Do not use online
+badge_name_desc :: Badge name :: Badge description
+badge_date :: Date obtained
+badge_msg :: You have obtained new\nCTGP-7 badges.\n\nCongratulations!
+badge_date_fmt :: %Y-%m-%d
