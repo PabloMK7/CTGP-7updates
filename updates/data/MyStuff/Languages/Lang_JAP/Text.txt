@@ -237,7 +237,7 @@ imbrakedrift :: ブレーキドリフトの改良 :: ドリフトをしながら
 autodelaydrift :: 自動ディレイドリフト :: ドリフト開始時のカートの速度低下を防ぎます。
 achieventry :: 実績 :: CTGP-7の実績の進行状況を確認します。
 badgesentry :: バッジ :: 獲得したCTGP-7バッジを表示します(インターネット接続が必要です)。
-optionsentry :: オプション :: CTGP-7オプションを設定します。
+optionsentry :: オプション :: CTGP-7オプションを 設定します
 
 #Speedometer text
 spd_set :: スピードメーターの設定をします。
