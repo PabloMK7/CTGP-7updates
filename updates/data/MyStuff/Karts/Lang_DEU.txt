@@ -18,7 +18,7 @@
 ##Ingame text -----------------------------------------------
 
 #Kart Body Parts
-$1107 :: Silbener Pfeil
+$1107 :: Silberner Pfeil
 $1109 :: Schaufelbagger
 $1110 :: Arkade
 $1111 :: Beuteldachs

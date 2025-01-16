@@ -327,6 +327,7 @@ serv_displname :: Visualizza il nome :: Seleziona come viene visualizzato il tuo
 serv_disphid :: Nascosto
 serv_dispmii :: Nome del Mii
 serv_dispcust :: Inserisci il nome personalizzato :: Il nome personalizzato\nnon può essere più lungo di 15 caratteri.
+serv_qrshow :: Premere \uE002 per visualizzare.
 
 #Statistics
 statsentry :: Statistiche locali :: Controlla le tue statistiche private di CTGP-7.

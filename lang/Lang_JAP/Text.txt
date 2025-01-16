@@ -327,6 +327,7 @@ serv_displname :: 表示名 :: 表示名のモードを選択します。
 serv_disphid :: 非表示
 serv_dispmii :: Miiの名前
 serv_dispcust :: カスタム名を入力します。 :: カスタム名は15字までです。
+serv_qrshow :: 表示するには\uE002を押してください。
 
 #Statistics
 statsentry :: ローカル統計 :: CTGP-7の個人使用の統計を確認できます。

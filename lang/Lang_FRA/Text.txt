@@ -142,7 +142,7 @@ $700029 :: Coupe Lune
 $710118 :: RMX Lac Vanille 1
 $710119 :: Circuit de la Falaise
 $710120 :: Laboratoire Interstellaire
-$710121 :: Forteresse de Matière Noire
+$710121 :: Forteresse Matière Noire
 
 #Hammer Cup
 $700030 :: Coupe Marteau
@@ -183,7 +183,7 @@ achiev_5000_vr :: Vous avez atteint 5000 PC\nen Custom Tracks Mondial.\n\nFélic
 achiev_blue_coin :: Vous avez obtenu\ntoutes les pièces bleues !\n\nFélicitations !
 unlocked_item :: Vous avez obtenu :\n\n
 types_achievs :: Succès normaux :: Succès spéciaux
-gold_tro_achiev :: Trophée Or dans toutes les coupes des custom tracks
+gold_tro_achiev :: Trophée Or dans toutes les coupes des CTs
 1star_achiev :: 1 étoile sur toutes les coupes des custom tracks
 3star_achiev :: 3 étoiles sur toutes les coupes des custom tracks
 10pts_msn_achiev :: 10 points dans toutes les missions
@@ -327,6 +327,7 @@ serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
 serv_dispmii :: Nom du Mii
 serv_dispcust :: Entrez un nom personnalisé. :: Les noms personnalisés peuvent\ncontenir seulement 15 caractères au\nmaximum.
+serv_qrshow :: Appuyez sur \uE002 pour afficher.
 
 #Statistics
 statsentry :: Statistiques locales :: Consultez vos statistiques privées de CTGP-7 ici.

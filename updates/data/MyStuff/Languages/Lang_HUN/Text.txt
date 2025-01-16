@@ -327,6 +327,7 @@ serv_displname :: Felhasználónév :: Felhasználónév beállítása
 serv_disphid :: Rejtett
 serv_dispmii :: Mii neve
 serv_dispcust :: Egyéni név :: Az egyéni név legfeljebb\n15 karakter hosszú lehet.
+serv_qrshow :: Nyomja meg a \uE002 gombot a megjelenítéshez.
 
 #Statistics
 statsentry :: Helyi statisztikák :: A CTGP-7 használati statisztikáinak megjelenítése.

@@ -327,6 +327,7 @@ serv_displname :: Naam weergeven :: Selecteer de modus voor het tonen van\njouw 
 serv_disphid :: Verborgen
 serv_dispmii :: Mii-naam
 serv_dispcust :: Voer aangepaste naam in. :: Naam kan maar 15\nkarakters lang zijn.
+serv_qrshow :: Druk op \uE002 om weer te geven.
 
 #Statistics
 statsentry :: Lokale statistieken :: Kijk hier je CTGP-7-statistieken na.

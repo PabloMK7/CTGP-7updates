@@ -327,6 +327,7 @@ serv_displname :: Anzeigename :: Wähle einen Modus für den Anzeigenamen.
 serv_disphid :: Versteckt
 serv_dispmii :: Mii-Spitzname
 serv_dispcust :: Bitte gib einen Namen ein. :: Benutzerdef. Namen können nur bis zu\n15 Zeichen lang sein.
+serv_qrshow :: Zum Anzeigen \uE002 drücken.
 
 #Statistics
 statsentry :: Lokale Statistik :: Hier kannst du deine privaten Nutzungsstatistiken einsehen.

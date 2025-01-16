@@ -327,6 +327,7 @@ serv_displname :: Mostrar Nome :: Selecione o modo de mostrar nomes.
 serv_disphid :: Escondido
 serv_dispmii :: Nome Mii
 serv_dispcust :: Introduza o nome personalizado. :: Nome personalizado pode conter somente\n15 caractéres.
+serv_qrshow :: Prima \uE002 para mostrar.
 
 #Statistics
 statsentry :: Estatísticas Locais :: Veja suas estatísticas CTGP-7 privadas aqui.

@@ -327,6 +327,7 @@ serv_displname :: Display Name :: Select display name mode.
 serv_disphid :: Hidden
 serv_dispmii :: Mii Name
 serv_dispcust :: Enter custom name. :: Custom name can only be\n15 characters long.
+serv_qrshow :: Press \uE002 to show.
 
 #Statistics
 statsentry :: Local Statistics :: Check your CTGP-7 private usage statistics here.

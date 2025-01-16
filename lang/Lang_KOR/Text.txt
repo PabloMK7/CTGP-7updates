@@ -327,6 +327,7 @@ serv_displname :: 이름 표시 :: 이름을 표시할 모드를 선택해 주�
 serv_disphid :: 숨기기
 serv_dispmii :: Mii의 이름
 serv_dispcust :: 커스텀 이름 입력 :: 커스텀 이름은\n15글자까지입니다.
+serv_qrshow :: 표시하려면 \uE002를 누르세요.
 
 #Statistics
 statsentry :: 로컬 통계 :: 여기서 CTGP-7 사용 통계를 확인할 수 있습니다.
