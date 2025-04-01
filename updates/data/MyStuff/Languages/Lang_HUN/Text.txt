@@ -181,14 +181,18 @@ achiev_all_3star :: Megszerezted az 3 csillagot\nminden egyéni kupában!\n\nGra
 achiev_all_mission :: Minden küldetésben\n10 pont van.\n\nGratulálunk!
 achiev_5000_vr :: 5000 VR van a CTWW-ben.\n\nGratulálunk!
 achiev_blue_coin :: Gratulálunk!\nMegszerezted az összes\nkék érmét!
+achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
 unlocked_item :: Feloldottad:\n\n
 types_achievs :: Sima teljesítmények :: Különleges teljesítmények
+types_achievs_optional :: Optional achievements
 gold_tro_achiev :: Szerezz aranyérmet minden egyéni pályás kupán
 1star_achiev :: Érj el egycsillagos teljesítményt minden egyéni pályás kupán
 3star_achiev :: Érj el háromcsillagos teljesítményt minden egyéni pályás kupán
 10pts_msn_achiev :: Érj el tízpontos teljesítményt minden küldetésen
 5000vr_achiev :: Érj el 5000 VR-os teljesítményt a CTWW-n
 blue_coin_achiev :: Szerezd meg az összes kék érmét
+dodged_blue_achiev :: Dodged 3 blue shells
+dodged_blue_amount :: Blue shells dodged
 custom_track_cups :: Egyéni pályás kupák
 tro_gold :: Aranyérem
 tro_1star :: 1 csillag

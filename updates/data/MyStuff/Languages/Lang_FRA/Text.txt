@@ -37,7 +37,7 @@ $700014 :: Coupe Ressort
 $710067 :: \uE033 Horloge Tic-Tac
 $710075 :: \uE026\uE027 Pont Champignon
 $710066 :: \uE033 Désert du Soleil
-$710069 :: Château du Temps
+$710069 :: Château Temporel
 
 #Egg Cup
 $700015 :: Coupe Œuf
@@ -107,11 +107,11 @@ $700024 :: Coupe Pioche
 $710098 :: Sommet Astronome
 $710099 :: Autodrome Crépuscule
 $710100 :: \uE024\uE025 Jetée Cassée
-$710101 :: Mine de Glacier
+$710101 :: Mine du Glacier
 
 #Mega Cup
 $700025 :: Coupe Méga
-$710102 :: Forteresse Fleurie
+$710102 :: Forteresse Florale
 $710103 :: Palais Balnéaire
 $710104 :: DKR Ville Lumière
 $710105 :: Montagne Champignon
@@ -181,14 +181,18 @@ achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes add
 achiev_all_mission :: Vous avez obtenu dix points\ndans toutes les missions.\n\nFélicitations !
 achiev_5000_vr :: Vous avez atteint 5000 PC\nen Custom Tracks Mondial.\n\nFélicitations !
 achiev_blue_coin :: Vous avez obtenu\ntoutes les pièces bleues !\n\nFélicitations !
+achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
 unlocked_item :: Vous avez obtenu :\n\n
 types_achievs :: Succès normaux :: Succès spéciaux
+types_achievs_optional :: Optional achievements
 gold_tro_achiev :: Trophée Or dans toutes les coupes des CTs
 1star_achiev :: 1 étoile sur toutes les coupes des custom tracks
 3star_achiev :: 3 étoiles sur toutes les coupes des custom tracks
 10pts_msn_achiev :: 10 points dans toutes les missions
 5000vr_achiev :: 5000PC en Custom Tracks Mondial
 blue_coin_achiev :: Toutes les pièces bleues obtenues
+dodged_blue_achiev :: Dodged 3 blue shells
+dodged_blue_amount :: Blue shells dodged
 custom_track_cups :: Coupes Custom Tracks
 tro_gold :: Or
 tro_1star :: 1 Étoile

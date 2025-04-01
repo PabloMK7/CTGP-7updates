@@ -181,14 +181,18 @@ achiev_all_3star :: Has obtingut tres estrelles en\ntotes les copes personalitza
 achiev_all_mission :: Has obtingut 10 punts en\ntotes les missions.\n\nEnhorabona!
 achiev_5000_vr :: Has obtingut 5000 PC en\ncircuits personalitzats\nen línia.\n\nEnhorabona!
 achiev_blue_coin :: Has obtingut totes les\nmonedes blaves.\n\nEnhorabona!
+achiev_dodged_blue :: Has esquivat 3\nclosques de pinxos.\n\nEnhorabona!
 unlocked_item :: Has desbloquejat:\n\n
 types_achievs :: Aconseguiments normals :: Aconseguiments especials
+types_achievs_optional :: Aconseguiments opcionals
 gold_tro_achiev :: Or en totes les copes personalitzades
 1star_achiev :: 1 estrella en totes les copes personalitzades
 3star_achiev :: 3 estrelles en totes les copes personalitzades
 10pts_msn_achiev :: 10 punts en totes les missions
 5000vr_achiev :: 5000PC en CTWW
 blue_coin_achiev :: Totes les monedes blaves obtingudes
+dodged_blue_achiev :: Esquivat 3 closques de pinxos
+dodged_blue_amount :: Closques de pinxos esquivades
 custom_track_cups :: Copes personalitzades
 tro_gold :: Or
 tro_1star :: 1 Estrella

@@ -181,14 +181,18 @@ achiev_all_3star :: Conseguiste três estrelas em\ntodas as taças personalizada
 achiev_all_mission :: Conseguiste 10 pontos em\ntodas as missões.\n\nParabéns!
 achiev_5000_vr :: Conseguiste 5000 VR em\ncircúitos personalizados\nonline.\n\nParabéns!
 achiev_blue_coin :: Conseguiste todas as\nmonedas azuis.\n\nParabéns!
+achiev_dodged_blue :: Conseguiste esquivar\n3 cascos azuis!\n\nParabéns!
 unlocked_item :: Desbloqueaste:\n\n
 types_achievs :: Conquistas Normais :: Conquistas Especiais
+types_achievs_optional :: Conquistas opcionais
 gold_tro_achiev :: Ouro em todas as taças personalizadas
 1star_achiev :: 1 estrela em todas as taças personalizadas
 3star_achiev :: 3 estrelas em todas as taças personalizadas
 10pts_msn_achiev :: 10 pontos em todas as missões
 5000vr_achiev :: 5000VR em CTWW
 blue_coin_achiev :: Todas as moedas azuis obtidas
+dodged_blue_achiev :: Esquivou de 3 cascos azuis
+dodged_blue_amount :: Cascos azuis esquivados
 custom_track_cups :: Taças Personalizadas
 tro_gold :: Ouro
 tro_1star :: 1 Estrela

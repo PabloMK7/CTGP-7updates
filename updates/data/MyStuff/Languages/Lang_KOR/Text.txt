@@ -56,7 +56,7 @@ $710064 :: 스타 경사
 #Blooper Cup
 $700018 :: 징오징오 컵
 $710074 :: 모래 성 공원
-$710058 :: Jungle Ruins
+$710058 :: 정글 유적
 $710076 :: \uE034 루이지 서킷
 $710077 :: 화산 비치 유적
 
@@ -181,14 +181,18 @@ achiev_all_3star :: 모든 커스텀 컵에서\n별 3개 얻었습니다.\n\n축
 achiev_all_mission :: 모든 미션에서\n10점를 얻었습니다.\n\n축하드립니다!
 achiev_5000_vr :: CTWW에서\n5000 VR에 도달했습니다.\n\n축하드립니다!
 achiev_blue_coin :: 블루코인 을\n 모두 모았습니다!\n\n축하합니다!
+achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
 unlocked_item :: 잠금 해제됨:\n\n
 types_achievs :: 일반 도전과제 :: 스페셜 도전과제
+types_achievs_optional :: Optional achievements
 gold_tro_achiev :: 모든 커스텀컵 1등
 1star_achiev :: 모든 커스텀컵 스타 한 개
 3star_achiev :: 모든 커스텀컵 스타 세 개
 10pts_msn_achiev :: 모든 미션에서 10포인트
 5000vr_achiev :: CTWW에서 5000VR
 blue_coin_achiev :: 모든 블루코인이 획득
+dodged_blue_achiev :: Dodged 3 blue shells
+dodged_blue_amount :: Blue shells dodged
 custom_track_cups :: 커스텀코스 컵
 tro_gold :: 금 트로피
 tro_1star :: 1 스타
@@ -236,8 +240,8 @@ autoaccel :: 자동 가속 :: \uE000나 \uE003를 누르면 \uE001이 눌러질 
 imbrakedrift :: 브레이크 드리프트 개선 :: \uE001을 드리프트 중에 눌러서 미니 터보를 잃지 않고 브레이크를 할 수 있습니다.
 autodelaydrift :: 자동 딜레이 드리프트 :: 드리프트를 시작할 때 속도를 잃는 것을 방지하게 돕습니다.
 achieventry :: 업적 :: CTGP-7 업적 진행 상황 보기.
-badgesentry :: Badges :: View obtained CTGP-7 badges (requires internet connection).
-optionsentry :: Options :: Configure CTGP-7 options.
+badgesentry :: 배지 :: 획득한 CTGP-7 배지 보기 (인터넷 연결 필요).
+optionsentry :: 설정 :: CTGP-7 옵션을 설정하기.
 
 #Speedometer text
 spd_set :: 속도계 설정
@@ -346,7 +350,7 @@ disc_linksteps3 :: 2. \#bots 채널에 들어가 주세요.
 disc_linksteps4 :: 3. 다음 메시지를 보내 주세요.
 disc_data :: 계정 :: 닉네임
 disc_beta :: 비공개 베타 테스트 가능 :: 비공개 베타 테스트 불가능
-disc_unlink :: Unlink :: Would you like to unlink your\ndiscord account?
+disc_unlink :: 연결 해제 :: 디스코드 계정과 연결을 해제 하시겠습니까?
 
 #Render Optimizations
 render_optim :: 렌더링 최적화 :: 상단 스크린의 3D 모드를 비활성화시켜, New 3DS의 CPU 개선사항을 활성화시킵니다.
@@ -393,9 +397,9 @@ proximity_chat :: 근접채팅 :: (\uE002로 전환하기)
 proximity_chat_desc :: 근접채팅 클라이언트를 연결해 주세요.\n더 자세히 알아보기: pastebin.com/ZPQs0FWR\n\n서버의주소: %s\n취소하려면 \uE001를 누르세요. :: 에러가 발생했습니다.\n돌아가려면 \uE001를 누르세요.
 
 #Badges
-badges_obtained :: Obtained badges:
-badges_use_online :: Use online :: Do not use online
-badge_name_desc :: Badge name :: Badge description
-badge_date :: Date obtained
-badge_msg :: You have obtained new\nCTGP-7 badges.\n\nCongratulations!
+badges_obtained :: 획득한 배지:
+badges_use_online :: 온라인 사용 :: 온라인 미사용
+badge_name_desc :: 배지 이름 :: 배지 설명
+badge_date :: 획득 날짜
+badge_msg :: 새로운 \nCTGP-7 배지를 획득했습니다. \n\n 축하드립니다!
 badge_date_fmt :: %Y-%m-%d

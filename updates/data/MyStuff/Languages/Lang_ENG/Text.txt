@@ -181,14 +181,18 @@ achiev_all_3star :: You have got 3 stars\nin all custom cups.\n\nCongratulations
 achiev_all_mission :: You have got 10 points\nin all missions.\n\nCongratulations!
 achiev_5000_vr :: You have got 5000 VR\nin custom tracks worldwide.\n\nCongratulations!
 achiev_blue_coin :: You have collected\nall blue coins!\n\nCongratulations!
+achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
 unlocked_item :: You have unlocked:\n\n
 types_achievs :: Normal achievements :: Special achievements
+types_achievs_optional :: Optional achievements
 gold_tro_achiev :: Gold in all custom track cups
 1star_achiev :: 1 star in all custom track cups
 3star_achiev :: 3 star in all custom track cups
 10pts_msn_achiev :: 10 points in all missions
 5000vr_achiev :: 5000VR in CTWW
 blue_coin_achiev :: All blue coins collected
+dodged_blue_achiev :: Dodged 3 blue shells
+dodged_blue_amount :: Blue shells dodged
 custom_track_cups :: Custom Track Cups
 tro_gold :: Gold
 tro_1star :: 1 Star

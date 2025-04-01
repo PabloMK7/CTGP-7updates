@@ -181,14 +181,18 @@ achiev_all_3star :: Hai ottenuto 3 stelle\nin tutti i trofei custom.\n\nCongratu
 achiev_all_mission :: Hai ottenuto 10 punti\nin tutte le missioni.\n\nCongratulazioni!
 achiev_5000_vr :: Hai ottenuto 5000 PC\nin CTWW.\n\nCongratulazioni!
 achiev_blue_coin :: Hai preso tutte le\nmonete blu!\n\nCongratulazioni!
+achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
 unlocked_item :: Hai sbloccato:\n\n
 types_achievs :: Obbiettivi Normali :: Obbiettivi Speciali
+types_achievs_optional :: Optional achievements
 gold_tro_achiev :: Oro in tutte le piste Custom
 1star_achiev :: 1 stella in tutti i trofei Custom
 3star_achiev :: 3 stelle in tutti i trofei Custom
 10pts_msn_achiev :: 10 punti in tutte le missioni
 5000vr_achiev :: 5000VR in CTWW
 blue_coin_achiev :: Tutte le monete blu sono state prese
+dodged_blue_achiev :: Dodged 3 blue shells
+dodged_blue_amount :: Blue shells dodged
 custom_track_cups :: Trofei Piste Custom
 tro_gold :: Oro
 tro_1star :: 1 stella

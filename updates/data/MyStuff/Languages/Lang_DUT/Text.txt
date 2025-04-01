@@ -181,14 +181,18 @@ achiev_all_3star :: Je hebt 3 sterren\nin alle nieuwe bekers.\n\nGefeliciteerd!
 achiev_all_mission :: Je hebt 10 punten\nin alle missies.\n\nGefeliciteerd!
 achiev_5000_vr :: Je hebt 5000 rp.\nin CTWW.\n\nGefeliciteerd!
 achiev_blue_coin :: Je hebt alle blauwe\n munten verzameld! \n\n Gefeliciteerd!
+achiev_dodged_blue :: Je hebt 3 spiny-schild\nontweken!\n\n Gefeliciteerd!
 unlocked_item :: Je hebt vrijgespeeld:\n\n
 types_achievs :: Normale prestaties :: Speciale prestaties
+types_achievs_optional :: Optional achievements
 gold_tro_achiev :: Goud bij alle nieuwe bekers
 1star_achiev :: 1 ster bij alle nieuwe bekers
 3star_achiev :: 3 sterren bij alle nieuwe bekers
 10pts_msn_achiev :: 10 punten bij alle missies
 5000vr_achiev :: 5000 rp. in CTWW
 blue_coin_achiev :: Alle blauwe munten verzameld
+dodged_blue_achiev :: Dodged 3 blue shells
+dodged_blue_amount :: Blue shells dodged
 custom_track_cups :: Nieuwe bekers
 tro_gold :: Goud
 tro_1star :: 1 Ster

@@ -181,14 +181,18 @@ achiev_all_3star :: Has obtenido tres estrellas en\ntodas las copas personalizad
 achiev_all_mission :: Has obtenido 10 puntos en\ntodas las misiones.\n\n¡Enhorabuena!
 achiev_5000_vr :: Has obtenido 5000 PC en\ncircuitos personalizados\nen línea.\n\n¡Enhorabuena!
 achiev_blue_coin :: Has obtenido todas las\nmonedas azules.\n\n¡Enhorabuena!
+achiev_dodged_blue :: Has esquivado 3\ncaparazones de pinchos.\n\n¡Enhorabuena!
 unlocked_item :: Has desbloqueado:\n\n
 types_achievs :: Logros normales :: Logros especiales
+types_achievs_optional :: Logros opcionales
 gold_tro_achiev :: Oro en todas las copas personalizadas
 1star_achiev :: 1 estrella en todas las copas personalizadas
 3star_achiev :: 3 estrellas en todas las copas personalizadas
 10pts_msn_achiev :: 10 puntos en todas las misiones
 5000vr_achiev :: 5000PC en CTWW
 blue_coin_achiev :: Todas las monedas azules obtenidas
+dodged_blue_achiev :: Esquivado 3 caparazones de pinchos
+dodged_blue_amount :: Caparazones de pinchos esquivados
 custom_track_cups :: Copas Personalizadas
 tro_gold :: Oro
 tro_1star :: 1 Estrella

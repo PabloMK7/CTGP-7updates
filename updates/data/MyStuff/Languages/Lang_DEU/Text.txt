@@ -181,14 +181,18 @@ achiev_all_3star :: Du hast 3 Sterne in allen\nbenutzerdef. Cups\nerrungen.\nHer
 achiev_all_mission :: Du hast 10 Punkte in allen\nMissionen errungen.\n\nHerzlichen Glückwunsch!
 achiev_5000_vr :: Du hast 5000 RP im\nCTWW errungen.\n\nHerzlichen Glückwunsch!
 achiev_blue_coin :: Du hast\nalle Blauen Münzen eingesammelt.\nHerzlichen Glückwunsch!
+achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
 unlocked_item :: Du hast Folgendes\nfreigeschaltet:\n\n
 types_achievs :: Normale Erfolge :: Spezial-Erfolge
+types_achievs_optional :: Optional achievements
 gold_tro_achiev :: Gold in allen Custom Track Cups
 1star_achiev :: 1 Stern in allen Custom Track Cups
 3star_achiev :: 3 Sterne in allen Custom Track Cups
 10pts_msn_achiev :: 10 Punkte in allen Missionen
 5000vr_achiev :: 5000 VR in CTWW
 blue_coin_achiev :: Alle Blauen Münzen eingesammelt
+dodged_blue_achiev :: Dodged 3 blue shells
+dodged_blue_amount :: Blue shells dodged
 custom_track_cups :: Custom Track Cups
 tro_gold :: Gold
 tro_1star :: 1 Stern
