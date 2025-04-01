@@ -15,6 +15,7 @@ M/MyStuff/Characters/Birdo_Red.chpack
 M/MyStuff/Characters/Birdo_White.chpack
 M/MyStuff/Characters/Birdo_Yellow.chpack
 M/MyStuff/Characters/Black_Yoshi.chpack
+M/MyStuff/Characters/Blue_shell.chpack
 M/MyStuff/Characters/Blue_Toad.chpack
 M/MyStuff/Characters/Boshi.chpack
 M/MyStuff/Characters/Bowser_Jr.chpack
