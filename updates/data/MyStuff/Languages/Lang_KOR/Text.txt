@@ -149,7 +149,7 @@ $700030 :: 해머 컵
 $710122 :: \uE020\uE021 도넛 평야 2
 $710123 :: 깡충깡충 스카이 로드
 $710124 :: \uE035 쿠파 성
-$710125 :: \uE067 스노보드 경기장
+$710125 :: \uE067 DK 스노보드 경기장
 
 #Wonder Cup
 $700031 :: 원더 컵
@@ -181,18 +181,18 @@ achiev_all_3star :: 모든 커스텀 컵에서\n별 3개 얻었습니다.\n\n축
 achiev_all_mission :: 모든 미션에서\n10점를 얻었습니다.\n\n축하드립니다!
 achiev_5000_vr :: CTWW에서\n5000 VR에 도달했습니다.\n\n축하드립니다!
 achiev_blue_coin :: 블루코인 을\n 모두 모았습니다!\n\n축하합니다!
-achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
+achiev_dodged_blue :: 가시돌이등껍질 3개 를\n피했습니다! 축하합니다!
 unlocked_item :: 잠금 해제됨:\n\n
 types_achievs :: 일반 도전과제 :: 스페셜 도전과제
-types_achievs_optional :: Optional achievements
+types_achievs_optional :: 선택적 업적
 gold_tro_achiev :: 모든 커스텀컵 1등
 1star_achiev :: 모든 커스텀컵 스타 한 개
 3star_achiev :: 모든 커스텀컵 스타 세 개
 10pts_msn_achiev :: 모든 미션에서 10포인트
 5000vr_achiev :: CTWW에서 5000VR
 blue_coin_achiev :: 모든 블루코인이 획득
-dodged_blue_achiev :: Dodged 3 blue shells
-dodged_blue_amount :: Blue shells dodged
+dodged_blue_achiev :: 가시돌이등껍질 3개를 피했습니다
+dodged_blue_amount :: 가시돌이등껍질 피하기
 custom_track_cups :: 커스텀코스 컵
 tro_gold :: 금 트로피
 tro_1star :: 1 스타

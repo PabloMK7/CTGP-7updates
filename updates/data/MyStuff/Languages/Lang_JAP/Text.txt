@@ -181,18 +181,18 @@ achiev_all_3star :: すべてのカスタムカップで\nほし3つをとりま
 achiev_all_mission :: すべてのミッションで\n10ptsをとりました。\n\nおめでとうございます！
 achiev_5000_vr :: CTWWで\n5000 VRに到達しました。\n\nおめでとうございます！
 achiev_blue_coin :: すべての\nあおコインをあつめました。\n\nおめでとうございます！
-achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
+achiev_dodged_blue :: トゲゾーこうらを\n3個回避しました！\n\nおめでとうございます！
 unlocked_item :: 次のものが解除されました！\n\n
 types_achievs :: ノーマル実績 :: スペシャル実績
-types_achievs_optional :: Optional achievements
+types_achievs_optional :: 任意の実績
 gold_tro_achiev :: 全てのカスタムカップで1位
 1star_achiev :: 全てのカスタムカップで星1
 3star_achiev :: 全てのカスタムカップで星3
 10pts_msn_achiev :: 全てのミッションで10 pts
 5000vr_achiev :: CTWWで5000VR
 blue_coin_achiev :: 全てのあおコインをゲット
-dodged_blue_achiev :: Dodged 3 blue shells
-dodged_blue_amount :: Blue shells dodged
+dodged_blue_achiev :: トゲゾーこうらを3個回避する
+dodged_blue_amount :: トゲゾーこうらを回避
 custom_track_cups :: カスタムトラックカップ
 tro_gold :: 金トロフィー
 tro_1star :: 星1
