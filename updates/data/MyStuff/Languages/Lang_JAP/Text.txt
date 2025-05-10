@@ -181,7 +181,7 @@ achiev_all_3star :: すべてのカスタムカップで\nほし3つをとりま
 achiev_all_mission :: すべてのミッションで\n10ptsをとりました。\n\nおめでとうございます！
 achiev_5000_vr :: CTWWで\n5000 VRに到達しました。\n\nおめでとうございます！
 achiev_blue_coin :: すべての\nあおコインをあつめました。\n\nおめでとうございます！
-achiev_dodged_blue :: トゲゾーこうらを\n3個回避しました！\n\nおめでとうございます！
+achiev_dodged_blue :: トゲゾーこうらを\n3個かいひしました！\n\nおめでとうございます！
 unlocked_item :: 次のものが解除されました！\n\n
 types_achievs :: ノーマル実績 :: スペシャル実績
 types_achievs_optional :: 任意の実績
