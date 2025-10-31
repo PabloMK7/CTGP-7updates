@@ -15,14 +15,14 @@ $710045 :: \uE024\uE025 スカイガーデン
 $700011 :: ドングリカップ
 $710046 :: オータムフォレスト
 $710068 :: \uE024\uE025 リバーサイドパーク
-$710043 :: \uE020\uE021 マリオサーキット 1
+$710043 :: RMX マリオサーキット 1
 $710049 :: \uE024\uE025 クッパキャッスル 3
 
 #Cloud Cup
 $700012 :: くもフラワーカップ
 $710053 :: \uE035 フラッペスノーランド
 $710054 :: \uE035 モーモーファーム
-$710052 :: アーキペラゴアベニュー
+$710052 :: \uE033 モンテタウン
 $710096 :: \uE034 マリオサーキット
 
 #Boo Cup
@@ -158,6 +158,20 @@ $710127 :: ルーレットロード
 $710128 :: オービタルツイスター
 $710129 :: \uE033 レインボーロード
 
+#Shine Cup
+$700032 :: シャインカップ
+$710130 :: コーラルみさき
+$710131 :: \uE067 ワリオこうざん
+$710132 :: \uE033 ピーチガーデン
+$710133 :: ゆきかぜのとりで
+
+#Dark Star Cup
+$700033 :: ダークスターカップ
+$710134 :: ダークサンクチュアリ
+$710135 :: ヘルピラミッド
+$710136 :: \uE034 キノコシティ
+$710137 :: ダークスターキャッスル
+
 #Save Data
 $7005 :: CTGP-7の追加データを\nSDカードに作成します。
 $7003 :: 追加データの作成をしています...
@@ -167,7 +181,7 @@ $7007 :: マリオカート7のセーブデータが存在しません。\n電�
 #First opening welcome message
 welc_t :: CTGP-7へようこそ！
 welc_1 :: こんにちは！\nゲームメニューから、\nさまざまなついかきのうを\nつかうことができます。\nゲームメニューをひらくには、\nSELECTボタンをおします。
-welc_2 :: きのうをしようするには、\nエントリーのうえに\nカーソルをおきAをおして\nゆうこうか/むこうかします。
+welc_2 :: きのうをしようするには、\nつかいたいきのうに\nカーソルをあわせ、Aをおして\nゆうこうか/むこうかします。
 welc_3 :: オンラインでプレイしている\nあいだは「CCセレクター」などの\nいちぶのきのうがむこうに\nなることにちゅういしてください。
 welc_4 :: とうけいじょうほうはCTGP-7\nサーバーにアップロードされるため、\nいっぱんにこうかいされます。\n(データはとくめいかされます。)\nとうけいじょうほうのアップロードは\nゲームメニューからオフにできます。
 welc_5 :: CTGP-7ネットワークをしようすることで、\nルールにどういしたことになります。\n\nここでかくにんできます:\nctgp-7.github.io/ctww.html
@@ -180,9 +194,10 @@ achiev_all_1star :: すべてのカスタムカップで\nほし1つをとりま
 achiev_all_3star :: すべてのカスタムカップで\nほし3つをとりました。\n\nおめでとうございます！
 achiev_all_mission :: すべてのミッションで\n10ptsをとりました。\n\nおめでとうございます！
 achiev_5000_vr :: CTWWで\n5000 VRに到達しました。\n\nおめでとうございます！
+achiev_all_score_completed :: スコアアタックで\nすべてのコースをクリアしました。\n\nおめでとうございます！
 achiev_blue_coin :: すべての\nあおコインをあつめました。\n\nおめでとうございます！
 achiev_dodged_blue :: トゲゾーこうらを\n3個かいひしました！\n\nおめでとうございます！
-unlocked_item :: 次のものが解除されました！\n\n
+unlocked_item :: 入手しました！\n\n
 types_achievs :: ノーマル実績 :: スペシャル実績
 types_achievs_optional :: 任意の実績
 gold_tro_achiev :: 全てのカスタムカップで1位
@@ -190,6 +205,7 @@ gold_tro_achiev :: 全てのカスタムカップで1位
 3star_achiev :: 全てのカスタムカップで星3
 10pts_msn_achiev :: 全てのミッションで10 pts
 5000vr_achiev :: CTWWで5000VR
+score_all_achiev :: スコアアタックで全コースクリア
 blue_coin_achiev :: 全てのあおコインをゲット
 dodged_blue_achiev :: トゲゾーこうらを3個回避する
 dodged_blue_amount :: トゲゾーこうらを回避
@@ -239,6 +255,7 @@ imtrick :: ジャンプアクションの改良 :: ジャンプアクション�
 autoaccel :: オートアクセル :: \uE000や\uE003を押すことで自動的に加速することができます。\uE001で解除されます。
 imbrakedrift :: ブレーキドリフトの改良 :: ドリフトをしながら\uE001を押すとき、ミニターボを無くさずに減速することができます。
 autodelaydrift :: 自動ディレイドリフト :: ドリフト開始時のカートの速度低下を防ぎます。
+improvedhorn :: クラクションの改良 :: アイテムボタンでクラクションを鳴らすことができ、マルチプレイでは他のプレイヤーのクラクションも聞くことができます。
 achieventry :: 実績 :: CTGP-7の実績の進行状況を確認します。
 badgesentry :: バッジ :: 獲得したCTGP-7バッジを表示します(インターネット接続が必要です)。
 optionsentry :: オプション :: CTGP-7オプションを 設定します
@@ -337,6 +354,7 @@ serv_qrshow :: 表示するには\uE002を押してください。
 statsentry :: ローカル統計 :: CTGP-7の個人使用の統計を確認できます。
 stats_tpl :: プレイ回数
 stats_tot :: オフラインレースの合計 :: オンラインレースの合計
+stats_sc :: スコアアタックレースの合計 :: ウィークリーチャレンジの合計
 stats_vnll :: 通常
 stats_most :: 最もプレイしたコース :: 最もプレイしたバトルステージ
 stats_rpoints :: レースポイント
@@ -403,3 +421,112 @@ badge_name_desc :: バッジ名 :: バッジの詳細
 badge_date :: 獲得した日
 badge_msg :: 新しい\nCTGP-7バッジを獲得しました。\n\nおめでとうございます！
 badge_date_fmt :: %Y年%m月%d日
+
+#Score Attack Actions
+pts_action_0 :: ダッシュキノコ
+pts_action_1 :: ダッシュプレート
+pts_action_2 :: ミニターボ
+pts_action_3 :: スーパーミニターボ
+pts_action_4 :: ロケットスタート!
+pts_action_5 :: ロケットスタート!!
+pts_action_6 :: ロケットスタート!!!
+pts_action_7 :: ジャンプアクション
+pts_action_8 :: スーパージャンプアクション
+pts_action_9 :: スリップストリーム
+pts_action_10 :: パワフルダッシュキノコ
+pts_action_11 :: コイン
+pts_action_12 :: スターリング
+pts_action_13 :: ドカン
+pts_action_14 :: クリボー
+pts_action_15 :: バサバサ
+pts_action_16 :: パイロン
+pts_action_17 :: いわ
+pts_action_18 :: プクプク
+pts_action_19 :: アコヤガイ
+pts_action_20 :: カニ
+pts_action_21 :: ヤギ
+pts_action_22 :: ツボ
+pts_action_23 :: そらとぶヘイホー
+pts_action_24 :: タル
+pts_action_25 :: ティキトントン
+pts_action_26 :: フログーン
+pts_action_27 :: クルマ
+pts_action_28 :: きばこ
+pts_action_29 :: ペンギン
+pts_action_30 :: ツララ
+pts_action_31 :: ドッスン
+pts_action_32 :: ハリボテ
+pts_action_33 :: ハリボテ(クリボー)
+pts_action_34 :: パックンフラワー
+pts_action_35 :: ワンワン
+pts_action_36 :: フィッシュボーン
+pts_action_37 :: イカリ
+pts_action_38 :: おんぷ
+pts_action_39 :: おちば
+pts_action_40 :: ハナチャン
+pts_action_41 :: キラー
+pts_action_42 :: プー
+pts_action_43 :: ゆきだるま
+pts_action_44 :: ゆきだま
+pts_action_45 :: てっきゅう
+pts_action_46 :: テーブル
+pts_action_47 :: サボテン
+pts_action_48 :: れっしゃ
+pts_action_49 :: ハッチン
+pts_action_50 :: グライドキープ
+pts_action_51 :: ミドリこうら ヒット!
+pts_action_52 :: アカこうら ヒット!
+pts_action_53 :: バナナ ヒット!
+pts_action_54 :: トゲゾーこうら ヒット!
+pts_action_55 :: サンダー ヒット!
+pts_action_56 :: にせアイテムボックス ヒット!
+pts_action_57 :: ボムへい ヒット!
+pts_action_58 :: ファイアフラワー ヒット!
+pts_action_59 :: スーパーこのは ヒット!
+pts_action_60 :: ゲッソー ヒット!
+pts_action_61 :: スター ヒット!
+pts_action_62 :: きょだいキノコ ヒット!
+pts_action_63 :: キラー ヒット!
+pts_action_64 :: おいこし!
+pts_action_65 :: しかえし!
+pts_action_66 :: スマッシュ!
+pts_action_67 :: アイテムブレイク
+pts_action_68 :: アイテムガード
+pts_action_69 :: トゲゾーこうら かいひ!
+pts_action_70 :: ネクストラップ!
+pts_action_71 :: ネクストセクション!
+pts_action_72 :: フィーバーフィニッシュ!
+pts_action_73 :: レースフィニッシュ!
+
+#Score Attack
+score_attack :: スコアアタック :: アクションをコンボさせ ベストスコアをめざします
+sc_at_spc_cup :: ランダムコース :: ウィークリーチャレンジ
+sc_at_race_start :: レーススタート
+sc_at_clear :: クリアしたコース :: 未クリアのコース
+sc_at_save :: (セーブ削除: \uE002) :: (なし)
+sc_at_score :: ベストスコア :: クリアスコア
+sc_at_delete :: このコースのセーブデータを削除しますか？
+sc_at_record :: New Record!
+sc_at_clear_small :: クリア！ :: 未クリア
+sc_at_cleared_tr :: クリアしたコース
+sc_at_nice :: NICE!
+sc_at_great :: GREAT!
+sc_at_excel :: EXCELLENT!
+sc_at_fanta :: FANTASTIC!
+sc_at_combo :: Combo x
+
+#Score Attack Weekly
+sc_wc_ended :: 現在のウィークリーチャレンジは終了しました :: 利用可能なデータはありません
+sc_wc_curr :: 現在のチャレンジ:
+sc_wc_time :: 残り時間:
+sc_wc_bonus :: ボーナスコンボ: :: あなたのボーナス:
+sc_wc_board :: リーダーボード: Top 10 :: リーダーボード: マイスコア
+sc_wc_getting :: ウィークリーチャレンジの情報を取得しています... :: ウィークリーチャレンジの情報の取得に失敗しました。\nエラー: 0x%08X
+sc_wc_results :: ウィークリーチャレンジの結果
+sc_wc_score :: 前回のスコア: :: 新しいスコア:
+sc_wc_upload :: あなたのスコアを公開しますか？ :: 公開
+sc_wc_uploading :: 結果をアップロードしています... :: エラーが発生しました。
+sc_wc_retry :: もう一度試しますか？
+
+#Local Multiplayer Error
+mult_error :: 参加者全員が\n最新バージョンのCTGP-7を\nインストールする必要があります。 :: この部屋でプレイするには\nCTGP-7を更新する\n必要があります。

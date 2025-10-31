@@ -15,14 +15,14 @@ $710045 :: \uE024\uE025 Jardin Volant
 $700011 :: Coupe Gland
 $710046 :: Forêt Automnale
 $710068 :: \uE024\uE025 Riverside Parc
-$710043 :: \uE031\uE032 Circuit Mario 1
+$710043 :: RMX Circuit Mario 1
 $710049 :: \uE024\uE025 Château de Bowser 3
 
 #Cloud Cup
 $700012 :: Coupe Nuage
 $710053 :: \uE022\uE023 Route Glagla
 $710054 :: \uE022\uE023 Ferme Meuh Meuh
-$710052 :: Avenue de l'Archipel
+$710052 :: \uE033 Quartier Delfino
 $710096 :: \uE026\uE027 Circuit Mario
 
 #Boo Cup
@@ -158,6 +158,20 @@ $710127 :: Rue de la Roulette
 $710128 :: Avant-poste Orbital
 $710129 :: \uE033 Route Arc-en-ciel
 
+#Shine Cup
+$700032 :: Coupe Soleil
+$710130 :: Cap Corail
+$710131 :: \uE067 Mine Wario
+$710132 :: \uE033 Jardin Peach
+$710133 :: Citadelle Brisefroide
+
+#Dark Star Cup
+$700033 :: Coupe Astre Noir
+$710134 :: Sanctuaire Sombre
+$710135 :: Pyramide Infernale
+$710136 :: \uE026\uE027 Champiville
+$710137 :: Château Astre Noir
+
 #Save Data
 $7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 $7003 :: Création du fichier\nde sauvegarde...
@@ -180,6 +194,7 @@ achiev_all_1star :: Vous avez obtenu une étoile\ndans toutes les\ncoupes additi
 achiev_all_3star :: Vous avez obtenu trois étoiles\ndans toutes les\ncoupes additionnelles.\n\nFélicitations !
 achiev_all_mission :: Vous avez obtenu dix points\ndans toutes les missions.\n\nFélicitations !
 achiev_5000_vr :: Vous avez atteint 5000 PC\nen Custom Tracks Mondial.\n\nFélicitations !
+achiev_all_score_completed :: Vous avez terminé tous\nles circuits dans\nContre-le-score.\n\nFélicitations !
 achiev_blue_coin :: Vous avez obtenu\ntoutes les pièces bleues !\n\nFélicitations !
 achiev_dodged_blue :: Vous avez esquivé\n3 carapaces bleues.\n\nFélicitations !
 unlocked_item :: Vous avez obtenu :\n\n
@@ -190,6 +205,7 @@ gold_tro_achiev :: Trophée Or dans toutes les coupes des CTs
 3star_achiev :: 3 étoiles sur toutes les coupes des custom tracks
 10pts_msn_achiev :: 10 points dans toutes les missions
 5000vr_achiev :: 5000PC en Custom Tracks Mondial
+score_all_achiev :: Completer tous les circuits dans Contre-le-score
 blue_coin_achiev :: Toutes les pièces bleues obtenues
 dodged_blue_achiev :: Esquiver 3 carapaces bleues
 dodged_blue_amount :: Carapaces bleues esquivées
@@ -239,6 +255,7 @@ imtrick :: Sauts améliorés :: Les sauts effectués sur certaines rampes vont f
 autoaccel :: Accélération auto :: Appuyez sur \uE000 ou \uE003 pour activer l'accélération auto. Pour la désactiver, appuyez sur \uE001.  
 imbrakedrift :: Amélioration du freinage en dérapant :: Maintenez \uE001 en dérapant pour freiner sans perdre votre mini-turbo.
 autodelaydrift :: "Delay Drift" Automatique :: Aide à prévenir la perte de vitesse lors du début d'un dérapage.
+improvedhorn :: Klaxon amélioré :: Autorise l'utilisation du klaxon avec le bouton d'objet et d'entendre celui des autres joueurs en multijoueur.
 achieventry :: Succès :: Voir votre progrès des succès CTGP-7
 badgesentry :: Badges :: Voir les badges CTGP-7 obtenus. (Nécessite une connexion Internet)
 optionsentry :: Options :: Configurer les options de CTGP-7.
@@ -337,6 +354,7 @@ serv_qrshow :: Appuyez sur \uE002 pour afficher.
 statsentry :: Statistiques locales :: Consultez vos statistiques privées de CTGP-7 ici.
 stats_tpl :: Nombre de fois joué
 stats_tot :: Parties local :: Parties en ligne
+stats_sc :: Nombre total de courses en contre-le-score :: Nombre total de tentatives pour le défi hebdomadaire
 stats_vnll :: Original
 stats_most :: Circuits les plus joués :: Arènes batailles les plus jouées
 stats_rpoints :: Points de course
@@ -403,3 +421,112 @@ badge_name_desc :: Nom du badge :: Description du badge
 badge_date :: Date d'obtention
 badge_msg :: Vous avez obtenu de\nnouveau badges CTGP-7.\n\nFélicitations !
 badge_date_fmt :: %d/%m/%Y
+
+#Score Attack Actions
+pts_action_0 :: Champi turbo !
+pts_action_1 :: Plaque d'accélération
+pts_action_2 :: Mini-turbo
+pts_action_3 :: Super mini-turbo
+pts_action_4 :: Petit départ turbo
+pts_action_5 :: Départ turbo
+pts_action_6 :: Excellent départ turbo
+pts_action_7 :: Figure
+pts_action_8 :: Figure avancée
+pts_action_9 :: Aspiration
+pts_action_10 :: Champignon doré !
+pts_action_11 :: Pièce ramassée
+pts_action_12 :: Anneau d'étoile
+pts_action_13 :: Tuyau
+pts_action_14 :: Goomba
+pts_action_15 :: Swooper
+pts_action_16 :: Cône de signalisation
+pts_action_17 :: Rocher
+pts_action_18 :: Cheep Cheep
+pts_action_19 :: Cokillage
+pts_action_20 :: Zarbipas
+pts_action_21 :: Chèvre
+pts_action_22 :: Vase
+pts_action_23 :: Maskass volant
+pts_action_24 :: Tonneau
+pts_action_25 :: Tiki Goon
+pts_action_26 :: Grebulle
+pts_action_27 :: Voiture
+pts_action_28 :: Caisse en bois
+pts_action_29 :: Pingouin
+pts_action_30 :: Stalactite
+pts_action_31 :: Thwomp
+pts_action_32 :: Faux buisson
+pts_action_33 :: Faux goomba
+pts_action_34 :: Plante piranha
+pts_action_35 :: Chomp
+pts_action_36 :: Ossec
+pts_action_37 :: Ancre
+pts_action_38 :: Note rebondissante
+pts_action_39 :: Tas de feuilles
+pts_action_40 :: Wiggler
+pts_action_41 :: Bill Balle
+pts_action_42 :: Torti Taupe
+pts_action_43 :: Bonhomme de neige
+pts_action_44 :: Boule de neige
+pts_action_45 :: Boule de métal
+pts_action_46 :: Table
+pts_action_47 :: Cactus
+pts_action_48 :: Train
+pts_action_49 :: Butitine
+pts_action_50 :: Temps de vol
+pts_action_51 :: Carapace verte !
+pts_action_52 :: Carapace rouge !
+pts_action_53 :: Banane !
+pts_action_54 :: Carapace à épines !
+pts_action_55 :: Éclair !
+pts_action_56 :: Fausse boîte à objets !
+pts_action_57 :: Bob-omb !
+pts_action_58 :: Fleur de feu !
+pts_action_59 :: Super feuille !
+pts_action_60 :: Bloups !
+pts_action_61 :: Étoile !
+pts_action_62 :: Méga champignon !
+pts_action_63 :: Bill balle !
+pts_action_64 :: Dépacement bill balle
+pts_action_65 :: Revanche réussie !
+pts_action_66 :: Aplatissement !
+pts_action_67 :: Objet détruit
+pts_action_68 :: Objet dévié
+pts_action_69 :: Carapace à épines esquivée !
+pts_action_70 :: Tour suivant !
+pts_action_71 :: Section suivante !
+pts_action_72 :: Frénésie à l'arrivée !
+pts_action_73 :: Fin de course !
+
+#Score Attack
+score_attack :: Contre-le-score :: Enchaînez les actions pour obtenir le plus de points.
+sc_at_spc_cup :: Course aléatoire :: Défi hebdomadaire.
+sc_at_race_start :: Début de course
+sc_at_clear :: Circuit terminé :: Circuit non terminé
+sc_at_save :: (Suppr. sauvegarde : \uE002) :: (Aucun)
+sc_at_score :: Meilleur score :: Score nécessaire
+sc_at_delete :: Voulez-vous supprimer les données de sauvegarde de ce circuit ?
+sc_at_record :: Nouveau record !
+sc_at_clear_small :: Terminé ! :: Non terminé
+sc_at_cleared_tr :: Circuits terminés
+sc_at_nice :: BIEN !
+sc_at_great :: SUPER !
+sc_at_excel :: GÉNIAL !
+sc_at_fanta :: EXCELLENT !
+sc_at_combo :: Combo x
+
+#Score Attack Weekly
+sc_wc_ended :: Le défi hebdomadaire en cours est terminé :: Aucune donnée disponible
+sc_wc_curr :: Défi en cours :
+sc_wc_time :: Temps restant :
+sc_wc_bonus :: Combo bonus : :: Votre bonus :
+sc_wc_board :: Classement : Top 10 :: Classement : Mon score
+sc_wc_getting :: Récupération des données en cours... :: La récupération des données du défi hebdomadaire a échoué.\nErreur : 0x%08X
+sc_wc_results :: Résultats du défi hebdomadaire
+sc_wc_score :: Score précédent : :: Nouveau score :
+sc_wc_upload :: Voulez-vous publier votre score ? :: Publier
+sc_wc_uploading :: Envoi des données en cours... :: Une erreur est survenue.
+sc_wc_retry :: Réessayer ?
+
+#Local Multiplayer Error
+mult_error :: Tous les participants\ndoivent posséder la\ndernière version de CTGP-7. :: Veuillez mettre à\njour CTGP-7 afin de\nparticiper à cette salle.

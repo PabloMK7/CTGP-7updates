@@ -1,0 +1,1262 @@
+## CTGP-7 Czech translation file.
+##
+## This file has been generated from the Mario Kart Translation Project spreadsheet.
+## If you want to contribute, please join the following discord server:
+## https://discord.gg/ubgfE96
+
+#Bell Cup
+$700010 :: Zvonekový Pohár
+$710042 :: Concord Město
+$710059 :: \uE022\uE023 Mario Závodiště
+$710044 :: Galvarny Vodopády
+$710045 :: \uE024\uE025 Nebeská Zahrada
+
+#Acorn Cup
+$700011 :: Žaludový Pohár
+$710046 :: Podzimní Les
+$710068 :: \uE024\uE025 Říční Park
+$710043 :: RMX Mariův Okruh 1
+$710049 :: \uE024\uE025 Bowserův Hrad 3
+
+#Cloud Cup
+$700012 :: Mrakový Pohár
+$710053 :: \uE022\uE023 Kávová Země Sněhu
+$710054 :: \uE022\uE023 Bů Bů Farma
+$710052 :: \uE033 Delfino Náměstí
+$710096 :: \uE026\uE027 Mariův Okruh
+
+#Boo Cup
+$700013 :: Boo Pohár
+$710055 :: Prokletý Most 2
+$710062 :: Prvková Jeskyně
+$710057 :: \uE031\uE032 Údolí Duchů 2
+$710065 :: \uE033 Pláž Cheep Cheepů
+
+#Spring Cup
+$700014 :: Pružinový Pohár
+$710067 :: \uE033 Hodiny Tik-Tak
+$710075 :: \uE034 Houbový Most
+$710066 :: \uE033 Pouštní Kopce
+$710069 :: Časový Hrad
+
+#Egg Cup
+$700015 :: Vajíčkový Pohár
+$710063 :: \uE033 Yoshi Vodopády
+$710047 :: \uE022\uE023 Čoko Hora
+$710048 :: \uE033 Houbový Hřeben
+$710051 :: CTR Crash Zátoka
+
+#Bullet Cup
+$700016 :: Kulkový Pohár
+$710056 :: CTR Cortexův Hrad
+$710089 :: Revo Okruh
+$710061 :: \uE031\uE032 Čoko Ostrov 2
+$710064 :: Hvězdný Svah
+
+#Blooper Cup
+$700018 :: Blooperový Pohár
+$710074 :: Park Písečných Hradů
+$710058 :: Ruiny Džungle
+$710076 :: \uE026\uE027 Luigiho Okruh
+$710077 :: Vulkánová Pláž Ruiny
+
+#Feather Cup
+$700019 :: Péřový Pohár
+$710078 :: \uE026\uE027 Yoshiho Okruh
+$710079 :: \uE024\uE025 Peachin Okruh
+$710080 :: Metro Šílenství
+$710081 :: \uE024\uE025 Luigiho Okruh
+
+#Fire Cup
+$700020 :: Ohnivá Koulový Pohár
+$710082 :: SMO RC Výzva
+$710083 :: \uE024\uE025 Bowserův Hrad 4
+$710084 :: RMX Koblihova Pláně 1
+$710085 :: Tajný Klouzačka
+
+#Bob-omb Cup
+$700021 :: Bob-ombový Pohár
+$710086 :: \uE033 Wariův Stadión
+$710087 :: Ermii Okruh
+$710088 :: \uE026\uE027 Dětský Park
+$710072 :: \uE026\uE027 Bowserův Hrad
+
+#Cherry Cup
+$700022 :: Třešňový Pohár
+$710090 :: \uE031\uE032 Mariův Okruh 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Shy Guy Pláž
+$710093 :: Bingo Party
+
+#Coin Cup
+$700023 :: Mincovní Pohár
+$710094 :: Doge Poušt'
+$710095 :: \uE022\uE023 Prokletý Most
+$710050 :: \uE022\uE023 DKho Dálnice v Džungli
+$710073 :: Mikuova Narozeniny 2
+
+#Rainbow Cup
+$700017 :: Duhový Pohár
+$710070 :: \uE022\uE023 Duhová Cesta
+$710071 :: \uE024\uE025 Duhová Cesta
+$710114 :: RMX Duhová Cesta 1
+$710097 :: Duhová Cesta DX
+
+#Pickaxe Cup
+$700024 :: Krumpáčový Pohár
+$710098 :: Hvězdný Summit
+$710099 :: Slunečné Závodiště
+$710100 :: \uE024\uE025 Rozbité Molo
+$710101 :: Ledovcový Důl
+
+#Mega Cup
+$700025 :: Mega Pohár
+$710102 :: Květinová Pevnost
+$710103 :: Přímořský Palác
+$710104 :: DKR Hvězdičkové Město
+$710105 :: Houbová Hora
+
+#Propeller Cup
+$700026 :: Vrtulový Pohár
+$710106 :: \uE022\uE023 Zmrzlinová Země
+$710107 :: Blokový Ostrov
+$710108 :: \uE033 Bowserův Hrad
+$710109 :: DKR Džungle Páds
+
+#POW Cup
+$700027 :: POW Pohár
+$710110 :: Retro Závodiště
+$710111 :: Zmrzlá Jeskyně
+$710112 :: \uE024\uE025 Jezerní Park
+$710113 :: Draké Pohřebiště
+
+#Rock Cup
+$700028 :: Kámenový Pohár
+$710060 :: Ostrov Trubkový
+$710115 :: Neo Metropole
+$710116 :: Mrazivé Vrcholy
+$710117 :: Gnasty Gnorcovo Doupě
+
+#Moon Cup
+$700029 :: Měsíční Pohár
+$710118 :: RMX Vanilkové Jezero 1
+$710119 :: Útesový Okruh
+$710120 :: Mezihvězdná Laboratoř
+$710121 :: Temná Látková Pevnost
+
+#Hammer Cup
+$700030 :: Kladivkový Pohár
+$710122 :: \uE031\uE032 Koblihova Pláně 2
+$710123 :: Stoupající Nebetyčna Cesta
+$710124 :: \uE022\uE023 Bowserův Hrad
+$710125 :: \uE067 DKho Snowboardový Kříž
+
+#Wonder Cup
+$700031 :: Zázračný Pohár
+$710126 :: Malovaná Bažinná Závodiště
+$710127 :: Ruleta Cesta
+$710128 :: Orbitální Základna
+$710129 :: \uE033 Duhová Cesta
+
+#Shine Cup
+$700032 :: Sluneční Pohár
+$710130 :: Korálový Mys
+$710131 :: \uE067 Wariův Zlatý Důl
+$710132 :: \uE033 Peach Zahrady
+$710133 :: Mrazivá Citadela
+
+#Dark Star Cup
+$700033 :: Temná Hvězdný Pohár
+$710134 :: Temná Svatyně
+$710135 :: Pekelná Pyramida
+$710136 :: \uE026\uE027 Houbové Město
+$710137 :: Hrad Temné Hvězdy
+
+#Save Data
+$7005 :: V SD kartě budou vytvořena\nextra uložená data pro CTGP-7.
+$7003 :: Vytváření dalších uložených dat...
+$7004 :: Extra uložená data byla vytvořena.
+$7007 :: Mario Kart 7 uložená data\nneexistuje, prosím, spusť\nhru generovat nová\nuložená data.\n\nZmačkni tlačítko POWER. 
+
+#First opening welcome message
+welc_t :: Vítejte v CTGP-7
+welc_1 :: Ahoj!\nZ nabídky ve hře\nbudeš moci využít\nněkteré zajímavé funkce.\nPomocí tlačítka (SELECT)\notevřeš nabídku ve hře.
+welc_2 :: Pro používání libovolnou funkci,\numísti kurzor na objektu a\nzmačknutím tlačítka A ho povol/konfiguruj.
+welc_3 :: Měj na paměti, že některé funkce,\njako "CC Selektor" budou zakázány\npři hraní online.
+welc_4 :: Tvé statistiky budou nahrány\nna server CTGP-7, aby byly\nk dispozici veřejnosti.\n(Údaje jsou anonymizovány.)\nNahrávání statistik můžeš vypnout\nz nabídky ve hře.
+welc_5 :: Používáním sítě CTGP-7\nsouhlasíš s jejími pravidly.\n\nMůžeš je zkontrolovat zde:\nctgp-7.github.io/ctww.html
+welc_6 :: Nezapomeň se podívat\nna discord server CTGP-7!\n\nOdkaz na pozvánku:\ninvite.gg/ctgp7
+welc_7 :: Doufáme, že se ti mod bude líbit!\n^w^
+
+#Achievements
+achiev_all_gold :: Získal jsi zlatou trofej\nve všech vlastních pohárech.\n\nGratuluji!
+achiev_all_1star :: Získal jsi 1 hvězdičku\nve všech vlastních pohárech.\n\nGratuluji!
+achiev_all_3star :: Získal jsi 3 hvězdičky\nve všech vlastních pohárech.\n\nGratuluji!
+achiev_all_mission :: Ve všech misích\njsi získal 10 bodů.\n\nGratuluji!
+achiev_5000_vr :: Máš 5000 VR\nve celosvětových vlastních tratích.\n\nGratuluji!
+achiev_all_score_completed :: V Bodovém Testu jsi vymazal všechny tratě. Gratuluji!
+achiev_blue_coin :: Nasbíral jsi\nvšechny modré mince!\n\nGratuluji!
+achiev_dodged_blue :: Vyhnul jsi\n3 modrým krunýřim!\n\nGratuluji!
+unlocked_item :: Odemknul jsi:\n\n
+types_achievs :: Normální úspěchy :: Speciální úspěchy
+types_achievs_optional :: Volitelné úspěchy
+gold_tro_achiev :: Zlato ve všech vlastních tratích pohárech
+1star_achiev :: 1 hvězdička ve všech vlastních tratích pohárech
+3star_achiev :: 3 hvězdičky ve všech vlastních tratích pohárech
+10pts_msn_achiev :: 10 bodů ve všech misích
+5000vr_achiev :: 5000VR v CTWW
+score_all_achiev :: Všechny tratě dokončeny v Bodovém Testu
+blue_coin_achiev :: Všechny modré mince sbírany
+dodged_blue_achiev :: Vyhnul se 3 modrým krunýřům
+dodged_blue_amount :: Vyhnuté modré krunýře
+custom_track_cups :: Vlastní Tratové Poháry
+tro_gold :: Zlatá
+tro_1star :: 1 Hvězda
+tro_3star :: 3 Hvězdy
+tro_10pts :: 10 Bodů
+tro_blue_collected :: Sebráno
+
+#General text
+warning :: VAROVÁNÍ
+error :: CHYBA
+state :: Stav
+next :: Další
+select :: Vybrat
+chng :: Změnit
+custom :: Vlastní
+page :: Stránka
+race_noun :: Závod
+state_mode :: Zapnuto :: Vypnuto
+state_inf :: Zapnout :: Vypnout
+allow_inf :: Povolit :: Zakázat
+valid_inf :: Platné :: Neplatné
+num_betw :: Číslo musí být mezi %d a %d.
+settings :: Nastavení
+exit :: Odejít
+default :: Výchozí
+button :: Tlačítko
+summary :: Shrnutí
+
+#Folders
+gameplay_folder :: Herní Funkce :: Konfigurace pro další herní funkce.
+settings_folder :: Nastavení Hry :: Specifická nastavení CTGP-7.
+other_folder :: Další Možnosti:: Další různé informace a funkce.
+
+#Entries
+spdmeter :: Rychloměr :: Zobrazí rychloměr v horní obrazovce vpravo dole.
+ccsel :: CC Selektor :: Nastaví aktuální CC na určitou hodnotu (musí být povoleno před načtením závodu).
+itemled :: Varovat Objekty Pomocí LED :: Notifikační LED bliká modře, když se používá Modrý Krunýř, a žlutě, když se používá Blesk.
+backcam :: Zpětná kamera :: Zmačkni \uE002 a uvidíš, co je za tebou, stejně jako ostatní hry Mario Kart! (Poznámka: Tlačítko \uE002 už nebude používat objekty.)
+charman :: Vlastní Správce Postavů :: Změnit mezi původními a vlastními postavami.
+cuskart :: Vlastní Motokáry :: Načíst vlastní motokáry ze složky MyStuff.
+trackorder :: Online Pořadí Tratí :: Vyber si, jak budou tratě seřazeny v pohárech online.
+itmprb :: Vylepšená Objektová Ruleta :: Zobrazí skutečné pravděpodobnosti objektů v ruletě objektů namísto zobrazení náhodných objektů.
+imtrick :: Vylepšené Triky :: Motokáry se budou točit při triku na posilovací rampě. Pomocí kruhové podložky \uE077 změň směr otáčení.
+autoaccel :: Automatické Zrychlení :: Zmačknutí \uE000 nebo \uE003 umožní automatické zrychlení, dokud nebude \uE001 zmačknuto.
+imbrakedrift :: Vylepšený Brzdný Drift :: Drž \uE001 při driftování, abys zabrzdil, bez ztráty miniturba.
+autodelaydrift :: Automatické Delay Drift :: Pomáhá zabránit ztrátě rychlosti motokáry při spuštění driftu.
+improvedhorn :: Vylepšený Klakson :: Umožňuje hrát na klakson tlačítkem objektu a slyšet klaksony ostatních hráčů v multiplayeru.
+achieventry :: Úspěchy :: Zkontroluj pokrok v úspěších CTGP-7.
+badgesentry :: Odznaky :: Zobrazit získaných odznaků CTGP-7 (vyžaduje připojení k internetu).
+optionsentry :: Možnosti :: Konfigurovat možností CTGP-7.
+
+#Speedometer text
+spd_set :: Nastavení rychloměru.
+spd_unit :: Jednotka
+spd_type :: Typ
+spd_sunit :: Vybrat jednotku rychloměru.
+spd_stype :: Vybrat typ rychloměru.
+spd_types1 :: Digitální :: Analogový
+spd_types2 :: Double Dash
+
+#CC Selector text
+cc_set :: Nastavení voliče CC.
+cc_val :: Hodnota
+cc_entv :: Zadat novou hodnotu CC.
+cc_chgv :: Změnit hodnotu
+
+#Course Manager
+track_ct :: Vlastní Tratě
+track_ori :: Originální Tratě
+ct_endis :: Vlastní Tratě zapnuté :: Vlastní Tratě vypnuté
+ori_endis :: Originální Tratě zapnuté :: Originální Tratě vypnuté
+
+#Community Code Generator
+def_spd :: Výchozí rychlost
+rand_tr :: Přinutit náhodné tratě
+code :: Kód
+cusitem :: Vlastní objekty
+
+#Change Round Number
+chgrnd :: Změnit Počtu Kol :: Změní počet kol ve VS a bitevním režimu.
+chgrnd_desc :: Vyber počet kol, která se mají\nhrát ve VS nebo bitevních režimech.\nPOZNÁMKA: Nefunguje při stahování přehrávání.\n\nV lokálním multiplayeru musí\nmít každý stejné nastavení.
+rounds :: Kola
+rnd_sel :: Vybrat počet kol.
+
+#Enhanced Local Map
+enhmap :: Vylepšená Pístní Mapa :: Přidá funkci zoomu na místní mapu spodní obrazovky pomocí \uE058 dotykové obrazovky.
+
+#Custom character manager text
+char_select :: Vyber postav ke konfiguraci.
+reboot_req :: Restartování nutné k použití změn.
+face_raider_sel :: Vybrat tvář
+authors :: Autoři
+change_face :: Změnit tvář
+
+#Online track order
+order_mode :: Výchozí :: Abecední
+
+#Auto Acceleration
+autoaccel_button :: Vyber tlačítko, které aktivuje\nautomatické zrychlení.
+
+#Online update check
+update_check :: Kontrola aktualizací... :: Pro hraní online je potřeba nejnovější verze CTGP-7.
+fail_conn :: Připojení k serveru\nCTGP-7 se nezdařilo.\n\nZkus to prosím znovu později.
+
+#CTWW
+cntdwn :: Odpočítávání
+ctww :: CTWW
+vr :: VR
+CTWWtog :: Chtěl bys aktivovat\nCelosvětové Vlastní Tratě? :: Chtěl bys dezaktivovat\nCelosvětové Vlastní Tratě?
+
+#VS Mode
+VSSet :: Nastavení VS
+CourOrd :: Pořadí Okruhu
+RacAm :: Počet Závodů
+CpuAm :: CPU Závodníci
+RanCT :: Náhodně (CT)
+RanOri :: Náhodně (Originální)
+RanAll :: Náhodně (Všechny)
+OrderH :: Horizontální Řád
+OrderV :: Vertikální Řád
+NextRac :: Vyber příští trať.\nZbývající závody:
+extra_diff :: Velmi Těžké :: EXTRÉMNÍ
+cusitem_notice :: POZNÁMKA: Výchozí objekt (%s) se může v některých případech stále objevit.
+item_mega :: Mega Houba
+item_fib :: Falešná Krabice
+
+#Reset Ghosts
+resghost :: Resetovat Ducha :: Umožňuje resetovat ducha z libovolné tratě.
+ghostseltrack :: Vyber trať pro resetování ducha z:
+ghostcantrecov :: Tuto operaci nelze vrátit zpět.\nPokračovat? :: Duch byl resetován.
+
+#Server Settings
+servsett :: Nastavení Serveru :: Nastavení související se serverem CTGP-7.
+serv_consID :: ID Konzole CTGP-7
+serv_statsupl :: Nahrát Statistiky
+serv_displname :: Zobrazované jmeno :: Vybrat režim zobrazovaného jmenu.
+serv_disphid :: Skrytý
+serv_dispmii :: Mii Jméno
+serv_dispcust :: Zadej vlastní jmeno. :: Vlastní jemo může být\ndlouhý pouze 15 znaků.
+serv_qrshow :: Pro zobrazení zmačkni \uE002.
+
+#Statistics
+statsentry :: Místní Statistiky :: Zde zkontroluj tvé statistiky soukromého využití CTGP-7.
+stats_tpl :: Počet Odehraných
+stats_tot :: Celkem offline závodů :: Celkem online závodů
+stats_sc :: Počet Bodových Testovacích Závodů :: Počet  Týdenních Výzvu Pokusů
+stats_vnll :: Původní
+stats_most :: Nejhranější Tratě :: Nejhranější Bitevní Arény
+stats_rpoints :: Závodní Body
+
+#Discord
+disc_info :: Discord Informace
+disc_notlink :: Tato konzole není propojena\ns účtem Discord.\n\nChtěl bys propojit svůj účet?
+disc_linksteps1 :: Postupuj takto pro propojení\núčtu Discord:
+disc_linksteps2 :: 1. Připoj se k serveru CTGP-7 Discord.\n(Odkaz: invite.gg/ctgp7)
+disc_linksteps3 :: 2. Jdi na kanál \#bots.
+disc_linksteps4 :: 3. Odešli následující zprávu:
+disc_data :: Účet :: Přezdívka
+disc_beta :: Způsobilý pro soukromé beta testy. :: Není způsobilý pro soukromé beta testy.
+disc_unlink :: Zrušit Propojení :: Chtěl bys zrušit propojení účtu Discord?
+
+#Render Optimizations
+render_optim :: Optimalizace Renderování :: Zakáže režim horní obrazovky 3D a povolí nová vylepšení CPU 3DS.
+
+#Missions
+ms_miss :: Mise
+ms_desc :: Dokonči výzvy a získej nejlepší známku.
+ms_selmiss :: Vyber Mise
+ms_rcrd :: Rekord
+ms_gradelim :: Max. Známka :: Min. Známka
+ms_timescor :: Čas :: Skóre
+ms_failed :: Mise se Nezdařila!
+ms_nodata :: Žádná Data
+ms_delsave :: (Smazat Uložení: \uE002) :: Smazat tato uložená data mise?
+msstat_msnplay :: Mise Hráno
+msstat_state :: Dokončené :: Neúspěšné
+msstat_perfgrad :: (s perfektní známkou)
+msstat_usermsn :: Uživatelské Mise
+
+#Course Checksum
+course_check :: Kontrolní Součet Okruhu
+
+#Custom Server
+server_name :: Síť Nintendo :: Síť CTGP-7
+server_choice :: Prosím vyber online server:\n\n%s:\n    - Pouze pro hráče CTGP-7\n    - CTWW a originální tratě\n    - Silný anti-cheat\n%s\n    - Pro všechny hráče MK7\n    - Původní tratě a komunity\n    - Slabý anti-cheat
+server_ctgp7_conn :: Připojování k síti CTGP-7...
+server_ctgp7_dconn :: Chceš se odpojit\nod sítě CTGP-7?
+server_ctgp7_nocomm :: Komunity nejsou dostupné\nv síti CTGP-7.
+
+#Blue Coins
+blue_coins :: Modré Mince
+blue_coins_desc :: V každé trati se objeví modrá mince. Sbírej je všechny, abys něco odemknul!
+blue_coin_obtain :: $Modrá Mince$\nsbírana! :: Zbývají %d\ntratě.
+blue_coin_all :: Všechny mince\nbyly sbírany!
+blue_coin_nocc :: Modré mince nemůžou\nbýt získan s povoleným\nvoličem CC.
+
+#Lobby
+lobby_type :: Veřejná lobby :: Privátní lobby
+choose_lobby :: Vyber si online lobby:\n\n- Veřejná: Hraj s ostatními hráči CTGP-7.\n- Privátní: Hraj s ostatními hráči soukromě.\n\nPOZNÁMKA: Vanilla VR bude použit v privátních lobby.
+enter_lobby_code :: Zadej kód privátní lobby.\nSdílej tento kód s ostatními, abyste mohli hrát společně! :: Kód lobby je moc krátký.
+
+#Proximity Chat
+proximity_chat :: Blízkost Chat :: (zmačkni \uE002 pro přepínání)
+proximity_chat_desc :: Připojte prosím klienta blízkost chatu.\nDalší informace: pastebin.com/ZPQs0FWR\n\nAdresa serveru: %s\nZmáčkni \uE001 pro zrušení. :: Došlo k chybě.\nZmáčkni \uE001 pro odchodění.
+
+#Badges
+badges_obtained :: Získané odznaky:
+badges_use_online :: Použít online :: Nepoužít online
+badge_name_desc :: Název odznaku :: Popis odznaku
+badge_date :: Datum získané
+badge_msg :: Získal jsi nové\nodznaky CTGP-7.\n\nGratuluji!
+badge_date_fmt :: %d.%m.%Y
+
+#Score Attack Actions
+pts_action_0 :: Houba!
+pts_action_1 :: Panel Zrychlení
+pts_action_2 :: Mini-Turbo
+pts_action_3 :: Super Mini-Turbo
+pts_action_4 :: Malý Turbo Start
+pts_action_5 :: Turbo Start
+pts_action_6 :: Perfektní Turbo Start
+pts_action_7 :: Trik
+pts_action_8 :: Pokročilý Trik
+pts_action_9 :: Zpětný Proud
+pts_action_10 :: Zlatá Houba!
+pts_action_11 :: Mince
+pts_action_12 :: Hvězdný Kruh
+pts_action_13 :: Trubka
+pts_action_14 :: Koomba
+pts_action_15 :: Útok
+pts_action_16 :: Dopravní Kužel
+pts_action_17 :: Balvan
+pts_action_18 :: Cheep Cheep
+pts_action_19 :: Mlž
+pts_action_20 :: Krab
+pts_action_21 :: Kozel
+pts_action_22 :: Džbán
+pts_action_23 :: Létající Shy Guy
+pts_action_24 :: Sud
+pts_action_25 :: Tiki Goon
+pts_action_26 :: Frogoon
+pts_action_27 :: Auto
+pts_action_28 :: Krabice
+pts_action_29 :: Tučňák
+pts_action_30 :: Rampouch
+pts_action_31 :: Thwomp
+pts_action_32 :: Falešný Keř
+pts_action_33 :: Falešný Koomba
+pts_action_34 :: Piraňa Rostlina
+pts_action_35 :: Chain Chomp
+pts_action_36 :: Rybíkostra
+pts_action_37 :: Kotva
+pts_action_38 :: Poskakující Nota
+pts_action_39 :: Hromada Listů
+pts_action_40 :: Wiggler
+pts_action_41 :: Rakeťák Bill
+pts_action_42 :: Klíčový Krtek
+pts_action_43 :: Sněhulák
+pts_action_44 :: Sněhová Koule
+pts_action_45 :: Kovová Koule
+pts_action_46 :: Stůl
+pts_action_47 :: Kaktus
+pts_action_48 :: Vlak
+pts_action_49 :: Žihadlo
+pts_action_50 :: Čas v Kluzáku
+pts_action_51 :: Zelený Krunýř!
+pts_action_52 :: Červený Krunýř!
+pts_action_53 :: Banán!
+pts_action_54 :: Ostnatý krunýř!
+pts_action_55 :: Blesk!
+pts_action_56 :: Falešná Krabice!
+pts_action_57 :: Bob-omba!
+pts_action_58 :: Ohnivá Kytka!
+pts_action_59 :: Superlist!
+pts_action_60 :: Blooper!
+pts_action_61 :: Hvězda!
+pts_action_62 :: Mega Houba!
+pts_action_63 :: Rakeťák Bill!
+pts_action_64 :: Raketové Předjetí
+pts_action_65 :: Odplata!
+pts_action_66 :: Zničení!
+pts_action_67 :: Objekt Zničen
+pts_action_68 :: Objekt Odchýlen
+pts_action_69 :: Ostnatý Krunýř Vyhnut!
+pts_action_70 :: Další Kolo!
+pts_action_71 :: Další Sekce!
+pts_action_72 :: Bláznivý Konec!
+pts_action_73 :: Konec Závodu!
+
+#Score Attack
+score_attack :: Bodový Test :: Proveď sérii akcí a sbírej body.
+sc_at_spc_cup :: Náhodný Okruh:: Týdenní Výzva
+sc_at_race_start :: Start Závodu!
+sc_at_clear :: Okruh Dokončen :: Okruh Nedokončen
+sc_at_save :: (Smazat Uložení: \uE002) :: (Žádné)
+sc_at_score :: Nejlepší skóre :: Skóre dokončení
+sc_at_delete :: Smazat tato data uložení okruhu?
+sc_at_record :: Nový Rekord!
+sc_at_clear_small :: Dokončena! :: Nedokončena
+sc_at_cleared_tr :: Dokončené tratě
+sc_at_nice :: PĚKNÉ!
+sc_at_great :: SKVĚLÉ!
+sc_at_excel :: VÝBORNĚ!
+sc_at_fanta :: FANTASTICKÉ!
+sc_at_combo :: Kombo x
+
+#Score Attack Weekly
+sc_wc_ended :: Aktuální Týdenní Výzva skončila :: Nejsou k dispozici žádné údaje
+sc_wc_curr :: Aktuální výzva:
+sc_wc_time :: Zbývající čas:
+sc_wc_bonus :: Bonusová kombinace: :: Tvůj bonus:
+sc_wc_board :: Žebříček: Top 10 :: Žebříček: Moje skóre
+sc_wc_getting :: Získání informací o Týdenní Výzvě... :: Získání informací o Týdenní Výzvě se nezdařilo.\nChyba: 0 x% 08X
+sc_wc_results :: Výsledky Týdenní Výzvy
+sc_wc_score :: Předchozí skóre: :: Nové skóre:
+sc_wc_upload :: Chtěl bys publikovat tvé skóre? :: Publikovat
+sc_wc_uploading :: Nahrávání výsledků... :: Došlo k chybě.
+sc_wc_retry :: Zkusit to znovu?
+
+#Local Multiplayer Error
+mult_error :: Všichni účastníci musí\nmít nainstalovanou nejnovější\nverzi CTGP-7. :: Abys mohl hrát\nv této místnosti, musíš\naktualizovat CTGP-7.
+
+#Characters
+$1000 :: Mario
+$1001 :: Luigi
+$1002 :: Peach
+$1003 :: Yoshi
+$1004 :: Bowser
+$1005 :: Donkey Kong
+$1006 :: Toad
+$1007 :: Koopa Troopa
+$1008 :: Wario
+$1009 :: Daisy
+$1010 :: Lakitu
+$1011 :: Rosalina
+$1012 :: Wiggler
+$1013 :: Včelka Mája
+$1014 :: Železný Mario
+$1015 :: Mii
+$1016 :: Shy Guy
+
+#Items
+$1018 :: Rychlohouba
+$1019 :: Ohnivá Kytka
+$1020 :: Superhvězda
+$1021 :: Zlatá Rychlohouba
+$1022 :: Zelený Krunýř
+$1023 :: Banán
+$1024 :: Superlist
+$1025 :: Blesk
+$1026 :: Červený Krunýř
+$1027 :: Bob-omba
+$1028 :: Ostnatý Krunýř
+$1029 :: Blooper
+$1030 :: Rakeťák Bill
+$1031 :: Štastná 7
+$1032 :: Dvě Superhouby
+$1033 :: Tři Superhouby
+$1034 :: Tři Zelené Krunýře
+$1035 :: Tři Banány
+$1036 :: Tři Červené Krunýře
+
+#Icons
+$1043 :: Vlajka
+$1044 :: Balónky
+$1045 :: Mince
+$1046 :: Volant
+$1047 :: Zlatý Volant
+
+#Characters (short)
+$1050 :: Mario
+$1051 :: Luigi
+$1052 :: Peach
+$1053 :: Yoshi
+$1054 :: Bowser
+$1055 :: DK
+$1056 :: Toad
+$1057 :: Koopa
+$1058 :: Wario
+$1059 :: Daisy
+$1060 :: Lakitu
+$1061 :: Rosalina
+$1062 :: Wiggler
+$1063 :: Mája
+$1064 :: Ž. Mario
+$1065 :: Mii
+$1066 :: Shy Guy
+
+#Karts
+$1100 :: Standard
+$1101 :: Střelená Bugínka
+$1102 :: Vejce 1
+$1103 :: Malý Remorkér
+$1104 :: Cloud 9
+$1105 :: Cukina
+$1106 :: Akcelerátor B
+$1107 :: Křikster
+$1108 :: Čmelák
+$1109 :: Koopa Klaun
+$1110 :: Rám Potrubí
+$1111 :: Modrá Sedmička
+$1112 :: Kralovská Stužka
+$1113 :: Kakt-X
+$1114 :: Pivní Vlak
+$1115 :: Stíhač
+$1116 :: Zlatá Auta
+
+#Tyres
+$1200 :: Normální
+$1201 :: Kolečkové
+$1202 :: Monstrózní
+$1203 :: Kluzké
+$1204 :: Štíhlé
+$1205 :: Mořská Houbové
+$1206 :: Červená Zrůda
+$1207 :: Houbové
+$1208 :: Dřevěné
+$1209 :: Zlatá Kola
+
+#Gliders
+$1300 :: Super Kluzák
+$1301 :: Parafoil
+$1302 :: Peach Slunečník
+$1303 :: Květinový Kluzák
+$1304 :: Útok
+$1305 :: Zvířecký Kluzák
+$1306 :: Zlatý Kluzák
+
+#Original cups
+$1500 :: Houbový Pohár
+$1501 :: Kytkový Pohár
+$1502 :: Hvězdný Pohár
+$1503 :: Speciální Pohár
+$1504 :: Krunýřový Pohár
+$1505 :: Banánový Pohár
+$1506 :: Listový Pohár
+$1507 :: Bleskový Pohár
+
+#Nitro tracks
+$1600 :: Mariův Okruh
+$1601 :: Daisyných Kopce
+$1602 :: Mys Cheep Cheepa
+$1603 :: Alpský Průsmyk
+$1604 :: Toadův Okruh
+$1605 :: Shy Guy Bazar
+$1606 :: Smyčka Ostrov Wuhu
+$1607 :: Wariova Galéra
+$1608 :: Klouzačka Piraňa Rostlina
+$1609 :: Melodické Dálnice
+$1610 :: Koopino Město
+$1611 :: Horská Smyčka Wuhu
+$1612 :: DK Džunglí
+$1613 :: Rosalinin Ledový Svět
+$1614 :: Bowserův Hrad
+$1615 :: Duhová Cesta
+
+#Retro tracks
+$1700 :: \uE031\uE032 Mariův Okruh 2
+$1701 :: \uE024\uE025 Bowserův Zamek 1
+$1702 :: \uE022\uE023 Luigiho Závodiště
+$1703 :: \uE022\uE023 Poušť Kalimari
+$1704 :: \uE033 Luigiho Sídlo
+$1705 :: \uE033 Waluigiho Pinball
+$1706 :: \uE033 DK Průsmyk
+$1707 :: \uE033 Bojová Vzducholoď
+$1708 :: \uE067 Kokosový Nákupák
+$1709 :: \uE067 Koopa Zátoka
+$1710 :: \uE067 Javorová Stromocesta
+$1711 :: \uE067 Houbová Rokle
+$1712 :: \uE026\uE027 Dino Dino Džungle
+$1713 :: \uE026\uE027 Daisyna Výletní Loď
+$1714 :: \uE022\uE023 Pláž Koopa Troopa
+$1715 :: \uE031\uE032 Duhová Cesta
+
+#Balloon battle tracks
+$1800 :: Včelí Dům
+$1801 :: Kluziště Zmrzlinové
+$1802 :: Wuhu Město
+$1803 :: \uE024\uE025 Bojová Úroveň 1
+$1804 :: \uE022\uE023 Velký Donut
+$1805 :: \uE033 Palmový Pobřeží
+
+#Class select (Race)
+$1810 :: 50cc
+$1811 :: 100cc
+$1812 :: 150cc
+$1813 :: Zrcadlení
+
+#StreetPass cup name
+$1829 :: \u000E\u0001\u0002\u0000 \u000E\u0001\u0000\u0000 Pohár
+
+#Race #
+$1831 :: 1. Závod
+$1832 :: 2. Závod
+$1833 :: 3. Závod
+$1834 :: 4. Závod
+$1835 :: 5. Závod
+$1836 :: 6. Závod
+$1837 :: 7. Závod
+$1838 :: 8. Závod
+$1839 :: 9. Závod
+$1840 :: 10. Závod
+$1841 :: 11. Závod
+$1842 :: 12. Závod
+$1843 :: 13. Závod
+$1844 :: 14. Závod
+$1845 :: 15. Závod
+$1846 :: 16. Závod
+$1847 :: 17. Závod
+$1848 :: 18. Závod
+$1849 :: 19. Závod
+$1850 :: 20. Závod
+$1851 :: 21. Závod
+$1852 :: 22. Závod
+$1853 :: 23. Závod
+$1854 :: 24. Závod
+$1855 :: 25. Závod
+$1856 :: 26. Závod
+$1857 :: 27. Závod
+$1858 :: 28. Závod
+$1859 :: 29. Závod
+$1860 :: 30. Závod
+$1861 :: 31. Závod
+$1862 :: Finální Závod
+
+#Round #
+$1871 :: 1. Kolo
+$1872 :: 2. Kolo
+$1873 :: 3. Kolo
+$1874 :: 4. Kolo
+$1875 :: 5. Kolo
+$1876 :: Finální Kolo
+
+#StreetPass titles (male)
+$1900 :: Žralok Mušle (\u000E\u0001\u0008\u0000)
+$1901 :: Banánový Blitzer (\u000E\u0001\u0008\u0000)
+$1902 :: Bob-ombové Eso (\u000E\u0001\u0008\u0000)
+$1903 :: Pro Obránce (\u000E\u0001\u0008\u0000)
+$1904 :: Hulvátský Závodník (\u000E\u0001\u0008\u0000)
+$1905 :: Posílení Skokan (\u000E\u0001\u0008\u0000)
+$1906 :: Pilot (\u000E\u0001\u0008\u0000)
+$1907 :: Delfín (\u000E\u0001\u0008\u0000)
+$1908 :: Driftování Kouzelník (\u000E\u0001\u0008\u0000)
+$1909 :: Rychlý Startér (\u000E\u0001\u0008\u0000)
+$1910 :: Comeback Král (\u000E\u0001\u0008\u0000)
+$1911 :: Vzorný Řidič (\u000E\u0001\u0008\u0000)
+$1912 :: Cik-Caký (\u000E\u0001\u0008\u0000)
+$1913 :: Bezpečný Řidič (\u000E\u0001\u0008\u0000)
+$1914 :: Nováček (\u000E\u0001\u0008\u0000)
+$1915 :: Excelentní Závodník (\u000E\u0001\u0008\u0000)
+
+#StreetPass titles (female)
+$1950 :: Žralok Mušle (\u000E\u0001\u0008\u0000)
+$1951 :: Banánový Blitzer (\u000E\u0001\u0008\u0000)
+$1952 :: Bob-ombové Eso (\u000E\u0001\u0008\u0000)
+$1953 :: Pro Obránce (\u000E\u0001\u0008\u0000)
+$1954 :: Hulvátský Závodník (\u000E\u0001\u0008\u0000)
+$1955 :: Posílení Skokan (\u000E\u0001\u0008\u0000)
+$1956 :: Pilot (\u000E\u0001\u0008\u0000)
+$1957 :: Delfín (\u000E\u0001\u0008\u0000)
+$1958 :: Driftování Kouzelník (\u000E\u0001\u0008\u0000)
+$1959 :: Rychlý Startér (\u000E\u0001\u0008\u0000)
+$1960 :: Comeback Král (\u000E\u0001\u0008\u0000)
+$1961 :: Vzorný Řidič (\u000E\u0001\u0008\u0000)
+$1962 :: Cik-Caký (\u000E\u0001\u0008\u0000)
+$1963 :: Bezpečný Řidič (\u000E\u0001\u0008\u0000)
+$1964 :: Nováček (\u000E\u0001\u0008\u0000)
+$1965 :: Excelentní Závodník (\u000E\u0001\u0008\u0000)
+
+#Controls (demo cart-only)
+#$1980 :: Použít objekt
+#$1981 :: Zatáčení
+#$1982 :: Změnit kameru
+#$1983 :: Driftování
+#$1984 :: Plyn
+#$1985 :: Brzda
+#$1986 :: Zkušební verze
+#$1987 :: Stiskni \uE000
+
+#Dialogues?
+$2000 :: MARIO KART 7
+$2001 :: OK
+
+#Dialogue buttons
+$2003 :: Ano
+$2004 :: Ne
+$2005 :: Zrušit
+$2006 :: Další
+$9103 :: Ano
+$9104 :: Ne
+
+#Update dialogue
+$2080 :: Aby jsi mohl hrát online, \nmusíš prvně stáhnout \naktualizaci Mario Kart 7
+$2081 :: Mario Kart 7 byl aktualizován.\n\nHra se nyní restartuje
+
+#Main menu
+$2090 :: Jeden Hráč
+$2091 :: Více Hráčů Lokální
+$2092 :: Více Hráčů Online
+$2093 :: Mario Kart Kanál
+$2094 :: Celosvětově
+$2095 :: Přátelé/Protivníci
+$2096 :: Komunity
+
+#Single Player & Online Multiplayer menus
+$2200 :: Grand Prix
+$2201 :: Na Čas
+$2202 :: Bitva Balónků 
+$2203 :: Bitva Mincí
+$2204 :: VS Závod
+$2205 :: \r2204
+$2206 :: Zápas
+
+#Single Player mode descriptions
+$2210 :: Závodit o první místo v čtyřech tratích z poháru.
+$2211 :: Závodit sám, abys dosáhl tvého nejlepšího času.
+$2212 :: Prasknout balónky soupeřů.
+$2213 :: Sbírat co nejvíce mincí.
+$2214 :: Závodit pomocí vlastních pravidel.
+
+#Class select (menu)
+$2220 :: 50cc
+$2221 :: 100cc
+$2222 :: 150cc
+$2223 :: Zrcadlení
+
+#Class select descriptions
+$2230 :: Jednoduchý
+$2231 :: Průměrný
+$2232 :: Výzva
+$2233 :: Obrácené Levely
+
+#Kart build stats
+$2240 :: Rychlost
+$2241 :: Zrychlení
+$2242 :: Váha
+$2243 :: Ovladatelnost
+$2244 :: Off-road
+
+#Class setting
+$2300 :: Třída
+$2301 :: \r2220
+$2302 :: \r2221
+$2303 :: \r2222
+$2304 :: \r2223
+
+#CPU setting
+$2310 :: CPU
+$2311 :: Jednoduchý
+$2312 :: Normální
+$2313 :: Těžký
+$2314 :: Vypnuto
+$2315 :: Zapnuto
+
+#Courses setting
+$2320 :: Levely
+$2321 :: Vybrat
+$2322 :: Náhodný
+$2323 :: V pořadí
+
+#Teams setting
+$2340 :: Týmy
+$2341 :: \r2315
+$2342 :: \r2314
+
+#Stage setting
+$2350 :: Aréna
+$2351 :: \r2321
+$2352 :: \r2322
+$2353 :: \r2323
+
+#Items setting
+$2370 :: Objekty
+$2371 :: Vše
+$2372 :: Krunýře
+$2373 :: Banány
+$2374 :: Houby
+$2375 :: Bob-omby
+$2376 :: Nic
+$2471 :: Objekty: Vše
+$2472 :: Objekty: Krunýře
+$2473 :: Objekty: Banány
+$2474 :: Objekty: Houby
+$2475 :: Objekty: Bomby
+$2476 :: Objekty: Nic
+
+#Mode setting
+$2380 :: Mód
+$2381 :: 50cc Závod
+$2382 :: 100cc Závod
+$2383 :: 150cc Závod
+$2384 :: Zrcadlový Závod
+$2385 :: Bitva Balónků 
+$2386 :: Bitva Mincí
+
+#Start buttons
+$2400 :: Začít Závod
+$2401 :: Začít Kolo
+$2402 :: Začít Na Čas
+
+#Ghost select
+$2403 :: Nic
+$2404 :: Duchova Data x 7
+$2408 :: Vybrat Data Duchů
+
+#Quit dialogue
+$2406 :: Odejít ze zápasu?
+$9111 :: Jsi si jistý že chceš odejít?
+
+#Local Multiplayer menu
+$2407 :: Hrající skupiny: \u000E\u0001\u0004\u0004\u0000\u0000
+$5001 :: Vyber skupinu.\n\nZmačkni Vytvořit Skupinu,\npokud chceš vytvořit novou\nskupinu nebo nejsou zobrazeny\nžádné skupiny.
+$5002 :: Vytvořit Skupinu
+$5007 :: Hledání hráčů...
+$5008 :: Počkej na všechny hráče\naby jsi se připojil do skupiny.
+$5009 :: Můžeš hrát až se\nsedmi dalšími hráči.\n\nZmáčkni Start, když se\nvšichni hráči připojili.
+$5010 :: Start
+$5011 :: Prosím počkej...
+$5012 :: Byla rozpoznána\nkomunikační chyba.
+$5013 :: Opustit skupinu?
+$5014 :: Náhodný
+$5015 :: Čekání na výběr všech...
+$5016 :: Level je rozhodnut!
+$5017 :: Hráči, kteří nemají herní\nkartu Mario Kart 7, se můžou\npřipojit prostřednictvím Download\nPlay v \uE073HOME menu.
+$5018 :: Zmačkni ikona \uE030, aby\njste přidali navzájem\ndo seznamů přátel.
+$5019 :: Aréna je rozhodnuta!
+
+#Mode select
+$2481 :: 50cc Grand Prix
+$2482 :: 100cc Grand Prix
+$2483 :: 150cc Grand Prix
+$2484 :: Zrcadlové Grand Prix
+$2485 :: \r2385
+$2486 :: \r2386
+
+#Nitro cup unlock messages
+$2502 :: Právě sis odemknul\n\u000E\u0000\u0003\u0002\u0000Kytkový Pohár\u000E\u0000\u0003\u0002\uFFFF!
+$2503 :: Právě sis odemknul\n\u000E\u0000\u0003\u0002\u0000Hvězdný Pohár\u000E\u0000\u0003\u0002\uFFFF!
+$2504 :: Právě sis odemknul\n\u000E\u0000\u0003\u0002\u0000Speciální Pohár\u000E\u0000\u0003\u0002\uFFFF!
+
+#Retro cup unlock messages
+$2506 :: Právě sis odemknul\n\u000E\u0000\u0003\u0002\u0000Banánový Pohár\u000E\u0000\u0003\u0002\uFFFF!
+$2507 :: Právě sis odemknul\n\u000E\u0000\u0003\u0002\u0000Listový Pohár\u000E\u0000\u0003\u0002\uFFFF!
+$2508 :: Právě sis odemknul\n\u000E\u0000\u0003\u0002\u0000Bleskový Pohár\u000E\u0000\u0003\u0002\uFFFF!
+
+#Mirror class unlock message
+$2509 :: Právě sis odemknul\n\u000E\u0000\u0003\u0002\u0000Zrcadlovou třídu\u000E\u0000\u0003\u0002\uFFFF!
+
+#Character / kart part unlock messages
+$2511 :: Dokončil jsi\n150cc Houbový Pohár.\n\nNová \u000E\u0000\u0003\u0002\u0000postava \u000E\u0000\u0003\u0002\uFFFF\nje odemčena!
+$2512 :: Dokončil jsi\n150cc Kytkový Pohár.\n\nNová \u000E\u0000\u0003\u0002\u0000postava \u000E\u0000\u0003\u0002\uFFFF\nje odemčena!
+$2513 :: Dokončil jsi\n150cc Hvězdný Pohár.\n\nNová \u000E\u0000\u0003\u0002\u0000postava \u000E\u0000\u0003\u0002\uFFFF\nje odemčena!
+$2514 :: Dokončil jsi\n150cc Speciální Pohár.\n\nNová \u000E\u0000\u0003\u0002\u0000postava \u000E\u0000\u0003\u0002\uFFFF\nje odemčena!
+$2515 :: Dokončil jsi\n150cc Krunýřový Pohár.\n\nNová \u000E\u0000\u0003\u0002\u0000postava \u000E\u0000\u0003\u0002\uFFFF\nje odemčena!
+$2516 :: Dokončil jsi\n150cc Banánový Pohár.\n\nNová \u000E\u0000\u0003\u0002\u0000postava \u000E\u0000\u0003\u0002\uFFFF\nje odemčena!
+$2517 :: Dokončil jsi\n150cc Listový Pohár.\n\nNová \u000E\u0000\u0003\u0002\u0000postava \u000E\u0000\u0003\u0002\uFFFF\nje odemčena!
+$2518 :: Dokončil jsi\n150cc Bleskový Pohár.\n\nNová \u000E\u0000\u0003\u0002\u0000postava \u000E\u0000\u0003\u0002\uFFFF\nje odemčena!
+$2519 :: Teď můžeš závodit jako tvé\n\u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
+$2520 :: Nasbíral jsi \u000E\u0001\u0004\u0004\u0000\u0000 mince.\n\nNová možnost přizpůsobení \n\u000E\u0000\u0003\u0002\u0000vozidla\u000E\u0000\u0003\u0002\uFFFF byla odemčena!
+$2521 :: Získál jsi 10 000 VR.\n\nNová možnost přizpůsobení \n\u000E\u0000\u0003\u0002\u0000vozidla\u000E\u0000\u0003\u0002\uFFFF byla odemčena!
+$2522 :: V každé Grand Prix jsi\nzískal hodnocení aspoň\njedné hvězdy.\n\nNová možnost přizpůsobení \n\u000E\u0000\u0003\u0002\u0000vozidla\u000E\u0000\u0003\u0002\uFFFF byla odemčena!
+$2523 :: Přes StreetPass jsi\npotkal 100 hráčů.\n\nNová možnost přizpůsobení \n\u000E\u0000\u0003\u0002\u0000vozidla\u000E\u0000\u0003\u0002\uFFFF byla odemčena!
+$2524 :: Přes StreetPass\njsi porazil Mii.\n\nNová možnost přizpůsobení \n\u000E\u0000\u0003\u0002\u0000vozidla\u000E\u0000\u0003\u0002\uFFFF byla odemčena!
+
+#Friend Registration menu
+$5905 :: Registrace Přítele
+$5901 :: Teď jsi přátelé s\n\u000E\u0001\u0000\u0000!
+$5902 :: \r5901
+$5903 :: Smazat data hráče?
+
+#Communities
+$5904 :: Odstranit tuto komunitu?
+$5906 :: Vymazat tuto komunitu\nze serveru?
+$5907 :: Jakmile vymazáš komunitu\nze serveru, nebudeš\nji moci obnovit.\n\nOpravdu chceš tuto\nkomunitu vymazat?
+$6299 :: Menu
+$6300 :: Oblíbené
+$6301 :: Doporučení
+$6302 :: Zadat Kód
+$6303 :: Vytvořit Komunitu
+$6304 :: Připojit se
+$6305 :: \u000E\u0001\u0005\u0000\u0000\n\nPřipojit se do komunita?
+$6306 :: Hledání skupin...
+$6307 :: Odejít z této skupiny?
+$6308 :: Pokračovat v hraní?
+$6309 :: Zadej kód komunita.
+$6310 :: Neplatný kód komunita.
+$6311 :: Proč si nezahrát\nv komunitách, než\nsi vytvoříš vlastní?
+$6312 :: Nemůžeš vytvářet\nvíce komunity.
+$6313 :: Komunitu zatím\nvytvořit nemůžeš.\n\nZkus to prosím znovu později.
+$6314 :: Zadej jmeno pro\tuto komunitu.\n\nMůžeš vytvořit až\nosm komunit.
+$6315 :: Vyber nastavení hry\npro tuto komunitu.\n\nPokus se vybrat nastavení,\nkterá se členům\nkomunity budou líbit.
+$6316 :: OK!
+$6317 :: Zadej popis\nkomunity.\n\nTvůj popis by měl ostatním\nhráčům objasnit, o jakou\nkomunitu se jedná.
+$6318 :: Komunita bude vytvořena\npomocí výše uvedeného nastavení.\nTato nastavení nemohou být\npozději změněny. Souhlasíš?
+$6319 :: Tvoje komunita\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0005\u0000\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nbyla vytvořena!
+$6320 :: Tvůj kód komunity je:\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0001\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nSdílej to se tvými přáteli,\naby se mohli připojit k tvojí komunitě!
+$6321 :: Komunita nenalezena.
+$6322 :: Tato komunita byla\nze serveru vymazena.
+$6323 :: Musí být vytvořena data\nMario Kart Channel než budeš moci\nhrát jako součást komunity.
+$6324 :: Komunity\n\nHrát proti ostatním hráčům,\nkteří jsou součástí stejné\nkomunity.
+$6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0016\u0006bod\u0008body\u0000\u0000
+$6326 :: Hráči\n\u000E\u0001\u0004\u0004\u0000\u0000
+$6327 :: Vyber ikonu pro tvojí komunitu.
+$6328 :: Objekty
+$6329 :: Postavy
+$6330 :: Rámy
+$6331 :: Pneumatiky
+$6332 :: Plachtidla
+$6333 :: Ostatní
+$6334 :: Chyba SD karty.\n\nZkontroluj prosím údaje\nv Mario Kart Channel.
+$6335 :: Objekty jsou vyžadovány,\naby bylo možné hrát bitvy.
+$6400 :: Seznam StreetPass
+$6401 :: Doporučení společenství\nbyla aktualizována.\n\nChceš vidět?
+$6416 :: Doporučení společenství byla aktualizována.
+
+#Download Play
+$5900 :: Download Play
+
+#Online Multiplayer messages
+$5908 :: Byla rozpoznána\nkomunikační chyba.
+$5909 :: Prosím počkej...
+$5910 :: Příprava na sledování\nprobíhajícího zápasu...
+$5911 :: Byla rozpoznána\nkomunikační chyba.\n\nZmáčkni \uE073HOME se vrátít\ndo HOME menu.
+
+#Friends/Opponents menu
+$5991 :: Přátelé
+$5992 :: Nedávní Protihráčé
+$5993 :: StreetPass Návštěvy
+$6100 :: Připojit se
+
+#More Online Multiplayer messages
+$6001 :: Připojení k\nNintendo Network...
+$6002 :: Chceš se odpojit od\nNintendo Network?
+$6003 :: Hledání hráčů...
+$6004 :: Našli jsme hráče!
+$6005 :: Byl jsi odpojen\nod ostatních hráčů.
+$6006 :: Počkej prosím chvilku.
+$6007 :: Příprava na závod...
+$6008 :: Příprava na bitvu...
+$6009 :: Hráči pro Příští Zápas
+$6010 :: Hráči nenalezeni.
+$6011 :: Připojování\n\u000E\u0001\u0000\u0000...
+$6012 :: Nemohl jsi se připojit ke\nskupině uživatele \u000E\u0001\u0000\u0000.\n\nProsím počkej a zkus\nto znovu později.
+$6014 :: Příští Kolo: Bitva Balónků 
+$6015 :: Příští Kolo: Bitva Mincí
+
+#Friends Status?
+$6105 :: Závodí online
+$6106 :: Bojuje online
+$6107 :: Hraje komunitní hru
+$6150 :: Závodí online\nVR: \u000E\u0001\u0004\u0004\u0000\u0000
+$6151 :: Bojuje online\nVR: \u000E\u0001\u0004\u0004\u0000\u0000
+$6152 :: Hraje komunitní hru\n\u000E\u0001\u0005\u0000\u0000
+
+#Sendable Community messages
+$6200 :: Odeslat zprávu
+$6201 :: Začněme hru!
+$6202 :: Začneme?
+$6203 :: Ahoj!
+$6204 :: Hodně štěstí!
+$6205 :: Vítejte!
+$6206 :: Pojď na mě lehce!
+$6207 :: Vystříknu nejlíp jak mohu!
+$6208 :: Počkejme si na další hráče.
+$6209 :: OK!
+$6210 :: Jsem trochu nervózní...
+$6211 :: Jsem nadšený!
+$6212 :: Použiji gyro!
+$6213 :: Hurá!
+$6214 :: To byla legrace!
+$6215 :: Dobrá hra!
+$6216 :: Ne fér!
+$6217 :: Ještě jednou!
+$6218 :: Příště tě dostanu!
+$6219 :: Tohle je moje poslední hra.
+$6220 :: Vyrážím...
+$6221 :: Díky, že jste hráli!
+$6222 :: Díky moc!
+$6223 :: Dobrou noc!
+$6224 :: Na shledanou!
+
+#SpotPass
+$6402 :: Data duchů dorazila\npřes SpotPass!\n\nZávodit proti tomu teď?
+$6417 :: Data duchů dorazila přes SpotPass.
+
+#Player profile
+$6405 :: VR
+$6406 :: Vyhrává
+$6407 :: Porážky
+$6408 :: Mince Sbíraný
+$6414 :: StreetPass Návštěvy
+$6421 :: Změnit Mii
+$6422 :: Upravit Zprávu
+$6423 :: Přizpůsobit Vozidlo
+$6424 :: Vytvořit Grand Prix
+$6425 :: Nastavení
+
+#Mario Kart Channel
+$6415 :: Další hráči Mario Kart 7, kteří se\nsetkali přes StreetPass, budou přidáni\ndo tvého seznamu StreetPass.
+
+#Menus
+$6410 :: Hrát
+$6411 :: Grand Prix
+$6412 :: Na Čas
+$6413 :: Připojit se Online
+
+#Note about player profile messages
+$6427 :: Vezmi prosím na vědomí, že\nzprávy, které zadáš v Mario Kart 7,\nbudou viditelné pro každého,\ns kým hraješ bezdrátově,\na můžou být upraveny\nnebo předány ostatním.
+$6428 :: Neuváděj prosím žádný\nurážlivá slova, osobní údaje\nnebo obsah, který je\nnezákonný nebo porušuje\npráva ostatních.
+
+#Rankings
+$6431 :: 1.
+$6432 :: 2.
+$6433 :: 3.
+$6434 :: 4.
+
+#StreetPass setting
+$6441 :: Aktivovaný
+$6442 :: Deaktivovaný
+
+#SpotPass setting
+$6451 :: \r6441
+$6452 :: \r6442
+
+#Region display setting
+$6460 :: Region
+$6461 :: Zobrazit
+$6462 :: Schovat
+
+#Online status setting
+$6470 :: Status Online
+$6471 :: Zobrazit
+$6472 :: Schovat
+
+#Gyro setting
+$6480 :: Gyro Senzor
+$6481 :: Použít
+$6482 :: Nepoužít
+
+#Save data reset dialogue
+$7001 :: Resetovat uloženou pozici?
+$7002 :: Pokud resetuješ uložená data,\ntrvale ztratíš všechny\nzáznamy a pokrok.\n\nSouhlasíš?
+#$7003 :: Resetování uložených dat...
+#$7004 :: Uložená data byla resetována.
+#$7005 :: Uložená data je poškozena\na teď bude resetována.
+
+#No Mii dialogue
+$7006 :: V současné době nejsou\nv Mii Makeru žádné postavy Mii.\n\nOtevři Mii Maker z\n\uE073HOME Menu a vytvoř aspoň\njedna postava Mii.
+
+#Generic error
+#$7007 :: Nastala chyba.\n\nPodrž stisknuté tlačítko POWER,\nabys vypnul napájení, poté\njej zapni a zkus to znovu.
+
+#R/W errors
+$7101 :: SD karta byla\nodstraněna.\n\nPřed odstraněním SD\nkaret vypni napájení.
+$7102 :: Prosím počkej...\n\nNevypni napájení ani\nneodstraň SD kartu.
+$7103 :: Není vložena žádná SD karta.
+$7104 :: Zařízení aktuálně vložené\ndo slotu SD karty\nnení možné použít.
+$7105 :: Na SD kartu nelze zapisovat.\n\nPřesuň prosím spínač\nochrany proti zápisu\ndo vypnuté polohy.
+$7106 :: Není možné vytvořit data\npro Mario Kart Channel.\nNa SD kartě není\ndostatek volného místa.
+$7107 :: Chyba SD karty.
+$7108 :: Mario Kart Kanál data\nje poškozena a\nteď bude resetována.
+
+#Mario Kart Channel explanation
+$7201 :: Mario Kart Kanál může\npoužívat \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF a \u000E\u0000\u0003\u0002\u0001SpotPass\n\u000E\u0000\u0003\u0002\uFFFFpro příjem různých dat.
+$7202 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\nVyměňit si profily s lidmi,\nkteré míjíš, abys je\nmohl vyzvat online.
+$7203 :: \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nDostávat data duchů od\nhráčů z celého světa a\ndoporučení pro komunity, které\nby se ti mohly líbit.
+$7204 :: \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFa \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFF\nzůstanou aktivní, i když\nnehraješ Mario Kart 7.
+$7205 :: Data přijatá z\nMario Kart Kanálem jsou\nuložena na SD kartu.
+
+#Mario Kart Channel first time setup
+$7301 :: Data z Mario Kart Kanálu\nbudou vytvořena na SD kartě.
+$7302 :: Data z Mario Kart Kanálu\nbudou vytvořena na SD kartě.\n\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF a \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF budou\naktivovány pro tento software.
+$7303 :: Data z Mario Kart Kanálu\nbudou vytvořena na SD kartě.\n\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFFbude aktivován\npro tento software.
+$7304 :: Data z Mario Kart Kanálu\nbudou vytvořena na SD kartě.\n\n\u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFbude aktivován\npro tento software.
+$7305 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF a \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF budou\naktivovány pro tento software.
+$7306 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFFbude aktivován\npro tento software.
+$7307 :: \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFbude aktivován\npro tento software.
+$7401 :: Mario Kart Kanál\nje připraven k použití!
+$7402 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF a \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFbyly\naktivovány pro tento software.
+$7403 :: \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFbyl aktivován\npro tento software.
+$7404 :: \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFbyl aktivován\npro tento software.
+
+#Permission errors
+$7405 :: Použití \u000E\u0000\u0003\u0002\u0002StreetPass\n\u000E\u0000\u0003\u0002\uFFFFje omezeno\nRodičovskou Kontrolou.\n\nZkontroluj prosím\nNastavení systému.
+$7406 :: Musíš souhlasit s uživatelskou\nsmlouvou služby Nintendo 3DS,\nnež budeš moci používat\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF nebo \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF. \nZkontroluj prosím\nNastavení systému.
+$7407 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF už nemůžeš aktivovat\npro žádné další softwarové\ntituly v tomto systému.
+$7408 :: Abys mohl závodit online, musíš\npřijmout podmínky uživatelské\nsmlouvy služby Nintendo 3DS\na Zásady Ochrany Osobních Údajů.\nTo si můžeš prohlédnout\nv Nastavení systému.
+$7502 :: Online interakce\nje omezena\nRodičovskou Kontrolou.\nZkontrolujte prosím\nNastavení systému.
+$7503 :: Musíš souhlasit s uživatelskou\nsmlouvou služby Nintendo 3DS,\nnež budeš moci hrát\nonline. Zkontroluj prosím\nNastavení systému.
+
+#Wireless switch off error
+$7501 :: Zmáčkni bezdrátového přepínače\npro \u000E\u0000\u0003\u0002\u0000enable \u000E\u0000\u0003\u0002\uFFFFbezdrátovou komunikaci.
+
+#Pause menu
+$9003 :: Pokračovat
+$9004 :: Odejít
+$9005 :: Změnit Mapu
+$9006 :: Změnit Postavu
+$9007 :: Restartovat
+
+#Post-race menu
+$9009 :: Další Závod
+$9010 :: Zobrazit Výsledky
+$9011 :: Opakovat
+$9012 :: Zobrazit Záznam
+$9013 :: Pokračovat v Záznamu
+$9014 :: Restartovat Záznam
+$9015 :: Vypnout Záznam
+$9016 :: Další Závod
+$9017 :: Další Kolo
+
+#Dialogue button
+$9101 :: OK!
+
+#Ghost creation dialogues
+$9151 :: Vytvořena nová data duchů.
+$9152 :: Nemohlo vytvořit data duchů.
+$9153 :: Nemožno vytvořit data duchů.
+
+#Premature ending messages
+$9161 :: Skončil jsi poslední. Závod skončil.
+$9162 :: Uběhlo 5 minut. Závod skončil.
+$9163 :: Vítěz dokončil závod před 30 sekundami.
+
+#Communication error messages
+$9164 :: Byla rozpoznána\nkomunikační chyba.
+$9165 :: \r9164
+
+#Multiplayer pre-race info messages
+$9171 :: Přidáš se k dalšímu závodu. Prosím, počkej.
+$9172 :: Přidáš se k další bitvě. Prosím, počkej.
+$9173 :: Skupina je plná. Prosím, počkej.
+
+#Results screen
+$9201 :: VÝSLEDKY
+$9202 :: CELKOVÉ BODY
+$9203 :: KONEČNÉ POŘADÍ
+$9204 :: NEJLEPŠÍ REKORDY
+
+#Lap number
+$9817 :: KOLO
+
+#Section number
+$9829 :: SEKCE
+
+#VR amount
+$9831 :: VR
+
+#Points
+$9830 :: \u000E\u0001\u0006\u0016\u0006bod\u0008body\u0000\u0000
+$9833 :: \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0016\u0006bod\u0008body\u0000\u0000

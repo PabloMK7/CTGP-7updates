@@ -19,13 +19,13 @@
 
 #Kart Body Parts
 $1107 :: Silver Arrow
-$1109 :: Gold Mantis
-$1110 :: Arcade
-$1111 :: Bandicoot Team
+$1109 :: Экскавакарт
+$1110 :: Аркада
+$1111 :: Команда Бандикутов
 
 #Kart Wheel Parts
-$1202 :: \uE033 Monster
-$1206 :: Blue Monster
+$1202 :: Гигантские \uE033
+$1206 :: Синие гигантские
 
 #Kart Glider Parts
-$1304 :: Fire Swoop
+$1304 :: Пиро-пикировщик

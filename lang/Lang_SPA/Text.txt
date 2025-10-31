@@ -15,14 +15,14 @@ $710045 :: \uE024\uE025 Jardín Celeste
 $700011 :: Copa Bellota
 $710046 :: Bosque Otoñal
 $710068 :: \uE024\uE025 Parque de la Rivera
-$710043 :: \uE031\uE032 Circuito Mario 1
+$710043 :: RMX Circuito Mario 1
 $710049 :: \uE024\uE025 Castillo de Bowser 3
 
 #Cloud Cup
 $700012 :: Copa Nube
 $710053 :: \uE022\uE023 Circuito Nevado
 $710054 :: \uE022\uE023 Granja Mu-Mu
-$710052 :: Avenida Archipiélago
+$710052 :: \uE033 Ciudad Delfino
 $710096 :: \uE026\uE027 Circuito Mario
 
 #Boo Cup
@@ -158,6 +158,20 @@ $710127 :: Pista Ruleta
 $710128 :: Estación Extraterrestre
 $710129 :: \uE033 Senda Arco Iris
 
+#Shine Cup
+$700032 :: Copa Sol
+$710130 :: Cabo Coral
+$710131 :: \uE067 Mina de Wario
+$710132 :: \uE033 Jardín de Peach
+$710133 :: Ciudadela Brisafría
+
+#Dark Star Cup
+$700033 :: Copa Estrella Oscura
+$710134 :: Santuario Oscuro
+$710135 :: Pirámide Infernal
+$710136 :: \uE026\uE027 Cuidad Champiñón
+$710137 :: Castillo Estrella Oscura
+
 #Save Data
 $7005 :: Datos de guardado extra\npara CTGP-7 serán creados\nen la tarjeta SD.
 $7003 :: Creando datos...
@@ -180,6 +194,7 @@ achiev_all_1star :: Has obtenido una estrella en\ntodas las copas personalizadas
 achiev_all_3star :: Has obtenido tres estrellas en\ntodas las copas personalizadas.\n\n¡Enhorabuena!
 achiev_all_mission :: Has obtenido 10 puntos en\ntodas las misiones.\n\n¡Enhorabuena!
 achiev_5000_vr :: Has obtenido 5000 PC en\ncircuitos personalizados\nen línea.\n\n¡Enhorabuena!
+achiev_all_score_completed :: Has completado todos los\ncircuitos en el desafío de\npuntos.\n\n¡Enhorabuena!
 achiev_blue_coin :: Has obtenido todas las\nmonedas azules.\n\n¡Enhorabuena!
 achiev_dodged_blue :: Has esquivado 3\ncaparazones de pinchos.\n\n¡Enhorabuena!
 unlocked_item :: Has desbloqueado:\n\n
@@ -190,6 +205,7 @@ gold_tro_achiev :: Oro en todas las copas personalizadas
 3star_achiev :: 3 estrellas en todas las copas personalizadas
 10pts_msn_achiev :: 10 puntos en todas las misiones
 5000vr_achiev :: 5000PC en CTWW
+score_all_achiev :: Desafío de puntos completado
 blue_coin_achiev :: Todas las monedas azules obtenidas
 dodged_blue_achiev :: Esquivado 3 caparazones de pinchos
 dodged_blue_amount :: Caparazones de pinchos esquivados
@@ -239,6 +255,7 @@ imtrick :: Trucos Mejorados :: Los karts girarán sobre sí mismos al hacer un t
 autoaccel :: Aceleración Automática :: Al pulsar \uE000 o \uE003 se activará la aceleración automática del kart hasta que se pulse \uE001.
 imbrakedrift :: Derrape en Frenada Mejorado :: Podrás frenar mientras derrapas pulsando \uE001 sin perder el miniturbo.
 autodelaydrift :: "Delay Drift" Automático :: Ayuda a prevenir que el kart pierda velocidad al comenzar a derrapar.
+improvedhorn :: Cláxon Mejorado :: Permite tocar el cláxon con el botón de objetos y escuchar el de los demás en multijugador.
 achieventry :: Logros :: Comprueba el progreso de los logros de CTGP-7.
 badgesentry :: Insignias :: Mirar insignias de CTGP-7 obtenidas (requiere conexión a internet).
 optionsentry :: Opciones :: Configura las opciones de CTGP-7.
@@ -337,6 +354,7 @@ serv_qrshow :: Pulsa \uE002 para mostrar.
 statsentry :: Estadísticas Locales :: Comprueba tus estadísticas privadas de CTGP-7 aquí.
 stats_tpl :: Veces jugadas
 stats_tot :: Carreras totales fuera de línea :: Carreras totales en línea
+stats_sc :: Carreras modo desafío de puntos :: Intentos de desafío semanal
 stats_vnll :: Vanilla
 stats_most :: Circuitos más jugados :: Arenas más jugadas
 stats_rpoints :: Puntos de carrera
@@ -403,3 +421,112 @@ badge_name_desc :: Nombre de la insignia :: Descripción de la insignia
 badge_date :: Fecha de obtención
 badge_msg :: Has obtenido una nueva\ninsignia de CTGP-7.\n\n¡Enhorabuena!
 badge_date_fmt :: %d/%m/%Y
+
+#Score Attack Actions
+pts_action_0 :: ¡Champiñón!
+pts_action_1 :: Panel Turbo
+pts_action_2 :: Miniturbo
+pts_action_3 :: Superminiturbo
+pts_action_4 :: Turbosalida Pequeña
+pts_action_5 :: Turbosalida
+pts_action_6 :: Turbosalida Perfecta
+pts_action_7 :: Truco
+pts_action_8 :: Truco Avanzado
+pts_action_9 :: Rebufo
+pts_action_10 :: ¡Champiñón Dorado!
+pts_action_11 :: Moneda
+pts_action_12 :: Anillo Estelar
+pts_action_13 :: Tubería
+pts_action_14 :: Goomba
+pts_action_15 :: Swooper
+pts_action_16 :: Cono de Tráfico
+pts_action_17 :: Roca
+pts_action_18 :: Cheep Cheep
+pts_action_19 :: Ostra
+pts_action_20 :: Cangrejo
+pts_action_21 :: Cabra
+pts_action_22 :: Vasija
+pts_action_23 :: Shy Guy Volador
+pts_action_24 :: Barril
+pts_action_25 :: Tiki Goon
+pts_action_26 :: Ranolón
+pts_action_27 :: Coche
+pts_action_28 :: Caja
+pts_action_29 :: Pingüino
+pts_action_30 :: Carámbano
+pts_action_31 :: Roca Picuda
+pts_action_32 :: Arbusto Falso
+pts_action_33 :: Goomba Falso
+pts_action_34 :: Planta Piraña
+pts_action_35 :: Chomp Cadenas
+pts_action_36 :: Pezueso
+pts_action_37 :: Ancla
+pts_action_38 :: Nota Musical
+pts_action_39 :: Pila de Hojas
+pts_action_40 :: Floruga
+pts_action_41 :: Bill Bala
+pts_action_42 :: Tortopo
+pts_action_43 :: Muñeco de Nieve
+pts_action_44 :: Bola de Nieve
+pts_action_45 :: Bola de Metal
+pts_action_46 :: Mesa
+pts_action_47 :: Cactus
+pts_action_48 :: Tren
+pts_action_49 :: Abejorro
+pts_action_50 :: Vuelo
+pts_action_51 :: ¡Caparazón Verde!
+pts_action_52 :: ¡Caparazón Rojo!
+pts_action_53 :: ¡Plátano!
+pts_action_54 :: ¡Caparazón de Pinchos!
+pts_action_55 :: ¡Rayo!
+pts_action_56 :: ¡Caja Falsa!
+pts_action_57 :: ¡Bob-omb!
+pts_action_58 :: ¡Flor de Fuego!
+pts_action_59 :: ¡Superhoja!
+pts_action_60 :: ¡Blooper!
+pts_action_61 :: ¡Superestrella!
+pts_action_62 :: ¡Mega Champiñón!
+pts_action_63 :: ¡Bill Bala!
+pts_action_64 :: Adelantamiento Bill Bala
+pts_action_65 :: ¡Venganza!
+pts_action_66 :: ¡Aplastamiento!
+pts_action_67 :: Objeto Destruido
+pts_action_68 :: Objeto Desviado
+pts_action_69 :: ¡Evasión de C. Pinchos!
+pts_action_70 :: ¡Siguiente Vuelta!
+pts_action_71 :: ¡Siguiente Sección!
+pts_action_72 :: ¡Final Frenzy!
+pts_action_73 :: ¡Final de la carrera!
+
+#Score Attack
+score_attack :: Desafío de Puntos :: Encadena acciones para conseguir puntos.
+sc_at_spc_cup :: Circuito Aleatorio :: Desafío Semanal
+sc_at_race_start :: Comienzo de la Carrera
+sc_at_clear :: Circuito Completado :: Circuito No Completado
+sc_at_save :: (Borrar Guardado: \uE002) :: (Ninguna)
+sc_at_score :: Mejor Puntuación :: Puntuación para completar
+sc_at_delete :: ¿Borrar el guardado de este circuito?
+sc_at_record :: ¡Nuevo Récord!
+sc_at_clear_small :: Completado! :: No Completado
+sc_at_cleared_tr :: Circuitos completados
+sc_at_nice :: ¡BIEN!
+sc_at_great :: ¡GENIAL!
+sc_at_excel :: ¡EXCELENTE!
+sc_at_fanta :: ¡FANTÁSTICO!
+sc_at_combo :: Combo x
+
+#Score Attack Weekly
+sc_wc_ended :: El desafío semanal actual ha concluido. :: Sin datos
+sc_wc_curr :: Desafío actual:
+sc_wc_time :: Tiempo restante:
+sc_wc_bonus :: Combo Bonus: :: Tu bonus:
+sc_wc_board :: Clasificación: Mejores 10 :: Clasificación: Mi Puntuación
+sc_wc_getting :: Obteniendo información... :: Fallo al obtener la información.\nError: 0x%08X
+sc_wc_results :: Resultados de Desafío Semanal
+sc_wc_score :: Puntuación anterior: :: Nueva puntuación:
+sc_wc_upload :: ¿Quieres publicar tu puntuación? :: Publicar
+sc_wc_uploading :: Publicando resultados... :: Se ha producido un error.
+sc_wc_retry :: ¿Reintentar?
+
+#Local Multiplayer Error
+mult_error :: Todos los participantes deben\ntener la última versión de\nCTGP-7 instalada. :: Debes actualizar\nCTGP-7 para jugar\nen esta sala.

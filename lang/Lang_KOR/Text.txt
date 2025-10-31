@@ -15,14 +15,14 @@ $710045 :: \uE024\uE025 스카이 가든
 $700011 :: 도토리 컵
 $710046 :: 가을 숲
 $710068 :: \uE024\uE025 리버사이드 파크
-$710043 :: \uE020\uE021 마리오 서킷 1
+$710043 :: RMX 마리오 서킷 1
 $710049 :: \uE024\uE025 쿠파 성 3
 
 #Cloud Cup
 $700012 :: 구름 컵
 $710053 :: \uE035 프라페 스노우랜드
 $710054 :: \uE035 음매음매 목장
-$710052 :: 아르치페라고 애비뉴
+$710052 :: \uE033 몬테 타운
 $710096 :: \uE034 마리오 서킷
 
 #Boo Cup
@@ -158,6 +158,20 @@ $710127 :: 룰렛 로드
 $710128 :: 궤도 전초기지
 $710129 :: \uE033 무지개 로드
 
+#Shine Cup
+$700032 :: 샤인 컵
+$710130 :: 산호 케이프
+$710131 :: \uE067 와리오 광산
+$710132 :: \uE033 피치 가든
+$710133 :: 바람과 눈의 요새
+
+#Dark Star Cup
+$700033 :: 다크스타 컵
+$710134 :: 다크 생츄어리
+$710135 :: 헬 피라미드
+$710136 :: \uE026\uE027 버섯 시티
+$710137 :: 다크스타 성
+
 #Save Data
 $7005 :: CTGP-7의 추가 데이터를\nSD 카드에 작성합니다.
 $7003 :: 추가 데이터 작성중...
@@ -180,6 +194,7 @@ achiev_all_1star :: 모든 커스텀 컵에서\n별 1개를 얻었습니다.\n\n
 achiev_all_3star :: 모든 커스텀 컵에서\n별 3개 얻었습니다.\n\n축하드립니다!
 achiev_all_mission :: 모든 미션에서\n10점를 얻었습니다.\n\n축하드립니다!
 achiev_5000_vr :: CTWW에서\n5000 VR에 도달했습니다.\n\n축하드립니다!
+achiev_all_score_completed :: You have cleared all\ntracks in Score Attack.\n\nCongratulations!
 achiev_blue_coin :: 블루코인 을\n 모두 모았습니다!\n\n축하합니다!
 achiev_dodged_blue :: 가시돌이등껍질 3개 를\n피했습니다! 축하합니다!
 unlocked_item :: 잠금 해제됨:\n\n
@@ -190,6 +205,7 @@ gold_tro_achiev :: 모든 커스텀컵 1등
 3star_achiev :: 모든 커스텀컵 스타 세 개
 10pts_msn_achiev :: 모든 미션에서 10포인트
 5000vr_achiev :: CTWW에서 5000VR
+score_all_achiev :: All tracks cleared in Score Attack
 blue_coin_achiev :: 모든 블루코인이 획득
 dodged_blue_achiev :: 가시돌이등껍질 3개를 피했습니다
 dodged_blue_amount :: 가시돌이등껍질 피하기
@@ -239,6 +255,7 @@ imtrick :: 점프 트릭 개선 :: 카트가 점프대 위에서 트릭을 할 �
 autoaccel :: 자동 가속 :: \uE000나 \uE003를 누르면 \uE001이 눌러질 때까지 자동으로 가속합니다.
 imbrakedrift :: 브레이크 드리프트 개선 :: \uE001을 드리프트 중에 눌러서 미니 터보를 잃지 않고 브레이크를 할 수 있습니다.
 autodelaydrift :: 자동 딜레이 드리프트 :: 드리프트를 시작할 때 속도를 잃는 것을 방지하게 돕습니다.
+improvedhorn :: Improved Horn :: Allows playing the horn with the item button and hearing other player's horns in multiplayer.
 achieventry :: 업적 :: CTGP-7 업적 진행 상황 보기.
 badgesentry :: 배지 :: 획득한 CTGP-7 배지 보기 (인터넷 연결 필요).
 optionsentry :: 설정 :: CTGP-7 옵션을 설정하기.
@@ -337,6 +354,7 @@ serv_qrshow :: 표시하려면 \uE002를 누르세요.
 statsentry :: 로컬 통계 :: 여기서 CTGP-7 사용 통계를 확인할 수 있습니다.
 stats_tpl :: 플레이 시간
 stats_tot :: 오프라인 레이스 합계 :: 온라인 레이스 합계
+stats_sc :: Total Score Attack Races :: Total Weekly Challenge Attempts
 stats_vnll :: 기본 코스
 stats_most :: 최다 플레이 코스 :: 최다 플레이 배틀 아레나
 stats_rpoints :: 레이스 포인트
@@ -403,3 +421,112 @@ badge_name_desc :: 배지 이름 :: 배지 설명
 badge_date :: 획득 날짜
 badge_msg :: 새로운 \nCTGP-7 배지를 획득했습니다. \n\n 축하드립니다!
 badge_date_fmt :: %Y-%m-%d
+
+#Score Attack Actions
+pts_action_0 :: 대시버섯!
+pts_action_1 :: 대시 플레이트
+pts_action_2 :: 미니 터보
+pts_action_3 :: 슈퍼 미니 터보
+pts_action_4 :: Small Rocket Start
+pts_action_5 :: 스타트 대시
+pts_action_6 :: Perfect Rocket Start
+pts_action_7 :: 점프 액션
+pts_action_8 :: Advanced Trick
+pts_action_9 :: 슬립 스트림
+pts_action_10 :: Golden Mushroom!
+pts_action_11 :: 코인
+pts_action_12 :: 스타링
+pts_action_13 :: 토관
+pts_action_14 :: 굼바
+pts_action_15 :: 스우푸
+pts_action_16 :: 라바콘
+pts_action_17 :: 바위
+pts_action_18 :: 뽀꾸뽀꾸
+pts_action_19 :: 진주조개
+pts_action_20 :: 게
+pts_action_21 :: 염소
+pts_action_22 :: Pot
+pts_action_23 :: 플라잉헤이호
+pts_action_24 :: 통
+pts_action_25 :: Tiki Goon
+pts_action_26 :: 프로글
+pts_action_27 :: 자동차
+pts_action_28 :: 나무상자
+pts_action_29 :: 펭귄
+pts_action_30 :: 고드름
+pts_action_31 :: 쿵쿵
+pts_action_32 :: Fake Bush
+pts_action_33 :: Fake Goomba
+pts_action_34 :: 뻐끔플라워
+pts_action_35 :: 멍멍이
+pts_action_36 :: 피시본
+pts_action_37 :: 닻
+pts_action_38 :: Music Bash
+pts_action_39 :: 낙엽
+pts_action_40 :: 꽃충이
+pts_action_41 :: 킬러
+pts_action_42 :: 뚜
+pts_action_43 :: 눈사람
+pts_action_44 :: Snowball
+pts_action_45 :: Metal Ball
+pts_action_46 :: 탁자
+pts_action_47 :: 선인장
+pts_action_48 :: 기차
+pts_action_49 :: 딱끔
+pts_action_50 :: 활공 시간
+pts_action_51 :: Green Shell Hit!
+pts_action_52 :: Red Shell Hit!
+pts_action_53 :: Banana Hit!
+pts_action_54 :: Spiny Shell Hit!
+pts_action_55 :: Lightning Hit!
+pts_action_56 :: Fake Box Hit!
+pts_action_57 :: Bob-omb Hit!
+pts_action_58 :: Fire Flower Hit!
+pts_action_59 :: Super Leaf Hit!
+pts_action_60 :: Blooper Deploy!
+pts_action_61 :: Star Hit!
+pts_action_62 :: Mega Mush Hit!
+pts_action_63 :: Bullet Bill Hit!
+pts_action_64 :: Bullet Overtake
+pts_action_65 :: Payback!
+pts_action_66 :: Smash!
+pts_action_67 :: Item Destroyed
+pts_action_68 :: Item Deflected
+pts_action_69 :: Spiny Shell Dodge!
+pts_action_70 :: Next Lap!
+pts_action_71 :: Next Section!
+pts_action_72 :: Frenzy Finish!
+pts_action_73 :: Race Finish!
+
+#Score Attack
+score_attack :: Score Attack :: Chain actions to get the most points.
+sc_at_spc_cup :: Random Course :: Weekly Challenge
+sc_at_race_start :: Race Start
+sc_at_clear :: Course Cleared :: Course Not Cleared
+sc_at_save :: (Delete Save: \uE002) :: (None)
+sc_at_score :: Best score :: Clear score
+sc_at_delete :: Delete this course save data?
+sc_at_record :: New Record!
+sc_at_clear_small :: Cleared! :: Not Cleared
+sc_at_cleared_tr :: Cleared tracks
+sc_at_nice :: NICE!
+sc_at_great :: GREAT!
+sc_at_excel :: EXCELLENT!
+sc_at_fanta :: FANTASTIC!
+sc_at_combo :: Combo x
+
+#Score Attack Weekly
+sc_wc_ended :: Current Weekly Challenge has ended :: No data available
+sc_wc_curr :: Current challenge:
+sc_wc_time :: Time remaining:
+sc_wc_bonus :: Bonus combo: :: Your bonus:
+sc_wc_board :: Leaderboard: Top 10 :: Leaderboard: My Score
+sc_wc_getting :: Getting Weekly Challenge info... :: Failed to get Weekly Challenge info.\nError: 0x%08X
+sc_wc_results :: Weekly Challenge Results
+sc_wc_score :: Previous score: :: New score:
+sc_wc_upload :: Would you like to publish your score? :: Publish
+sc_wc_uploading :: Uploading results... :: An error has occurred.
+sc_wc_retry :: Retry?
+
+#Local Multiplayer Error
+mult_error :: All participants must\nhave the latest CTGP-7\nversion installed. :: You have to update\nCTGP-7 to play in\nthis room.

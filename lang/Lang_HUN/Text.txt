@@ -15,14 +15,14 @@ $710045 :: \uE024\uE025 Felhőkert
 $700011 :: Makk kupa
 $710046 :: Őszi-erdő
 $710068 :: \uE024\uE025 Folyóparti park
-$710043 :: \uE031\uE032 Mario pálya 1
+$710043 :: RMX Mario pálya 1
 $710049 :: \uE024\uE025 Bowser vára 3
 
 #Cloud Cup
 $700012 :: Felhő kupa
 $710053 :: \uE022\uE023 Frappé hóföld
 $710054 :: \uE022\uE023 Mú mú farm
-$710052 :: Szigetvilág sugárút
+$710052 :: \uE033 Delfino városközpont
 $710096 :: \uE026\uE027 Mario pálya
 
 #Boo Cup
@@ -35,7 +35,7 @@ $710065 :: \uE033 Cheep Cheep-part
 #Spring Cup
 $700014 :: Rugó kupa
 $710067 :: \uE033 Tikk takk óra
-$710075 :: \uE026\uE027 Mushroom Bridge
+$710075 :: \uE026\uE027 Gomba híd
 $710066 :: \uE033 Sivatagi buckák
 $710069 :: Az idő temploma
 
@@ -158,6 +158,20 @@ $710127 :: Kaszinó kavalkád
 $710128 :: Orbitális tábor
 $710129 :: \uE033 Szivárvány út
 
+#Shine Cup
+$700032 :: Shine kupa
+$710130 :: Korall-fok
+$710131 :: \uE067 Wario aranybányája
+$710132 :: \uE033 Peach kertje
+$710133 :: Szellős citadella
+
+#Dark Star Cup
+$700033 :: Sötétcsillag kupa
+$710134 :: Sötét szentély
+$710135 :: Pokoli piramis
+$710136 :: \uE026\uE027 Gomba város
+$710137 :: Sötétcsillag kastély
+
 #Save Data
 $7005 :: Az SD kártyán egy extra\njátékmentés lesz létrehozva.
 $7003 :: Extra mentés létrehozása...
@@ -180,19 +194,21 @@ achiev_all_1star :: Megszerezted az 1 csillagot\nminden egyéni kupában!\n\nGra
 achiev_all_3star :: Megszerezted az 3 csillagot\nminden egyéni kupában!\n\nGratulálunk!
 achiev_all_mission :: Minden küldetésben\n10 pont van.\n\nGratulálunk!
 achiev_5000_vr :: 5000 VR van a CTWW-ben.\n\nGratulálunk!
+achiev_all_score_completed :: Tejlesítettél minden\npályát potszámfutam\nmódban.\n\nGratulálunk!
 achiev_blue_coin :: Gratulálunk!\nMegszerezted az összes\nkék érmét!
-achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
-unlocked_item :: Feloldottad:\n\n
+achiev_dodged_blue :: Kikerültél\n3 kék páncélt.\n\nGratulálunk!
+unlocked_item :: Feloldottad az alábbit:\n\n
 types_achievs :: Sima teljesítmények :: Különleges teljesítmények
-types_achievs_optional :: Optional achievements
+types_achievs_optional :: Nem kötelező teljesítmények
 gold_tro_achiev :: Szerezz aranyérmet minden egyéni pályás kupán
 1star_achiev :: Érj el egycsillagos teljesítményt minden egyéni pályás kupán
 3star_achiev :: Érj el háromcsillagos teljesítményt minden egyéni pályás kupán
 10pts_msn_achiev :: Érj el tízpontos teljesítményt minden küldetésen
 5000vr_achiev :: Érj el 5000 VR-os teljesítményt a CTWW-n
+score_all_achiev :: Teljesíts minden pályát pontszámfutamban
 blue_coin_achiev :: Szerezd meg az összes kék érmét
-dodged_blue_achiev :: Dodged 3 blue shells
-dodged_blue_amount :: Blue shells dodged
+dodged_blue_achiev :: Kerülj ki 3 kék páncélt
+dodged_blue_amount :: Kikerült kék páncélok száma
 custom_track_cups :: Egyéni pályás kupák
 tro_gold :: Aranyérem
 tro_1star :: 1 csillag
@@ -239,6 +255,7 @@ imtrick :: Javított trükkök :: Gyorsítórámpáról indított trükközésko
 autoaccel :: Automatikus gáz :: A(z) \uE000 vagy \uE003 gomb megnyomása után a gokart a gomb nyomva tartása nékül is folytatja az előre haladást. Megszakítható a(z) \uE001 gombbal.
 imbrakedrift :: Javított fékező farolás :: Tartsd lenyomva a(z) \uE001 gombot farolás közben a miniturbód elvesztése nélküli fékezéshez.
 autodelaydrift :: Automatikus „Delay Drift” :: A gokart sebességvesztésének megelőzése farolás megkezdésekor.
+improvedhorn :: Javított duda :: Lehetővé teszi a duda használatát a tárgygomb lenyomásával és hallhatóvá teszi a többi játékos dudáját.
 achieventry :: Teljesítmények :: A CTGP-7-es teljesítményhaladás megtekintése.
 badgesentry :: Kitűzők :: A megszerzett CTGP-7-es kitűzők megtekintése (internetkapcsolat szükséges.)
 optionsentry :: Beállítások :: A CTGP-7 beállításainak testreszabása.
@@ -337,6 +354,7 @@ serv_qrshow :: Nyomja meg a \uE002 gombot a megjelenítéshez.
 statsentry :: Helyi statisztikák :: A CTGP-7 használati statisztikáinak megjelenítése.
 stats_tpl :: Játékok száma
 stats_tot :: Offline versenyek száma :: Online versenyek száma
+stats_sc :: Pontszámfutamok száma :: Megkísérelt heti kihívások száma
 stats_vnll :: Alappályák
 stats_most :: Legtöbbet játszott pályák :: Legtöbbet játszott csatapályák
 stats_rpoints :: Versenypontok
@@ -350,7 +368,7 @@ disc_linksteps3 :: 2. Kattints a \#bots csatornára.
 disc_linksteps4 :: 3. Küldd el az alábbi üzenetet:
 disc_data :: Fiók :: Felhasználónév
 disc_beta :: Jogosult tesztverziók kipróbálására. :: Nem jogosult tesztverziók kipróbálására.
-disc_unlink :: Unlink :: Would you like to unlink your\ndiscord account?
+disc_unlink :: Szétkapcsolás :: Biztosan szét akarod kapcsolni\na CTGP-7-et és a Discord-fiókodat?
 
 #Render Optimizations
 render_optim :: Renderelés optimalizálása :: A felső kijelző 3D módjának letiltása és a New 3DS CPU-javításainak engedélyezése.
@@ -403,6 +421,115 @@ badge_name_desc :: Kitűző neve :: Kitűző leírása
 badge_date :: Megszerzés dátuma
 badge_msg :: Új CTGP-7-es kitűzőket\nszereztél meg.\n\nGratulálunk!
 badge_date_fmt :: %Y.%m.%d
+
+#Score Attack Actions
+pts_action_0 :: Gomba!
+pts_action_1 :: Gyorsítópanel
+pts_action_2 :: Miniturbó
+pts_action_3 :: Szuper miniturbó
+pts_action_4 :: Gyenge gyorsindulás
+pts_action_5 :: Gyorsindulás
+pts_action_6 :: Hibátlan gyorsindulás
+pts_action_7 :: Trükközés
+pts_action_8 :: Haladó trükközés
+pts_action_9 :: Szélárnyék
+pts_action_10 :: Aranygomba!
+pts_action_11 :: Érme
+pts_action_12 :: Csillaggyűrű
+pts_action_13 :: Cső
+pts_action_14 :: Goomba
+pts_action_15 :: Swoop
+pts_action_16 :: Forgalmi kúp
+pts_action_17 :: Szikla
+pts_action_18 :: Cheep Cheep
+pts_action_19 :: Clampy
+pts_action_20 :: Sidestepper
+pts_action_21 :: Kecske
+pts_action_22 :: Virágcserép
+pts_action_23 :: Varázsszőnyeges Shy Guy
+pts_action_24 :: Hordó
+pts_action_25 :: Tiki Goon
+pts_action_26 :: Frogoon
+pts_action_27 :: Kocsi
+pts_action_28 :: Láda
+pts_action_29 :: Pingvin
+pts_action_30 :: Jégcsap
+pts_action_31 :: Thwomp
+pts_action_32 :: Álbokor
+pts_action_33 :: Álgoomba
+pts_action_34 :: Piranha Plant
+pts_action_35 :: Chain Chomp
+pts_action_36 :: Fish Bone
+pts_action_37 :: Horgony
+pts_action_38 :: Music Bash
+pts_action_39 :: Avarkupac
+pts_action_40 :: Wiggler
+pts_action_41 :: Bullet Bill
+pts_action_42 :: Rocky Wrench
+pts_action_43 :: Hóember
+pts_action_44 :: Hógolyó
+pts_action_45 :: Fémgolyó
+pts_action_46 :: Asztal
+pts_action_47 :: Kaktusz
+pts_action_48 :: Vonat
+pts_action_49 :: Stingby
+pts_action_50 :: Vitorlázási idő
+pts_action_51 :: Zöld páncélos találat!
+pts_action_52 :: Vörös páncélos találat!
+pts_action_53 :: Banános találat!
+pts_action_54 :: Kék páncélos találat!
+pts_action_55 :: Villámcsapásos találat!
+pts_action_56 :: Hamis tárgydobozos találat!
+pts_action_57 :: Bob-ombos találat!
+pts_action_58 :: Tűzvirágos találat!
+pts_action_59 :: Szuperleveles találat!
+pts_action_60 :: Blooper elküldve!
+pts_action_61 :: Csillagos találat!
+pts_action_62 :: Mega Mushroomos találat!
+pts_action_63 :: Bullet Billes találat!
+pts_action_64 :: Bullet Billes megelőzés!
+pts_action_65 :: Bosszú!
+pts_action_66 :: Találat!
+pts_action_67 :: Tárgy megsemmisítve
+pts_action_68 :: Tárgy visszaverve
+pts_action_69 :: Kék páncél kikerülve!
+pts_action_70 :: Következő kör!
+pts_action_71 :: Következő szakasz!
+pts_action_72 :: Őrületes célbaérés!
+pts_action_73 :: Célbaérés!
+
+#Score Attack
+score_attack :: Pontszámfutam :: Végezz el több cselekvést gyors egymásutánban a legmagasabb pontszám megszerzéséhez!
+sc_at_spc_cup :: Véletlenszerű pálya :: Heti kihívás
+sc_at_race_start :: Verseny indul
+sc_at_clear :: Pálya teljesítve :: Pálya nem teljesítve
+sc_at_save :: (Mentés törlése: \uE002) :: (Nincs)
+sc_at_score :: Rekordpontszám :: Teljesítési pontszám
+sc_at_delete :: Biztosan törölni akarod a pálya mentését?
+sc_at_record :: Új rekord!
+sc_at_clear_small :: Teljesítve! :: Nem teljesítve
+sc_at_cleared_tr :: Teljesített pályák
+sc_at_nice :: SZÉP!
+sc_at_great :: NAGYSZERŰ!
+sc_at_excel :: KITŰNŐ!
+sc_at_fanta :: FANTASZTIKUS!
+sc_at_combo :: Lánc: 
+
+#Score Attack Weekly
+sc_wc_ended :: A heti kihívás véget ért :: Nincsenek elérhető adatok
+sc_wc_curr :: Jelenlegi kihívás:
+sc_wc_time :: Hátralévő idő:
+sc_wc_bonus :: Bónuszlánc: :: Saját lánc:
+sc_wc_board :: Ranglista: Top 10 :: Ranglista: Saját pontszám
+sc_wc_getting :: Heti kihívás lekérése folyamatban... :: A heti kihívás lekérése meghiúsult.\nHibakód: 0x%08X
+sc_wc_results :: A heti kihívás eredményei
+sc_wc_score :: Korábbi pontszám: :: Új pontszám:
+sc_wc_upload :: Szeretnéd közzétenni a pontszámodat? :: Közzététel
+sc_wc_uploading :: Eredmények feltöltése folyamatban... :: Hiba történt.
+sc_wc_retry :: Szeretnéd újra megpróbálni?
+
+#Local Multiplayer Error
+mult_error :: Minden résztvevőnek\na legújabb\nCTGP-7-verzióval\nkell rendelkeznie. :: Frissítened kell\na CTGP-7-et,\nmielőtt játszhatnál\nebben a szobában.
 
 #Characters
 $1000 :: Mario
@@ -993,10 +1120,10 @@ $6427 :: Az itt megadott üzeneteket\nbárki megnézheti, szerkesztheti,\nés to
 $6428 :: Az üzeneted ne tartalmazzon\nsértő szavakat, személyes\ninformációt, illetve illegális,\nvagy személyi jogokat\nsértő tartalmakat.
 
 #Rankings
-$6431 :: 1
-$6432 :: 2
-$6433 :: 3
-$6434 :: 4
+$6431 :: 1.
+$6432 :: 2.
+$6433 :: 3.
+$6434 :: 4.
 
 #StreetPass setting
 $6441 :: Be

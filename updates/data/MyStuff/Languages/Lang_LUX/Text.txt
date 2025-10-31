@@ -1,0 +1,1226 @@
+## CTGP-7 Luxembourgish translation file.
+##
+## This file has been generated from the Mario Kart Translation Project spreadsheet.
+## If you want to contribute, please join the following discord server:
+## https://discord.gg/ubgfE96
+
+#Bell Cup
+$700010 :: Klack-Coupe
+$710042 :: Harmoniestad
+$710059 :: \uE022\uE023 Mario Rennpist
+$710044 :: Galvarny-Waasserfäll
+$710045 :: \uE024\uE025 Wollekpist
+
+#Acorn Cup
+$700011 :: Acorn-Coupe
+$710046 :: Hierscht-Bësch
+$710068 :: \uE024\uE025 Riverside-Park
+$710043 :: RMX Mario Rennstreck 1
+$710049 :: \uE024\uE025 D. Bowser s. Festung 3
+
+#Cloud Cup
+$700012 :: Wollek-Coupe
+$710053 :: \uE022\uE023 Polar-Parcours
+$710054 :: \uE022\uE023 Muhmuh-Ferm
+$710052 :: \uE033 Plëss Delfino
+$710096 :: \uE026\uE027 Marios Rennstreck
+
+#Boo Cup
+$700013 :: Buu-Huu-Coupe
+$710055 :: Spukpfad 2
+$710062 :: Elementar-Grott
+$710057 :: \uE031\uE032 Geistertal 2
+$710065 :: \uE033 Cheep-Cheep-Plage
+
+#Spring Cup
+$700014 :: Fieder-Coupe
+$710067 :: \uE033 Ticktack-Auer
+$710075 :: \uE026\uE027 Champignon-Bréck
+$710066 :: \uE033 Roudewaarm Wüst
+$710069 :: Schlass vun Zäit
+
+#Egg Cup
+$700015 :: Ee-Coupe
+$710063 :: \uE033 Yoshi-Waasserfäll
+$710047 :: \uE022\uE023 Schokela-Bierg
+$710048 :: \uE033 Champignon-Pass
+$710051 :: CTR Crash-Bucht
+
+#Bullet Cup
+$700016 :: Kugelwilli-Coupe
+$710056 :: CTR D. Cortex s. Schlass
+$710089 :: Revo-Pist
+$710061 :: \uE031\uE032 Schokela-Insel 2
+$710064 :: Stärenhang
+
+#Blooper Cup
+$700018 :: Blooper-Coupe
+$710074 :: Sandschlass-Park
+$710058 :: Dschungel-Ruinen
+$710076 :: \uE026\uE027 Luigi Rennstreck
+$710077 :: Vulkan-Ruinen-Plage
+
+#Feather Cup
+$700019 :: Fieder-Coupe
+$710078 :: \uE026\uE027 Yoshi Rennstreck
+$710079 :: \uE026\uE027 Peach Rennstreck
+$710080 :: Metro-Wahnsinn
+$710081 :: \uE024\uE025 Luigi Rennstreck
+
+#Fire Cup
+$700020 :: Feierball-Coupe
+$710082 :: SMO RC-Erauszefuerderen
+$710083 :: \uE024\uE025 D. Bowser s. Festung 4
+$710084 :: RMX Donut-Ebene 1
+$710085 :: Geheime Rutsch
+
+#Bob-omb Cup
+$700021 :: Bob-omb-Coupe
+$710086 :: \uE033 Wario-Arena
+$710087 :: Ermii Rennstreck
+$710088 :: \uE026\uE027 Baby-Park
+$710072 :: \uE026\uE027 D. Bowser s. Festung
+
+#Cherry Cup
+$700022 :: Kiischt-Coupe
+$710090 :: \uE031\uE032 Mario Rennstreck 3
+$710091 :: Big Blue
+$710092 :: \uE024\uE025 Shy Guy-Plage
+$710093 :: Bingo-Party
+
+#Coin Cup
+$700023 :: Mënz-Cup
+$710094 :: Doge-Wüst
+$710095 :: \uE022\uE023 Spukpfad
+$710050 :: \uE022\uE023 D. DK s. Dschungelpark
+$710073 :: Miku-Gebuertsdagspek. 2
+
+#Rainbow Cup
+$700017 :: Reebou-Coupe
+$710070 :: \uE022\uE023 Reebou Strooss
+$710071 :: \uE022\uE023 Reebou Strooss
+$710114 :: RMX Reebou Strooss 1
+$710097 :: Reebou Strooss DX
+
+#Pickaxe Cup
+$700024 :: Spitzhacken-Coupe
+$710098 :: Stären-Biergspëtzt
+$710099 :: Sonnenënnergang Rennstreck
+$710100 :: \uE024\uE025 Zerstéiert Wee
+$710101 :: Gletscher-Minn
+
+#Mega Cup
+$700025 :: Mega-Coupe
+$710102 :: Blummebett-Festung
+$710103 :: Palais vum Mier
+$710104 :: DKR Stärenstad
+$710105 :: Champignonbierg
+
+#Propeller Cup
+$700026 :: Propeller-Coupe
+$710106 :: \uE022\uE023 Sorbet-Land
+$710107 :: Block-Insel
+$710108 :: \uE033 D. Bowser s. Festung
+$710109 :: DKR Dschungelfälle
+
+#POW Cup
+$700027 :: POW-Coupe
+$710110 :: Retro-Rennstreck
+$710111 :: Frostgrott
+$710112 :: \uE024\uE025 Séi-Park
+$710113 :: Draach Kierfecht
+
+#Rock Cup
+$700028 :: Steen-Coupe
+$710060 :: Warp-Rouer-Insel
+$710115 :: Neo-Metropol
+$710116 :: Frost Héichten
+$710117 :: D. Gnasty Gnorc s. Leier
+
+#Moon Cup
+$700029 :: Mound-Coupe
+$710118 :: RMX Vanillsmer 1
+$710119 :: Klippenpist
+$710120 :: Interstellar-Labo
+$710121 :: Donkel-Matière-Festung
+
+#Hammer Cup
+$700030 :: Hummer-Coupe
+$710122 :: \uE031\uE032 Donut-Ebene 2
+$710123 :: Schwiewend-Rennstreck
+$710124 :: \uE022\uE023 D. Bowser s. Festung
+$710125 :: \uE067 DK Snowboard Crossstreck
+
+#Wonder Cup
+$700031 :: Wunder-Coupe
+$710126 :: Gemoolt-Rennpist
+$710127 :: Roulette-Route
+$710128 :: Orbitaler Auspost
+$710129 :: \uE033 Reebou Strooss
+
+#Shine Cup
+$700032 :: Sonn-Coupe
+$710130 :: Korall-Kap
+$710131 :: \uE067 D. Wario s. Goldminn
+$710132 :: \uE033 Peach-Gaart
+$710133 :: Kalewand-Zitadell
+
+#Dark Star Cup
+$700033 :: Däischtere Stär-Coupe
+$710134 :: Däischtere Hellegtum
+$710135 :: Hällpyramid
+$710136 :: \uE026\uE027 Champignon-Stad
+$710137 :: Däischtere Stär Festung
+
+#Save Data
+$7005 :: Extra Daten fir CTGP-7 ginn elo\nop der SD Kaart erstallt.
+$7003 :: Extra Daten ginn erstallt ...
+$7004 :: Extra Daten goufen erstallt.
+$7007 :: Keng Späicherdaten goufe\nfir Mario Kart 7 fonnt.\nStart w.e.g. d'Spill fir dës Donnéeën\nze kreéieren.\n\nDréckt den POWER Knäppchen.
+
+#First opening welcome message
+welc_t :: Wëllkomm op CTGP-7!
+welc_1 :: Hallo! Vum In-Game Menü\nkënnt Dir verschidde interessant\nFunktiounen benotzen. Fir de Menü opzemaachen,\ndréckt op de SELECT Knäppchen.
+welc_2 :: Fir d'Features ze benotzen,\nbenotzt de Pointer fir eng Entrée\nze wielen an dréckt A\nfir se z'aktivéieren oder ze konfiguréieren.
+welc_3 :: Bedenkt datt e puer\nFunktiounen wéi "CC Selector"\nbehënnert ginn wann\nDir online spillt.
+welc_4 :: Är Statistike ginn op den\nCTGP-7 Server eropgeluede\nfir jiddereen ze gesinn.\n(Dës Donnéeën bleiwen anonym.)\nDir kënnt Donnéeën eropluede\nam Spill Menü schalt ugefaangen.
+welc_5 :: Andeems Dir den CTGP-7 Network\nbenotzt, akzeptéiert Dir d'Konditioune.\nDir kënnt doriwwer liesen hei:\nctgp-7.github.io/ctww.html
+welc_6 :: Kuckt de CTGP 7 Discord Server.\nInvitatioun Link: invite.gg/ctgp7
+welc_7 :: Mir hoffen Iech de Mod gefällt!\n^ω^
+
+#Achievements
+achiev_all_gold :: Dir hutt e Gold Coupe\nan all Benotzerdefinéiert\nCoupe kritt.\n\nFélicitatiounen!
+achiev_all_1star :: Dir hutt 1 Stär an\nall Benotzerdefinéiert Coupe gewonnen.\n\nFélicitatiounen!
+achiev_all_3star :: Dir hutt 3 Stären an\nall Benotzerdefinéiert Coupe gewonnen.\n\nFélicitatiounen!
+achiev_all_mission :: Dir hutt 10 Punkten\nan all Missiounen verdéngt.\n\nFélicitatiounen!
+achiev_5000_vr :: Dir hutt 5000 VR\nam CTWW verdéngt.\n\nFélicitatiounen!
+achiev_all_score_completed :: Dir hutt all Coursen\nam Score Attack fäerdeg gemaach.\n\nFélicitatiounen!
+achiev_blue_coin :: Dir hutt all déi\nblo Mënzen gesammelt.\n\nFélicitatiounen!
+achiev_dodged_blue :: Dir hutt 3\nBlo Schuel ausgewäicht.\n\nFélicitatiounen!
+unlocked_item :: Dir hutt opgehuewen:\n\n
+types_achievs :: Normal Leeschtungen :: Special Leeschtungen
+types_achievs_optional :: Optional Leeschtungen
+gold_tro_achiev :: Gold an all Benotzerdefinéiert Coursen Coupë
+1star_achiev :: 1 Stär an all Benotzerdefinéiert Coursen Coupë
+3star_achiev :: 3 Stären an all Benotzerdefinéiert Coursen Coupë
+10pts_msn_achiev :: 10 Punkten an all Missiounen
+5000vr_achiev :: 5000 VR zu CTWW
+score_all_achiev :: All Coursen am Score Attack ofgeschloss
+blue_coin_achiev :: All Blue Mënzen gesammelt
+dodged_blue_achiev :: 3 Blo Schuel ausgewäicht.
+dodged_blue_amount :: Blo Schuel ausgewäicht
+custom_track_cups :: Benotzerdefinéiert Coursen Coupë
+tro_gold :: Gold
+tro_1star :: 1 Stär
+tro_3star :: 3 Stären
+tro_10pts :: 10 Punkten
+tro_blue_collected :: Gesammelt
+
+#General text
+warning :: WARNUNG
+error :: FEILER
+state :: Status
+next :: Nächst
+select :: Wielt
+chng :: Änneren
+custom :: Benotzerdefinéiert
+page :: Säit
+race_noun :: Race
+state_mode :: Aktivéiert :: Behënnert
+state_inf :: Aktivéiert :: Auszeschalten
+allow_inf :: Erlaben :: Verbueden
+valid_inf :: Valabel :: Ongëlteg
+num_betw :: D'Zuel muss tëscht %d an %d sinn.
+settings :: Astellungen
+exit :: Zréck
+default :: Standard
+button :: Knupp
+summary :: Resumé
+
+#Folders
+gameplay_folder :: Spillfunktiounen :: Konfiguratioun fir zousätzlech Spillfunktiounen
+settings_folder :: Spill Astellunge :: CTGP-7 spezifesch Astellungen
+other_folder :: Aner Optiounen :: Aner Optiounen a Fonctiounen.
+
+#Entries
+spdmeter :: Speedometer :: Weist e Speedometer am ënneschten rietsen Eck vum Top Écran.
+ccsel :: CC Selector :: Setzt den aktuellen CC op e bestëmmte Wäert (muss ageschalt ginn ier d'Course lued).
+itemled :: Warnung iwwer Objeten mat LED :: D'Notifikatioun LED blénkt blo wann Dir e Blo Schuel benotzt a giel wann Dir e Blëtz benotzt.
+backcam :: Réckspigel :: Dréck \uE002 fir ze kucken wat hannert Iech ass, wéi an anere Mario Kart Spiller! (Denkt drun datt de \uE002 Knäppchen net méi Elementer aktivéiert.)
+charman :: Benotzerdefinéiert Driver Astellungen :: Wiesselt tëscht Original an nei Chauffeuren.
+cuskart :: Benotzerdefinéiert Karts :: Lued personaliséiert Karts an hir Deeler aus dem MyStuff Dossier.
+trackorder :: Online Course Uerdnung :: Wielt wéi personaliséiert Coursen am Online Modus bestallt solle ginn.
+itmprb :: Verbessert Objeten Mammut :: Weist déi richteg Wahrscheinlechkeeten fir Objeten, amplaz zoufälleg Objeten.
+imtrick :: Verbesserte Stunts: Karts wäerte spin nodeems se op enger Ramp sprangen. Änneren hir Richtung mat der \uE077 Circle Pad.
+autoaccel :: Auto Beschleunegung :: Drécken \uE000 oder \uE003 aktivéiert automatesch Beschleunegung, déi aktiv bleift bis \uE001 gedréckt gëtt.
+imbrakedrift :: Verbessert Bremsen Drift :: Beim dreiwend, hält \uE001 fir ze bremsen ouni Äre Mini-Turbo ze verléieren.
+autodelaydrift :: Automatesch Delay-Drift: Verhënnert datt de Kart Geschwindegkeet verléiert wann Dir en Drift ufänkt.
+improvedhorn :: Verbessert Horn :: Erlaabt d'Benotzung vum Horn mam Objetknäppchen an d'Horpen vun anere Spiller am Multispiller ze héieren.
+achieventry :: Leeschtungen :: View Fortschrëtter op CTGP-7 Leeschtungen.
+badgesentry :: Abzeechnungen :: Gekréinte CTGP-7-Abzeechnungen uweisen (Internetverbindung erfuerderlech).
+optionsentry :: Optiounen :: Konfiguratioun fir CTGP-7
+
+#Speedometer text
+spd_set :: Speedometer Astellunge
+spd_unit :: Eenheet
+spd_type :: Typ
+spd_sunit :: Wielt eng Speedometer Eenheet.
+spd_stype :: Wielt e Speedometer Typ.
+spd_types1 :: Digital :: Analog
+spd_types2 :: Double-Dash
+
+#CC Selector text
+cc_set :: CC Selector Astellungen.
+cc_val :: Wäert
+cc_entv :: Gitt neie CC Wäert.
+cc_chgv :: Wäert änneren
+
+#Course Manager
+track_ct :: Benotzerdefinéiert Coursen
+track_ori :: Originale Coursen
+ct_endis :: Benotzerdefinéiert Coursen aktivéiert :: Benotzerdefinéiert Coursen behënnert
+ori_endis :: Originale Coursen aktivéiert :: Originale Coursen behënnert
+
+#Community Code Generator
+def_spd :: Normal Vitesse
+rand_tr :: Force zoufälleg Coursen
+code :: Code
+cusitem :: Benotzerdefinéiert Objeten
+
+#Change Round Number
+chgrnd :: Änneren Zuel vun Ronnen :: Ännert d'Zuel vun Ronnen am VS a Konkurrenz Modi.
+chgrnd_desc :: Wielt d'Zuel vun de\nRonnen déi gespillt ginn\nNOTÉIERT: Dës Optioun funktionnéiert\nnet am Download Spill.\nAm lokalen Multispiller muss\njiddereen déiselwecht Astellunge hunn.
+rounds :: Ronnen
+rnd_sel :: Wielt d'Zuel vun de Ronnen.
+
+#Enhanced Local Map
+enhmap :: Erweidert Lokal Kaart :: Füügt Zoom Funktionalitéit op den ënneschten Ecran lokal Kaart andeems Dir den Touchscreen benotzt.
+
+#Custom character manager text
+char_select :: Wielt e Charakter deen Dir wëllt änneren.
+reboot_req :: Neistart néideg fir Ännerungen z'applizéieren.
+face_raider_sel :: Wielt e Gesiicht
+authors :: Auteuren
+change_face :: Gesiicht änneren
+
+#Online track order
+order_mode :: Normal :: Alphabetesch
+
+#Auto Acceleration
+autoaccel_button :: Wielt de Knäppchen deen automatesch Beschleunegung aktivéiert.
+
+#Online update check
+update_check :: Iwwerpréift no Updates ... :: Déi lescht Versioun vum CTGP-7\nass néideg fir online ze spillen.
+fail_conn :: Feeler beim Verbindung\nmam CTGP-7 Server.\n\nProbéiert méi spéit nach eng Kéier.
+
+#CTWW
+cntdwn :: Countdown
+ctww :: CTWW
+vr :: VR
+CTWWtog :: Wëllt Dir Benotzerdefinéiert Coursen fir de Worldwide Modus aktivéieren? :: Wëllt Dir Benotzerdefinéiert Coursen fir de Weltmodus deaktivéieren?
+
+#VS Mode
+VSSet :: Versus Astellungen
+CourOrd :: Course Uerdnung
+RacAm :: Zuel vun Rennen
+CpuAm :: COM Chauffeur
+RanCT :: Zoufälleg (Benotzerdef.)
+RanOri :: Zoufall (Original)
+RanAll :: Zoufälleg (All)
+OrderH :: Horizontal Sequenz
+OrderV :: Vertikal Sequenz
+NextRac :: Wielt déi nächst Streck.\nRescht Coursen:
+extra_diff :: Ganz schwéier :: EXTREM
+cusitem_notice :: Opgepasst: Den Default-Objeten (%s) kann a verschiddene Fäll nach ëmmer optrieden.
+item_mega :: Mega-Champignon
+item_fib :: Fake Item Box
+
+#Reset Ghosts
+resghost :: Phantom zrécksetzen :: Erlaabt Iech de Phantom vun enger Streck vun Ärer Wiel zréckzesetzen.
+ghostseltrack :: Wielt de Course deem säi Phantom\nzréckgesat soll ginn:
+ghostcantrecov :: Dëse Prozess kann\nnet réckgängeg gemaach ginn.\nSowieso weiderfueren? :: De Phantom gouf zréckgesat.
+
+#Server Settings
+servsett :: Server Astellungen :: Astellungen am Zesummenhang mat der CTGP-7 Server
+serv_consID :: CTGP-7 ConsoleID
+serv_statsupl :: Eroplueden Statistiken
+serv_displname :: Affichage Numm :: Wielt engem Affichage Numm Modus.
+serv_disphid :: Verstoppt
+serv_dispmii :: Mii-Spëtznumm
+serv_dispcust :: Gitt weg en Numm. :: Benotzerdefinéiert Nimm kënnen nëmme bis zu 15 Zeechen laang sinn.
+serv_qrshow :: Dréck \uE002 fir et ze weisen.
+
+#Statistics
+statsentry :: Lokal Statistik :: Hei kënnt Dir Är privat Benotzungsstatistiken kucken.
+stats_tpl :: Spill ugefaang
+stats_tot :: Gesamtzuel vun Offline Rennen :: Gesamtzuel vun Online Rennen
+stats_sc :: Total Score Attack Races :: Total Weekly Challenge Attempts
+stats_vnll :: Originale
+stats_most :: Meeschte gespillt Bunnen :: Meeschte gespillt kompetitiv Arenaen
+stats_rpoints :: Offline-VR
+
+#Discord
+disc_info :: Discord-Informatiounen
+disc_notlink :: Dëse System ass net mat\nengem Discord Kont verbonnen.\n\nWëllt Dir Äre Kont elo verbannen?
+disc_linksteps1 :: Follegt dës Schrëtt fir Ären Discord Kont ze verbannen:
+disc_linksteps2 :: 1. Maacht mat beim CTGP-7 Discord Server.\n(Link: invite.gg/ctgp7)
+disc_linksteps3 :: 2. Öffnen de \#bots Kanal.
+disc_linksteps4 :: 3. Schéckt de folgende Message:
+disc_data :: Kont :: Spëtznumm
+disc_beta :: Usproch fir privat Beta Testen. :: Net berechtegt fir privat Beta Testen.
+disc_unlink :: Entlinken :: Wëllt Dir Äre Discord Kont entlinken?
+
+#Render Optimizations
+render_optim :: Render Optimisatiounen: Desaktivéiert den Top Écran 3D Modus an erlaabt CPU Verbesserunge fir New Nintendo 3DS Systemer.
+
+#Missions
+ms_miss :: Missiounen
+ms_desc :: Gesiicht speziell Erausfuerderungen!
+ms_selmiss :: Wielt Missioun
+ms_rcrd :: Rekord
+ms_gradelim :: Max.-Note :: Min.-Note
+ms_timescor :: Zäit :: Punkten
+ms_failed :: Missioun gescheitert!
+ms_nodata :: Keng Daten
+ms_delsave :: (Läschen: \uE002) :: Sidd Dir sécher datt Dir d'Späicherdaten\nfir dës Missioun läschen wëllt?
+msstat_msnplay :: Missiounen gespillt
+msstat_state :: Ofgeschloss :: Ausgefall
+msstat_perfgrad :: (mat perfektem Grad)
+msstat_usermsn :: Benotzer-Missiounen
+
+#Course Checksum
+course_check :: Course-Checksum
+
+#Custom Server
+server_name :: Nintendo Network :: CTGP-7 Network
+server_choice :: Wielt w.e.g. en Online Server:\n\n%s:\n    - Nëmme fir CTGP-7 Spiller\n     - CTWW & Originalcoursen\n-    Staark Anti-Cheat\n\n%s:\n    - Fir all MK7 Spiller\n    - Originalcoursen & Communautéiten\n    - Schwaach Anti-Cheat
+server_ctgp7_conn :: Eng Verbindung zum\nCTGP-7 Network opbauen ...
+server_ctgp7_dconn :: Wëllt Dir d'Verbindung mam\nCTGP-7 Network ënnerbriechen?
+server_ctgp7_nocomm :: Communautéiten sinn net op der CTGP-7 Networksinn.
+
+#Blue Coins
+blue_coins :: Blo Mënzen
+blue_coins_desc :: Eng blo Mënz wäert an all Course schéngen. Sammelt se all fir eppes opzemaachen!
+blue_coin_obtain :: $Blo Mënz$\ngesammelt! :: %d Coursen\nbleiwen.
+blue_coin_all :: All Mënzen goufen gesammelt.
+blue_coin_nocc :: Blue Coins kënnen\nnet mat der CC Selector\nageschalt kritt ginn.
+
+#Lobby
+lobby_type :: Ëffentlech Lobby :: Privat Lobby
+choose_lobby :: Wielt online Lobby:\n\n- Ëffentlech: Spillt mat anere CTGP-7 Spiller.\n- Privat: Spillt mat anere Spiller privat.\n\nOPGEPASST: Vanilla VR gëtt a private Lobbyen benotzt.
+enter_lobby_code :: Gitt de private Lobbycode an.\n Deelt dëse Code mat aneren fir zesummen ze spillen! :: Lobby Code ass ze kuerz.
+
+#Proximity Chat
+proximity_chat :: Proximitéit Chat :: (dréckt \uE002 fir ze wiesselen)
+proximity_chat_desc :: W.e.g. verbënnt den Proximitéit Chat Client..\nLéiere méi: pastebin.com/ZPQs0FWR\n\nServer Adress: %s\nDréckt \uE001 fir ze annuléieren. :: E Feeler ass geschitt.\nDréckt \uE001 fir ofzegoen.
+
+#Badges
+badges_obtained :: Erhalen Auszeechnungen:
+badges_use_online :: Online benotzen :: Net online benotzen
+badge_name_desc :: Auszeechnung Numm :: Auszeechnung Beschreiwung
+badge_date :: Datum erreecht
+badge_msg :: Du hues nei\n CTGP-7 Auszeechnungen kritt.\n\nFélicitatiounen!
+badge_date_fmt :: %d.%m.%Y
+
+#Score Attack Actions
+pts_action_0 :: Champignon!
+pts_action_1 :: Beschleunigungsplack
+pts_action_2 :: Mini-Turbo
+pts_action_3 :: Super Mini-Turbo
+pts_action_4 :: Kleng Rakéit-Start
+pts_action_5 :: Rakéit-Start
+pts_action_6 :: Perfekt Rakéit-Start
+pts_action_7 :: Trick
+pts_action_8 :: Fortgeschrattenen Trick
+pts_action_9 :: Aspiratioun
+pts_action_10 :: Gëllen Champignon!
+pts_action_11 :: Mënz
+pts_action_12 :: Stärrank
+pts_action_13 :: Päif
+pts_action_14 :: Gumba
+pts_action_15 :: Flappflapp
+pts_action_16 :: Verkéierskegel
+pts_action_17 :: Fiels
+pts_action_18 :: Cheep Cheep
+pts_action_19 :: Perlenmuschel
+pts_action_20 :: Krabb
+pts_action_21 :: Geess
+pts_action_22 :: Pot
+pts_action_23 :: Fléien Shy Guy
+pts_action_24 :: Fass
+pts_action_25 :: Tiki Goon
+pts_action_26 :: Froschler
+pts_action_27 :: Auto
+pts_action_28 :: Këscht
+pts_action_29 :: Pinguin
+pts_action_30 :: Äiszack
+pts_action_31 :: Steenblock
+pts_action_32 :: Falsche Busch
+pts_action_33 :: Falsche Gumba
+pts_action_34 :: Piranha Planz
+pts_action_35 :: Kettenhond
+pts_action_36 :: Skelettfësch
+pts_action_37 :: Anker
+pts_action_38 :: Sprongnot
+pts_action_39 :: Blatstapel
+pts_action_40 :: Wiggler
+pts_action_41 :: Kugelwilli
+pts_action_42 :: Rocky Schlëssel
+pts_action_43 :: Schnéimännchen
+pts_action_44 :: Schnéiball
+pts_action_45 :: Metallkugel
+pts_action_46 :: Tabelle
+pts_action_47 :: Kaktus
+pts_action_48 :: Zuch
+pts_action_49 :: Summser
+pts_action_50 :: Fluchzäit
+pts_action_51 :: Gréng Schuel!
+pts_action_52 :: Roude Schuel!
+pts_action_53 :: Banane!
+pts_action_54 :: Blo Schuel!
+pts_action_55 :: Blëtz!
+pts_action_56 :: Fake Box!
+pts_action_57 :: Bob-omb!
+pts_action_58 :: Feierblumm!
+pts_action_59 :: Super Blat!
+pts_action_60 :: Blooper!
+pts_action_61 :: Stär!
+pts_action_62 :: Mega-Champignon!
+pts_action_63 :: Kugelwilli!
+pts_action_64 :: Kugelwilli Iwwerhuelen
+pts_action_65 :: Rache!
+pts_action_66 :: Smash!
+pts_action_67 :: Objet zerstéiert
+pts_action_68 :: Objet ofgelenkt
+pts_action_69 :: Blo Schuel ausgewäicht!
+pts_action_70 :: Nächst Ronn!
+pts_action_71 :: Nächst Sektioun!
+pts_action_72 :: Wahnsinn-Fäerdeg!
+pts_action_73 :: Course-Fäerdeg!
+
+#Score Attack
+score_attack :: Score Attack :: Ketteaktiounen fir déi meeschte Punkten ze kréien.
+sc_at_spc_cup :: Zoufällege Course :: Wëchentlech Erausfuerderung
+sc_at_race_start :: Start
+sc_at_clear :: Course ofgeschloss :: Course net ofgeschloss
+sc_at_save :: (Läschen Späicheren: \uE002) :: (Keen)
+sc_at_score :: Beschte Score :: Noutwendeg Score
+sc_at_delete :: Dëse Course Date läschen?
+sc_at_record :: Neie Rekord
+sc_at_clear_small :: Fäerdeg! :: Net Fäerdeg
+sc_at_cleared_tr :: Fäerdeg Coursen
+sc_at_nice :: LÉIF!
+sc_at_great :: GUTT!
+sc_at_excel :: EXZELLENT!
+sc_at_fanta :: FANTASTESCH!
+sc_at_combo :: Combo x
+
+#Score Attack Weekly
+sc_wc_ended :: De aktuelle Wëchentlech Erausfuerderung ass eriwwer :: Keng Donnéeën disponibel
+sc_wc_curr :: Aktuell Erausfuerderung:
+sc_wc_time :: Reschtzäit:
+sc_wc_bonus :: Bonus combo :: Äre Bonus:
+sc_wc_board :: Klassement: Top 10 :: Klassement: Mäi Score
+sc_wc_getting :: Kritt wöchentlech Erausfuerderungsinformatioun... :: Et ass net gelongen, d'Informatioun iwwer d'wöchentlech Erausfuerderung ze kréien.\nError: 0x%08X
+sc_wc_results :: Resultater vun der wöchentlech Erausfuerderung
+sc_wc_score :: Virdrun Score: :: Nei Score:
+sc_wc_upload :: Wëllt Dir Äre Score publizéieren? :: Publizéieren
+sc_wc_uploading :: Resultater ginn eropgelueden... :: Et ass e Feeler opgetrueden.
+sc_wc_retry :: Nach eng Kéier probéieren?
+
+#Local Multiplayer Error
+mult_error :: All Participanten mussen\ndéi lescht CTGP-7\nVersioun installéiert hunn. :: Du muss CTGP-7 aktualiséieren\nfir an dësem\nRaum ze spillen.
+
+#Characters
+$1000 :: Mario
+$1001 :: Luigi
+$1002 :: Peach
+$1003 :: Yoshi
+$1004 :: Bowser
+$1005 :: Donkey Kong
+$1006 :: Toad
+$1007 :: Koopa
+$1008 :: Wario
+$1009 :: Daisy
+$1010 :: Lakitu
+$1011 :: Rosalina
+$1012 :: Wiggler
+$1013 :: Kinnigin Hunneg Bee
+$1014 :: Metal Mario
+$1015 :: Mii
+$1016 :: Shy Guy
+
+#Items
+$1018 :: Champignon
+$1019 :: Feierblumm
+$1020 :: Super Stär
+$1021 :: Gëllen Champignon
+$1022 :: Gréng Schuel
+$1023 :: Banane
+$1024 :: Super Blat
+$1025 :: Blëtz
+$1026 :: Roude Schuel
+$1027 :: Bob-omb
+$1028 :: Blo Schuel
+$1029 :: Blooper
+$1030 :: Kugelwilli
+$1031 :: Gléck Siwen
+$1032 :: Duebel Champignon
+$1033 :: Triple Champignon
+$1034 :: Triple Gréng Muschelen
+$1035 :: Triple Bananen
+$1036 :: Triple Roude Muschelen
+
+#Icons
+$1043 :: Fändel
+$1044 :: Loftballone
+$1045 :: Mënz
+$1046 :: Steierrad
+$1047 :: Gëllen Steierrad
+
+#Characters (short)
+$1050 :: Mario
+$1051 :: Luigi
+$1052 :: Peach
+$1053 :: Yoshi
+$1054 :: Bowser
+$1055 :: DK
+$1056 :: Toad
+$1057 :: Koopa
+$1058 :: Wario
+$1059 :: Daisy
+$1060 :: Lakitu
+$1061 :: Rosalina
+$1062 :: Wiggler
+$1063 :: K. H. Bee
+$1064 :: M. Mario
+$1065 :: Mii
+$1066 :: Shy Guy
+
+#Karts
+$1100 :: Standard
+$1101 :: Bolt Buggy
+$1102 :: Ee 1
+$1103 :: Tiny Tug
+$1104 :: Wollek 9
+$1105 :: Gherkin
+$1106 :: B Dasher
+$1107 :: Growlster
+$1108 :: Bumble V
+$1109 :: Koopa Clown
+$1110 :: Pipe Frame
+$1111 :: Blo Siwen
+$1112 :: Kinneklech Band
+$1113 :: Kact-X
+$1114 :: Barrel Zuch
+$1115 :: Soda Jet
+$1116 :: Gold Kart
+
+#Tyres
+$1200 :: Normal
+$1201 :: Roller
+$1202 :: Monster
+$1203 :: Glat
+$1204 :: Slim
+$1205 :: Schwamp
+$1206 :: Roude Monster
+$1207 :: Champignon
+$1208 :: Holz
+$1209 :: Gëllen Rad
+
+#Gliders
+$1300 :: Super-Segelfliger
+$1301 :: Parafoil
+$1302 :: Peach-Strandschirm
+$1303 :: Blummen-Segelfliger
+$1304 :: Swoop
+$1305 :: Phantom-Segelfliger
+$1306 :: Gëllen-Segelfliger
+
+#Original cups
+$1500 :: Champignon-Coupe
+$1501 :: Blumm-Coupe
+$1502 :: Stär-Coupe
+$1503 :: Speziall-Coupe
+$1504 :: Schuel-Coupe
+$1505 :: Banane-Coupe
+$1506 :: Blat-Coupe
+$1507 :: Blëtz-Coupe
+
+#Nitro tracks
+$1600 :: Mario Rennstreck
+$1601 :: Daisy Hiwwelen
+$1602 :: Cheep Cheep Kap
+$1603 :: Alpine-Col
+$1604 :: Toad Rennstreck
+$1605 :: Shy Guy Basar
+$1606 :: Wuhu-Insel Tour
+$1607 :: Dem Wario seng Schëff
+$1608 :: Piranha-Planz-Päifbunn
+$1609 :: Melodie-Autobunn
+$1610 :: Neo Bowser-Stad
+$1611 :: Wuhu-Bierg Tour
+$1612 :: Dem DK seng Dschungel
+$1613 :: Dem Rosalina seng Eis Welt
+$1614 :: Dem Bowser seng Festung
+$1615 :: Reebou Strooss
+
+#Retro tracks
+$1700 :: \uE031\uE032 Mario Rennstreck 2
+$1701 :: \uE024\uE025 D. Bowser s. Festung 1
+$1702 :: \uE022\uE023 Luigi Rennpist
+$1703 :: \uE022\uE023 Kalimari-Wüst
+$1704 :: \uE033 Dem Luigi seng Häerenhaus
+$1705 :: \uE033 Waluigi-Flipper
+$1706 :: \uE033 DK-Col
+$1707 :: \uE033 Loftschëff-Festung
+$1708 :: \uE067 Kokosnoss Shoppingzenter
+$1709 :: \uE067 Koopa-Kap
+$1710 :: \uE067 Ahorn-Bësch
+$1711 :: \uE067 Champignon Schlucht
+$1712 :: \uE026\uE027 Dino Dino Dschungel
+$1713 :: \uE026\uE027 Dem Daisy seng Yacht
+$1714 :: \uE022\uE023 Koopa-Plage
+$1715 :: \uE031\uE032 Reebou Strooss
+
+#Balloon battle tracks
+$1800 :: Beiestack-Haus
+$1801 :: Sorbet-Äispist
+$1802 :: Wuhu Stad
+$1803 :: \uE024\uE025 Schluechtfeld 1
+$1804 :: \uE022\uE023 Décke Donut
+$1805 :: \uE033 Palm-Plage
+
+#Class select (Race)
+$1810 :: 50cc
+$1811 :: 100cc
+$1812 :: 150cc
+$1813 :: Spiegel
+
+#StreetPass cup name
+$1829 :: \u000E\u0001\u0002\u0000 \u000E\u0001\u0000\u0000 Coupe
+
+#Race #
+$1831 :: 1. Course
+$1832 :: 2. Course
+$1833 :: 3. Course
+$1834 :: 4. Course
+$1835 :: 5. Course
+$1836 :: 6. Course
+$1837 :: 7. Course
+$1838 :: 8. Course
+$1839 :: 9. Course
+$1840 :: 10. Course
+$1841 :: 11. Course
+$1842 :: 12. Course
+$1843 :: 13. Course
+$1844 :: 14. Course
+$1845 :: 15. Course
+$1846 :: 16. Course
+$1847 :: 17. Course
+$1848 :: 18. Course
+$1849 :: 19. Course
+$1850 :: 20. Course
+$1851 :: 21. Course
+$1852 :: 22. Course
+$1853 :: 23. Course
+$1854 :: 24. Course
+$1855 :: 25. Course
+$1856 :: 26. Course
+$1857 :: 27. Course
+$1858 :: 28. Course
+$1859 :: 29. Course
+$1860 :: 30. Course
+$1861 :: 31. Course
+$1862 :: Lescht Course
+
+#Round #
+$1871 :: 1. Ronn
+$1872 :: 2. Ronn
+$1873 :: 3. Ronn
+$1874 :: 4. Ronn
+$1875 :: 5. Ronn
+$1876 :: Lescht Ronn
+
+#Controls (demo cart-only)
+#$1980 :: Benotzt en Objet
+#$1981 :: Steieren
+#$1982 :: Vue wiesselen
+#$1983 :: Drift
+#$1984 :: Beschleunegen
+#$1985 :: Brems
+#$1986 :: Demo-Versioun
+#$1987 :: Dréck \uE000
+
+#Dialogues?
+$2000 :: MARIO KART 7
+$2001 :: OK
+
+#Dialogue buttons
+$2003 :: Jo
+$2004 :: Nee
+$2005 :: Annuléieren
+$2006 :: Nächst
+$9103 :: Jo
+$9104 :: Nee
+
+#Update dialogue
+$2080 :: Fir online ze spillen,\nmussen d'Mario Kart 7 Updatedaten\nals éischt erofgeluede ginn.
+$2081 :: Mario Kart 7 gouf aktualiséiert.\n\nD'Software wäert elo nei starten.
+
+#Main menu
+$2090 :: Eenzelspiller
+$2091 :: Multispiller Local
+$2092 :: Multispiller Online
+$2093 :: Mario Kart Kanal
+$2094 :: Weltwäit
+$2095 :: Frënn/Rivalen
+$2096 :: Communautéiten
+
+#Single Player & Online Multiplayer menus
+$2200 :: Grousse Präis
+$2201 :: Zäitfueren
+$2202 :: Loftballon-Kampf
+$2203 :: Mënz-Kampf
+$2204 :: VS-Course
+$2205 :: \r2204
+$2206 :: Kampf
+
+#Single Player mode descriptions
+$2210 :: Race fir déi éischt Plaz a Coupe vu véier Coursen.
+$2211 :: Race eleng fir Är bescht Zäit z'erreechen.
+$2212 :: Platzen de Loftballon vun Äre Géigner.
+$2213 :: Gitt esou vill Mënzen wéi Dir kënnt.
+$2214 :: Race benotzt Mooss Regelen.
+
+#Class select (menu)
+$2220 :: 50cc
+$2221 :: 100cc
+$2222 :: 150cc
+$2223 :: Spiegel
+
+#Class select descriptions
+$2230 :: Einfach
+$2231 :: Mëttel
+$2232 :: Schwéier
+$2233 :: Ëmgedréint Coursen
+
+#Kart build stats
+$2240 :: Geschwëndegkeet
+$2241 :: Accélératioun
+$2242 :: Gewiicht
+$2243 :: Behandelung
+$2244 :: Off-road
+
+#Class setting
+$2300 :: Klass
+$2301 :: \r2220
+$2302 :: \r2221
+$2303 :: \r2222
+$2304 :: \r2223
+
+#CPU setting
+$2310 :: CPU
+$2311 :: Einfach
+$2312 :: Normal
+$2313 :: Schwéier
+$2314 :: Off
+$2315 :: On
+
+#Courses setting
+$2320 :: Coursen
+$2321 :: Choiséieren
+$2322 :: Zoufälleg
+$2323 :: An der Rei
+
+#Teams setting
+$2340 :: Équipen
+$2341 :: \r2315
+$2342 :: \r2314
+
+#Stage setting
+$2350 :: Stage
+$2351 :: \r2321
+$2352 :: \r2322
+$2353 :: \r2323
+
+#Items setting
+$2370 :: Objeten
+$2371 :: All
+$2372 :: Muschelen
+$2373 :: Bananen
+$2374 :: Champignonen
+$2375 :: Bob-omben
+$2376 :: Keen
+$2471 :: Objeten: All
+$2472 :: Objeten: Muschelen
+$2473 :: Objeten: Bananen
+$2474 :: Objeten: Champignonen
+$2475 :: Objeten: Bob-omben
+$2476 :: Objeten: Keen
+
+#Mode setting
+$2380 :: Moud
+$2381 :: 50cc Course
+$2382 :: 100cc Course
+$2383 :: 150cc Course
+$2384 :: Spiegel Course
+$2385 :: Loftballon-Kampf
+$2386 :: Mënz-Kampf
+
+#Start buttons
+$2400 :: D'Course ufänken
+$2401 :: D'Ronn ufänken
+$2402 :: D'Zäitfueren ufänken
+
+#Ghost select
+$2403 :: Keen
+$2404 :: Phantomdata × 7
+$2408 :: Choiséieren Phantomdata
+
+#Quit dialogue
+$2406 :: D'Kampf verloossen?
+$9111 :: Sidd Dir sécher, datt Dir wëllt opginn?
+
+#Local Multiplayer menu
+$2407 :: Gruppen spillen: \u000E\u0001\u0004\u0004\u0000\u0000
+$5001 :: Wielt eng Grupp.\n\nDréckt Erstellt e Grupp w\nann Dir en neie Grupp\nwëllt maachen oder et\ngi keng Gruppen ugewisen.
+$5002 :: Erstellt e Grupp
+$5007 :: Spiller fannen ...
+$5008 :: W.e.g. wait bis all\nSpiller an de Grupp bäitrieden.
+$5009 :: Dir kënnt mat bis zu siwen\nanere Spiller spillen.\n\nDréckt Start wann all\nSpiller matgemaach hunn.
+$5010 :: Start
+$5011 :: W.e.g. wait...
+$5012 :: E Kommunikatiounsfehler\nass geschitt.
+$5013 :: De Grupp opléisen?
+$5014 :: Zoufälleg
+$5015 :: Waart op jiddereen fir\neng Auswiel ze maachen...
+$5016 :: De Course ass\nausgewielt ginn!
+$5017 :: Spiller déi keng\nMario Kart 7 Spillkaart hunn\nkënne matmaachen iwwer\nDownload Play am \uE073HOME Menu.
+$5018 :: Touch d'Ikon \uE030 fir\ngéigesäiteg op Är Frënnlëschten\nze addéieren.
+$5019 :: De Stage ass\nausgewielt ginn!
+
+#Mode select
+$2481 :: 50cc Grousse Präis
+$2482 :: 100cc Grousse Präis
+$2483 :: 150cc Grousse Präis
+$2484 :: Mirror Grousse Präis
+$2485 :: \r2385
+$2486 :: \r2386
+
+#Nitro cup unlock messages
+$2502 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Blumm-Coupe\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
+$2503 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Stär-Coupe\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
+$2504 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Speziall-Coupe\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
+
+#Retro cup unlock messages
+$2506 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Banane-Coupep\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
+$2507 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Blat-Coupe\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
+$2508 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Blëtz-Coupe\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
+
+#Mirror class unlock message
+$2509 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Spiegel-klass\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
+
+#Character / kart part unlock messages
+$2511 :: Dir hutt d'\n150cc Champignon-Coupe\nfäerdeg gemaach.\nEn neie \u000E\u0000\u0003\u0002\u0000Charakter\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2512 :: Dir hutt d'\n150cc Blumm-Coupe\nfäerdeg gemaach.\nEn neie \u000E\u0000\u0003\u0002\u0000Charakter\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2513 :: Dir hutt d'\n150cc Stär-Coupe\nfäerdeg gemaach.\nEn neie \u000E\u0000\u0003\u0002\u0000Charakter\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2514 :: Dir hutt d'\n150cc Speziall-Coupe\nfäerdeg gemaach.\nEn neie \u000E\u0000\u0003\u0002\u0000Charakter\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2515 :: Dir hutt d'\n150cc Schuel-Coupe\nfäerdeg gemaach.\nEn neie \u000E\u0000\u0003\u0002\u0000Charakter\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2516 :: Dir hutt d'\n150cc Banane-Coupe\nfäerdeg gemaach.\nEn neie \u000E\u0000\u0003\u0002\u0000Charakter\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2517 :: Dir hutt d'\n150cc Blat-Coupe\nfäerdeg gemaach.\nEn neie \u000E\u0000\u0003\u0002\u0000Charakter\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2518 :: Dir hutt d'\n150cc Blëtz-Coupe\nfäerdeg gemaach.\nEn neie \u000E\u0000\u0003\u0002\u0000Charakter\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2519 :: Dir kënnt elo als Äre\n\u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF spillen!
+$2520 :: Dir hutt \u000E\u0001\u0004\u0004\u0000\u0000 Mënzen gesammelt.\n\nEng nei \u000E\u0000\u0003\u0002\u0000Kart Personnalisatiounsoptioun\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2521 :: Dir hutt 10 000 VR.\n\nEng nei \u000E\u0000\u0003\u0002\u0000Kart Personnalisatiounsoptioun\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2522 :: Dir hutt eng Bewäertung\nvun op d'mannst ee Stär\nan all Grousse Präis verdéngt.\n\nEng nei \u000E\u0000\u0003\u0002\u0000Kart Personnalisatiounsoptioun\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2523 :: Dir hutt begéint 100 Spiller\nvia StreetPass.\n\nEng nei \u000E\u0000\u0003\u0002\u0000Kart Personnalisatiounsoptioun\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+$2524 :: Dir hutt e Mii geschloen\niwwer StreetPass.\n\nEng nei \u000E\u0000\u0003\u0002\u0000Kart Personnalisatiounsoptioun\u000E\u0000\u0003\u0002\uFFFF\ngouf opgespaart!
+
+#Friend Registration menu
+$5905 :: Frënd Aschreiwung
+$5901 :: Dir sidd elo Frënn\nmat \u000E\u0001\u0000\u0000!
+$5902 :: \r5901
+$5903 :: Dës Spiller d'Donnéeën läschen?
+
+#Communities
+$5904 :: Dës Communautéit ewechhuelen?
+$5906 :: Dës Communautéit\nvum Server läschen?
+$5907 :: Wann Dir eng Communautéit vum Server\ngeläscht hutt, kënnt Dir se net restauréieren.\n\nSidd Dir sécher datt Dir\ndës Communautéit läschen wëllt?
+$6299 :: Menu
+$6300 :: Favoritten
+$6301 :: Recommandatiounen
+$6302 :: Gitt Code
+$6303 :: Schafen Communautéit
+$6304 :: Maacht mat
+$6305 :: \u000E\u0001\u0005\u0000\u0000\n\nMaacht mat bei dëser Communautéit elo?
+$6306 :: Sichen no Gruppen...
+$6307 :: Dëse Grupp verloossen?
+$6308 :: Spillt weider?
+$6309 :: Gitt e Communautéitcode an.
+$6310 :: Invalid Communautéitcode.
+$6311 :: Firwat net probéieren a Communautéit\nze spillen ier Dir\nÄert eegent erstellt?
+$6312 :: Dir kënnt keng Communautéit\nméi erstellen.
+$6313 :: Dir kënnt nach keng\nCommunautéit erstellen.\n\nProbéiert w.e.g. spéider nach eng Kéier.
+$6314 :: Gitt en Numm fir dës\nCommunautéit un.\n\nDir kënnt bis zu aacht\nCommunautéit erstellen.
+$6315 :: Wielt d'Spillastellunge fir\ndës Communautéit.\n\nProbéiert Astellungen ze wielen déi\nd'Communautéitsmemberen genéissen.
+$6316 :: OK
+$6317 :: Gitt d'Communautéitsbeschreiwung\nan.\n\nDeng Beschreiwung soll\nanere Spiller kloer maachen,\nwéi eng Communautéit dëst ass.
+$6318 :: D'Communautéit gëtt mat den\nAstellungen uewe geschaf.\nDës Astellunge kënnen net\nméi spéit geännert ginn.\nAss dëst OK?
+$6319 :: Är Communautéit\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0005\u0000\u0000\u000E\u0000\u0003\u0002\uFFFF\n\ngouf geschaf!
+$6320 :: Äre Communautéitcode ass:\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0001\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nDeelt et mat Äre Frënn,\nfir datt se an Ärer\nCommunautéit bäitrieden!
+$6321 :: Communautéit net fonnt.
+$6322 :: Dës Communautéit gouf\nvum Server geläscht.
+$6323 :: Mario Kart Kanel Daten\nmussen erstallt ginn ier\nDir als Deel vun enger\nCommunautéit spille kënnt.
+$6324 :: Communautéiten\n\nSpill géint aner Spiller,\ndéi Deel vun der selwechter\nCommunautéit sinn.
+$6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006ptn\u0000\u0000
+$6326 :: Spilleren\n\u000E\u0001\u0004\u0004\u0000\u0000
+$6327 :: Wielt eng Ikon fir\nÄr Communautéit.
+$6328 :: Objeten
+$6329 :: Charakteren
+$6330 :: Frames
+$6331 :: Pneuen
+$6332 :: Segelfliger
+$6333 :: Aner
+$6334 :: SD Card Feeler.\n\nKuckt w.e.g. d'Donnéeën\nam Mario Kart Kanal.
+$6335 :: Objeten sinn néideg fir Kämpf ze spillen.
+$6400 :: StreetPass Lëscht
+$6401 :: Gemeinschaftsempfehlungen\ngoufen aktualiséiert.\n\nKuckt se elo aus?
+$6416 :: Communautéitsempfehlungen goufen aktualiséiert.
+
+#Download Play
+$5900 :: Download Play
+
+#Online Multiplayer messages
+$5908 :: E Kommunikatiounsfehler\nass geschitt.
+$5909 :: W.e.g. waart...
+$5910 :: Preparéiere fir de Match\namgaang ze kucken...
+$5911 :: E Kommunikatiounsfehler\nass geschitt.
+
+#Friends/Opponents menu
+$5991 :: Frënn
+$5992 :: Rezent Géigespiller
+$5993 :: StreetPass Hits
+$6100 :: Erëmkréien
+
+#More Online Multiplayer messages
+$6001 :: Verbindung mat\nNintendo Network...
+$6002 :: Trennen vum \nNintendo Network?
+$6003 :: Sich no Spiller...
+$6004 :: Spiller fonnt!
+$6005 :: Dir sidd vun den anere Spiller getrennt.
+$6006 :: W.e.g. wait e Moment.
+$6007 :: Preparéieren op d'Course...
+$6008 :: Preparéieren op d'Kampf...
+$6009 :: Spiller fir nächste Course
+$6010 :: Keng Spiller fonnt.
+$6011 :: Verbindung mat\n\u000E\u0001\u0000\u0000...
+$6012 :: Dir konnt net bei\n\u000E\u0001\u0000\u0000's Grupp bäitrieden.\n\nW.e.g. waut a probéiert\nméi spéit nach eng Kéier.
+$6014 :: Nächst Ronn: Loftballon-Kampf
+$6015 :: Nächst Ronn: Mënz-Kampf
+
+#Friends Status?
+$6105 :: An enger online Course.
+$6106 :: An enger online Kampf.
+$6107 :: Spillen Communautéit Spill.
+$6150 :: An enger online Course.\nVR: \u000E\u0001\u0004\u0004\u0000\u0000
+$6151 :: An enger online Kampf.\nVR: \u000E\u0001\u0004\u0004\u0000\u0000
+$6152 :: Playing with community\n\u000E\u0001\u0005\u0000\u0000
+
+#Sendable Community messages
+$6200 :: Schéckt e Message
+$6201 :: Loosst d'Spill ufänken!
+$6202 :: Solle mir ufänken?
+$6203 :: Hallo!
+$6204 :: Vill Gléck!
+$6205 :: Wëllkomm!
+$6206 :: Gitt einfach op mech!
+$6207 :: Ech ginn et mäi Bescht!
+$6208 :: Loosst eis op méi Spiller waarden.
+$6209 :: OK!
+$6210 :: Ech sinn e bëssen nervös...
+$6211 :: Ech sinn opgereegt!
+$6212 :: Ech wäert de Gyro benotzen!
+$6213 :: Hurra!
+$6214 :: Dat war Spaass!
+$6215 :: Gudd Spill!
+$6216 :: Nët fair!
+$6217 :: Nach eng keier!
+$6218 :: Ech kréien dech d'nächst Kéier!
+$6219 :: Dëst ass mäi leschte Spill.
+$6220 :: Ech ginn fort...
+$6221 :: Merci fir gespillt!
+$6222 :: Villmols Merci!
+$6223 :: Gutt Nuecht!
+$6224 :: Äddi!
+
+#SpotPass
+$6402 :: Geeschterdaten sinn\niwwer SpotPass ukomm!\n\nRace elo dogéint?
+$6417 :: Phantomrdaten sinn iwwer SpotPass ukomm.
+
+#Player profile
+$6405 :: VR
+$6406 :: Gewënn
+$6407 :: Verloschter
+$6408 :: Mënzen gesammelt
+$6414 :: StreetPass Hits
+$6421 :: Mii änneren
+$6422 :: Message änneren
+$6423 :: Personnaliséiert Kart
+$6424 :: Schafen Grousse Präis
+$6425 :: Optiounen
+
+#Mario Kart Channel
+$6415 :: Aner Mario Kart 7 Spiller begéint\niwwer StreetPass ginn op Är\nStreetPass Lëscht bäigefüügt.
+
+#Menus
+$6410 :: Spillen
+$6411 :: Grousse Präis
+$6412 :: Zäitfueren
+$6413 :: Spill online
+
+#Note about player profile messages
+$6427 :: Notéiert w.e.g. datt d'Messagen\ndéi Dir a Mario Kart 7 aginn\nsichtbar sinn fir jiddereen\nmat deem Dir drahtlos spillt,\na kënne geännert oder\nweidergeleet ginn un anerer.
+$6428 :: Gitt w.e.g. keng offensiv Sprooch,\nperséinlech Informatioun oder Inhalt,\ndéi illegal ass oder\nd'Rechter vun aneren verletzt.
+
+#Rankings
+$6431 :: 1.
+$6432 :: 2.
+$6433 :: 3.
+$6434 :: 4.
+
+#StreetPass setting
+$6441 :: Aktivéiert
+$6442 :: Behënnert
+
+#SpotPass setting
+$6451 :: \r6441
+$6452 :: \r6442
+
+#Region display setting
+$6460 :: Regioun
+$6461 :: Affichéiert
+$6462 :: Heemlech
+
+#Online status setting
+$6470 :: Online Status
+$6471 :: Affichéiert
+$6472 :: Heemlech
+
+#Gyro setting
+$6480 :: Gyro-Sensor
+$6481 :: Aktivéiert
+$6482 :: Behënnert
+
+#Save data reset dialogue
+$7001 :: Är Späicherdaten zrécksetzen?
+$7002 :: Wann Dir Är Späicherdaten zrécksetzt,\nverléiert Dir permanent all Rekorder\na Fortschrëtter.\n\nSidd Dir sécher datt dëst OK ass?
+#$7003 :: Späicherdaten zrécksetzen...
+#$7004 :: D'Späicherdaten goufen zréckgesat.
+#$7005 :: D'Späicherdaten sinn beschiedegt a ginn elo zréckgesat.
+
+#No Mii dialogue
+$7006 :: Et gi momentan keng Mii Charaktere\nam Mii Maker.\n\nLancéiere Mii Maker aus dem\n\uE073HOME Menu a kreéiert op\nd'mannst ee Mii Charakter.
+
+#Generic error
+#$7007 :: E Feeler ass geschitt.\n\nHalt den POWER-Knäppchen fir\nd'Kraaft auszeschalten, schalt se dann\nun a probéiert nach eng Kéier.
+
+#R/W errors
+$7101 :: D'SD-Kaart gouf\newechgeholl.\n\nSchalt w.e.g. d'Kraaft aus\nier Dir SD-Kaarten ewechhuelt.
+$7102 :: W.e.g. wait...\n\nSchalt d'Kraaft net aus an\nhuelt d'SD Kaart net ewech.
+$7103 :: Et gëtt keng SD Kaart agebaut.
+$7104 :: Den Apparat, deen am\nSD Card Slot agebaut ass,\nkann net benotzt ginn.
+$7105 :: Kann net op d'SD Kaart schreiwen.\n\n Beweegt w.e.g. de\nSchreifschutzschalter op\nd'Off-Positioun.
+$7106 :: Kann net Daten fir de\nMario Kart Kanal erstellen.\nEt gëtt net genuch fräi\nPlaz op der SD Kaart.
+$7107 :: SD Kaart Feeler.
+$7108 :: D'Date vum Mario Kart Kanal\nsinn beschiedegt a ginn\nelo zréckgesat.
+
+#Mario Kart Channel explanation
+$7201 :: The Mario Kart Channel can\nuse \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF and \u000E\u0000\u0003\u0002\u0001SpotPass\n\u000E\u0000\u0003\u0002\uFFFFto receive various data.
+$7202 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF\nHandel Profiler mat Leit,\ndéi Dir passéiert, fir\ndatt Dir se online erausfuerdere kënnt.
+$7203 :: \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\nKritt Phantomdata vu Spiller\nronderëm d'Welt, a Empfehlungen\nfir Communautéit déi Dir gär hätt.
+$7204 :: \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFan \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFbleiwen\naktiv och wann Dir\nnet Mario Kart 7 spillt.
+$7205 :: Daten, déi vum Mario Kart Kanal\nkritt ginn, ginn op\nd'SD Kaart gespäichert.
+
+#Mario Kart Channel first time setup
+$7301 :: Mario Kart Kanal Daten ginn op der SD Kaart erstallt.
+$7302 :: Mario Kart Kanal Daten ginn op der SD Kaart erstallt.\n\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF an \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF wäert aktivéiert ginn.
+$7303 :: Mario Kart Kanal Daten ginn op der SD Kaart erstallt.\n\n\u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFFwäert aktivéiert ginn.
+$7304 :: Mario Kart Kanal Daten ginn op der SD Kaart erstallt.\n\n\u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFwäert aktivéiert ginn.
+$7305 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF an \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF wäert aktivéiert ginn.
+$7306 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFFwäert aktivéiert ginn.
+$7307 :: \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFwäert aktivéiert ginn.
+$7401 :: De Mario Kart Kanal\nass prett fir ze benotzen!
+$7402 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF an \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFF ass aktivéiert.
+$7403 :: \u000E\u0000\u0003\u0002\u0002StreetPass \u000E\u0000\u0003\u0002\uFFFFass aktivéiert.
+$7404 :: \u000E\u0000\u0003\u0002\u0001SpotPass \u000E\u0000\u0003\u0002\uFFFFass aktivéiert,
+
+#Permission errors
+$7405 :: D'Benotzung vun \u000E\u0000\u0003\u0002\u0002StreetPass\n\u000E\u0000\u0003\u0002\uFFFF ass\nlimitéiert duerch Elteren Kontrollen.\n\nKuckt w.e.g. d'Systemastellungen.
+$7406 :: Dir musst der Nintendo 3DS Service Benotzerkonventioun averstanen ier Dir weider kann. Kuckt w.e.g. d'Systemastellungen.
+$7407 :: Dir kënnt \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF fir méi\nSoftwaretitelen op dësem System\nnet aktivéieren. Deaktivéiert \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF fir\nen aneren Titel an\nde Systemastellungen.
+$7408 :: Dir musst der Nintendo 3DS Service Benotzerkonventioun averstanen ier Dir weider kann. Kuckt w.e.g. d'Systemastellungen.
+$7502 :: Online Interaktioun ass limitéiert\nduerch Elteren Kontrollen.\nKuckt w.e.g. d'Systemastellungen.
+$7503 :: Dir musst der Nintendo 3DS Service Benotzerkonventioun averstanen ier Dir weider kann. Kuckt w.e.g. d'Systemastellungen.
+
+#Wireless switch off error
+$7501 :: Dréckt den drahtlose Schalter fir drahtlos Kommunikatioun z'aktivéieren.
+
+#Pause menu
+$9003 :: Weiderféieren
+$9004 :: Gitt op
+$9005 :: Course änneren
+$9006 :: Charakter änneren
+$9007 :: Neistart
+
+#Post-race menu
+$9009 :: Nächst Course
+$9010 :: Gesinn Resultater
+$9011 :: Nach eng Kéier probéieren
+$9012 :: View Replay
+$9013 :: Weider Replay
+$9014 :: Neistart Replay
+$9015 :: Replay ophalen
+$9016 :: Nächst Course
+$9017 :: Nächst Ronn
+
+#Dialogue button
+$9101 :: OK
+
+#Ghost creation dialogues
+$9151 :: Nei Phantomdata erstallt.
+$9152 :: Konnt keng Phantomdata erstellen.
+$9153 :: Kann net Phantomdata erstellen.
+
+#Premature ending messages
+$9161 :: Dir hutt lescht Plaz gesat. D'Course ass eriwwer.
+$9162 :: Fënnef Minutte si vergaangen. D'Course ass eriwwer.
+$9163 :: De Gewënner huet d'Course virun 30 Sekonnen ofgeschloss.
+
+#Communication error messages
+$9164 :: E Kommunikatiounsfehler ass geschitt.
+$9165 :: \r9164
+
+#Multiplayer pre-race info messages
+$9171 :: Dir wäert déi nächst Course matmaachen. W.e.g. wait.
+$9172 :: Dir wäert déi nächst Kämpf matmaachen. W.e.g. wait.
+$9173 :: De Grupp ass voll. Weg wait.
+
+#Results screen
+$9201 :: RESULTATER
+$9202 :: GESAMTPUNKTE
+$9203 :: SCHLUSSKLASSEMENT
+$9204 :: BESCHTE REKORD
+
+#Lap number
+$9817 :: RONN
+
+#Section number
+$9829 :: SEKTIOUN
+
+#VR amount
+$9831 :: VR
+
+#Points
+$9830 :: \u000E\u0001\u0006\u0012\u0004pt\u0006ptn\u0000\u0000
+$9833 :: \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006ptn\u0000\u0000

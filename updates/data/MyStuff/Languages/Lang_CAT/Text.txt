@@ -15,14 +15,14 @@ $710045 :: \uE024\uE025 Jardí Celeste
 $700011 :: Copa Bellota
 $710046 :: Bosc Tardorenc
 $710068 :: \uE024\uE025 Parc de la Ribera
-$710043 :: \uE031\uE032 Circuit Mario 1
+$710043 :: RMX Circuit Mario 1
 $710049 :: \uE024\uE025 Castell de Bowser 3
 
 #Cloud Cup
 $700012 :: Copa Núvol
 $710053 :: \uE022\uE023 Circuit Nevat
 $710054 :: \uE022\uE023 Granja Mu-Mu
-$710052 :: Avinguda Arxipèlag
+$710052 :: \uE033 Ciutat Delfino
 $710096 :: \uE026\uE027 Circuit Mario
 
 #Boo Cup
@@ -158,6 +158,20 @@ $710127 :: Pista Ruleta
 $710128 :: Parada Orbital
 $710129 :: \uE033 Camí Arc de San Martí
 
+#Shine Cup
+$700032 :: Copa Sol
+$710130 :: Cap Coral
+$710131 :: \uE067 Mina de Wario
+$710132 :: \uE033 Jardí de Peach
+$710133 :: Ciutadella Brisafreda
+
+#Dark Star Cup
+$700033 :: Copa Estrella Fosca
+$710134 :: Santuari Fosc
+$710135 :: Piràmide Infernal
+$710136 :: \uE026\uE027 Ciutat Xampinyó
+$710137 :: Castell Estrella Fosca
+
 #Save Data
 $7005 :: Dades de desament extra\nper CTGP-7 es crearan\na la targeta SD.
 $7003 :: Creant dades...
@@ -180,6 +194,7 @@ achiev_all_1star :: Has obtingut una estrella en\ntotes les copes personalitzade
 achiev_all_3star :: Has obtingut tres estrelles en\ntotes les copes personalitzades.\n\nEnhorabona!
 achiev_all_mission :: Has obtingut 10 punts en\ntotes les missions.\n\nEnhorabona!
 achiev_5000_vr :: Has obtingut 5000 PC en\ncircuits personalitzats\nen línia.\n\nEnhorabona!
+achiev_all_score_completed :: Has completat tots els\ncircuits en el desafiament de\npunts.\n\nEnhorabona!
 achiev_blue_coin :: Has obtingut totes les\nmonedes blaves.\n\nEnhorabona!
 achiev_dodged_blue :: Has esquivat 3\nclosques de pinxos.\n\nEnhorabona!
 unlocked_item :: Has desbloquejat:\n\n
@@ -190,6 +205,7 @@ gold_tro_achiev :: Or en totes les copes personalitzades
 3star_achiev :: 3 estrelles en totes les copes personalitzades
 10pts_msn_achiev :: 10 punts en totes les missions
 5000vr_achiev :: 5000PC en CTWW
+score_all_achiev :: Desafiament de punts completat
 blue_coin_achiev :: Totes les monedes blaves obtingudes
 dodged_blue_achiev :: Esquivat 3 closques de pinxos
 dodged_blue_amount :: Closques de pinxos esquivades
@@ -239,6 +255,7 @@ imtrick :: Trucs Millorats :: Els karts giraran sobre si mateixos al fer un truc
 autoaccel :: Acceleració Automàtica :: En prémer \uE000 o \uE003 s'activarà l'acceleració automàtica del kart fins que es premi \uE001.
 imbrakedrift :: Derrape en Frenada Millorat :: Podràs frenar mentre derrapes prement \uE001 sense perdre el miniturbo.
 autodelaydrift :: "Delay Drift" Automàtic :: Ajuda a prevenir que el kart perda velocitat quan comença a derrapar.
+improvedhorn :: Clàxon Millorat :: Permet tocar el clàxon amb el botó d'objectes i escoltar el dels altres en multijugador.
 achieventry :: Aconseguiments :: Comprova el progrés dels aconseguiments de CTGP-7 .
 badgesentry :: Insígnies :: Mirar insígnies de CTGP-7 obtingudes (requereix connexió a internet).
 optionsentry :: Opcions :: Configura les opcions de CTGP-7.
@@ -337,6 +354,7 @@ serv_qrshow :: Premeu \uE002 per mostrar-lo.
 statsentry :: Estadístiques Locals :: Comprova les teves estadístiques privades de CTGP-7 aquí.
 stats_tpl :: Vegades que s'ha jugat
 stats_tot :: Carreres totals fora de línia :: Carreres totals en línia
+stats_sc :: Carreres en desafiament de punts :: Intents de desafiament setmanal
 stats_vnll :: Vanilla
 stats_most :: Circuits més jugats :: Estadis més jugats
 stats_rpoints :: Punts de carrera
@@ -403,6 +421,115 @@ badge_name_desc :: Nom de la insígnia :: Descripció de la insígnia
 badge_date :: Data d'obtenció
 badge_msg :: Has obtingut una nova\ninsígnia de CTGP-7.\n\nEnhorabona!
 badge_date_fmt :: %d/%m/%Y
+
+#Score Attack Actions
+pts_action_0 :: Xampinyó!
+pts_action_1 :: Panell Turbo
+pts_action_2 :: Miniturbo
+pts_action_3 :: Superminiturbo
+pts_action_4 :: Turbosortida Petita
+pts_action_5 :: Turbosortida
+pts_action_6 :: Turbosortida Perfecta
+pts_action_7 :: Truc
+pts_action_8 :: Truc Avanzat
+pts_action_9 :: Rebuf
+pts_action_10 :: Xampinyó Daurat!
+pts_action_11 :: Moneda
+pts_action_12 :: Anell Estel·lar
+pts_action_13 :: Canonada
+pts_action_14 :: Goomba
+pts_action_15 :: Swooper
+pts_action_16 :: Con de trànsit
+pts_action_17 :: Roca
+pts_action_18 :: Cheep Cheep
+pts_action_19 :: Ostra
+pts_action_20 :: Cranc
+pts_action_21 :: Cabra
+pts_action_22 :: Atuell
+pts_action_23 :: Shy Guy Volador
+pts_action_24 :: Barril
+pts_action_25 :: Tiki Goon
+pts_action_26 :: Granoló
+pts_action_27 :: Cotxe
+pts_action_28 :: Caixa
+pts_action_29 :: Pingüí
+pts_action_30 :: Caramell
+pts_action_31 :: Roca Picuda
+pts_action_32 :: Arbust Fals
+pts_action_33 :: Goomba Fals
+pts_action_34 :: Planta Piranya
+pts_action_35 :: Chomp Cadenes
+pts_action_36 :: Pezòs
+pts_action_37 :: Àncora
+pts_action_38 :: Nota Musical
+pts_action_39 :: Pila de Fulles
+pts_action_40 :: Floruga
+pts_action_41 :: Bill Bala
+pts_action_42 :: Tortop
+pts_action_43 :: Ninot de Neu
+pts_action_44 :: Bola de Neu
+pts_action_45 :: Bola de Metall
+pts_action_46 :: Taula
+pts_action_47 :: Cactus
+pts_action_48 :: Tren
+pts_action_49 :: Borinot
+pts_action_50 :: Vol
+pts_action_51 :: Closca Verda!
+pts_action_52 :: Closca Vermella!
+pts_action_53 :: Plàtan!
+pts_action_54 :: Closca de Pintxos!
+pts_action_55 :: Llamp!
+pts_action_56 :: Caixa Falsa!
+pts_action_57 :: Bob-omb!
+pts_action_58 :: Flor de Foc!
+pts_action_59 :: Superfulla!
+pts_action_60 :: Blooper!
+pts_action_61 :: Superestrella!
+pts_action_62 :: Mega Xampinyó!
+pts_action_63 :: Bill Bala!
+pts_action_64 :: Avançament Bill Bala
+pts_action_65 :: Vengança!
+pts_action_66 :: Aplastament!
+pts_action_67 :: Objecte Destruït
+pts_action_68 :: Objecte Desviat
+pts_action_69 :: Evasió de C. Pintxos!
+pts_action_70 :: Següent Volta!
+pts_action_71 :: Següent Secció!
+pts_action_72 :: Final Frenzy!
+pts_action_73 :: Final de la carrera!
+
+#Score Attack
+score_attack :: Desafiament de Punts :: Encadena accions per aconseguir punts.
+sc_at_spc_cup :: Circuit Aleatori :: Desafiament Setmanal
+sc_at_race_start :: Començament de la Carrera
+sc_at_clear :: Circuit Completat :: Circuit No Completat
+sc_at_save :: (Esborrar Desat: \uE002) :: (Cap)
+sc_at_score :: Millor Puntuació :: Puntuació per a completar
+sc_at_delete :: Esborrar el desament d'aquest circuit?
+sc_at_record :: Nou Rècord!
+sc_at_clear_small :: Completat! :: No Completat
+sc_at_cleared_tr :: Circuits completats
+sc_at_nice :: BÉ!
+sc_at_great :: GENIAL!
+sc_at_excel :: EXCEL·LENT!
+sc_at_fanta :: FANTÀSTIC!
+sc_at_combo :: Combo x
+
+#Score Attack Weekly
+sc_wc_ended :: El desafiament setmanal actual s'ha acabat. :: Sense dades
+sc_wc_curr :: Desafiament actual:
+sc_wc_time :: Temps restant:
+sc_wc_bonus :: Combo Bonus: :: El teu bonus:
+sc_wc_board :: Classificació: Millors 10 :: Classificació: La meva Puntuació
+sc_wc_getting :: Obtenint informació... :: Fallada en obtenir la informació.\nError: 0x%08X
+sc_wc_results :: Resultats de Desafiament Setmanal
+sc_wc_score :: Puntuació anterior: :: Nova puntuació:
+sc_wc_upload :: Vols publicar la teva puntuació? :: Publicar
+sc_wc_uploading :: Publicant resultats... :: S'ha produït un error.
+sc_wc_retry :: Reintentar?
+
+#Local Multiplayer Error
+mult_error :: Tots els participants han\nde tenir l'última versió de \nCTGP-7 instal·lada. :: Has d\'actualitzar\nCTGP-7 per jugar\nen aquesta sala.
 
 #Characters
 $1000 :: Mario

@@ -15,14 +15,14 @@ $710045 :: \uE024\uE025 Giardino Nuvola
 $700011 :: Trofeo Ghianda
 $710046 :: Foresta d'autunno
 $710068 :: \uE024\uE025 Parco Lungofiume
-$710043 :: \uE031\uE032 Circuito di Mario 1
+$710043 :: RMX Circuito di Mario 1
 $710049 :: \uE024\uE025 Castello di Bowser 3
 
 #Cloud Cup
 $700012 :: Trofeo Nuvola
 $710053 :: \uE022\uE023 Circuito Innevato
 $710054 :: \uE022\uE023 Fattoria Muu Muu
-$710052 :: Viale Arcipelago
+$710052 :: \uE033 Borgo Delfino
 $710096 :: \uE026\uE027 Circuito di Mario
 
 #Boo Cup
@@ -93,7 +93,7 @@ $700023 :: Trofeo Moneta
 $710094 :: Deserto di Doge
 $710095 :: \uE022\uE023 Pontile Stregato
 $710050 :: \uE022\uE023 Viale Giungla DK
-$710073 :: Speciale di Compleanno di Miku 2
+$710073 :: Compleanno di Miku 2
 
 #Rainbow Cup
 $700017 :: Trofeo Arcobaleno
@@ -158,6 +158,20 @@ $710127 :: Circuito Roulette
 $710128 :: Avamposto Orbitale
 $710129 :: \uE033 Pista Arcobaleno
 
+#Shine Cup
+$700032 :: Trofeo Sole Custode
+$710130 :: Punta Corallo
+$710131 :: \uE067 Miniera d'oro di Wario
+$710132 :: \uE033 Giardino di Peach
+$710133 :: Cittadella Gelobrezza
+
+#Dark Star Cup
+$700033 :: Trofeo Stella Oscura
+$710134 :: Santuario Oscuro
+$710135 :: Piramide Infernale
+$710136 :: \uE026\uE027 Città dei Funghi
+$710137 :: Castello della Stella Oscura
+
 #Save Data
 $7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
 $7003 :: Creazione dei dati di salvataggio...
@@ -180,19 +194,21 @@ achiev_all_1star :: Hai ottenuto 1 stella\nin tutti i trofei custom.\n\nCongratu
 achiev_all_3star :: Hai ottenuto 3 stelle\nin tutti i trofei custom.\n\nCongratulazioni!
 achiev_all_mission :: Hai ottenuto 10 punti\nin tutte le missioni.\n\nCongratulazioni!
 achiev_5000_vr :: Hai ottenuto 5000 PC\nin CTWW.\n\nCongratulazioni!
+achiev_all_score_completed :: Hai completato tutte le\npiste nella sfida a punti.\n\nCongratulazioni!
 achiev_blue_coin :: Hai preso tutte le\nmonete blu!\n\nCongratulazioni!
-achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
+achiev_dodged_blue :: Hai schivato\n3 gusci blu!\n\nCongratulazioni!
 unlocked_item :: Hai sbloccato:\n\n
-types_achievs :: Obbiettivi Normali :: Obbiettivi Speciali
-types_achievs_optional :: Optional achievements
+types_achievs :: Obiettivi Normali :: Obiettivi Speciali
+types_achievs_optional :: Obiettivi Secondari
 gold_tro_achiev :: Oro in tutte le piste Custom
 1star_achiev :: 1 stella in tutti i trofei Custom
 3star_achiev :: 3 stelle in tutti i trofei Custom
 10pts_msn_achiev :: 10 punti in tutte le missioni
 5000vr_achiev :: 5000VR in CTWW
+score_all_achiev :: Sfida a punti completata
 blue_coin_achiev :: Tutte le monete blu sono state prese
-dodged_blue_achiev :: Dodged 3 blue shells
-dodged_blue_amount :: Blue shells dodged
+dodged_blue_achiev :: Schivato 3 gusci blu
+dodged_blue_amount :: Gusci blu schivati
 custom_track_cups :: Trofei Piste Custom
 tro_gold :: Oro
 tro_1star :: 1 stella
@@ -239,6 +255,7 @@ imtrick :: Acrobazie migliorate :: I kart ruoteranno quando si fa un accrobazia.
 autoaccel :: Accelerazione automatica :: Premendo \uE000 o \uE003 si abilita l'accelerazione automatica finché non si preme \uE001.
 imbrakedrift :: Derapata lenta migliorata :: Tieni premuto \uE001 durante la derapata per frenare senza perdere il miniturbo.
 autodelaydrift :: "Delay Drift" Automatico :: Aiuta a prevenire la perdita di velocità quando il kart inizia a derapare.
+improvedhorn :: Improved Horn :: Allows playing the horn with the item button and hearing other player's horns in multiplayer.
 achieventry :: Obbiettivi :: Controlla i progressi con gli obbiettivi di CTGP-7
 badgesentry :: Emblemi :: Vedi gli Emblemi ottenuti di CTGP-7 (Richiede connessione ad internet)
 optionsentry :: Opzioni :: Configura le opzioni di CTGP-7
@@ -337,6 +354,7 @@ serv_qrshow :: Premere \uE002 per visualizzare.
 statsentry :: Statistiche locali :: Controlla le tue statistiche private di CTGP-7.
 stats_tpl :: Volte giocato
 stats_tot :: Gare Offline in Totale ::  Gare Online in Totale
+stats_sc :: Total Score Attack Races :: Total Weekly Challenge Attempts
 stats_vnll :: Normale
 stats_most :: Percorsi giocati di più :: Arene giocate di più
 stats_rpoints :: Punti di gara
@@ -403,3 +421,112 @@ badge_name_desc :: Nome Emblema :: Descrizione Emblema
 badge_date :: Ottenuto in data
 badge_msg :: Hai ottenuto un nuovo\nEmblema CTGP-7. \n\nCongratulazioni!
 badge_date_fmt :: %d.%m.%Y
+
+#Score Attack Actions
+pts_action_0 :: Mushroom!
+pts_action_1 :: Dash Panel
+pts_action_2 :: Mini-Turbo
+pts_action_3 :: Super Mini-Turbo
+pts_action_4 :: Small Rocket Start
+pts_action_5 :: Rocket Start
+pts_action_6 :: Perfect Rocket Start
+pts_action_7 :: Trick
+pts_action_8 :: Advanced Trick
+pts_action_9 :: Slipstream
+pts_action_10 :: Golden Mushroom!
+pts_action_11 :: Coin
+pts_action_12 :: Star Ring
+pts_action_13 :: Pipe
+pts_action_14 :: Goomba
+pts_action_15 :: Swoop
+pts_action_16 :: Traffic Cone
+pts_action_17 :: Boulder
+pts_action_18 :: Cheep Cheep
+pts_action_19 :: Clampy
+pts_action_20 :: Sidestepper
+pts_action_21 :: Goat
+pts_action_22 :: Pot
+pts_action_23 :: Carpet Shy Guy
+pts_action_24 :: Barrel
+pts_action_25 :: Tiki Goon
+pts_action_26 :: Frogoon
+pts_action_27 :: Car
+pts_action_28 :: Crate
+pts_action_29 :: Penguin
+pts_action_30 :: Icicle
+pts_action_31 :: Thwomp
+pts_action_32 :: Fake Bush
+pts_action_33 :: Fake Goomba
+pts_action_34 :: Piranha Plant
+pts_action_35 :: Chain Chomp
+pts_action_36 :: Fish Bone
+pts_action_37 :: Anchor
+pts_action_38 :: Music Bash
+pts_action_39 :: Leaf Pile
+pts_action_40 :: Wiggler
+pts_action_41 :: Bullet Bill
+pts_action_42 :: Rocky Wrench
+pts_action_43 :: Snowman
+pts_action_44 :: Snowball
+pts_action_45 :: Metal Ball
+pts_action_46 :: Table
+pts_action_47 :: Cactus
+pts_action_48 :: Train
+pts_action_49 :: Stingby
+pts_action_50 :: Glide Time
+pts_action_51 :: Green Shell Hit!
+pts_action_52 :: Red Shell Hit!
+pts_action_53 :: Banana Hit!
+pts_action_54 :: Spiny Shell Hit!
+pts_action_55 :: Lightning Hit!
+pts_action_56 :: Fake Box Hit!
+pts_action_57 :: Bob-omb Hit!
+pts_action_58 :: Fire Flower Hit!
+pts_action_59 :: Super Leaf Hit!
+pts_action_60 :: Blooper Deploy!
+pts_action_61 :: Star Hit!
+pts_action_62 :: Mega Mush Hit!
+pts_action_63 :: Bullet Bill Hit!
+pts_action_64 :: Bullet Overtake
+pts_action_65 :: Payback!
+pts_action_66 :: Smash!
+pts_action_67 :: Item Destroyed
+pts_action_68 :: Item Deflected
+pts_action_69 :: Spiny Shell Dodge!
+pts_action_70 :: Next Lap!
+pts_action_71 :: Next Section!
+pts_action_72 :: Frenzy Finish!
+pts_action_73 :: Race Finish!
+
+#Score Attack
+score_attack :: Score Attack :: Chain actions to get the most points.
+sc_at_spc_cup :: Random Course :: Weekly Challenge
+sc_at_race_start :: Race Start
+sc_at_clear :: Course Cleared :: Course Not Cleared
+sc_at_save :: (Delete Save: \uE002) :: (None)
+sc_at_score :: Best score :: Clear score
+sc_at_delete :: Delete this course save data?
+sc_at_record :: New Record!
+sc_at_clear_small :: Cleared! :: Not Cleared
+sc_at_cleared_tr :: Cleared tracks
+sc_at_nice :: NICE!
+sc_at_great :: GREAT!
+sc_at_excel :: EXCELLENT!
+sc_at_fanta :: FANTASTIC!
+sc_at_combo :: Combo x
+
+#Score Attack Weekly
+sc_wc_ended :: Current Weekly Challenge has ended :: No data available
+sc_wc_curr :: Current challenge:
+sc_wc_time :: Time remaining:
+sc_wc_bonus :: Bonus combo: :: Your bonus:
+sc_wc_board :: Leaderboard: Top 10 :: Leaderboard: My Score
+sc_wc_getting :: Getting Weekly Challenge info... :: Failed to get Weekly Challenge info.\nError: 0x%08X
+sc_wc_results :: Weekly Challenge Results
+sc_wc_score :: Previous score: :: New score:
+sc_wc_upload :: Would you like to publish your score? :: Publish
+sc_wc_uploading :: Uploading results... :: An error has occurred.
+sc_wc_retry :: Retry?
+
+#Local Multiplayer Error
+mult_error :: All participants must\nhave the latest CTGP-7\nversion installed. :: You have to update\nCTGP-7 to play in\nthis room.

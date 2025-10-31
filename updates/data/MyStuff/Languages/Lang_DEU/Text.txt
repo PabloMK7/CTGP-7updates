@@ -15,14 +15,14 @@ $710045 :: \uE024\uE025 Wolkenpiste
 $700011 :: Eichel-Cup
 $710046 :: Herbstwald
 $710068 :: \uE024\uE025 Flussufer-Park
-$710043 :: \uE031\uE032 Marios Piste 1
+$710043 :: RMX Marios Piste 1
 $710049 :: \uE024\uE025 Bowsers Festung 3
 
 #Cloud Cup
 $700012 :: Wolken-Cup
 $710053 :: \uE022\uE023 Polar-Parcours
 $710054 :: \uE022\uE023 Kuhmuh-Farm
-$710052 :: Archipel-Allee
+$710052 :: \uE033 Piazzale Delfino
 $710096 :: \uE026\uE027 Marios Piste
 
 #Boo Cup
@@ -158,6 +158,20 @@ $710127 :: Roulette-Route
 $710128 :: Orbitaler Außenposten
 $710129 :: \uE033 Regenbogen-Boulevard
 
+#Shine Cup
+$700032 :: Sonne-Cup
+$710130 :: Korallenkap
+$710131 :: \uE067 Warios Goldmine
+$710132 :: \uE033 Peachs Schlossgarten
+$710133 :: Frostbrisen-Zitadelle
+
+#Dark Star Cup
+$700033 :: Finsterstern-Cup
+$710134 :: Dunkles Heiligtum
+$710135 :: Höllenfeuer-Pyramide
+$710136 :: \uE026\uE027 Pilz-City
+$710137 :: Finsterstern-Schloss
+
 #Save Data
 $7005 :: Extradaten für CTGP-7 werden\njetzt auf der SD Card erstellt.
 $7003 :: Extradaten werden erstellt...
@@ -180,19 +194,21 @@ achiev_all_1star :: Du hast 1 Stern in allen\nbenutzerdef. Cups\nerrungen.\nHerz
 achiev_all_3star :: Du hast 3 Sterne in allen\nbenutzerdef. Cups\nerrungen.\nHerzlichen Glückwunsch!
 achiev_all_mission :: Du hast 10 Punkte in allen\nMissionen errungen.\n\nHerzlichen Glückwunsch!
 achiev_5000_vr :: Du hast 5000 RP im\nCTWW errungen.\n\nHerzlichen Glückwunsch!
+achiev_all_score_completed :: Du hast alle\n Strecken in Punktejagd gemeistert.\n\nHerzlichen Glückwunsch!
 achiev_blue_coin :: Du hast\nalle Blauen Münzen eingesammelt.\nHerzlichen Glückwunsch!
-achiev_dodged_blue :: You have dodged\n3 blue shells!\n\nCongratulations!
+achiev_dodged_blue :: Du bist/n3 Blauen Panzern ausgewiechen! Glückwunsch!
 unlocked_item :: Du hast Folgendes\nfreigeschaltet:\n\n
 types_achievs :: Normale Erfolge :: Spezial-Erfolge
-types_achievs_optional :: Optional achievements
+types_achievs_optional :: Optionale Erfolge
 gold_tro_achiev :: Gold in allen Custom Track Cups
 1star_achiev :: 1 Stern in allen Custom Track Cups
 3star_achiev :: 3 Sterne in allen Custom Track Cups
 10pts_msn_achiev :: 10 Punkte in allen Missionen
 5000vr_achiev :: 5000 VR in CTWW
+score_all_achiev :: Alle Strecken in Punktejagd abgeschlossen
 blue_coin_achiev :: Alle Blauen Münzen eingesammelt
-dodged_blue_achiev :: Dodged 3 blue shells
-dodged_blue_amount :: Blue shells dodged
+dodged_blue_achiev :: 3 Blauen Panzern ausgewichen
+dodged_blue_amount :: Blauen Panzern ausgewichen
 custom_track_cups :: Custom Track Cups
 tro_gold :: Gold
 tro_1star :: 1 Stern
@@ -239,6 +255,7 @@ imtrick :: Verbesserte Stunts :: Karts werden sich nach einem Sprung auf einer R
 autoaccel :: Auto-Beschleunigung :: Das Drücken von \uE000 oder \uE003 aktiviert die automatische Beschleunigung, welche aktiv bleibt, bis \uE001 gedrückt wird.
 imbrakedrift :: Verbesserter Brems-Drift :: Halte \uE001 beim Driften, um zu bremsen, ohne deinen Mini-Turbo zu verlieren.
 autodelaydrift :: Automatischer Delay-Drift :: Verhindert, dass das Kart Geschwindigkeit verliert, wenn ein Drift gestartet wird.
+improvedhorn :: Verbesserte Hupe: Ermöglicht das Aktivieren der Hupe mit der Item-Taste und das Hören von Hupen anderer Spieler im Mehrspielermodus.
 achieventry :: Erfolge :: Sieh deinen Fortschritt bei den CTGP-7-Erfolgen an.
 badgesentry :: Orden :: Erhaltene CTGP-7 Orden ansehen (Internet-Verbindung benötigt).
 optionsentry :: Optionen :: CTGP-7 Einstellungen verwalten.
@@ -337,6 +354,7 @@ serv_qrshow :: Zum Anzeigen \uE002 drücken.
 statsentry :: Lokale Statistik :: Hier kannst du deine privaten Nutzungsstatistiken einsehen.
 stats_tpl :: Spiel gestartet
 stats_tot :: Gesamtanzahl der Offline-Rennen :: Gesamtanzahl der Online-Rennen
+stats_sc :: Total Score Attack Races :: Total Weekly Challenge Attempts
 stats_vnll :: Originale
 stats_most :: Meistgespielte Strecken :: Meistgespielte Wettkampf-Arenen
 stats_rpoints :: Offline-RP
@@ -403,3 +421,112 @@ badge_name_desc :: Name des Ordens :: Beschreibung des Ordens
 badge_date :: Datum des Erhalts
 badge_msg :: Du hast neue\nCTGP-7 Orden erhalten.\n\nGlückwunsch!
 badge_date_fmt :: %d.%m.%Y
+
+#Score Attack Actions
+pts_action_0 :: Turbopilz!
+pts_action_1 :: Beschleunigungsfeld
+pts_action_2 :: Mini-Turbo
+pts_action_3 :: Super Mini-Turbo
+pts_action_4 :: Kleiner Turbostart
+pts_action_5 :: Turbostart
+pts_action_6 :: Perfekter Turbostark
+pts_action_7 :: Stunt
+pts_action_8 :: Verbesserter Stunt
+pts_action_9 :: Windschatten
+pts_action_10 :: Goldener Turbopilz
+pts_action_11 :: Münze
+pts_action_12 :: Sternenring
+pts_action_13 :: Röhre
+pts_action_14 :: Gumba
+pts_action_15 :: Flapflap
+pts_action_16 :: Leitkegel
+pts_action_17 :: Felsbrocken
+pts_action_18 :: Cheep Cheep
+pts_action_19 :: Perlenmuschel
+pts_action_20 :: Krabbe
+pts_action_21 :: Ziege
+pts_action_22 :: Vase
+pts_action_23 :: Teppich Shy Guy
+pts_action_24 :: Fass
+pts_action_25 :: Tiki Goon
+pts_action_26 :: Froschler
+pts_action_27 :: Auto
+pts_action_28 :: Holzkiste
+pts_action_29 :: Pinguin
+pts_action_30 :: Eiszapfen
+pts_action_31 :: Thwomp
+pts_action_32 :: Gefälschter Busch
+pts_action_33 :: Gefälschter Gumba
+pts_action_34 :: Piranha-Pflanze
+pts_action_35 :: Kettenhund
+pts_action_36 :: Knochenfisch
+pts_action_37 :: Anker
+pts_action_38 :: Sprungnote
+pts_action_39 :: Laubhaufen
+pts_action_40 :: Wiggler
+pts_action_41 :: Kugelwilli
+pts_action_42 :: Rocky Schraubenschlüssel
+pts_action_43 :: Schneeman
+pts_action_44 :: Schneeball
+pts_action_45 :: Metallball
+pts_action_46 :: Tisch
+pts_action_47 :: Kaktus
+pts_action_48 :: Zug
+pts_action_49 :: Summser
+pts_action_50 :: Gleitzeit
+pts_action_51 :: Grüner-Panzer-Treffer!
+pts_action_52 :: Roter-Panzer-Treffer!
+pts_action_53 :: Bananen-Treffer!
+pts_action_54 :: Stachi-Panzer-Treffer!
+pts_action_55 :: Blitz-Treffer!
+pts_action_56 :: Schwindel-Box-Treffer!
+pts_action_57 :: Bob-omb-Treffer!
+pts_action_58 :: Feuerblumen-Treffer!
+pts_action_59 :: Superblatt-Treffer!
+pts_action_60 :: Blooper-Treffer!
+pts_action_61 :: Stern-Treffer!
+pts_action_62 :: Megapilz-Treffer!
+pts_action_63 :: Kugelwilli-Treffer!
+pts_action_64 :: Kugelwilli-Überholung
+pts_action_65 :: Rache!
+pts_action_66 :: Zerstörung!
+pts_action_67 :: Item zerstört
+pts_action_68 :: Item abgewehrt
+pts_action_69 :: Stachi-Panzer-Ausweichmanöver!
+pts_action_70 :: Nächste Runde!
+pts_action_71 :: Nächster Abschnitt!
+pts_action_72 :: Verrücktes Finale!
+pts_action_73 :: Rennende!
+
+#Score Attack
+score_attack :: Punktejagd :: Kombiniere Aktionen, um die meisten Punkte zu erzielen.
+sc_at_spc_cup :: Zufällige Strecke :: Wöchentliche Herausforderung
+sc_at_race_start :: Rennstart
+sc_at_clear :: Strecke abgeschlossen :: Strecke nicht abgeschlossen
+sc_at_save :: (Speicherstand löschen: \uE002) :: (Keine)
+sc_at_score :: Beste Punktezahl :: Punktezahl löschen
+sc_at_delete :: Strecken-Spielstand löschen?
+sc_at_record :: Neuer Rekord!
+sc_at_clear_small :: Abgeschlossen! :: Nicht abgeschlossen
+sc_at_cleared_tr :: Abgeschlossene Strecken
+sc_at_nice :: SCHÖN!
+sc_at_great :: GROßARTIG!
+sc_at_excel :: EXZELLENT!
+sc_at_fanta :: FANTASTISCH!
+sc_at_combo :: Kombo x
+
+#Score Attack Weekly
+sc_wc_ended :: Aktuelle wöchentliche Herausforderungen wurden beendet :: Keine Daten verfügbar
+sc_wc_curr :: Aktuelle Herausforderung:
+sc_wc_time :: Verbleibende Zeit:
+sc_wc_bonus :: Bonus-Kombi :: Dein Bonus:
+sc_wc_board :: Rangliste: Top 10 :: Rangliste: Mein Ergebnis
+sc_wc_getting :: Wöchentliche Herausforderungen abrufen... :: Wöchentliche Herausforderungen konnten nicht abgerufen werden.\nFehler: 0x%08X
+sc_wc_results :: Ergebnisse der wöchentlichen Herausforderungen:
+sc_wc_score :: Vorherige Punktzahl :: Neue Punktzahl:
+sc_wc_upload :: Möchtest du deine Punktzahl veröffentlichen? :: Veröffentlichen
+sc_wc_uploading :: Ergebnissse werden hochgeladen... :: Ein Fehler ist aufgetreten
+sc_wc_retry :: Neuer Versuch?
+
+#Local Multiplayer Error
+mult_error :: Alle Teilnehmer müssen\ndie neueste Version von CTGP-7\ninstalliert haben. :: Du musst aktualisieren, um\nin diesem Raum spielen zu können.
