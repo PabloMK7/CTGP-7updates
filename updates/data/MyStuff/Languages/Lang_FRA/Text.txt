@@ -251,7 +251,7 @@ charman :: Gestionnaire des personnages :: Choisissez entre les personnages par 
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
 itmprb :: Roulette d'objet améliorée :: À la place de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
-imtrick :: Sauts améliorés :: Les sauts effectués sur certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
+imtrick :: Sauts synchros améliorés :: Les sauts synchros effectués sur certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
 autoaccel :: Accélération auto :: Appuyez sur \uE000 ou \uE003 pour activer l'accélération auto. Pour la désactiver, appuyez sur \uE001.  
 imbrakedrift :: Amélioration du freinage en dérapant :: Maintenez \uE001 en dérapant pour freiner sans perdre votre mini-turbo.
 autodelaydrift :: "Delay Drift" Automatique :: Aide à prévenir la perte de vitesse lors du début d'un dérapage.
@@ -433,7 +433,7 @@ pts_action_6 :: Excellent départ turbo
 pts_action_7 :: Figure
 pts_action_8 :: Figure avancée
 pts_action_9 :: Aspiration
-pts_action_10 :: Champignon doré !
+pts_action_10 :: Champi turbo doré !
 pts_action_11 :: Pièce ramassée
 pts_action_12 :: Anneau d'étoile
 pts_action_13 :: Tuyau
@@ -499,8 +499,8 @@ pts_action_72 :: Frénésie à l'arrivée !
 pts_action_73 :: Fin de course !
 
 #Score Attack
-score_attack :: Contre-le-score :: Enchaînez les actions pour obtenir le plus de points.
-sc_at_spc_cup :: Course aléatoire :: Défi hebdomadaire.
+score_attack :: Contre-le-score :: Enchaînez les actions et visez le meilleur score.
+sc_at_spc_cup :: Course aléatoire :: Défi hebdomadaire
 sc_at_race_start :: Début de course
 sc_at_clear :: Circuit terminé :: Circuit non terminé
 sc_at_save :: (Suppr. sauvegarde : \uE002) :: (Aucun)

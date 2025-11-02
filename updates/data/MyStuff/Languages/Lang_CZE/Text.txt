@@ -354,7 +354,7 @@ serv_qrshow :: Pro zobrazení zmačkni \uE002.
 statsentry :: Místní Statistiky :: Zde zkontroluj tvé statistiky soukromého využití CTGP-7.
 stats_tpl :: Počet Odehraných
 stats_tot :: Celkem offline závodů :: Celkem online závodů
-stats_sc :: Počet Bodových Testovacích Závodů :: Počet  Týdenních Výzvu Pokusů
+stats_sc :: Počet Bodových Testovacích Závodů :: Počet Týdenních Výzvu Pokusů
 stats_vnll :: Původní
 stats_most :: Nejhranější Tratě :: Nejhranější Bitevní Arény
 stats_rpoints :: Závodní Body
@@ -407,8 +407,8 @@ blue_coin_nocc :: Modré mince nemůžou\nbýt získan s povoleným\nvoličem CC
 
 #Lobby
 lobby_type :: Veřejná lobby :: Privátní lobby
-choose_lobby :: Vyber si online lobby:\n\n- Veřejná: Hraj s ostatními hráči CTGP-7.\n- Privátní: Hraj s ostatními hráči soukromě.\n\nPOZNÁMKA: Vanilla VR bude použit v privátních lobby.
-enter_lobby_code :: Zadej kód privátní lobby.\nSdílej tento kód s ostatními, abyste mohli hrát společně! :: Kód lobby je moc krátký.
+choose_lobby :: Vyber si online lobby:\n\n- Veřejná: Hraj s ostatními hráči CTGP-7.\n- Privátní: Hraj s ostatními hráči soukromě.\n\nPOZNÁMKA: Vanilla VR bude použit v privátních\nlobby.
+enter_lobby_code :: Zadej kód privátní lobby.\nSdílej tento kód s ostatními, abyste mohli hrát\nspolečně! :: Kód lobby je moc krátký.
 
 #Proximity Chat
 proximity_chat :: Blízkost Chat :: (zmačkni \uE002 pro přepínání)
@@ -521,7 +521,7 @@ sc_wc_curr :: Aktuální výzva:
 sc_wc_time :: Zbývající čas:
 sc_wc_bonus :: Bonusová kombinace: :: Tvůj bonus:
 sc_wc_board :: Žebříček: Top 10 :: Žebříček: Moje skóre
-sc_wc_getting :: Získání informací o Týdenní Výzvě... :: Získání informací o Týdenní Výzvě se nezdařilo.\nChyba: 0 x% 08X
+sc_wc_getting :: Získání informací o Týdenní Výzvě... :: Získání informací o Týdenní Výzvě se nezdařilo.\nChyba: 0x%08X
 sc_wc_results :: Výsledky Týdenní Výzvy
 sc_wc_score :: Předchozí skóre: :: Nové skóre:
 sc_wc_upload :: Chtěl bys publikovat tvé skóre? :: Publikovat
@@ -1020,7 +1020,7 @@ $6332 :: Plachtidla
 $6333 :: Ostatní
 $6334 :: Chyba SD karty.\n\nZkontroluj prosím údaje\nv Mario Kart Channel.
 $6335 :: Objekty jsou vyžadovány,\naby bylo možné hrát bitvy.
-$6400 :: Seznam StreetPass
+$6400 :: StreetPass
 $6401 :: Doporučení společenství\nbyla aktualizována.\n\nChceš vidět?
 $6416 :: Doporučení společenství byla aktualizována.
 
@@ -1107,7 +1107,7 @@ $6424 :: Vytvořit Grand Prix
 $6425 :: Nastavení
 
 #Mario Kart Channel
-$6415 :: Další hráči Mario Kart 7, kteří se\nsetkali přes StreetPass, budou přidáni\ndo tvého seznamu StreetPass.
+$6415 :: Další hráči Mario Kart 7, kteří\nse setkali přes StreetPass,\nbudou přidáni do tvého\nseznamu StreetPass.
 
 #Menus
 $6410 :: Hrát

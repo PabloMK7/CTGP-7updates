@@ -354,7 +354,7 @@ serv_qrshow :: Dréck \uE002 fir et ze weisen.
 statsentry :: Lokal Statistik :: Hei kënnt Dir Är privat Benotzungsstatistiken kucken.
 stats_tpl :: Spill ugefaang
 stats_tot :: Gesamtzuel vun Offline Rennen :: Gesamtzuel vun Online Rennen
-stats_sc :: Total Score Attack Races :: Total Weekly Challenge Attempts
+stats_sc :: Total Score Attack Rennen :: Total Wëchentlech Erausfuerderung Versich
 stats_vnll :: Originale
 stats_most :: Meeschte gespillt Bunnen :: Meeschte gespillt kompetitiv Arenaen
 stats_rpoints :: Offline-VR

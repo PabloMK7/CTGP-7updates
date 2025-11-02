@@ -433,7 +433,7 @@ pts_action_6 :: Perfect Rocket Start
 pts_action_7 :: 점프 액션
 pts_action_8 :: Advanced Trick
 pts_action_9 :: 슬립 스트림
-pts_action_10 :: Golden Mushroom!
+pts_action_10 :: 황금대시버섯!
 pts_action_11 :: 코인
 pts_action_12 :: 스타링
 pts_action_13 :: 토관

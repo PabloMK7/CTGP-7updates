@@ -393,6 +393,7 @@ M/gamefs/Sound/extData/Ctgp_DarkMatterFortress.bcgrp
 M/gamefs/Sound/extData/Ctgp_DarkSanctuary.bcgrp
 M/gamefs/Sound/extData/Ctgp_DarkStarCastle.bcgrp
 M/gamefs/Sound/extData/Ctgp_DeseHill.bcgrp
+M/gamefs/Sound/extData/Ctgp_DKRStaCi.bcgrp
 M/gamefs/Sound/extData/Ctgp_DogeDesert.bcgrp
 M/gamefs/Sound/extData/Ctgp_DrgnBGrounds.bcgrp
 M/gamefs/Sound/extData/Ctgp_ElementalCave.bcgrp
@@ -412,7 +413,9 @@ M/gamefs/Sound/extData/Ctgp_MoooMoooFarm.bcgrp
 M/gamefs/Sound/extData/Ctgp_N64BansheeBoard.bcgrp
 M/gamefs/Sound/extData/Ctgp_N64DKJungleParkway.bcgrp
 M/gamefs/Sound/extData/Ctgp_N64RainbowR.bcgrp
+M/gamefs/Sound/extData/Ctgp_NeoMetropolisss.bcgrp
 M/gamefs/Sound/extData/Ctgp_PaintSwpRC.bcgrp
+M/gamefs/Sound/extData/Ctgp_RMXDP1.bcgrp
 M/gamefs/Sound/extData/Ctgp_RMXMarioCircuit1.bcgrp
 M/gamefs/Sound/extData/Ctgp_RainbowRdDX.bcgrp
 M/gamefs/Sound/extData/Ctgp_RetroRaceway.bcgrp
@@ -433,6 +436,7 @@ M/gamefs/Sound/extData/Ctgp_WiiWarioGoldMine.bcgrp
 M/gamefs/Sound/extData/Gagb_BowserCastle4.bcgrp
 M/gamefs/Sound/extData/Gcn_LuigiCircuit.bcgrp
 M/gamefs/Sound/extData/Gcn_YoshiCircuit.bcgrp
+M/gamefs/Sound/extData/Gctr_WinningRun.bcgrp
 M/gamefs/Sound/extData/Ggba_ShyGuyBeach.bcgrp
 M/gamefs/Sound/extData/Gn64_SecretSl.bcgrp
 M/gamefs/Sound/stream/STRM_CC_64_CHOCO_MOUNTAIN_F.bcstm

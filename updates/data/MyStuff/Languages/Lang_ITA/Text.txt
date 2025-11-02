@@ -194,7 +194,7 @@ achiev_all_1star :: Hai ottenuto 1 stella\nin tutti i trofei custom.\n\nCongratu
 achiev_all_3star :: Hai ottenuto 3 stelle\nin tutti i trofei custom.\n\nCongratulazioni!
 achiev_all_mission :: Hai ottenuto 10 punti\nin tutte le missioni.\n\nCongratulazioni!
 achiev_5000_vr :: Hai ottenuto 5000 PC\nin CTWW.\n\nCongratulazioni!
-achiev_all_score_completed :: Hai completato tutte le\npiste nella sfida a punti.\n\nCongratulazioni!
+achiev_all_score_completed :: Hai completato tutte le\npiste nella battaglia punti.\n\nCongratulazioni!
 achiev_blue_coin :: Hai preso tutte le\nmonete blu!\n\nCongratulazioni!
 achiev_dodged_blue :: Hai schivato\n3 gusci blu!\n\nCongratulazioni!
 unlocked_item :: Hai sbloccato:\n\n
@@ -255,7 +255,7 @@ imtrick :: Acrobazie migliorate :: I kart ruoteranno quando si fa un accrobazia.
 autoaccel :: Accelerazione automatica :: Premendo \uE000 o \uE003 si abilita l'accelerazione automatica finché non si preme \uE001.
 imbrakedrift :: Derapata lenta migliorata :: Tieni premuto \uE001 durante la derapata per frenare senza perdere il miniturbo.
 autodelaydrift :: "Delay Drift" Automatico :: Aiuta a prevenire la perdita di velocità quando il kart inizia a derapare.
-improvedhorn :: Improved Horn :: Allows playing the horn with the item button and hearing other player's horns in multiplayer.
+improvedhorn :: Clacson Migliorato :: Permette di suonare il clacson con il pulsante oggetti e di sentire il clacson degli altri giocatori in Multigiocatore
 achieventry :: Obbiettivi :: Controlla i progressi con gli obbiettivi di CTGP-7
 badgesentry :: Emblemi :: Vedi gli Emblemi ottenuti di CTGP-7 (Richiede connessione ad internet)
 optionsentry :: Opzioni :: Configura le opzioni di CTGP-7
@@ -354,7 +354,7 @@ serv_qrshow :: Premere \uE002 per visualizzare.
 statsentry :: Statistiche locali :: Controlla le tue statistiche private di CTGP-7.
 stats_tpl :: Volte giocato
 stats_tot :: Gare Offline in Totale ::  Gare Online in Totale
-stats_sc :: Total Score Attack Races :: Total Weekly Challenge Attempts
+stats_sc :: Totale Gare Battaglia Punti :: Totale Tentativi Sfida Settimanale
 stats_vnll :: Normale
 stats_most :: Percorsi giocati di più :: Arene giocate di più
 stats_rpoints :: Punti di gara
@@ -423,110 +423,110 @@ badge_msg :: Hai ottenuto un nuovo\nEmblema CTGP-7. \n\nCongratulazioni!
 badge_date_fmt :: %d.%m.%Y
 
 #Score Attack Actions
-pts_action_0 :: Mushroom!
-pts_action_1 :: Dash Panel
-pts_action_2 :: Mini-Turbo
-pts_action_3 :: Super Mini-Turbo
-pts_action_4 :: Small Rocket Start
-pts_action_5 :: Rocket Start
-pts_action_6 :: Perfect Rocket Start
-pts_action_7 :: Trick
-pts_action_8 :: Advanced Trick
-pts_action_9 :: Slipstream
-pts_action_10 :: Golden Mushroom!
-pts_action_11 :: Coin
-pts_action_12 :: Star Ring
-pts_action_13 :: Pipe
+pts_action_0 :: Fungo!
+pts_action_1 :: Pannello Scatto
+pts_action_2 :: Miniturbo
+pts_action_3 :: Super Miniturbo
+pts_action_4 :: Partenza Razzo Minore
+pts_action_5 :: Partenza Razzo Minore
+pts_action_6 :: Partenza Razzo Perfetta
+pts_action_7 :: Salto Turbo
+pts_action_8 :: Trick Avanzato
+pts_action_9 :: Scia
+pts_action_10 :: Fungo scatto dorato!
+pts_action_11 :: Moneta
+pts_action_12 :: Anello Stella
+pts_action_13 :: Tubo
 pts_action_14 :: Goomba
-pts_action_15 :: Swoop
-pts_action_16 :: Traffic Cone
-pts_action_17 :: Boulder
-pts_action_18 :: Cheep Cheep
-pts_action_19 :: Clampy
-pts_action_20 :: Sidestepper
-pts_action_21 :: Goat
-pts_action_22 :: Pot
-pts_action_23 :: Carpet Shy Guy
-pts_action_24 :: Barrel
-pts_action_25 :: Tiki Goon
-pts_action_26 :: Frogoon
-pts_action_27 :: Car
-pts_action_28 :: Crate
-pts_action_29 :: Penguin
-pts_action_30 :: Icicle
-pts_action_31 :: Thwomp
-pts_action_32 :: Fake Bush
-pts_action_33 :: Fake Goomba
-pts_action_34 :: Piranha Plant
-pts_action_35 :: Chain Chomp
-pts_action_36 :: Fish Bone
-pts_action_37 :: Anchor
-pts_action_38 :: Music Bash
-pts_action_39 :: Leaf Pile
-pts_action_40 :: Wiggler
-pts_action_41 :: Bullet Bill
-pts_action_42 :: Rocky Wrench
-pts_action_43 :: Snowman
-pts_action_44 :: Snowball
-pts_action_45 :: Metal Ball
-pts_action_46 :: Table
+pts_action_15 :: Swooper
+pts_action_16 :: Cono Stradale
+pts_action_17 :: Masso
+pts_action_18 :: Pesce Smack
+pts_action_19 :: Ostrica
+pts_action_20 :: Granchio
+pts_action_21 :: Capra
+pts_action_22 :: Vaso
+pts_action_23 :: Tipo Timido Tappeto
+pts_action_24 :: Barile
+pts_action_25 :: Tiki Soldato
+pts_action_26 :: Gracicrà
+pts_action_27 :: Macchina
+pts_action_28 :: Cassa
+pts_action_29 :: Pinguino
+pts_action_30 :: Stalattite
+pts_action_31 :: Twomp
+pts_action_32 :: Cespuglio Falso
+pts_action_33 :: Goomba Falso
+pts_action_34 :: Pianta Piranha
+pts_action_35 :: Categnaccio
+pts_action_36 :: Pesce Lisca
+pts_action_37 :: Ancora
+pts_action_38 :: Nota Rimbalzante
+pts_action_39 :: Foglie
+pts_action_40 :: Torcibruco
+pts_action_41 :: Pallottolo Bill
+pts_action_42 :: Tartatalpa
+pts_action_43 :: Pupazzo di neve
+pts_action_44 :: Palla di neve
+pts_action_45 :: Palla di metallo
+pts_action_46 :: Tavolo
 pts_action_47 :: Cactus
-pts_action_48 :: Train
-pts_action_49 :: Stingby
-pts_action_50 :: Glide Time
-pts_action_51 :: Green Shell Hit!
-pts_action_52 :: Red Shell Hit!
-pts_action_53 :: Banana Hit!
-pts_action_54 :: Spiny Shell Hit!
-pts_action_55 :: Lightning Hit!
-pts_action_56 :: Fake Box Hit!
-pts_action_57 :: Bob-omb Hit!
-pts_action_58 :: Fire Flower Hit!
-pts_action_59 :: Super Leaf Hit!
-pts_action_60 :: Blooper Deploy!
-pts_action_61 :: Star Hit!
-pts_action_62 :: Mega Mush Hit!
-pts_action_63 :: Bullet Bill Hit!
-pts_action_64 :: Bullet Overtake
-pts_action_65 :: Payback!
+pts_action_48 :: Treno
+pts_action_49 :: Apiciccia
+pts_action_50 :: Tempo in volo
+pts_action_51 :: Guscio Verde a segno!
+pts_action_52 :: Guscio Rosso a segno!
+pts_action_53 :: Banana a segno!
+pts_action_54 :: Guscio Spinoso a segno!
+pts_action_55 :: Fulmine a segno!
+pts_action_56 :: Oggetto Finto a segno!
+pts_action_57 :: Bob-omba a segno!
+pts_action_58 :: Fiore di fuoco a segno!
+pts_action_59 :: Superfoglia a segno!
+pts_action_60 :: Calamako Lanciato!
+pts_action_61 :: Stella a segno!
+pts_action_62 :: Mega Fungo a segno!
+pts_action_63 :: Pallottolo Bill a segno!
+pts_action_64 :: Sorpasso Pallottolo Bill
+pts_action_65 :: Rivincita!
 pts_action_66 :: Smash!
-pts_action_67 :: Item Destroyed
-pts_action_68 :: Item Deflected
-pts_action_69 :: Spiny Shell Dodge!
-pts_action_70 :: Next Lap!
-pts_action_71 :: Next Section!
-pts_action_72 :: Frenzy Finish!
-pts_action_73 :: Race Finish!
+pts_action_67 :: Oggetto Distrutto
+pts_action_68 :: Oggetto Deviato
+pts_action_69 :: Guscio Spinoso Schivato!
+pts_action_70 :: Prossimo Giro!
+pts_action_71 :: Prossima Sezione!
+pts_action_72 :: Fine Frenetica!
+pts_action_73 :: Gara Finita!
 
 #Score Attack
-score_attack :: Score Attack :: Chain actions to get the most points.
-sc_at_spc_cup :: Random Course :: Weekly Challenge
-sc_at_race_start :: Race Start
-sc_at_clear :: Course Cleared :: Course Not Cleared
-sc_at_save :: (Delete Save: \uE002) :: (None)
-sc_at_score :: Best score :: Clear score
-sc_at_delete :: Delete this course save data?
-sc_at_record :: New Record!
-sc_at_clear_small :: Cleared! :: Not Cleared
-sc_at_cleared_tr :: Cleared tracks
-sc_at_nice :: NICE!
-sc_at_great :: GREAT!
-sc_at_excel :: EXCELLENT!
-sc_at_fanta :: FANTASTIC!
+score_attack :: Battaglia Punti :: Incatena azioni per prendere più punti.
+sc_at_spc_cup :: Percorso Casuale :: Sfida Settimanale
+sc_at_race_start :: Partenza Gara
+sc_at_clear :: Percorso Superato :: Percorso Non Superato
+sc_at_save :: (Cancella Salvataggio: \uE002) :: (Nessuno)
+sc_at_score :: Punteggio Migliore :: Punteggio fatto
+sc_at_delete :: Vuoi cancellare i dati di questa pista?
+sc_at_record :: Nuovo Record!
+sc_at_clear_small :: Passato! :: Non passato
+sc_at_cleared_tr :: Percorsi superati
+sc_at_nice :: BENE!
+sc_at_great :: GRANDE!
+sc_at_excel :: OTTIMO!
+sc_at_fanta :: FANTASTICO!
 sc_at_combo :: Combo x
 
 #Score Attack Weekly
-sc_wc_ended :: Current Weekly Challenge has ended :: No data available
-sc_wc_curr :: Current challenge:
-sc_wc_time :: Time remaining:
-sc_wc_bonus :: Bonus combo: :: Your bonus:
-sc_wc_board :: Leaderboard: Top 10 :: Leaderboard: My Score
-sc_wc_getting :: Getting Weekly Challenge info... :: Failed to get Weekly Challenge info.\nError: 0x%08X
-sc_wc_results :: Weekly Challenge Results
-sc_wc_score :: Previous score: :: New score:
-sc_wc_upload :: Would you like to publish your score? :: Publish
-sc_wc_uploading :: Uploading results... :: An error has occurred.
-sc_wc_retry :: Retry?
+sc_wc_ended :: La Sfida Settimanale attuale è finita :: Nessun dato disponibile
+sc_wc_curr :: Sfida attuale:
+sc_wc_time :: Tempo rimanente:
+sc_wc_bonus :: Bonus combo: :: Il tuo bonus:
+sc_wc_board :: Classifica: Top 10 :: Classifica: Il Mio Punteggio
+sc_wc_getting :: Prendendo info sulla Sfida Settimanale... :: Fallito il recupero info Sfida Settimanale.\nError: 0x%08X
+sc_wc_results :: Risultati Sfida Settimanale
+sc_wc_score :: Punteggio precedente: :: Nuovo punteggio:
+sc_wc_upload :: Vorresti pubblicare il tuo punteggio? :: Pubblica
+sc_wc_uploading :: Caricando risultati... :: Si è verificato un errore.
+sc_wc_retry :: Riprovare?
 
 #Local Multiplayer Error
-mult_error :: All participants must\nhave the latest CTGP-7\nversion installed. :: You have to update\nCTGP-7 to play in\nthis room.
+mult_error :: Tutti i partecipanti devono avere\nl'ultima versione di CTGP-7\ninstallata. :: Devi aggiornare CTGP-7\n per entrare in\nquesta stanza.

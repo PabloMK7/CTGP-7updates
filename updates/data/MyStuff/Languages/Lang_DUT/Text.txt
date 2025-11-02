@@ -42,8 +42,8 @@ $710069 :: Kasteel der Tijd
 #Egg Cup
 $700015 :: Eibeker
 $710063 :: \uE033 Yoshi's Watervallen
-$710047 :: \uE022\uE023 Chocoberg
-$710048 :: \uE033 Paddenstoelenklif
+$710047 :: \uE022\uE023 Chocokloof
+$710048 :: \uE033 Paddenstoelenpas
 $710051 :: CTR Crash-Grot
 
 #Bullet Cup
@@ -163,7 +163,7 @@ $700032 :: Zonbeker
 $710130 :: Kaap Koraal
 $710131 :: \uE067 Wario's Goudmijn
 $710132 :: \uE033 Peach' Paleistuin
-$710133 :: Ijskoud Citadel
+$710133 :: IJskoud Citadel
 
 #Dark Star Cup
 $700033 :: Donkere Ster-Beker
@@ -354,7 +354,7 @@ serv_qrshow :: Druk op \uE002 om weer te geven.
 statsentry :: Lokale statistieken :: Kijk hier je CTGP-7-statistieken na.
 stats_tpl :: Keren gespeeld
 stats_tot :: Totale offline races :: Totale online races
-stats_sc :: Total Score Attack Races :: Total Weekly Challenge Attempts
+stats_sc :: Totale Scoreraces :: Totale pogingen wekelijkse uitdagingen
 stats_vnll :: Origineel
 stats_most :: Meest gespeelde circuits :: Meest gespeelde arenas
 stats_rpoints :: Racepunten
