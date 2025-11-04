@@ -338,7 +338,7 @@ item_fib :: Falešná Krabice
 #Reset Ghosts
 resghost :: Resetovat Ducha :: Umožňuje resetovat ducha z libovolné tratě.
 ghostseltrack :: Vyber trať pro resetování ducha z:
-ghostcantrecov :: Tuto operaci nelze vrátit zpět.\nPokračovat? :: Duch byl resetován.
+ghostcantrecov :: Tuto operaci není možné vrátit zpět.\nPokračovat? :: Duch byl resetován.
 
 #Server Settings
 servsett :: Nastavení Serveru :: Nastavení související se serverem CTGP-7.
@@ -1166,7 +1166,7 @@ $7101 :: SD karta byla\nodstraněna.\n\nPřed odstraněním SD\nkaret vypni nap�
 $7102 :: Prosím počkej...\n\nNevypni napájení ani\nneodstraň SD kartu.
 $7103 :: Není vložena žádná SD karta.
 $7104 :: Zařízení aktuálně vložené\ndo slotu SD karty\nnení možné použít.
-$7105 :: Na SD kartu nelze zapisovat.\n\nPřesuň prosím spínač\nochrany proti zápisu\ndo vypnuté polohy.
+$7105 :: Na SD kartu není možné zapisovat.\n\nPřesuň prosím spínač\nochrany proti zápisu\ndo vypnuté polohy.
 $7106 :: Není možné vytvořit data\npro Mario Kart Channel.\nNa SD kartě není\ndostatek volného místa.
 $7107 :: Chyba SD karty.
 $7108 :: Mario Kart Kanál data\nje poškozena a\nteď bude resetována.

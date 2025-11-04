@@ -468,7 +468,7 @@ pts_action_41 :: Rakieta Bill
 pts_action_42 :: Kret
 pts_action_43 :: Bałwan
 pts_action_44 :: Kula śnieżna
-pts_action_45 :: Kula pinballowa
+pts_action_45 :: Kula metalowa
 pts_action_46 :: Stół
 pts_action_47 :: Kaktus
 pts_action_48 :: Pociąg
@@ -501,7 +501,7 @@ pts_action_73 :: Meta!
 #Score Attack
 score_attack :: Próby punktowe :: Wykonuj serie akcji i zdobywaj punkty.
 sc_at_spc_cup :: Losowa trasa :: Wyzwanie tygodnia
-sc_at_race_start :: Rozpoczęcie wyścigu!
+sc_at_race_start :: Próba punktowa!
 sc_at_clear :: Zaliczona trasa :: Niezaliczona trasa
 sc_at_save :: (Usuń zapis: \uE002) :: (Brak)
 sc_at_score :: Najlepszy wynik :: Próg zaliczenia

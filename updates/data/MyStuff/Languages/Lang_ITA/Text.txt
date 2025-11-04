@@ -64,7 +64,7 @@ $710077 :: Rovine di Spiaggia Vulcano
 $700019 :: Trofeo Piuma
 $710078 :: \uE026\uE027 Circuito di Yoshi
 $710079 :: \uE024\uE025 Circuito di Peach
-$710080 :: Folle Città
+$710080 :: Città Folle
 $710081 :: \uE024\uE025 Circuito di Luigi
 
 #Fire Cup
@@ -256,7 +256,7 @@ autoaccel :: Accelerazione automatica :: Premendo \uE000 o \uE003 si abilita l'a
 imbrakedrift :: Derapata lenta migliorata :: Tieni premuto \uE001 durante la derapata per frenare senza perdere il miniturbo.
 autodelaydrift :: "Delay Drift" Automatico :: Aiuta a prevenire la perdita di velocità quando il kart inizia a derapare.
 improvedhorn :: Clacson Migliorato :: Permette di suonare il clacson con il pulsante oggetti e di sentire il clacson degli altri giocatori in Multigiocatore
-achieventry :: Obbiettivi :: Controlla i progressi con gli obbiettivi di CTGP-7
+achieventry :: Obiettivi :: Controlla i progressi con gli obbiettivi di CTGP-7
 badgesentry :: Emblemi :: Vedi gli Emblemi ottenuti di CTGP-7 (Richiede connessione ad internet)
 optionsentry :: Opzioni :: Configura le opzioni di CTGP-7
 
@@ -489,7 +489,7 @@ pts_action_62 :: Mega Fungo a segno!
 pts_action_63 :: Pallottolo Bill a segno!
 pts_action_64 :: Sorpasso Pallottolo Bill
 pts_action_65 :: Rivincita!
-pts_action_66 :: Smash!
+pts_action_66 :: Appiattimento!
 pts_action_67 :: Oggetto Distrutto
 pts_action_68 :: Oggetto Deviato
 pts_action_69 :: Guscio Spinoso Schivato!

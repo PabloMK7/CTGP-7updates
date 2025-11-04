@@ -499,7 +499,7 @@ pts_action_72 :: Frénésie à l'arrivée !
 pts_action_73 :: Fin de course !
 
 #Score Attack
-score_attack :: Contre-le-score :: Enchaînez les actions et visez le meilleur score.
+score_attack :: Contre-le-score :: Enchaînez les actions et visez le meilleur score !
 sc_at_spc_cup :: Course aléatoire :: Défi hebdomadaire
 sc_at_race_start :: Début de course
 sc_at_clear :: Circuit terminé :: Circuit non terminé
