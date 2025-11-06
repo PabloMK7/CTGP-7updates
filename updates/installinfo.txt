@@ -436,7 +436,6 @@ M/gamefs/Sound/extData/Ctgp_WiiWarioGoldMine.bcgrp
 M/gamefs/Sound/extData/Gagb_BowserCastle4.bcgrp
 M/gamefs/Sound/extData/Gcn_LuigiCircuit.bcgrp
 M/gamefs/Sound/extData/Gcn_YoshiCircuit.bcgrp
-M/gamefs/Sound/extData/Gctr_WinningRun.bcgrp
 M/gamefs/Sound/extData/Ggba_ShyGuyBeach.bcgrp
 M/gamefs/Sound/extData/Gn64_SecretSl.bcgrp
 M/gamefs/Sound/stream/STRM_CC_64_CHOCO_MOUNTAIN_F.bcstm
