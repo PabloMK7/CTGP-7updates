@@ -183,7 +183,7 @@ welc_t :: Benvingut a CTGP-7!
 welc_1 :: Hola!\nDes del menú ingame,\npodràs utilitzar algunes\nfuncions interessants.\nPer a obrir el menú ingame,\nutilitza el botó (Select).
 welc_2 :: Per a utilitzar qualsevol\nfunció, posa el cursor\ndamunt i prem A.
 welc_3 :: Tinguis en compte que algunes\nfuncions com "Selector de CC"\nseran desactivades en\nmultijugador en línia.
-welc_4 :: Les teves estadístiques seran\npujades al servidor de CTGP-7\nperquè tothom les pugui veure.\n(Les dades són anonimitzades.)\nPots desactivar la pujada\ndes del menú ingame.
+welc_4 :: Les teves estadístiques seran\npujades al servidor de CTGP-7\nperquè tothom les pugui veure.\n(Les dades són anonimitzades.)\nPots desactivar la comunicació\ndes del menú ingame.
 welc_5 :: Si utilitzes CTGP-7 Network\nacceptes les seves regles.\n\nPots veure-les aquí:\nctgp-7.github.io/ctww.html
 welc_6 :: Recorda visitar el servidor\nde Discord de CTGP-7!\n\nEnllaç d'invitació:\ninvite.gg/ctgp7
 welc_7 :: Esperem que gaudeixis el mod!\n^ω^
@@ -236,6 +236,7 @@ exit :: Sortir
 default :: Per omissió
 button :: Botó
 summary :: Resum
+continue :: Continuar
 
 #Folders
 gameplay_folder :: Funcions del Joc :: Configuració de funcions adicionals per al joc.
@@ -259,6 +260,8 @@ improvedhorn :: Clàxon Millorat :: Permet tocar el clàxon amb el botó d'objec
 achieventry :: Aconseguiments :: Comprova el progrés dels aconseguiments de CTGP-7 .
 badgesentry :: Insígnies :: Mirar insígnies de CTGP-7 obtingudes (requereix connexió a internet).
 optionsentry :: Opcions :: Configura les opcions de CTGP-7.
+servsett :: Opcions del Servidor :: Opcions relacionades amb el servidor de CTGP-7.
+cloudsaveentry :: Còpia de Seguretat al Núvol :: Gestiona les còpies de seguretat en línia creades des d'aquesta consola.
 
 #Speedometer text
 spd_set :: Opcions de Velocímetre.
@@ -341,9 +344,8 @@ ghostseltrack :: Selecciona el circuit per resetejar\nel seu corredor fantasma:
 ghostcantrecov :: Aquesta operació no es pot desfer.\nContinuar? :: El fantasma s'ha resetejat.
 
 #Server Settings
-servsett :: Opcions del Servidor :: Opcions relacionades amb el servidor de CTGP-7.
 serv_consID :: CTGP-7 ConsoleID
-serv_statsupl :: Pujar Estadístiques
+serv_communic :: Comunicació amb el servidor :: Aquesta funcionalitat requereix que la\ncomunicació amb el servidor\nestigui activada.
 serv_displname :: Nom a Mostrar :: Selecciona el tipus de nom a mostrar.
 serv_disphid :: Ocult
 serv_dispmii :: Nom del Mii
@@ -530,6 +532,28 @@ sc_wc_retry :: Reintentar?
 
 #Local Multiplayer Error
 mult_error :: Tots els participants han\nde tenir l'última versió de \nCTGP-7 instal·lada. :: Has d\'actualitzar\nCTGP-7 per jugar\nen aquesta sala.
+
+#Save Backup
+sbak_avail :: Aquesta opció només està disponible\ndes del menú "Un jugador".
+sbak_fetch :: Obtenint informació... :: Error en obtenir la informació.\nError: 0x%08X
+sbak_info :: Informació de la còpia de seguretat
+sbak_found :: Còpia de seguretat trobada. :: Còpia de seguretat no trobada.
+sbak_created :: Creada:
+sbak_cretime :: Avui :: Fa %d dies
+sbak_create :: Crear còpia
+sbak_restore :: Restaurar còpia
+sbak_delete :: Esborrar còpia
+sbak_new :: Una nova còpia de seguretat en línia\nserà creada (sense corredors fantasma). :: La còpia de seguretat anterior\nserà sobreescrita.
+sbak_newprog :: Creant còpia de seguretat: %s
+sbak_newres :: Còpia de seguretat creada amb èxit. :: Error en crear la còpia de seguretat:\n0x%08X
+sbak_rest :: La còpia de seguretat en línia\nserà restaurada. :: Les dades de desament actuals\nestaran recolzades a les carpetes:
+sbak_restex :: Les carpetes ja existeixen i seran eliminades.
+sbak_restprog :: Restaurant còpia de seguretat: %s
+sbak_restres :: Còpia de seguretat restaurada amb èxit. :: Error en restaurar la còpia de seguretat:\n0x%08X
+sbak_restres2 :: Restaura les següents carpetes\nmanualment per recuperar\nles teves dades de desament: :: El joc es tancarà.
+sbak_dele :: La còpia de seguretat en línia\nserà eliminada. :: Aquesta operació no es pot desfer.
+sbak_deleprog :: Esborrant còpia de seguretat...
+sbak_deleres :: Còpia de seguretat esborrada amb èxit. :: Error en esborrar la còpia de seguretat:\n0x%08X
 
 #Characters
 $1000 :: Mario
@@ -871,8 +895,8 @@ $2323 :: Per ordre
 
 #Teams setting
 $2340 :: Equips
-$2341 :: \r2315
-$2342 :: \r2314
+$2341 :: Activat
+$2342 :: Desactivat
 
 #Stage setting
 $2350 :: Escenaris

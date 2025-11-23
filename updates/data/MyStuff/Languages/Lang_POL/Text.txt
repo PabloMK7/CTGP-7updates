@@ -20,7 +20,7 @@ $710049 :: \uE024\uE025 Zamek Bowsera 3
 
 #Cloud Cup
 $700012 :: Puchar Chmurkokwiatowy
-$710053 :: \uE022\uE023 Polarne Śnieżyce
+$710053 :: \uE022\uE023 Mrożona Kraina
 $710054 :: \uE022\uE023 Farma Muu Muu
 $710052 :: \uE033 Skwer Delfino
 $710096 :: \uE026\uE027 Tor Mario
@@ -135,7 +135,7 @@ $700028 :: Puchar Kamieniogrzybowy
 $710060 :: Wyspa Rur-Przenośni
 $710115 :: Neo Metropolis
 $710116 :: Śnieżne Wyżyny
-$710117 :: Siedziba Gnasty Gnorca
+$710117 :: Kryjówka Gnasty Gnorca
 
 #Moon Cup
 $700029 :: Puchar Księżycowy
@@ -174,7 +174,7 @@ $710137 :: Zamek Gwiazdy Ciemności
 
 #Save Data
 $7005 :: Na karcie SD zostanie\nutworzony dodatkowy zapis\ndla CTGP-7.
-$7003 :: Tworzenie dodatkowego zapisu...
+$7003 :: Tworzenie\ndodatkowego zapisu...
 $7004 :: Dodatkowy zapis\nzostał utworzony.
 $7007 :: Nie ma zapisu w wersji podst.\ngry Mario Kart 7. Uruchom ją,\naby wygenerować\nnowy zapis.\n\nWyłącz konsolę za pomocą\nprzycisku POWER.
 
@@ -183,8 +183,8 @@ welc_t :: CTGP-7 - Zapraszamy!
 welc_1 :: Witaj!\nTen mod zawiera menu gry,\nw którym można włączyć kilka\nciekawych funkcji.\nAby je otworzyć, naciśnij\nprzycisk SELECT.
 welc_2 :: Żeby korzystać z funkcji,\nustaw kursor na jakimś\nelemencie i naciśnij przycisk A,\naby ją włączyć/skonfigurować.
 welc_3 :: Pamiętaj, że niektóre funkcje\n(takie jak selektor CM3)\nbędą wyłączone podczas gry\nw trybie online.
-welc_4 :: Statystyki Twojej gry będą\nprzesyłane na serwer CTGP-7,\naby tworzyć statystyki ogólne\n(dane są anonimowe).\nMożna wyłączyć przesyłanie\nstatystyk w menu gry.
-welc_5 :: Korzystanie z sieci gry online\nCTGP-7 Network zakłada,\nże zgadzasz się na jej zasady.\nMożna je przeczytać na stronie:\nctgp-7.github.io/ctww.html
+welc_4 :: Statystyki Twojej gry będą\nprzesyłane na serwer CTGP-7,\naby tworzyć statystyki ogólne\n(dane są anonimowe).\nMożna wyłączyć opcję łączności\nz serwerem w menu gry.
+welc_5 :: Korzystanie z sieci gry online\nCTGP-7 Network zakłada,\nże zgadzasz się przestrzegać\nobowiązujące zasady.\nMożna je przeczytać na stronie:\nctgp-7.github.io/ctww.html
 welc_6 :: Nie zapomnij odwiedzić\nserwera CTGP-7 na Discordzie!\n\nLink z zaproszeniem:\ninvite.gg/ctgp7
 welc_7 :: Życzymy miłej zabawy z modem!\n^w^
 
@@ -236,6 +236,7 @@ exit :: Wyjdź
 default :: Domyślnie
 button :: Przycisk
 summary :: Podsumowanie
+continue :: Kontynuuj
 
 #Folders
 gameplay_folder :: Funkcje gry :: Konfiguracja dodatkowych funkcji podczas gry.
@@ -259,6 +260,8 @@ improvedhorn :: Lepszy klakson :: Będzie można zatrąbić klaksonem za pomocą
 achieventry :: Osiągnięcia :: Zobacz swoje postępy w osiągnięciach, jakie można odblokować w CTGP-7.
 badgesentry :: Odznaki :: Obejrzyj odznaki zdobyte w CTGP-7. Wymaga to połączenia z Internetem.
 optionsentry :: Opcje :: Zmień ustawienia gry CTGP-7.
+servsett :: Opcje serwera :: Ustawienia dotyczące Twoich danych na serwerze gry online CTGP-7.
+cloudsaveentry :: Kopia zapasowa w chmurze :: Zarządzaj zapisanymi kopiami zapasowymi postępów gry utworzonymi z tej konsoli.
 
 #Speedometer text
 spd_set :: Opcje prędkościomierza.
@@ -341,9 +344,8 @@ ghostseltrack :: Wybierz trasę, na której chcesz zresetować ducha.
 ghostcantrecov :: Tej operacji nie można cofnąć.\nKontynuować? :: Duch został zresetowany.
 
 #Server Settings
-servsett :: Opcje serwera :: Ustawienia dotyczące Twoich danych na serwerze gry online CTGP-7.
 serv_consID :: ID konsoli w CTGP-7
-serv_statsupl :: Przesyłanie statystyk
+serv_communic :: Łączność z serwerem :: Ta funkcja wymaga zezwolenia\nna łączność z serwerem.
 serv_displname :: Wyświetlana nazwa :: Zmień rodzaj wyświetlanej nazwy gracza.
 serv_disphid :: Ukryta (Player)
 serv_dispmii :: Pseudonim Mii
@@ -354,7 +356,7 @@ serv_qrshow :: Naciśnij \uE002, aby wyświetlić.
 statsentry :: Statystyki lokalne :: Zobacz swoje prywatne statystyki gry\nw CTGP-7.
 stats_tpl :: Liczba uruchomień
 stats_tot :: Wyścigi offline :: Wyścigi online
-stats_sc :: Rozegrane próby punktowe :: Rozegrane wyzwania tygodnia
+stats_sc :: Rozegrane próby punktowe :: Rozegrane próby wyzwań tygodnia
 stats_vnll :: Wersja podstawowa
 stats_most :: Najczęściej rozgrywane trasy :: Najczęściej rozgrywane areny
 stats_rpoints :: Punkty wyścigów
@@ -401,7 +403,7 @@ server_ctgp7_nocomm :: Sieć CTGP-7 Network\nnie obsługuje Społeczności.
 #Blue Coins
 blue_coins :: Niebieskie monety
 blue_coins_desc :: Na każdej trasie pojawi się jedna niebieska moneta - zbierz je wszystkie, aby odblokować coś fajnego!
-blue_coin_obtain :: Znaleziono $niebieską monetę$! :: Pozostało tras: %d.
+blue_coin_obtain :: $Niebieska moneta$ zebrana! :: Pozostało tras: %d.
 blue_coin_all :: Wszystkie monety\nzostały zebrane!
 blue_coin_nocc :: Nie można zbierać\nniebieskich monet,\ngdy selektor CM3\njest włączony.
 
@@ -419,7 +421,7 @@ badges_obtained :: Zdobyte odznaki:
 badges_use_online :: Pokazuj online :: Nie pokazuj online
 badge_name_desc :: Nazwa odznaki :: Opis odznaki
 badge_date :: Data zdobycia
-badge_msg :: Masz nowe odznaki w CTGP-7!\n\nGratulacje!
+badge_msg :: Masz nowe odznaki\nw CTGP-7!\n\nGratulacje!
 badge_date_fmt :: %d.%m.%Y
 
 #Score Attack Actions
@@ -501,13 +503,13 @@ pts_action_73 :: Meta!
 #Score Attack
 score_attack :: Próby punktowe :: Wykonuj serie akcji i zdobywaj punkty.
 sc_at_spc_cup :: Losowa trasa :: Wyzwanie tygodnia
-sc_at_race_start :: Próba punktowa!
+sc_at_race_start :: Próba punktowa
 sc_at_clear :: Zaliczona trasa :: Niezaliczona trasa
-sc_at_save :: (Usuń zapis: \uE002) :: (Brak)
-sc_at_score :: Najlepszy wynik :: Próg zaliczenia
+sc_at_save :: (Usuń zapis: \uE002) :: (brak)
+sc_at_score ::  Twój rekord ::  Próg zaliczenia
 sc_at_delete :: Zresetować rekord tej trasy?
-sc_at_record :: Nowy rekord!
-sc_at_clear_small :: Zaliczono! :: Nie zaliczono
+sc_at_record ::  Nowy rekord!
+sc_at_clear_small ::  Zaliczono! ::  Nie zaliczono
 sc_at_cleared_tr :: Zaliczone trasy
 sc_at_nice :: NIEŹLE!
 sc_at_great :: ŚWIETNIE!
@@ -530,6 +532,28 @@ sc_wc_retry :: Jeszcze raz?
 
 #Local Multiplayer Error
 mult_error :: Wszyscy gracze muszą mieć\nzainstalowaną najnowszą\nwersję CTGP-7. :: Musisz zaktualizować CTGP-7,\nżeby móc grać w tym pokoju.
+
+#Save Backup
+sbak_avail :: Ta opcja jest dostępna tylko\nw menu "Gra jednoosobowa".
+sbak_fetch :: Pobieranie informacji o kopii zapasowej... :: Nie można pobrać informacji\no kopii zapasowej.\nBłąd 0x%08X
+sbak_info :: Informacje o kopii zapasowej
+sbak_found :: Znaleziono kopię zapasową. :: Nie znaleziono kopii zapasowej.
+sbak_created :: Utworzono:
+sbak_cretime :: Dzisiaj :: %d dni temu
+sbak_create :: Utwórz kopię
+sbak_restore :: Przywróć kopię
+sbak_delete :: Usuń kopię
+sbak_new :: Zostanie utworzona nowa kopia zapasowa\nw chmurze (pełna, z wyjątkiem duchów). :: Poprzednio zapisana w chmurze kopia\nzostanie nadpisana.
+sbak_newprog :: Tworzenie kopii zapasowej: %s
+sbak_newres :: Utworzono kopię zapasową pomyślnie. :: Nie można utworzyć kopii zapasowej.\nBłąd 0x%08X
+sbak_rest :: Kopia zapasowa z chmury\nzostanie przywrócona. :: Aktualny zapis gry zostanie\nskopiowany do folderów:
+sbak_restex :: Foldery zapasowej kopii już\nistnieją i zostaną usunięte.
+sbak_restprog :: Przywracanie kopii zapasowej: %s
+sbak_restres :: Przywrócono kopię zapasową pomyślnie. :: Nie można przywrócić kopii zapasowej\nz chmury. Błąd 0x%08X
+sbak_restres2 :: Ręcznie przywróć następujące\nfoldery, aby odzyskać\nstary zapis: :: Gra teraz zostanie zamknięta.
+sbak_dele :: Kopia zapasowa w chmurze\nzostanie usunięta :: Tej operacji nie można cofnąć.
+sbak_deleprog :: Usuwanie kopii zapasowej...
+sbak_deleres :: Usunięto kopię zapasową pomyślnie. :: Nie można usunąć kopii zapasowej.\nBłąd 0x%08X
 
 #Characters
 $1000 :: Mario
@@ -573,7 +597,7 @@ $1036 :: Trzy Czerwone Skorupy
 
 #Icons
 $1043 :: Flaga
-$1044 :: Balony
+$1044 :: Baloniki
 $1045 :: Moneta
 $1046 :: Kierownica
 $1047 :: Złota Kierownica
@@ -800,12 +824,12 @@ $2003 :: Tak
 $2004 :: Nie
 $2005 :: Anuluj
 $2006 :: Dalej
-$9103 :: \r2003
-$9104 :: \r2004
+$9103 :: Tak
+$9104 :: Nie
 
 #Update dialogue
 $2080 :: Aby móc grać w trybie online,\nnajpierw należy pobrać\naktualizację gry Mario Kart 7.
-$2081 :: Zaktualizowano grę Mario Kart 7.\nGra zostanie uruchomiona ponownie.
+$2081 :: Zaktualizowano Mario Kart 7.\nGra zostanie\nuruchomiona ponownie.
 
 #Main menu
 $2090 :: Gra jednoosobowa
@@ -1003,7 +1027,7 @@ $6312 :: Nie możesz tworzyć\nwięcej społeczności.
 $6313 :: Nie możesz jeszcze\nutworzyć społeczności.\n\nSpróbuj ponownie później.
 $6314 :: Wprowadź nazwę społeczności.\n\nMożesz utworzyć co najwyżej\nosiem społeczności.
 $6315 :: Wybierz ustawienia gry\ndla tej społeczności.\n\nPostaraj się wybrać ustawienia,\nktóre spodobają się dołączającym.
-$6316 :: \r2001
+$6316 :: OK
 $6317 :: Wprowadź opis społeczności.\n\nPowinien jasno\nprzedstawiać, jakiego rodzaju\njest to społeczność.
 $6318 :: Powstanie społeczność przy\nużyciu powyższych ustawień.\nNie będzie można ich później\nw żaden sposób zmienić.\nCzy wszystko się zgadza?
 $6319 :: Twoja społeczność:\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0005\u0000\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nzostała utworzona!
@@ -1013,7 +1037,7 @@ $6322 :: Ta społeczność została usunięta\nz serwera.
 $6323 :: Aby móc grać w społecznościach,\nmuszą zostać utworzone dane\nKanału Mario Kart.
 $6324 :: Społeczności\n\nGraj z innymi graczami\nnależącymi do tej samej\nspołeczności.
 $6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0016\u0006pkt\u0008pkt.\u0000\u0000
-$6326 :: Liczba graczy\n\u000E\u0001\u0004\u0004\u0000\u0000
+$6326 :: Graczy\n\u000E\u0001\u0004\u0004\u0000\u0000
 $6327 :: Wybierz ikonę\ndla tej społeczności.
 $6328 :: Przedmioty
 $6329 :: Postacie
@@ -1220,11 +1244,11 @@ $9012 :: Pokaż powtórkę
 $9013 :: Wznów powtórkę
 $9014 :: Powtórka od nowa
 $9015 :: Zakończ powtórkę
-$9016 :: \r9009
+$9016 :: Następny wyścig
 $9017 :: Następna runda
 
 #Dialogue button
-$9101 :: \r2001
+$9101 :: OK
 
 #Ghost creation dialogues
 $9151 :: Utworzono nowego ducha.
@@ -1249,7 +1273,7 @@ $9173 :: Grupa jest pełna - zaczekaj.
 $9201 :: WYNIKI
 $9202 :: KLASYFIKACJA GENERALNA
 $9203 :: KLASYFIKACJA KOŃCOWA
-$9204 :: NAJLEPSZE REKORDY
+$9204 :: REKORDY
 
 #Lap number
 $9817 :: OKRĄŻENIE

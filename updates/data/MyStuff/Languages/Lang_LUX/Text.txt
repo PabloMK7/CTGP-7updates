@@ -89,7 +89,7 @@ $710092 :: \uE024\uE025 Shy Guy-Plage
 $710093 :: Bingo-Party
 
 #Coin Cup
-$700023 :: Mënz-Cup
+$700023 :: Mënz-Coupe
 $710094 :: Doge-Wüst
 $710095 :: \uE022\uE023 Spukpfad
 $710050 :: \uE022\uE023 D. DK s. Dschungelpark
@@ -98,7 +98,7 @@ $710073 :: Miku-Gebuertsdagspek. 2
 #Rainbow Cup
 $700017 :: Reebou-Coupe
 $710070 :: \uE022\uE023 Reebou Strooss
-$710071 :: \uE022\uE023 Reebou Strooss
+$710071 :: \uE024\uE025 Reebou Strooss
 $710114 :: RMX Reebou Strooss 1
 $710097 :: Reebou Strooss DX
 
@@ -236,10 +236,11 @@ exit :: Zréck
 default :: Standard
 button :: Knupp
 summary :: Resumé
+continue :: Continue
 
 #Folders
-gameplay_folder :: Spillfunktiounen :: Konfiguratioun fir zousätzlech Spillfunktiounen
-settings_folder :: Spill Astellunge :: CTGP-7 spezifesch Astellungen
+gameplay_folder :: Spillfunktiounen :: Konfiguratioun fir zousätzlech Spillfunktiounen.
+settings_folder :: Spill Astellunge :: CTGP-7 spezifesch Astellungen.
 other_folder :: Aner Optiounen :: Aner Optiounen a Fonctiounen.
 
 #Entries
@@ -251,17 +252,19 @@ charman :: Benotzerdefinéiert Driver Astellungen :: Wiesselt tëscht Original a
 cuskart :: Benotzerdefinéiert Karts :: Lued personaliséiert Karts an hir Deeler aus dem MyStuff Dossier.
 trackorder :: Online Course Uerdnung :: Wielt wéi personaliséiert Coursen am Online Modus bestallt solle ginn.
 itmprb :: Verbessert Objeten Mammut :: Weist déi richteg Wahrscheinlechkeeten fir Objeten, amplaz zoufälleg Objeten.
-imtrick :: Verbesserte Stunts: Karts wäerte spin nodeems se op enger Ramp sprangen. Änneren hir Richtung mat der \uE077 Circle Pad.
+imtrick :: Verbesserte Stunts :: Karts wäerte spin nodeems se op enger Ramp sprangen. Änneren hir Richtung mat der \uE077 Circle Pad.
 autoaccel :: Auto Beschleunegung :: Drécken \uE000 oder \uE003 aktivéiert automatesch Beschleunegung, déi aktiv bleift bis \uE001 gedréckt gëtt.
 imbrakedrift :: Verbessert Bremsen Drift :: Beim dreiwend, hält \uE001 fir ze bremsen ouni Äre Mini-Turbo ze verléieren.
-autodelaydrift :: Automatesch Delay-Drift: Verhënnert datt de Kart Geschwindegkeet verléiert wann Dir en Drift ufänkt.
+autodelaydrift :: Automatesch Delay-Drift :: Verhënnert datt de Kart Geschwindegkeet verléiert wann Dir en Drift ufänkt.
 improvedhorn :: Verbessert Horn :: Erlaabt d'Benotzung vum Horn mam Objetknäppchen an d'Horpen vun anere Spiller am Multispiller ze héieren.
 achieventry :: Leeschtungen :: View Fortschrëtter op CTGP-7 Leeschtungen.
 badgesentry :: Abzeechnungen :: Gekréinte CTGP-7-Abzeechnungen uweisen (Internetverbindung erfuerderlech).
-optionsentry :: Optiounen :: Konfiguratioun fir CTGP-7
+optionsentry :: Optiounen :: Konfiguratioun fir CTGP-7.
+servsett :: Server Astellungen :: Astellungen am Zesummenhang mat der CTGP-7 Server.
+cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
 
 #Speedometer text
-spd_set :: Speedometer Astellunge
+spd_set :: Speedometer Astellungen.
 spd_unit :: Eenheet
 spd_type :: Typ
 spd_sunit :: Wielt eng Speedometer Eenheet.
@@ -307,17 +310,17 @@ change_face :: Gesiicht änneren
 order_mode :: Normal :: Alphabetesch
 
 #Auto Acceleration
-autoaccel_button :: Wielt de Knäppchen deen automatesch Beschleunegung aktivéiert.
+autoaccel_button :: Wielt de Knäppchen deen automatesch\nBeschleunegung aktivéiert.
 
 #Online update check
 update_check :: Iwwerpréift no Updates ... :: Déi lescht Versioun vum CTGP-7\nass néideg fir online ze spillen.
-fail_conn :: Feeler beim Verbindung\nmam CTGP-7 Server.\n\nProbéiert méi spéit nach eng Kéier.
+fail_conn :: Feeler beim Verbindung\nmam CTGP-7 Server.\nProbéiert méi spéit\nnach eng Kéier.
 
 #CTWW
 cntdwn :: Countdown
 ctww :: CTWW
 vr :: VR
-CTWWtog :: Wëllt Dir Benotzerdefinéiert Coursen fir de Worldwide Modus aktivéieren? :: Wëllt Dir Benotzerdefinéiert Coursen fir de Weltmodus deaktivéieren?
+CTWWtog :: Wëllt Dir Benotzerdefinéiert\nCoursen fir de Worldwide\nModus aktivéieren? :: Wëllt Dir Benotzerdefinéiert\nCoursen fir de Weltmodus\ndeaktivéieren?
 
 #VS Mode
 VSSet :: Versus Astellungen
@@ -341,9 +344,8 @@ ghostseltrack :: Wielt de Course deem säi Phantom\nzréckgesat soll ginn:
 ghostcantrecov :: Dëse Prozess kann\nnet réckgängeg gemaach ginn.\nSowieso weiderfueren? :: De Phantom gouf zréckgesat.
 
 #Server Settings
-servsett :: Server Astellungen :: Astellungen am Zesummenhang mat der CTGP-7 Server
 serv_consID :: CTGP-7 ConsoleID
-serv_statsupl :: Eroplueden Statistiken
+serv_communic :: Server Communication :: This functionality requires server\ncommunication to be enabled.
 serv_displname :: Affichage Numm :: Wielt engem Affichage Numm Modus.
 serv_disphid :: Verstoppt
 serv_dispmii :: Mii-Spëtznumm
@@ -371,7 +373,7 @@ disc_beta :: Usproch fir privat Beta Testen. :: Net berechtegt fir privat Beta T
 disc_unlink :: Entlinken :: Wëllt Dir Äre Discord Kont entlinken?
 
 #Render Optimizations
-render_optim :: Render Optimisatiounen: Desaktivéiert den Top Écran 3D Modus an erlaabt CPU Verbesserunge fir New Nintendo 3DS Systemer.
+render_optim :: Render Optimisatiounen :: Desaktivéiert den Top Écran 3D Modus an erlaabt CPU Verbesserunge fir New Nintendo 3DS Systemer.
 
 #Missions
 ms_miss :: Missiounen
@@ -385,7 +387,7 @@ ms_nodata :: Keng Daten
 ms_delsave :: (Läschen: \uE002) :: Sidd Dir sécher datt Dir d'Späicherdaten\nfir dës Missioun läschen wëllt?
 msstat_msnplay :: Missiounen gespillt
 msstat_state :: Ofgeschloss :: Ausgefall
-msstat_perfgrad :: (mat perfektem Grad)
+msstat_perfgrad :: (mat perfektem Note)
 msstat_usermsn :: Benotzer-Missiounen
 
 #Course Checksum
@@ -396,7 +398,7 @@ server_name :: Nintendo Network :: CTGP-7 Network
 server_choice :: Wielt w.e.g. en Online Server:\n\n%s:\n    - Nëmme fir CTGP-7 Spiller\n     - CTWW & Originalcoursen\n-    Staark Anti-Cheat\n\n%s:\n    - Fir all MK7 Spiller\n    - Originalcoursen & Communautéiten\n    - Schwaach Anti-Cheat
 server_ctgp7_conn :: Eng Verbindung zum\nCTGP-7 Network opbauen ...
 server_ctgp7_dconn :: Wëllt Dir d'Verbindung mam\nCTGP-7 Network ënnerbriechen?
-server_ctgp7_nocomm :: Communautéiten sinn net op der CTGP-7 Networksinn.
+server_ctgp7_nocomm :: Communautéiten sinn net\nop der CTGP-7 Networksinn.
 
 #Blue Coins
 blue_coins :: Blo Mënzen
@@ -407,8 +409,8 @@ blue_coin_nocc :: Blue Coins kënnen\nnet mat der CC Selector\nageschalt kritt g
 
 #Lobby
 lobby_type :: Ëffentlech Lobby :: Privat Lobby
-choose_lobby :: Wielt online Lobby:\n\n- Ëffentlech: Spillt mat anere CTGP-7 Spiller.\n- Privat: Spillt mat anere Spiller privat.\n\nOPGEPASST: Vanilla VR gëtt a private Lobbyen benotzt.
-enter_lobby_code :: Gitt de private Lobbycode an.\n Deelt dëse Code mat aneren fir zesummen ze spillen! :: Lobby Code ass ze kuerz.
+choose_lobby :: Wielt online Lobby:\n\n- Ëffentlech: Spillt mat anere CTGP-7 Spiller.\n- Privat: Spillt mat anere Spiller privat.\n\nOPGEPASST: Vanilla VR gëtt a private Lobbyen\nbenotzt.
+enter_lobby_code :: Gitt de private Lobbycode an.\nDeelt dëse Code mat aneren fir zesummen\nze spillen! :: Lobby Code ass ze kuerz.
 
 #Proximity Chat
 proximity_chat :: Proximitéit Chat :: (dréckt \uE002 fir ze wiesselen)
@@ -499,7 +501,7 @@ pts_action_72 :: Wahnsinn-Fäerdeg!
 pts_action_73 :: Course-Fäerdeg!
 
 #Score Attack
-score_attack :: Score Attack :: Ketteaktiounen fir déi meeschte Punkten ze kréien.
+score_attack :: Score Attack :: Ketteaktiounen fir déi meescht Punkten ze kréien.
 sc_at_spc_cup :: Zoufällege Course :: Wëchentlech Erausfuerderung
 sc_at_race_start :: Start
 sc_at_clear :: Course ofgeschloss :: Course net ofgeschloss
@@ -530,6 +532,28 @@ sc_wc_retry :: Nach eng Kéier probéieren?
 
 #Local Multiplayer Error
 mult_error :: All Participanten mussen\ndéi lescht CTGP-7\nVersioun installéiert hunn. :: Du muss CTGP-7 aktualiséieren\nfir an dësem\nRaum ze spillen.
+
+#Save Backup
+sbak_avail :: This option is only available\nwithin the "Singleplayer" menu.
+sbak_fetch :: Fetching save backup info... :: Failed to get save backup info:\n0x%08X
+sbak_info :: Save Backup Information
+sbak_found :: Save backup found. :: Save backup not found.
+sbak_created :: Created:
+sbak_cretime :: Today :: %d days ago
+sbak_create :: Create backup
+sbak_restore :: Restore backup
+sbak_delete :: Delete backup
+sbak_new :: A new online save backup will be\ncreated (excluding ghost data). :: The previous online backup will be overwritten.
+sbak_newprog :: Creating backup: %s
+sbak_newres :: Backup created successfully. :: Failed to create backup:\n0x%08X
+sbak_rest :: The online backup save data\nwill be restored. :: The current save data will\nbe backed up to the folders:
+sbak_restex :: The backup folders already exist\nand they will be deleted.
+sbak_restprog :: Restoring backup: %s
+sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
+sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
+sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
+sbak_deleprog :: Deleting backup...
+sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X
 
 #Characters
 $1000 :: Mario
@@ -787,7 +811,7 @@ $2205 :: \r2204
 $2206 :: Kampf
 
 #Single Player mode descriptions
-$2210 :: Race fir déi éischt Plaz a Coupe vu véier Coursen.
+$2210 :: Race fir éischt Plaz a Coupe vu véier Coursen.
 $2211 :: Race eleng fir Är bescht Zäit z'erreechen.
 $2212 :: Platzen de Loftballon vun Äre Géigner.
 $2213 :: Gitt esou vill Mënzen wéi Dir kënnt.
@@ -880,17 +904,17 @@ $2408 :: Choiséieren Phantomdata
 
 #Quit dialogue
 $2406 :: D'Kampf verloossen?
-$9111 :: Sidd Dir sécher, datt Dir wëllt opginn?
+$9111 :: Sidd Dir sécher,\ndatt Dir wëllt opginn?
 
 #Local Multiplayer menu
 $2407 :: Gruppen spillen: \u000E\u0001\u0004\u0004\u0000\u0000
 $5001 :: Wielt eng Grupp.\n\nDréckt Erstellt e Grupp w\nann Dir en neie Grupp\nwëllt maachen oder et\ngi keng Gruppen ugewisen.
 $5002 :: Erstellt e Grupp
 $5007 :: Spiller fannen ...
-$5008 :: W.e.g. wait bis all\nSpiller an de Grupp bäitrieden.
+$5008 :: W.e.g. waart bis all\nSpiller an de Grupp bäitrieden.
 $5009 :: Dir kënnt mat bis zu siwen\nanere Spiller spillen.\n\nDréckt Start wann all\nSpiller matgemaach hunn.
 $5010 :: Start
-$5011 :: W.e.g. wait...
+$5011 :: W.e.g. waart...
 $5012 :: E Kommunikatiounsfehler\nass geschitt.
 $5013 :: De Grupp opléisen?
 $5014 :: Zoufälleg
@@ -1005,11 +1029,11 @@ $6100 :: Erëmkréien
 
 #More Online Multiplayer messages
 $6001 :: Verbindung mat\nNintendo Network...
-$6002 :: Trennen vum \nNintendo Network?
+$6002 :: Trennen vum\nNintendo Network?
 $6003 :: Sich no Spiller...
 $6004 :: Spiller fonnt!
 $6005 :: Dir sidd vun den anere Spiller getrennt.
-$6006 :: W.e.g. wait e Moment.
+$6006 :: W.e.g. waart e Moment.
 $6007 :: Preparéieren op d'Course...
 $6008 :: Preparéieren op d'Kampf...
 $6009 :: Spiller fir nächste Course
@@ -1127,7 +1151,7 @@ $7006 :: Et gi momentan keng Mii Charaktere\nam Mii Maker.\n\nLancéiere Mii Mak
 
 #R/W errors
 $7101 :: D'SD-Kaart gouf\newechgeholl.\n\nSchalt w.e.g. d'Kraaft aus\nier Dir SD-Kaarten ewechhuelt.
-$7102 :: W.e.g. wait...\n\nSchalt d'Kraaft net aus an\nhuelt d'SD Kaart net ewech.
+$7102 :: W.e.g. waart...\n\nSchalt d'Kraaft net aus an\nhuelt d'SD Kaart net ewech.
 $7103 :: Et gëtt keng SD Kaart agebaut.
 $7104 :: Den Apparat, deen am\nSD Card Slot agebaut ass,\nkann net benotzt ginn.
 $7105 :: Kann net op d'SD Kaart schreiwen.\n\n Beweegt w.e.g. de\nSchreifschutzschalter op\nd'Off-Positioun.
@@ -1177,7 +1201,7 @@ $9007 :: Neistart
 $9009 :: Nächst Course
 $9010 :: Gesinn Resultater
 $9011 :: Nach eng Kéier probéieren
-$9012 :: View Replay
+$9012 :: Gesinn Replay
 $9013 :: Weider Replay
 $9014 :: Neistart Replay
 $9015 :: Replay ophalen
@@ -1204,7 +1228,7 @@ $9165 :: \r9164
 #Multiplayer pre-race info messages
 $9171 :: Dir wäert déi nächst Course matmaachen. W.e.g. wait.
 $9172 :: Dir wäert déi nächst Kämpf matmaachen. W.e.g. wait.
-$9173 :: De Grupp ass voll. Weg wait.
+$9173 :: De Grupp ass voll. W.e.g. waart.
 
 #Results screen
 $9201 :: RESULTATER

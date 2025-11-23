@@ -183,7 +183,7 @@ welc_t :: ¡Bienvenido a CTGP-7!
 welc_1 :: ¡Hola!\nDesde el menú ingame,\npodrás utilizar algunas\nfunciones interesantes.\nPara abrir el menú ingame,\nusa el botón (Select).
 welc_2 :: Para usar cualquier función,\npon el cursor encima\ny pulsa A.
 welc_3 :: Ten en cuenta que algunas\nfunciones como "Selector de CC"\nserán desactivadas en\nmultijugador en línea.
-welc_4 :: Tus estadísticas serán subidas\nal servidor de CTGP-7 para que\ntodo el mundo las pueda ver.\n(Los datos son anonimizados.)\nPuedes desactivar la subida\ndesde el menú ingame.
+welc_4 :: Tus estadísticas serán subidas\nal servidor de CTGP-7 para que\ntodo el mundo las pueda ver.\n(Los datos son anonimizados.)\nPuedes desactivar la comunicación\ndesde el menú ingame.
 welc_5 :: Al usar CTGP-7 Network\naceptas sus reglas.\n\nPuedes verlas aquí:\nctgp-7.github.io/ctww.html
 welc_6 :: ¡Recueda visitar el servidor\nde discord de CTGP-7!\n\nEnlace de invitación:\ninvite.gg/ctgp7
 welc_7 :: Esperamos que disfrutes el mod!\n^ω^
@@ -236,6 +236,7 @@ exit :: Salir
 default :: Por defecto
 button :: Botón
 summary :: Resumen
+continue :: Continuar
 
 #Folders
 gameplay_folder :: Funciones del Juego :: Configuración de funciones adicionales para el juego. 
@@ -259,6 +260,8 @@ improvedhorn :: Cláxon Mejorado :: Permite tocar el cláxon con el botón de ob
 achieventry :: Logros :: Comprueba el progreso de los logros de CTGP-7.
 badgesentry :: Insignias :: Mirar insignias de CTGP-7 obtenidas (requiere conexión a internet).
 optionsentry :: Opciones :: Configura las opciones de CTGP-7.
+servsett :: Opciones del Servidor :: Opciones relacionadas con el servidor de CTGP-7.
+cloudsaveentry :: Copia de Seguridad en la Nube :: Gestiona las copias de seguridad en línea creadas desde esta consola.
 
 #Speedometer text
 spd_set :: Opciones de Velocímetro.
@@ -341,9 +344,8 @@ ghostseltrack :: Selecciona el circuito para resetear\nsu corredor fantasma:
 ghostcantrecov :: Esta operación no se puede deshacer.\n¿Continuar? :: El fantasma se ha reseteado.
 
 #Server Settings
-servsett :: Opciones del Servidor :: Opciones relacionadas con el servidor de CTGP-7.
 serv_consID :: CTGP-7 ConsoleID
-serv_statsupl :: Subir Estadísticas
+serv_communic :: Comunicación con el servidor :: Esta funcionalidad requiere que la\ncomunicación con el servidor\nesté activada.
 serv_displname :: Nombre a Mostrar :: Selecciona el tipo de nombre a mostrar.
 serv_disphid :: Oculto
 serv_dispmii :: Nombre del Mii
@@ -530,3 +532,25 @@ sc_wc_retry :: ¿Reintentar?
 
 #Local Multiplayer Error
 mult_error :: Todos los participantes deben\ntener la última versión de\nCTGP-7 instalada. :: Debes actualizar\nCTGP-7 para jugar\nen esta sala.
+
+#Save Backup
+sbak_avail :: Esta opción solo está disponible\ndesde el menú "Un jugador".
+sbak_fetch :: Obteniendo información... :: Fallo al obtener la información.\nError: 0x%08X
+sbak_info :: Información de la copia de seguridad 
+sbak_found :: Copia de seguridad encontrada. :: Copia de seguridad no encontrada.
+sbak_created :: Creada:
+sbak_cretime :: Hoy :: Hace %d días
+sbak_create :: Crear copia
+sbak_restore :: Restaurar copia
+sbak_delete :: Borrar copia
+sbak_new :: Una nueva copia de seguridad en línea\nserá creada (sin corredores fantasma). :: La copia de seguridad anterior\nserá sobrescrita.
+sbak_newprog :: Creando copia de seguridad: %s
+sbak_newres :: Copia de seguridad creada con éxito. :: Fallo al crear la copia de seguridad:\n0x%08X
+sbak_rest :: La copia de seguridad en línea\nserá restaurada. :: Los datos de guardado actuales\nserán respaldados en las carpetas:
+sbak_restex :: Las carpetas ya existen y serán eliminadas.
+sbak_restprog :: Restaurando copia de seguridad: %s
+sbak_restres :: Copia de seguridad restaurada con éxito. :: Fallo al restaurar la copia de seguridad:\n0x%08X
+sbak_restres2 :: Restaura las siguientes carpetas\nmanualmente para recuperar\ntus datos de guardado: :: El juego se cerrará.
+sbak_dele :: La copia de seguridad en línea\nserá eliminada. :: Esta operación no se puede deshacer.
+sbak_deleprog :: Borrando copia de seguridad...
+sbak_deleres :: Copia de seguridad borrada con éxito. :: Fallo al borrar la copia de seguridad:\n0x%08X

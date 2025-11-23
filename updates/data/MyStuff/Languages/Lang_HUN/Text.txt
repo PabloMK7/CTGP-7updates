@@ -201,8 +201,8 @@ unlocked_item :: Feloldottad az alábbit:\n\n
 types_achievs :: Sima teljesítmények :: Különleges teljesítmények
 types_achievs_optional :: Nem kötelező teljesítmények
 gold_tro_achiev :: Szerezz aranyérmet minden egyéni pályás kupán
-1star_achiev :: Érj el egycsillagos teljesítményt minden egyéni pályás kupán
-3star_achiev :: Érj el háromcsillagos teljesítményt minden egyéni pályás kupán
+1star_achiev :: Érj el egycsillagos teljesítményt minden egyéni\n  pályás kupán
+3star_achiev :: Érj el háromcsillagos teljesítményt minden egyéni\n  pályás kupán
 10pts_msn_achiev :: Érj el tízpontos teljesítményt minden küldetésen
 5000vr_achiev :: Érj el 5000 VR-os teljesítményt a CTWW-n
 score_all_achiev :: Teljesíts minden pályát pontszámfutamban
@@ -236,6 +236,7 @@ exit :: Kilépés
 default :: Alapértelmezett
 button :: Gomb
 summary :: Összegzés
+continue :: Continue
 
 #Folders
 gameplay_folder :: Játékfunkciók :: Az extra funkciók beállításai.
@@ -259,6 +260,8 @@ improvedhorn :: Javított duda :: Lehetővé teszi a duda használatát a tárgy
 achieventry :: Teljesítmények :: A CTGP-7-es teljesítményhaladás megtekintése.
 badgesentry :: Kitűzők :: A megszerzett CTGP-7-es kitűzők megtekintése (internetkapcsolat szükséges.)
 optionsentry :: Beállítások :: A CTGP-7 beállításainak testreszabása.
+servsett :: Szerverbeállítások :: CTGP-7 szerverbeállítások
+cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
 
 #Speedometer text
 spd_set :: Sebességmérő beállításai.
@@ -341,9 +344,8 @@ ghostseltrack :: Válaszd ki a pályát amin vissza\nszeretnéd állítani a sze
 ghostcantrecov :: Ez a művelet nem vonható vissza.\nBiztos vagy benne? :: A szellem alaphelyzetbe állt.
 
 #Server Settings
-servsett :: Szerverbeállítások :: CTGP-7 szerverbeállítások
 serv_consID :: CTGP-7 ConsoleID
-serv_statsupl :: Statisztikák feltöltése
+serv_communic :: Server Communication :: This functionality requires server\ncommunication to be enabled.
 serv_displname :: Felhasználónév :: Felhasználónév beállítása
 serv_disphid :: Rejtett
 serv_dispmii :: Mii neve
@@ -407,7 +409,7 @@ blue_coin_nocc :: A CC-választó\nhasználata közben\nnem gyűjthetsz\nkék é
 
 #Lobby
 lobby_type :: Nyilvános szoba :: Privát szoba
-choose_lobby :: Az online szobák típusának megadása:\n\n- Nyilvános: Játék más CTGP-7-játékosokkal.\n- Privát: Rejtett játék.\n\nMEGJEGYZÉS: A privát szobákban az alapjátékos VR lesz használatba véve.
+choose_lobby :: Az online szobák típusának megadása:\n\n- Nyilvános: Játék más CTGP-7-játékosokkal.\n- Privát: Rejtett játék.\n\nMEGJEGYZÉS: A privát szobákban az alapjátékos\nVR lesz használatba véve.
 enter_lobby_code :: Add meg a privát szoba kódját!\nA közös játékhoz ezt kell megosztanod másokkal. :: A szoba kódja túl rövid.
 
 #Proximity Chat
@@ -530,6 +532,28 @@ sc_wc_retry :: Szeretnéd újra megpróbálni?
 
 #Local Multiplayer Error
 mult_error :: Minden résztvevőnek\na legújabb\nCTGP-7-verzióval\nkell rendelkeznie. :: Frissítened kell\na CTGP-7-et,\nmielőtt játszhatnál\nebben a szobában.
+
+#Save Backup
+sbak_avail :: This option is only available\nwithin the "Singleplayer" menu.
+sbak_fetch :: Fetching save backup info... :: Failed to get save backup info:\n0x%08X
+sbak_info :: Save Backup Information
+sbak_found :: Save backup found. :: Save backup not found.
+sbak_created :: Created:
+sbak_cretime :: Today :: %d days ago
+sbak_create :: Create backup
+sbak_restore :: Restore backup
+sbak_delete :: Delete backup
+sbak_new :: A new online save backup will be\ncreated (excluding ghost data). :: The previous online backup will be overwritten.
+sbak_newprog :: Creating backup: %s
+sbak_newres :: Backup created successfully. :: Failed to create backup:\n0x%08X
+sbak_rest :: The online backup save data\nwill be restored. :: The current save data will\nbe backed up to the folders:
+sbak_restex :: The backup folders already exist\nand they will be deleted.
+sbak_restprog :: Restoring backup: %s
+sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
+sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
+sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
+sbak_deleprog :: Deleting backup...
+sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X
 
 #Characters
 $1000 :: Mario
@@ -1009,7 +1033,7 @@ $6321 :: A közösség nem található.
 $6322 :: Ezt a közösséget\ntörölték.
 $6323 :: Mielőtt egy közösségben\njátszhatnál, létre kell\nhozni a Mario Kart\ncsatorna adatait.
 $6324 :: Közösségek\n\nJátssz a közösség\ntöbbi tagja ellen.
-$6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
+$6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0018\u0008pont\u0008pont\u0000\u0000
 $6326 :: Játékosok száma:\n\u000E\u0001\u0004\u0004\u0000\u0000
 $6327 :: Válassz egy ikont\na közösségednek.
 $6328 :: Tárgyak

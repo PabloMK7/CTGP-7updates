@@ -143,6 +143,7 @@ M/MyStuff/Karts/Lang_POR.txt
 M/MyStuff/Karts/Lang_POL.txt
 M/MyStuff/Karts/Lang_RUS.txt
 M/MyStuff/Karts/Lang_SPA.txt
+M/MyStuff/Karts/Lang_UKR.txt
 M/MyStuff/Karts/UI.sarc
 M/MyStuff/Languages/Lang_CAT.ini
 M/MyStuff/Languages/Lang_CAT/Text.txt
@@ -154,6 +155,9 @@ M/MyStuff/Languages/Lang_CAT/trophy-es.szs
 M/MyStuff/Languages/Lang_CZE/Text.txt
 M/MyStuff/Languages/Lang_CZE/menu-ed.szs
 M/MyStuff/Languages/Lang_CZE/race-ed.szs
+M/MyStuff/Languages/Lang_CZE/race-ee.szs
+M/MyStuff/Languages/Lang_CZE/thankyou-ee.szs
+M/MyStuff/Languages/Lang_CZE/trophy-ee.szs
 M/MyStuff/Languages/Lang_DEU.ini
 M/MyStuff/Languages/Lang_DEU/Text.txt
 M/MyStuff/Languages/Lang_DEU/common-ed.szs
@@ -205,10 +209,9 @@ M/MyStuff/Languages/Lang_KOR.ini
 M/MyStuff/Languages/Lang_KOR/Text.txt
 M/MyStuff/Languages/Lang_LUX.ini
 M/MyStuff/Languages/Lang_LUX/Text.txt
-M/MyStuff/Languages/Lang_LUX/menu-es.szs
-M/MyStuff/Languages/Lang_LUX/race-es.szs
-M/MyStuff/Languages/Lang_LUX/thankyou-es.szs
-M/MyStuff/Languages/Lang_LUX/trophy-es.szs
+M/MyStuff/Languages/Lang_LUX/race-ee.szs
+M/MyStuff/Languages/Lang_LUX/thankyou-ee.szs
+M/MyStuff/Languages/Lang_LUX/trophy-ee.szs
 M/MyStuff/Languages/Lang_POL.ini
 M/MyStuff/Languages/Lang_POL/Text.txt
 M/MyStuff/Languages/Lang_POL/menu-es.szs
@@ -236,6 +239,12 @@ M/MyStuff/Languages/Lang_SPA/menu-es.szs
 M/MyStuff/Languages/Lang_SPA/race-es.szs
 M/MyStuff/Languages/Lang_SPA/thankyou-es.szs
 M/MyStuff/Languages/Lang_SPA/trophy-es.szs
+M/MyStuff/Languages/Lang_UKR.ini
+M/MyStuff/Languages/Lang_UKR/Text.txt
+M/MyStuff/Languages/Lang_UKR/menu-er.szs
+M/MyStuff/Languages/Lang_UKR/race-er.szs
+M/MyStuff/Languages/Lang_UKR/thankyou-er.szs
+M/MyStuff/Languages/Lang_UKR/trophy-er.szs
 M/MyStuff/LauncherFS/README.txt
 M/MyStuff/Missions/empty.txt
 M/MyStuff/debugSkipConfig.ini
@@ -417,6 +426,7 @@ M/gamefs/Sound/extData/Ctgp_NeoMetropolisss.bcgrp
 M/gamefs/Sound/extData/Ctgp_PaintSwpRC.bcgrp
 M/gamefs/Sound/extData/Ctgp_RMXDP1.bcgrp
 M/gamefs/Sound/extData/Ctgp_RMXMarioCircuit1.bcgrp
+M/gamefs/Sound/extData/Ctgp_RMXSFCRbwRd.bcgrp
 M/gamefs/Sound/extData/Ctgp_RainbowRdDX.bcgrp
 M/gamefs/Sound/extData/Ctgp_RetroRaceway.bcgrp
 M/gamefs/Sound/extData/Ctgp_RiversiPark.bcgrp

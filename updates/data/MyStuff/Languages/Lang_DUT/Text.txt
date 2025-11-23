@@ -7,127 +7,127 @@
 #Bell Cup
 $700010 :: Superbelbeker
 $710042 :: Harmoniestad
-$710059 :: \uE022\uE023 Mario's Circuit
-$710044 :: Galvarny Watervallen
-$710045 :: \uE024\uE025 Wolkentuin
+$710059 :: Mario's Circuit \uE022\uE023
+$710044 :: Galvarny-Watervallen
+$710045 :: Wolkentuin \uE024\uE025
 
 #Acorn Cup
 $700011 :: Eikelbeker
 $710046 :: Herfstbos
-$710068 :: \uE024\uE025 Rivierpark
-$710043 :: RMX Mario's Circuit 1
-$710049 :: \uE024\uE025 Bowsers Kasteel 3
+$710068 :: Rivierpark \uE024\uE025
+$710043 :: Mario's Circuit 1 RMX
+$710049 :: Bowsers Kasteel 3 \uE024\uE025
 
 #Cloud Cup
 $700012 :: Wolkenbeker
-$710053 :: \uE022\uE023 Frappe-Sneeuwland
-$710054 :: \uE022\uE023 Boe Boe Boerderij
-$710052 :: \uE033 Delfino-Plaza
-$710096 :: \uE026\uE027 Mario's Circuit
+$710053 :: Sneeuwland \uE022\uE023
+$710054 :: Boe-Boe-Boerderij \uE022\uE023
+$710052 :: Delfino-Plaza \uE033
+$710096 :: Mario's Circuit \uE026\uE027
 
 #Boo Cup
 $700013 :: Boo-Beker
 $710055 :: Spookpier 2
 $710062 :: Elementale Grot
-$710057 :: \uE031\uE032 Geestenvallei 2
-$710065 :: \uE033 Cheep Cheep-Strand
+$710057 :: Geestenvallei 2 \uE031\uE032
+$710065 :: Cheep Cheep-Strand \uE033
 
 #Spring Cup
 $700014 :: Springveerbeker
-$710067 :: \uE033 Tik-Tok-Klok
-$710075 :: \uE026\uE027 Paddenstoelenbrug
-$710066 :: \uE033 Woestijnheuvels
+$710067 :: Tik-Tok-Klok \uE033
+$710075 :: Paddenstoelenbrug \uE026\uE027
+$710066 :: Zonneruïne \uE033
 $710069 :: Kasteel der Tijd
 
 #Egg Cup
 $700015 :: Eibeker
-$710063 :: \uE033 Yoshi's Watervallen
-$710047 :: \uE022\uE023 Chocokloof
-$710048 :: \uE033 Paddenstoelenpas
-$710051 :: CTR Crash-Grot
+$710063 :: Yoshi's Watervallen \uE033
+$710047 :: Chocokloof \uE022\uE023
+$710048 :: Paddenstoelenpas \uE033
+$710051 :: Crash-Grot CTR
 
 #Bullet Cup
 $700016 :: Bullet Bill-Beker
-$710056 :: CTR Cortex-Kasteel
+$710056 :: Cortex-Kasteel CTR
 $710089 :: Revo-Circuit
-$710061 :: \uE031\uE032 Choco-Eiland 2
+$710061 :: Choco-Eiland 2 \uE031\uE032
 $710064 :: Sterrenhelling
 
 #Blooper Cup
 $700018 :: Blooper-Beker
 $710074 :: Zandkasteelpark
 $710058 :: Jungleruïnes
-$710076 :: \uE026\uE027 Luigi's Circuit
+$710076 :: Luigi's Circuit \uE026\uE027
 $710077 :: Vulkaanstrandruïnes
 
 #Feather Cup
 $700019 :: Veerbeker
-$710078 :: \uE026\uE027 Yoshi's Circuit
-$710079 :: \uE024\uE025 Peach' Circuit
+$710078 :: Yoshi's Circuit \uE026\uE027
+$710079 :: Peach' Circuit \uE024\uE025
 $710080 :: Metro-Gekheid
-$710081 :: \uE024\uE025 Luigi's Circuit
+$710081 :: Luigi's Circuit \uE024\uE025
 
 #Fire Cup
 $700020 :: Vuurbalbeker
-$710082 :: SMO RC Uitdaging
-$710083 :: \uE024\uE025 Bowsers Kasteel 4
-$710084 :: RMX Donutvlakte 1
+$710082 :: RC Uitdaging SMO
+$710083 :: Bowsers Kasteel 4 \uE024\uE025
+$710084 :: Donutvlakte 1 RMX
 $710085 :: Geheime Glijbaan
 
 #Bob-omb Cup
 $700021 :: Bob-omb-Beker
-$710086 :: \uE033 Wario's Stadion
+$710086 :: Wario's Stadion \uE033
 $710087 :: Ermii's Circuit
-$710088 :: \uE026\uE027 Babypark
-$710072 :: \uE026\uE027 Bowsers Kasteel
+$710088 :: Babypark \uE026\uE027
+$710072 :: Bowsers Kasteel \uE026\uE027
 
 #Cherry Cup
 $700022 :: Kersenbeker
-$710090 :: \uE031\uE032 Mario's Circuit 3
+$710090 :: Mario's Circuit 3 \uE031\uE032
 $710091 :: Big Blue
-$710092 :: \uE024\uE025 Shy Guys Strand
+$710092 :: Shy Guys Strand \uE024\uE025
 $710093 :: Bingo Party
 
 #Coin Cup
 $700023 :: Muntenbeker
 $710094 :: Doge-Woestijn
-$710095 :: \uE022\uE023 Spookpier
-$710050 :: \uE022\uE023 DK's Jungleweg
+$710095 :: Spookpier \uE022\uE023
+$710050 :: DK's Jungleweg \uE022\uE023
 $710073 :: Miku's Verjaardag Spec. 2
 
 #Rainbow Cup
 $700017 :: Regenboogbeker
-$710070 :: \uE022\uE023 Regenboogbaan
-$710071 :: \uE024\uE025 Regenboogbaan
-$710114 :: RMX Regenboogbaan 1
+$710070 :: Regenboogbaan \uE022\uE023
+$710071 :: Regenboogbaan \uE024\uE025
+$710114 :: Regenboogbaan 1 RMX
 $710097 :: Regenboogbaan DX
 
 #Pickaxe Cup
 $700024 :: Pikhouweelbeker
 $710098 :: Sneeuwig Sterrenzicht
 $710099 :: Zonsondergangsracebaan
-$710100 :: \uE024\uE025 Kapotte Pier
+$710100 :: Afbrokkelende Pier \uE024\uE025
 $710101 :: Gletsjermijn
 
 #Mega Cup
 $700025 :: Megabeker
 $710102 :: Bloemenbedvesting
 $710103 :: Zeepaleis
-$710104 :: DKR Sterrenstad
+$710104 :: Sterrenstad DKR
 $710105 :: Paddenstoelenberg
 
 #Propeller Cup
 $700026 :: Propellerbeker
-$710106 :: \uE022\uE023 IJzige IJsbaan
+$710106 :: IJzige IJsbaan \uE022\uE023
 $710107 :: Blokkeneiland
-$710108 :: \uE033 Bowsers Kasteel
-$710109 :: DKR Junglewatervallen
+$710108 :: Bowsers Kasteel \uE033
+$710109 :: Junglewatervallen DKR
 
 #POW Cup
 $700027 :: POW-Beker
 $710110 :: Retro Racebaan
 $710111 :: Bevroren Grot
-$710112 :: \uE024\uE025 Meerpark
+$710112 :: Meerpark \uE024\uE025
 $710113 :: Drakenkerkhof
 
 #Rock Cup
@@ -139,37 +139,37 @@ $710117 :: Gnasty Gnorcs Hol
 
 #Moon Cup
 $700029 :: Maanbeker
-$710118 :: RMX Vanillemeer 1
+$710118 :: Vanillemeer 1 RMX
 $710119 :: Klifcircuit
 $710120 :: Interstellair Lab
 $710121 :: Donkerematerievesting
 
 #Hammer Cup
 $700030 :: Hamerbeker
-$710122 :: \uE031\uE032 Donutvlakte 2
+$710122 :: Donutvlakte 2 \uE031\uE032
 $710123 :: Vliegende Luchtweg
-$710124 :: \uE022\uE023 Bowsers Kasteel
-$710125 :: \uE067 DK's Skipark
+$710124 :: Bowsers Kasteel \uE022\uE023
+$710125 :: DK's Skipark \uE067
 
 #Wonder Cup
 $700031 :: Wonderbeker
 $710126 :: Schilderachtige Moerasracebaan
 $710127 :: Roulettebaan
 $710128 :: Ruimtelijke Uitkijkpost
-$710129 :: \uE033 Regenboogbaan
+$710129 :: Regenboogbaan \uE033
 
 #Shine Cup
 $700032 :: Zonbeker
 $710130 :: Kaap Koraal
-$710131 :: \uE067 Wario's Goudmijn
-$710132 :: \uE033 Peach' Paleistuin
+$710131 :: Wario's Goudmijn \uE067
+$710132 :: Peach' Paleistuin \uE033
 $710133 :: IJskoud Citadel
 
 #Dark Star Cup
 $700033 :: Donkere Ster-Beker
 $710134 :: Donker Heiligdom
 $710135 :: Helse Piramide
-$710136 :: \uE026\uE027 Paddenstoelenstad
+$710136 :: Paddenstoelenstad \uE026\uE027
 $710137 :: Donkere Ster-Kasteel
 
 #Save Data
@@ -205,15 +205,15 @@ gold_tro_achiev :: Goud bij alle nieuwe bekers
 3star_achiev :: 3 sterren bij alle nieuwe bekers
 10pts_msn_achiev :: 10 punten bij alle missies
 5000vr_achiev :: 5000 rp. in CTWW
-score_all_achiev :: Alle circuits gespeeld in Scoreraces
+score_all_achiev :: Alle circuits voltooid in Scoreraces
 blue_coin_achiev :: Alle blauwe munten verzameld
 dodged_blue_achiev :: 3 Spiny-schilden ontweken
 dodged_blue_amount :: Spiny-schilden ontweken
 custom_track_cups :: Nieuwe bekers
 tro_gold :: Goud
-tro_1star :: 1 Ster
-tro_3star :: 3 Sterren
-tro_10pts :: 10 Punten
+tro_1star :: 1 ster
+tro_3star :: 3 sterren
+tro_10pts :: 10 punten
 tro_blue_collected :: Verzameld
 
 #General text
@@ -236,6 +236,7 @@ exit :: Terug
 default :: Standaard
 button :: Knop
 summary :: Samenvatting
+continue :: Continue
 
 #Folders
 gameplay_folder :: Spelfuncties :: Configuratie voor aanvullende spelfuncties.
@@ -259,6 +260,8 @@ improvedhorn :: Verbeterde claxon :: Druk op de claxon met de voorwerpknop en ho
 achieventry :: Prestaties :: Bekijk je voortgang van CTGP-7-prestaties.
 badgesentry :: Badges :: Bekijk verkregen CTGP-7-badges (internetverbinding vereist).
 optionsentry :: Opties :: Configureer CTGP-7-opties.
+servsett :: Serverinstellingen :: CTGP-7 server-gerelateerde instellingen
+cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
 
 #Speedometer text
 spd_set :: Opties snelheidsmeter.
@@ -341,9 +344,8 @@ ghostseltrack :: Selecteer het circuit waarvan de ghost moet worden gereset:
 ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :: De ghost is gereset.
 
 #Server Settings
-servsett :: Serverinstellingen :: CTGP-7 server-gerelateerde instellingen
 serv_consID :: CTGP-7 ConsoleID
-serv_statsupl :: Statistieken uploaden
+serv_communic :: Server Communication :: This functionality requires server\ncommunication to be enabled.
 serv_displname :: Naam weergeven :: Selecteer de modus voor het tonen van\njouw naam.
 serv_disphid :: Verborgen
 serv_dispmii :: Mii-naam
@@ -430,8 +432,8 @@ pts_action_3 :: Superminiturbo
 pts_action_4 :: Kleine superstart
 pts_action_5 :: Superstart
 pts_action_6 :: Perfecte superstart
-pts_action_7 :: Trucje
-pts_action_8 :: Supertrucje
+pts_action_7 :: Springboost
+pts_action_8 :: Superspringboost
 pts_action_9 :: Slipstream
 pts_action_10 :: Gouden Paddenstoel!
 pts_action_11 :: Munt
@@ -492,7 +494,7 @@ pts_action_65 :: Payback!
 pts_action_66 :: Smash!
 pts_action_67 :: Voorwerp vernietigd
 pts_action_68 :: Voorwerp geweerd
-pts_action_69 :: Spiny-schild geweerd!
+pts_action_69 :: Spiny-schild vermeden!
 pts_action_70 :: Volgende ronde!
 pts_action_71 :: Volgende traject!
 pts_action_72 :: Frenzy-finish!
@@ -501,14 +503,14 @@ pts_action_73 :: Finish!
 #Score Attack
 score_attack :: Scoreraces :: Keten acties om de meeste punten te krijgen.
 sc_at_spc_cup :: Willekeurig circuit :: Wekelijkse uitdaging
-sc_at_race_start :: Racestart
-sc_at_clear :: Circuit gespeeld :: Circuit niet gespeeld
+sc_at_race_start :: Scorerace
+sc_at_clear :: Circuit voltooid :: Circuit niet voltooid
 sc_at_save :: (Verwijder data: \uE002) :: (Geen)
-sc_at_score :: Beste score :: Verwijder score
+sc_at_score :: Beste score :: Voltooiingsscore
 sc_at_delete :: Verwijder deze circuitdata?
 sc_at_record :: Nieuw record!
-sc_at_clear_small :: Gespeeld! :: Niet gespeeld
-sc_at_cleared_tr :: Gespeelde circuit
+sc_at_clear_small :: Voltooid! :: Niet voltooid
+sc_at_cleared_tr :: Voltooide circuits
 sc_at_nice :: GOED!
 sc_at_great :: GEWELDIG!
 sc_at_excel :: UITSTEKEND!
@@ -519,7 +521,7 @@ sc_at_combo :: Combo ×
 sc_wc_ended :: Huidige wekelijkse uitdaging is beëindigd :: Geen data beschikbaar
 sc_wc_curr :: Huidige uitdaging:
 sc_wc_time :: Resterende tijd:
-sc_wc_bonus :: Bonuscombo :: Jouw bonus:
+sc_wc_bonus :: Bonuscombo: :: Jouw bonus:
 sc_wc_board :: Klassement: Top 10 :: Klassement: Mijn score
 sc_wc_getting :: Verkrijgen van informatie van wekelijkse uitdaging... :: Mislukt om informatie van wekelijkse uitgaging te verkijgen.\nError: 0x%08X
 sc_wc_results :: Resultaten wekelijkse uitdaging
@@ -530,3 +532,25 @@ sc_wc_retry :: Opnieuw proberen?
 
 #Local Multiplayer Error
 mult_error :: Alle deelnemers moeten\nde nieuwste versie van CTGP-7\nhebben geïnstalleerd. :: Je moet CTGP-7 updaten\nom in deze kamer\n te spelen.
+
+#Save Backup
+sbak_avail :: This option is only available\nwithin the "Singleplayer" menu.
+sbak_fetch :: Fetching save backup info... :: Failed to get save backup info:\n0x%08X
+sbak_info :: Save Backup Information
+sbak_found :: Save backup found. :: Save backup not found.
+sbak_created :: Created:
+sbak_cretime :: Today :: %d days ago
+sbak_create :: Create backup
+sbak_restore :: Restore backup
+sbak_delete :: Delete backup
+sbak_new :: A new online save backup will be\ncreated (excluding ghost data). :: The previous online backup will be overwritten.
+sbak_newprog :: Creating backup: %s
+sbak_newres :: Backup created successfully. :: Failed to create backup:\n0x%08X
+sbak_rest :: The online backup save data\nwill be restored. :: The current save data will\nbe backed up to the folders:
+sbak_restex :: The backup folders already exist\nand they will be deleted.
+sbak_restprog :: Restoring backup: %s
+sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
+sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
+sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
+sbak_deleprog :: Deleting backup...
+sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X

@@ -173,9 +173,9 @@ $710136 :: \uE026\uE027 Houbové Město
 $710137 :: Hrad Temné Hvězdy
 
 #Save Data
-$7005 :: V SD kartě budou vytvořena\nextra uložená data pro CTGP-7.
-$7003 :: Vytváření dalších uložených dat...
-$7004 :: Extra uložená data byla vytvořena.
+$7005 :: V SD kartě budou vytvořena\nextra uložená data\npro CTGP-7.
+$7003 :: Vytváření dalších\nuložených dat...
+$7004 :: Extra uložená data\nbyla vytvořena.
 $7007 :: Mario Kart 7 uložená data\nneexistuje, prosím, spusť\nhru generovat nová\nuložená data.\n\nZmačkni tlačítko POWER. 
 
 #First opening welcome message
@@ -194,7 +194,7 @@ achiev_all_1star :: Získal jsi 1 hvězdičku\nve všech vlastních pohárech.\n
 achiev_all_3star :: Získal jsi 3 hvězdičky\nve všech vlastních pohárech.\n\nGratuluji!
 achiev_all_mission :: Ve všech misích\njsi získal 10 bodů.\n\nGratuluji!
 achiev_5000_vr :: Máš 5000 VR\nve celosvětových vlastních tratích.\n\nGratuluji!
-achiev_all_score_completed :: V Bodovém Testu jsi vymazal všechny tratě. Gratuluji!
+achiev_all_score_completed :: V Bodovém Testu\njsi dokončil všechny tratě.\n\nGratuluji!
 achiev_blue_coin :: Nasbíral jsi\nvšechny modré mince!\n\nGratuluji!
 achiev_dodged_blue :: Vyhnul jsi\n3 modrým krunýřim!\n\nGratuluji!
 unlocked_item :: Odemknul jsi:\n\n
@@ -236,6 +236,7 @@ exit :: Odejít
 default :: Výchozí
 button :: Tlačítko
 summary :: Shrnutí
+continue :: Continue
 
 #Folders
 gameplay_folder :: Herní Funkce :: Konfigurace pro další herní funkce.
@@ -259,6 +260,8 @@ improvedhorn :: Vylepšený Klakson :: Umožňuje hrát na klakson tlačítkem o
 achieventry :: Úspěchy :: Zkontroluj pokrok v úspěších CTGP-7.
 badgesentry :: Odznaky :: Zobrazit získaných odznaků CTGP-7 (vyžaduje připojení k internetu).
 optionsentry :: Možnosti :: Konfigurovat možností CTGP-7.
+servsett :: Nastavení Serveru :: Nastavení související se serverem CTGP-7.
+cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
 
 #Speedometer text
 spd_set :: Nastavení rychloměru.
@@ -310,7 +313,7 @@ order_mode :: Výchozí :: Abecední
 autoaccel_button :: Vyber tlačítko, které aktivuje\nautomatické zrychlení.
 
 #Online update check
-update_check :: Kontrola aktualizací... :: Pro hraní online je potřeba nejnovější verze CTGP-7.
+update_check :: Kontrola aktualizací... :: Pro hraní online je potřeba\nnejnovější verze CTGP-7.
 fail_conn :: Připojení k serveru\nCTGP-7 se nezdařilo.\n\nZkus to prosím znovu později.
 
 #CTWW
@@ -341,9 +344,8 @@ ghostseltrack :: Vyber trať pro resetování ducha z:
 ghostcantrecov :: Tuto operaci není možné vrátit zpět.\nPokračovat? :: Duch byl resetován.
 
 #Server Settings
-servsett :: Nastavení Serveru :: Nastavení související se serverem CTGP-7.
 serv_consID :: ID Konzole CTGP-7
-serv_statsupl :: Nahrát Statistiky
+serv_communic :: Server Communication :: This functionality requires server\ncommunication to be enabled.
 serv_displname :: Zobrazované jmeno :: Vybrat režim zobrazovaného jmenu.
 serv_disphid :: Skrytý
 serv_dispmii :: Mii Jméno
@@ -530,6 +532,28 @@ sc_wc_retry :: Zkusit to znovu?
 
 #Local Multiplayer Error
 mult_error :: Všichni účastníci musí\nmít nainstalovanou nejnovější\nverzi CTGP-7. :: Abys mohl hrát\nv této místnosti, musíš\naktualizovat CTGP-7.
+
+#Save Backup
+sbak_avail :: This option is only available\nwithin the "Singleplayer" menu.
+sbak_fetch :: Fetching save backup info... :: Failed to get save backup info:\n0x%08X
+sbak_info :: Save Backup Information
+sbak_found :: Save backup found. :: Save backup not found.
+sbak_created :: Created:
+sbak_cretime :: Today :: %d days ago
+sbak_create :: Create backup
+sbak_restore :: Restore backup
+sbak_delete :: Delete backup
+sbak_new :: A new online save backup will be\ncreated (excluding ghost data). :: The previous online backup will be overwritten.
+sbak_newprog :: Creating backup: %s
+sbak_newres :: Backup created successfully. :: Failed to create backup:\n0x%08X
+sbak_rest :: The online backup save data\nwill be restored. :: The current save data will\nbe backed up to the folders:
+sbak_restex :: The backup folders already exist\nand they will be deleted.
+sbak_restprog :: Restoring backup: %s
+sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
+sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
+sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
+sbak_deleprog :: Deleting backup...
+sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X
 
 #Characters
 $1000 :: Mario
@@ -801,8 +825,8 @@ $9103 :: Ano
 $9104 :: Ne
 
 #Update dialogue
-$2080 :: Aby jsi mohl hrát online, \nmusíš prvně stáhnout \naktualizaci Mario Kart 7
-$2081 :: Mario Kart 7 byl aktualizován.\n\nHra se nyní restartuje
+$2080 :: Aby jsi mohl hrát online,\nmusíš prvně stáhnout\naktualizaci Mario Kart 7.
+$2081 :: Mario Kart 7 byl aktualizován.\n\nHra se nyní restartuje.
 
 #Main menu
 $2090 :: Jeden Hráč
@@ -1020,7 +1044,7 @@ $6332 :: Plachtidla
 $6333 :: Ostatní
 $6334 :: Chyba SD karty.\n\nZkontroluj prosím údaje\nv Mario Kart Channel.
 $6335 :: Objekty jsou vyžadovány,\naby bylo možné hrát bitvy.
-$6400 :: StreetPass
+$6400 :: Seznam StreetPass
 $6401 :: Doporučení společenství\nbyla aktualizována.\n\nChceš vidět?
 $6416 :: Doporučení společenství byla aktualizována.
 

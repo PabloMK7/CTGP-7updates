@@ -236,6 +236,7 @@ exit :: 戻る
 default :: デフォルト
 button :: ボタン
 summary :: 概要
+continue :: Continue
 
 #Folders
 gameplay_folder :: ゲームプレイ機能 :: 追加のゲームプレイ機能の構成。
@@ -259,6 +260,8 @@ improvedhorn :: クラクションの改良 :: アイテムボタンでクラク
 achieventry :: 実績 :: CTGP-7の実績の進行状況を確認します。
 badgesentry :: バッジ :: 獲得したCTGP-7バッジを表示します(インターネット接続が必要です)。
 optionsentry :: オプション :: CTGP-7オプションを 設定します
+servsett :: サーバー設定 :: CTGP-7サーバー関連の設定。
+cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
 
 #Speedometer text
 spd_set :: スピードメーターの設定をします。
@@ -341,9 +344,8 @@ ghostseltrack :: ゴーストをリセットする\nコースを選択してく�
 ghostcantrecov :: この操作は取り消すことができません。\n続行しますか？ :: ゴーストがリセットされました。
 
 #Server Settings
-servsett :: サーバー設定 :: CTGP-7サーバー関連の設定。
 serv_consID :: CTGP-7 ConsoleID
-serv_statsupl :: 統計のアップロード
+serv_communic :: Server Communication :: This functionality requires server\ncommunication to be enabled.
 serv_displname :: 表示名 :: 表示名のモードを選択します。
 serv_disphid :: 非表示
 serv_dispmii :: Miiの名前
@@ -530,3 +532,25 @@ sc_wc_retry :: もう一度試しますか？
 
 #Local Multiplayer Error
 mult_error :: 参加者全員が\n最新バージョンのCTGP-7を\nインストールする必要があります。 :: この部屋でプレイするには\nCTGP-7を更新する\n必要があります。
+
+#Save Backup
+sbak_avail :: This option is only available\nwithin the "Singleplayer" menu.
+sbak_fetch :: Fetching save backup info... :: Failed to get save backup info:\n0x%08X
+sbak_info :: Save Backup Information
+sbak_found :: Save backup found. :: Save backup not found.
+sbak_created :: Created:
+sbak_cretime :: Today :: %d days ago
+sbak_create :: Create backup
+sbak_restore :: Restore backup
+sbak_delete :: Delete backup
+sbak_new :: A new online save backup will be\ncreated (excluding ghost data). :: The previous online backup will be overwritten.
+sbak_newprog :: Creating backup: %s
+sbak_newres :: Backup created successfully. :: Failed to create backup:\n0x%08X
+sbak_rest :: The online backup save data\nwill be restored. :: The current save data will\nbe backed up to the folders:
+sbak_restex :: The backup folders already exist\nand they will be deleted.
+sbak_restprog :: Restoring backup: %s
+sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
+sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
+sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
+sbak_deleprog :: Deleting backup...
+sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X

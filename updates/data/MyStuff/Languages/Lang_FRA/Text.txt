@@ -183,7 +183,7 @@ welc_t :: Bienvenue sur CTGP-7 !
 welc_1 :: Salut ! Depuis le menu du jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir ce menu,\nappuyez sur (SELECT).
 welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
 welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme\n"Changer de (cc)", seront\ndésactivées en ligne.
-welc_4 :: Vos statistiques seront envoyées\nsur le serveur CTGP-7 et seront\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi des\nstatistiques depuis le menu du jeu.
+welc_4 :: Vos statistiques seront envoyées\nvers le serveur CTGP-7 afin\nqu'ils soient accessibles au public.\n(Vos données seront anonymes.)\nVous pouvez désactiver la communication\ndu serveur dans le menu du jeu.
 welc_5 :: En utilisant CTGP-7 Network,\nvous acceptez ses règles.\n\nVous pouvez les consulter ici :\nctgp-7.github.io/ctww.html
 welc_6 :: N'oubliez pas de jeter un coup\nd'œil au serveur discord CTGP-7 !\n\nLien d'invitation :\ninvite.gg/ctgp7
 welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
@@ -236,6 +236,7 @@ exit :: Fermer
 default :: Par défaut
 button :: Bouton
 summary :: Sommaire
+continue :: Continuer
 
 #Folders
 gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalités du jeu additionnel.
@@ -259,6 +260,8 @@ improvedhorn :: Klaxon amélioré :: Autorise l'utilisation du klaxon avec le bo
 achieventry :: Succès :: Voir votre progrès des succès CTGP-7
 badgesentry :: Badges :: Voir les badges CTGP-7 obtenus. (Nécessite une connexion Internet)
 optionsentry :: Options :: Configurer les options de CTGP-7.
+servsett :: Paramètres du serveur :: Paramètres liés au serveur CTGP-7. 
+cloudsaveentry :: Données de sauvegarde du Cloud :: Gérez les sauvegardes en ligne créées depuis cette console.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -341,9 +344,8 @@ ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitiali
 ghostcantrecov :: Les données du fantôme de ce circuit vont être effacées. Cette action est irréversible.\nVoulez-vous continuer ? :: Les fantômes de ce circuit ont été réinitialisé avec succès.
 
 #Server Settings
-servsett :: Paramètres du serveur :: Paramètres liés au serveur CTGP-7. 
 serv_consID :: ID Console CTGP-7
-serv_statsupl :: Envoi des statistiques
+serv_communic :: Communication avec le serveur :: Cette foncionnalité nécessite que\nla communication avec le serveur\nsoit activée.
 serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
 serv_dispmii :: Nom du Mii
@@ -530,3 +532,25 @@ sc_wc_retry :: Réessayer ?
 
 #Local Multiplayer Error
 mult_error :: Tous les participants\ndoivent posséder la\ndernière version de CTGP-7. :: Veuillez mettre à\njour CTGP-7 afin de\nparticiper à cette salle.
+
+#Save Backup
+sbak_avail :: Cette option est uniquement disponible\ndans le menu "Un joueur".
+sbak_fetch :: Récupération des données en cours… :: La récupération des données a échouée.
+sbak_info :: Information sur les données de sauvegarde
+sbak_found :: Données de sauvegarde trouvées :: Aucune donnée de sauvegarde trouvée
+sbak_created :: Créée :
+sbak_cretime :: Aujourd'hui :: Il y a %d jour(s)
+sbak_create :: Créer une sauvegarde
+sbak_restore :: Restaurer la sauvegarde
+sbak_delete :: Supprimer la sauvegarde
+sbak_new :: Une nouvelle donnée de sauvegarde\nen ligne va être créée\n(données fantômes non inclus). :: La sauvegarde en ligne précédente sera écrasée.
+sbak_newprog :: Création de la sauvegarde : %s
+sbak_newres :: Sauvegarde créée avec succès. :: Échec de la création de la sauvegarde :\n0x%08X
+sbak_rest :: Les données de sauvegarde\nen ligne seront restaurées. :: Les données de sauvegarde actuelles\nseront sauvegardées dans\nles dossiers suivants :
+sbak_restex :: Les dossiers de sauvegarde existent\ndéjà et vont être supprimés.
+sbak_restprog :: Restauration de la sauvegarde : %s
+sbak_restres :: Sauvegarde restaurée avec succès. :: Échec de la restauration de\nla sauvegarde en ligne :\n0x%08X
+sbak_restres2 :: Restaurez les dossiers suivants\nmanuellement pour récupérer\nvos anciennes données\nde sauvegarde : :: Vous êtes sur le point de\nquitter le jeu.
+sbak_dele :: Les données de sauvegarde\nen ligne seront supprimées. :: Cette opération est irréversible.
+sbak_deleprog :: Suppression de la sauvegarde en cours…
+sbak_deleres :: La sauvegarde a bien été supprimée. :: La suppression de la sauvegarde\na échouée :\n0x%08X
