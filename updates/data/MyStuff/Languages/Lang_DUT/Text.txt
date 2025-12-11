@@ -9,38 +9,38 @@ $700010 :: Superbelbeker
 $710042 :: Harmoniestad
 $710059 :: Mario's Circuit \uE022\uE023
 $710044 :: Galvarny-Watervallen
-$710045 :: Wolkentuin \uE024\uE025
+$710045 :: Wolkenhof \uE024\uE025
 
 #Acorn Cup
 $700011 :: Eikelbeker
 $710046 :: Herfstbos
-$710068 :: Rivierpark \uE024\uE025
+$710068 :: Rivieroever \uE024\uE025
 $710043 :: Mario's Circuit 1 RMX
 $710049 :: Bowsers Kasteel 3 \uE024\uE025
 
 #Cloud Cup
 $700012 :: Wolkenbeker
-$710053 :: Sneeuwland \uE022\uE023
+$710053 :: Sorbetland \uE022\uE023
 $710054 :: Boe-Boe-Boerderij \uE022\uE023
-$710052 :: Delfino-Plaza \uE033
+$710052 :: Pianta-Plein \uE033
 $710096 :: Mario's Circuit \uE026\uE027
 
 #Boo Cup
 $700013 :: Boo-Beker
 $710055 :: Spookpier 2
 $710062 :: Elementale Grot
-$710057 :: Geestenvallei 2 \uE031\uE032
+$710057 :: Spookvallei 2 \uE031\uE032
 $710065 :: Cheep Cheep-Strand \uE033
 
 #Spring Cup
 $700014 :: Springveerbeker
-$710067 :: Tik-Tok-Klok \uE033
+$710067 :: Tik-Tak-Klok \uE033
 $710075 :: Paddenstoelenbrug \uE026\uE027
 $710066 :: Zonneruïne \uE033
 $710069 :: Kasteel der Tijd
 
 #Egg Cup
-$700015 :: Eibeker
+$700015 :: Eierbeker
 $710063 :: Yoshi's Watervallen \uE033
 $710047 :: Chocokloof \uE022\uE023
 $710048 :: Paddenstoelenpas \uE033
@@ -85,14 +85,14 @@ $710072 :: Bowsers Kasteel \uE026\uE027
 $700022 :: Kersenbeker
 $710090 :: Mario's Circuit 3 \uE031\uE032
 $710091 :: Big Blue
-$710092 :: Shy Guys Strand \uE024\uE025
+$710092 :: Shy Guy-Strand \uE024\uE025
 $710093 :: Bingo Party
 
 #Coin Cup
 $700023 :: Muntenbeker
 $710094 :: Doge-Woestijn
 $710095 :: Spookpier \uE022\uE023
-$710050 :: DK's Jungleweg \uE022\uE023
+$710050 :: DK's Junglepark \uE022\uE023
 $710073 :: Miku's Verjaardag Spec. 2
 
 #Rainbow Cup
@@ -127,27 +127,27 @@ $710109 :: Junglewatervallen DKR
 $700027 :: POW-Beker
 $710110 :: Retro Racebaan
 $710111 :: Bevroren Grot
-$710112 :: Meerpark \uE024\uE025
+$710112 :: Vulkaanoever \uE024\uE025
 $710113 :: Drakenkerkhof
 
 #Rock Cup
 $700028 :: Rotsbeker
 $710060 :: Buizeneiland
 $710115 :: Neo-Metropool
-$710116 :: Kille Hoogtes
+$710116 :: Koude Hoogtes
 $710117 :: Gnasty Gnorcs Hol
 
 #Moon Cup
 $700029 :: Maanbeker
 $710118 :: Vanillemeer 1 RMX
 $710119 :: Klifcircuit
-$710120 :: Interstellair Lab
+$710120 :: Interstellair Laboratorium
 $710121 :: Donkerematerievesting
 
 #Hammer Cup
 $700030 :: Hamerbeker
 $710122 :: Donutvlakte 2 \uE031\uE032
-$710123 :: Vliegende Luchtweg
+$710123 :: Hoogtevreesbaan
 $710124 :: Bowsers Kasteel \uE022\uE023
 $710125 :: DK's Skipark \uE067
 
@@ -159,7 +159,7 @@ $710128 :: Ruimtelijke Uitkijkpost
 $710129 :: Regenboogbaan \uE033
 
 #Shine Cup
-$700032 :: Zonbeker
+$700032 :: Zonnebeker
 $710130 :: Kaap Koraal
 $710131 :: Wario's Goudmijn \uE067
 $710132 :: Peach' Paleistuin \uE033
@@ -183,7 +183,7 @@ welc_t :: Welkom bij CTGP-7!
 welc_1 :: Hallo daar!\nVanaf het ingebouwde menu\nkun je wat interessante functies\ngebruiken. Gebruik de (SELECT)\n-knop om het ingebouwde menu\nte openen.
 welc_2 :: Om een functie te gebruiken, plaats\nje de cursor over een item\nen druk je op A om het aan te\nzetten/te configureren.
 welc_3 :: Sommige functies zoals\n"cc-selectie" zullen uitgeschakeld\nzijn tijdens een online race.
-welc_4 :: Je statistieken zullen worden\ngeüpload naar de CTGP-7-server\nzodat ze openbaar\nbeschikbaar zijn (data is\ngeanonimiseerd.)\nJe kan het uploaden van\nstatistieken vanuit het ingebouwde\nmenu uitzetten.
+welc_4 :: Je statistieken worden geüpload\nnaar de CTGP-7-server zodat\nze openbaar beschikbaar\nzijn (data is geanonimiseerd).\nServercommunicatie kan\nuitgeschakeld worden vanuit\nhet menu.
 welc_5 :: Bij gebruik van het CTGP-7-\nnetwerk ga je akkoord\nmet de regels.\n\nJe kan ze hier lezen:\nctgp-7.github.io/ctww.html
 welc_6 :: Vergeet niet de CTGP-7-\nDiscord-server te bekijken!\n\nUitnodigingslink:\ninvite.gg/ctgp7
 welc_7 :: We hopen dat je\nde mod leuk vind!\n^w^
@@ -218,7 +218,7 @@ tro_blue_collected :: Verzameld
 
 #General text
 warning :: WAARSCHUWING
-error :: ERROR
+error :: FOUT
 state :: Status
 next :: Volgende
 select :: Selecteer
@@ -236,7 +236,7 @@ exit :: Terug
 default :: Standaard
 button :: Knop
 summary :: Samenvatting
-continue :: Continue
+continue :: Verdergaan
 
 #Folders
 gameplay_folder :: Spelfuncties :: Configuratie voor aanvullende spelfuncties.
@@ -261,7 +261,7 @@ achieventry :: Prestaties :: Bekijk je voortgang van CTGP-7-prestaties.
 badgesentry :: Badges :: Bekijk verkregen CTGP-7-badges (internetverbinding vereist).
 optionsentry :: Opties :: Configureer CTGP-7-opties.
 servsett :: Serverinstellingen :: CTGP-7 server-gerelateerde instellingen
-cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
+cloudsaveentry :: Cloud Save-Backup :: Beheer online save-backups gemaakt door deze console.
 
 #Speedometer text
 spd_set :: Opties snelheidsmeter.
@@ -345,7 +345,7 @@ ghostcantrecov :: Deze handeling kan niet\nongedaan worden gemaakt.\nDoorgaan? :
 
 #Server Settings
 serv_consID :: CTGP-7 ConsoleID
-serv_communic :: Server Communication :: This functionality requires server\ncommunication to be enabled.
+serv_communic :: Servercommunicatie :: Deze functionaliteit vereist dat\nservercommunicatie is ingeschakeld.
 serv_displname :: Naam weergeven :: Selecteer de modus voor het tonen van\njouw naam.
 serv_disphid :: Verborgen
 serv_dispmii :: Mii-naam
@@ -377,7 +377,7 @@ render_optim :: Renderoptimaliseringen :: Schakelt 3D-modus op het bovenste sche
 
 #Missions
 ms_miss :: Missies
-ms_desc :: Voltooi missies en ga voor de beste score.
+ms_desc :: Voltooi missies en ga voor de beste score!
 ms_selmiss :: Selecteer een missie
 ms_rcrd :: Record
 ms_gradelim :: Max. Rang :: Min. Rang
@@ -501,7 +501,7 @@ pts_action_72 :: Frenzy-finish!
 pts_action_73 :: Finish!
 
 #Score Attack
-score_attack :: Scoreraces :: Keten acties om de meeste punten te krijgen.
+score_attack :: Scoreraces :: Keten acties om de meeste punten te krijgen!
 sc_at_spc_cup :: Willekeurig circuit :: Wekelijkse uitdaging
 sc_at_race_start :: Scorerace
 sc_at_clear :: Circuit voltooid :: Circuit niet voltooid
@@ -534,23 +534,23 @@ sc_wc_retry :: Opnieuw proberen?
 mult_error :: Alle deelnemers moeten\nde nieuwste versie van CTGP-7\nhebben geïnstalleerd. :: Je moet CTGP-7 updaten\nom in deze kamer\n te spelen.
 
 #Save Backup
-sbak_avail :: This option is only available\nwithin the "Singleplayer" menu.
-sbak_fetch :: Fetching save backup info... :: Failed to get save backup info:\n0x%08X
-sbak_info :: Save Backup Information
-sbak_found :: Save backup found. :: Save backup not found.
-sbak_created :: Created:
-sbak_cretime :: Today :: %d days ago
-sbak_create :: Create backup
-sbak_restore :: Restore backup
-sbak_delete :: Delete backup
-sbak_new :: A new online save backup will be\ncreated (excluding ghost data). :: The previous online backup will be overwritten.
-sbak_newprog :: Creating backup: %s
-sbak_newres :: Backup created successfully. :: Failed to create backup:\n0x%08X
-sbak_rest :: The online backup save data\nwill be restored. :: The current save data will\nbe backed up to the folders:
-sbak_restex :: The backup folders already exist\nand they will be deleted.
-sbak_restprog :: Restoring backup: %s
-sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
-sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
-sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
-sbak_deleprog :: Deleting backup...
-sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X
+sbak_avail :: Deze optie is alleen beschikbaar\nin het singleplayer-menu.
+sbak_fetch :: Ophalen van informatie save-backup... :: Mislukt om informatie save-backup te verkrijgen:\n0x%08X
+sbak_info :: Informatie save-backup
+sbak_found :: Save-backup gevonden. :: Save-backup niet gevonden.
+sbak_created :: Gemaakt:
+sbak_cretime :: Vandaag :: %d dagen geleden
+sbak_create :: Maak backup
+sbak_restore :: Herstel backup
+sbak_delete :: Verwijder backup
+sbak_new :: Een nieuwe online save-backup wordt\ngemaakt (exclusief ghost-data). :: De vorige online save-backup wordt overschreven.
+sbak_newprog :: Maken van backup: %s
+sbak_newres :: Backup succesvol gemaakt. :: Mislukt om backup te maken:\n0x%08X
+sbak_rest :: De online save-backup wordt\nhersteld. :: De huidige save-data wordt\nverplaatst naar de mappen:
+sbak_restex :: De backupmappen bestaan al en\n ze worden verwijderd.
+sbak_restprog :: Herstellen van backup: %s
+sbak_restres :: Backup succesvol hersteld. :: Mislukt om backup te herstellen:\n0x%08X
+sbak_restres2 :: Herstel de volgende mappen\nhandmatig om de oude\nsave-data terug te krijgen. :: Het spel wordt afgesloten.
+sbak_dele :: De online save-backup wordt\nverwijderd. :: Dit kan niet ongedaan gemaakt worden.
+sbak_deleprog :: Verwijderen van backup...
+sbak_deleres :: Backup succesvol verwijderd. :: Mislukt om backup te verwijderen:\n0x%08X

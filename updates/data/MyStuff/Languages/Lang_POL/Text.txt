@@ -261,7 +261,7 @@ achieventry :: Osiągnięcia :: Zobacz swoje postępy w osiągnięciach, jakie m
 badgesentry :: Odznaki :: Obejrzyj odznaki zdobyte w CTGP-7. Wymaga to połączenia z Internetem.
 optionsentry :: Opcje :: Zmień ustawienia gry CTGP-7.
 servsett :: Opcje serwera :: Ustawienia dotyczące Twoich danych na serwerze gry online CTGP-7.
-cloudsaveentry :: Kopia zapasowa w chmurze :: Zarządzaj zapisanymi kopiami zapasowymi postępów gry utworzonymi z tej konsoli.
+cloudsaveentry :: Kopia zapasowa w chmurze :: Zarządzaj zapisaną w chmurze kopią zapasową postępów gry z tej konsoli.
 
 #Speedometer text
 spd_set :: Opcje prędkościomierza.
@@ -506,10 +506,10 @@ sc_at_spc_cup :: Losowa trasa :: Wyzwanie tygodnia
 sc_at_race_start :: Próba punktowa
 sc_at_clear :: Zaliczona trasa :: Niezaliczona trasa
 sc_at_save :: (Usuń zapis: \uE002) :: (brak)
-sc_at_score ::  Twój rekord ::  Próg zaliczenia
+sc_at_score :: Twój rekord :: Próg zaliczenia
 sc_at_delete :: Zresetować rekord tej trasy?
-sc_at_record ::  Nowy rekord!
-sc_at_clear_small ::  Zaliczono! ::  Nie zaliczono
+sc_at_record :: Nowy rekord!
+sc_at_clear_small :: Zaliczono! :: Nie zaliczono
 sc_at_cleared_tr :: Zaliczone trasy
 sc_at_nice :: NIEŹLE!
 sc_at_great :: ŚWIETNIE!
@@ -535,25 +535,25 @@ mult_error :: Wszyscy gracze muszą mieć\nzainstalowaną najnowszą\nwersję CT
 
 #Save Backup
 sbak_avail :: Ta opcja jest dostępna tylko\nw menu "Gra jednoosobowa".
-sbak_fetch :: Pobieranie informacji o kopii zapasowej... :: Nie można pobrać informacji\no kopii zapasowej.\nBłąd 0x%08X
+sbak_fetch :: Pobieranie informacji o kopii zapasowej... :: Nie można pobrać informacji o kopii zapasowej.\n\nBłąd 0x%08X
 sbak_info :: Informacje o kopii zapasowej
 sbak_found :: Znaleziono kopię zapasową. :: Nie znaleziono kopii zapasowej.
 sbak_created :: Utworzono:
 sbak_cretime :: Dzisiaj :: %d dni temu
-sbak_create :: Utwórz kopię
-sbak_restore :: Przywróć kopię
-sbak_delete :: Usuń kopię
+sbak_create :: Utwórz kopię zapasową
+sbak_restore :: Przywróć kopię zapasową
+sbak_delete :: Usuń kopię zapasową
 sbak_new :: Zostanie utworzona nowa kopia zapasowa\nw chmurze (pełna, z wyjątkiem duchów). :: Poprzednio zapisana w chmurze kopia\nzostanie nadpisana.
 sbak_newprog :: Tworzenie kopii zapasowej: %s
-sbak_newres :: Utworzono kopię zapasową pomyślnie. :: Nie można utworzyć kopii zapasowej.\nBłąd 0x%08X
-sbak_rest :: Kopia zapasowa z chmury\nzostanie przywrócona. :: Aktualny zapis gry zostanie\nskopiowany do folderów:
-sbak_restex :: Foldery zapasowej kopii już\nistnieją i zostaną usunięte.
+sbak_newres :: Pomyślnie utworzono kopię zapasową. :: Nie można utworzyć kopii zapasowej.\n\nBłąd 0x%08X
+sbak_rest :: Zostanie przywrócona kopia zapasowa z chmury. :: Aktualny zapis gry zostanie skopiowany\ndo folderów:
+sbak_restex :: Foldery zapasowej kopii już istnieją\ni zostaną usunięte.
 sbak_restprog :: Przywracanie kopii zapasowej: %s
-sbak_restres :: Przywrócono kopię zapasową pomyślnie. :: Nie można przywrócić kopii zapasowej\nz chmury. Błąd 0x%08X
-sbak_restres2 :: Ręcznie przywróć następujące\nfoldery, aby odzyskać\nstary zapis: :: Gra teraz zostanie zamknięta.
-sbak_dele :: Kopia zapasowa w chmurze\nzostanie usunięta :: Tej operacji nie można cofnąć.
+sbak_restres :: Pomyślnie przywrócono kopię zapasową. :: Nie można przywrócić kopii zapasowej z chmury.\n\nBłąd 0x%08X
+sbak_restres2 :: Ręcznie przywróć następujące foldery,\naby odzyskać stary zapis: :: Gra teraz zostanie zamknięta.
+sbak_dele :: Kopia zapasowa w chmurze zostanie usunięta. :: Tej operacji nie można cofnąć.
 sbak_deleprog :: Usuwanie kopii zapasowej...
-sbak_deleres :: Usunięto kopię zapasową pomyślnie. :: Nie można usunąć kopii zapasowej.\nBłąd 0x%08X
+sbak_deleres :: Usunięto kopię zapasową pomyślnie. :: Nie można usunąć kopii zapasowej.\n\nBłąd 0x%08X
 
 #Characters
 $1000 :: Mario
