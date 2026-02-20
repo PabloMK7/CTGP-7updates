@@ -30,7 +30,7 @@ $700013 :: Boo Pohár
 $710055 :: Prokletý Most 2
 $710062 :: Prvková Jeskyně
 $710057 :: \uE031\uE032 Údolí Duchů 2
-$710065 :: \uE033 Pláž Cheep Cheepů
+$710065 :: \uE033 Pláž Ryb-Rybeků
 
 #Spring Cup
 $700014 :: Pružinový Pohár
@@ -236,7 +236,7 @@ exit :: Odejít
 default :: Výchozí
 button :: Tlačítko
 summary :: Shrnutí
-continue :: Continue
+continue :: Pokračovat
 
 #Folders
 gameplay_folder :: Herní Funkce :: Konfigurace pro další herní funkce.
@@ -261,7 +261,7 @@ achieventry :: Úspěchy :: Zkontroluj pokrok v úspěších CTGP-7.
 badgesentry :: Odznaky :: Zobrazit získaných odznaků CTGP-7 (vyžaduje připojení k internetu).
 optionsentry :: Možnosti :: Konfigurovat možností CTGP-7.
 servsett :: Nastavení Serveru :: Nastavení související se serverem CTGP-7.
-cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
+cloudsaveentry :: Zálohování do Cloudu :: Spravuj online zálohy vytvořené z této konzole.
 
 #Speedometer text
 spd_set :: Nastavení rychloměru.
@@ -345,7 +345,7 @@ ghostcantrecov :: Tuto operaci není možné vrátit zpět.\nPokračovat? :: Duc
 
 #Server Settings
 serv_consID :: ID Konzole CTGP-7
-serv_communic :: Server Communication :: This functionality requires server\ncommunication to be enabled.
+serv_communic :: Komunikace se Serverem :: Tato funkce vyžaduje povolenou\nkomunikaci se serverem.
 serv_displname :: Zobrazované jmeno :: Vybrat režim zobrazovaného jmenu.
 serv_disphid :: Skrytý
 serv_dispmii :: Mii Jméno
@@ -465,7 +465,7 @@ pts_action_36 :: Rybíkostra
 pts_action_37 :: Kotva
 pts_action_38 :: Poskakující Nota
 pts_action_39 :: Hromada Listů
-pts_action_40 :: Wiggler
+pts_action_40 :: Lousenka
 pts_action_41 :: Rakeťák Bill
 pts_action_42 :: Klíčový Krtek
 pts_action_43 :: Sněhulák
@@ -534,26 +534,26 @@ sc_wc_retry :: Zkusit to znovu?
 mult_error :: Všichni účastníci musí\nmít nainstalovanou nejnovější\nverzi CTGP-7. :: Abys mohl hrát\nv této místnosti, musíš\naktualizovat CTGP-7.
 
 #Save Backup
-sbak_avail :: This option is only available\nwithin the "Singleplayer" menu.
-sbak_fetch :: Fetching save backup info... :: Failed to get save backup info:\n0x%08X
-sbak_info :: Save Backup Information
-sbak_found :: Save backup found. :: Save backup not found.
-sbak_created :: Created:
-sbak_cretime :: Today :: %d days ago
-sbak_create :: Create backup
-sbak_restore :: Restore backup
-sbak_delete :: Delete backup
-sbak_new :: A new online save backup will be\ncreated (excluding ghost data). :: The previous online backup will be overwritten.
-sbak_newprog :: Creating backup: %s
-sbak_newres :: Backup created successfully. :: Failed to create backup:\n0x%08X
-sbak_rest :: The online backup save data\nwill be restored. :: The current save data will\nbe backed up to the folders:
-sbak_restex :: The backup folders already exist\nand they will be deleted.
-sbak_restprog :: Restoring backup: %s
-sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
-sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
-sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
-sbak_deleprog :: Deleting backup...
-sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X
+sbak_avail :: Tato možnost je k dispozici\npouze v nabídce "Jeden Hráč“.
+sbak_fetch :: Načítání informací o uložené záloze... :: Nepodařilo se načíst informace o uložené záloze:\n0x%08X
+sbak_info :: Informace Uložené Zálohované
+sbak_found :: Uložená záloha nalezena. :: Uložená záloha nenalezena.
+sbak_created :: Vytvořeno:
+sbak_cretime :: Dnes :: před % dny
+sbak_create :: Vytvořit zálohu
+sbak_restore :: Obnovit zálohu
+sbak_delete :: Smazat zálohu
+sbak_new :: Bude vytvořena nová online\nzáloha (bez dat duchů). :: Předchozí online záloha bude přepsána.
+sbak_newprog :: Vytváření zálohy: %s
+sbak_newres :: Záloha úspěšně vytvořena. :: Nepodařilo se vytvořit zálohu:\n0x%08X
+sbak_rest :: Online záloha uložených\ndat bude obnovena. :: Aktuální uložená data budou\nzálohována do složek:
+sbak_restex :: Záložní složky už existují\na budou smazány.
+sbak_restprog :: Obnovení zálohy: %s
+sbak_restres :: Záloha úspěšně obnovena. :: Nepodařilo se obnovit zálohu:\n0x%08X
+sbak_restres2 :: Ručně obnov následující\nsložky, abys obnovil stará\nuložená data: :: Hra se teď zavře.
+sbak_dele :: Online záloha uložených\ndat bude smazána. :: Tuto operaci nelze vrátit zpět.
+sbak_deleprog :: Smazání zálohy: %s
+sbak_deleres :: Záloha úspěšně smazána. :: Nepodařilo se smazat zálohu:\n0x%08X
 
 #Characters
 $1000 :: Mario
@@ -568,7 +568,7 @@ $1008 :: Wario
 $1009 :: Daisy
 $1010 :: Lakitu
 $1011 :: Rosalina
-$1012 :: Wiggler
+$1012 :: Lousenka
 $1013 :: Včelka Mája
 $1014 :: Železný Mario
 $1015 :: Mii
@@ -615,7 +615,7 @@ $1058 :: Wario
 $1059 :: Daisy
 $1060 :: Lakitu
 $1061 :: Rosalina
-$1062 :: Wiggler
+$1062 :: Lousenka
 $1063 :: Mája
 $1064 :: Ž. Mario
 $1065 :: Mii
@@ -674,7 +674,7 @@ $1507 :: Bleskový Pohár
 #Nitro tracks
 $1600 :: Mariův Okruh
 $1601 :: Daisyných Kopce
-$1602 :: Mys Cheep Cheepa
+$1602 :: Mys Ryb-Rybeka
 $1603 :: Alpský Průsmyk
 $1604 :: Toadův Okruh
 $1605 :: Shy Guy Bazar

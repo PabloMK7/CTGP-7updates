@@ -30,7 +30,7 @@ $700013 :: Puchar Buu
 $710055 :: Promenada Duchów 2
 $710062 :: Jaskinia Żywiołów
 $710057 :: \uE031\uE032 Dolina Duchów 2
-$710065 :: \uE033 Plaża Cheep Cheepów
+$710065 :: \uE033 Plaża Ryb-Rybek
 
 #Spring Cup
 $700014 :: Puchar Sprężynogrzybowy
@@ -54,7 +54,7 @@ $710061 :: \uE031\uE032 Czekoladowa Wyspa 2
 $710064 :: Gwiezdny Stok
 
 #Blooper Cup
-$700018 :: Puchar Bloopera
+$700018 :: Puchar Kleksika
 $710074 :: Park Zamków z Piasku
 $710058 :: Dżunglowe Ruiny
 $710076 :: \uE026\uE027 Tor Luigiego
@@ -78,7 +78,7 @@ $710085 :: Ukryta Zjeżdżalnia
 $700021 :: Puchar Bob-omby
 $710086 :: \uE033 Stadion Wario
 $710087 :: Tor Ermii
-$710088 :: \uE026\uE027 Park Bobasów
+$710088 :: \uE026\uE027 Bobo Park
 $710072 :: \uE026\uE027 Zamek Bowsera
 
 #Cherry Cup
@@ -167,7 +167,7 @@ $710133 :: Śnieżnomroźna Cytadela
 
 #Dark Star Cup
 $700033 :: Puchar Ciemnogwiezdny
-$710134 :: Mroczne Sanktuarium
+$710134 :: Sanktuarium Ciemności
 $710135 :: Piekielna Piramida
 $710136 :: \uE026\uE027 Grzybowe Miasto
 $710137 :: Zamek Gwiazdy Ciemności
@@ -335,8 +335,8 @@ OrderV :: Po kolei (pionowo)
 NextRac :: Wybierz następną trasę.\nPozostało wyścigów:
 extra_diff :: Ekstra trudny :: NIEMOŻLIWY
 cusitem_notice :: Informacja: Czasami domyślny przedmiot (%s) może się pojawiać mimo to.
-item_mega :: Mega-Grzyb
-item_fib :: Fałszywy Item-Box
+item_mega :: Megagrzyb
+item_fib :: Fałszywy Item Box
 
 #Reset Ghosts
 resghost :: Resetowanie duchów :: Zresetuj duchy na wybranych trasach.
@@ -427,25 +427,25 @@ badge_date_fmt :: %d.%m.%Y
 #Score Attack Actions
 pts_action_0 :: Grzyb!
 pts_action_1 :: Przyspieszacz
-pts_action_2 :: Mini-turbo
-pts_action_3 :: Super mini-turbo
-pts_action_4 :: Drobny turbo-start
-pts_action_5 :: Turbo-start
-pts_action_6 :: Idealny turbo-start
+pts_action_2 :: Miniturbo
+pts_action_3 :: Super miniturbo
+pts_action_4 :: Drobny turbo start
+pts_action_5 :: Turbo start
+pts_action_6 :: Idealny turbo start
 pts_action_7 :: Sztuczka
 pts_action_8 :: Świetna sztuczka
 pts_action_9 :: Jazda w cieniu
-pts_action_10 :: Złoty Grzyb!
+pts_action_10 :: Złoty grzyb!
 pts_action_11 :: Moneta
 pts_action_12 :: Gwiazda-wyrzutnia
 pts_action_13 :: Rura
-pts_action_14 :: Goomba
-pts_action_15 :: Nietoperz
+pts_action_14 :: Gumba
+pts_action_15 :: Świstoperz
 pts_action_16 :: Pachołek
 pts_action_17 :: Skała
-pts_action_18 :: Cheep Cheep
+pts_action_18 :: Ryb-Rybka
 pts_action_19 :: Małż
-pts_action_20 :: Krab
+pts_action_20 :: Kraboczek
 pts_action_21 :: Koza
 pts_action_22 :: Dzban
 pts_action_23 :: Nieśmiałek dywaniarz
@@ -458,23 +458,23 @@ pts_action_29 :: Pingwin
 pts_action_30 :: Sopel
 pts_action_31 :: Zgniatacz
 pts_action_32 :: Makieta krzaka
-pts_action_33 :: Makieta Goomby
-pts_action_34 :: Roślina-Pirania
-pts_action_35 :: Chain Chomp
-pts_action_36 :: Ryboszkielet
+pts_action_33 :: Makieta Gumby
+pts_action_34 :: Kwiat Piranium
+pts_action_35 :: Gryziuch
+pts_action_36 :: Ościak
 pts_action_37 :: Kotwica
 pts_action_38 :: Skoczna Nutka
 pts_action_39 :: Stos liści
-pts_action_40 :: Gąsienica
+pts_action_40 :: Bujeczka
 pts_action_41 :: Rakieta Bill
-pts_action_42 :: Kret
+pts_action_42 :: Kaziu Kluczyk
 pts_action_43 :: Bałwan
 pts_action_44 :: Kula śnieżna
 pts_action_45 :: Kula metalowa
 pts_action_46 :: Stół
 pts_action_47 :: Kaktus
 pts_action_48 :: Pociąg
-pts_action_49 :: Pszczelik
+pts_action_49 :: Żądlik
 pts_action_50 :: Czas w powietrzu
 pts_action_51 :: Cios: ziel. skorupa!
 pts_action_52 :: Cios: czerw. skorupa!
@@ -485,9 +485,9 @@ pts_action_56 :: Cios: fałszywy box!
 pts_action_57 :: Cios: bob-omba!
 pts_action_58 :: Cios: ogień!
 pts_action_59 :: Cios: ogon!
-pts_action_60 :: Użycie bloopera!
+pts_action_60 :: Użycie kleksika!
 pts_action_61 :: Cios: gwiazda!
-pts_action_62 :: Cios: mega-grzyb!
+pts_action_62 :: Cios: megagrzyb!
 pts_action_63 :: Cios: rakieta!
 pts_action_64 :: Wyprzedzenie rakietą
 pts_action_65 :: Zemsta!
@@ -563,22 +563,22 @@ $1003 :: Yoshi
 $1004 :: Bowser
 $1005 :: Donkey Kong
 $1006 :: Toad
-$1007 :: Koopa Troopa
+$1007 :: Żółwnierz
 $1008 :: Wario
 $1009 :: Daisy
 $1010 :: Lakitu
 $1011 :: Rozalina
-$1012 :: Gąsienica
+$1012 :: Bujeczka
 $1013 :: Królowa Pszczół
 $1014 :: Metalowy Mario
 $1015 :: Mii
 $1016 :: Nieśmiałek
 
 #Items
-$1018 :: Grzyb-Przyspieszacz
-$1019 :: Kwiat Ognia
+$1018 :: Grzyb Przyspieszacz
+$1019 :: Ogniokwiat
 $1020 :: Super Gwiazda
-$1021 :: Złoty Grzyb-Przyspieszacz
+$1021 :: Złoty Grzyb Przyspieszacz
 $1022 :: Zielona Skorupa
 $1023 :: Banan
 $1024 :: Super Liść
@@ -586,11 +586,11 @@ $1025 :: Piorun
 $1026 :: Czerwona Skorupa
 $1027 :: Bob-omba
 $1028 :: Kolczasta Skorupa
-$1029 :: Blooper
+$1029 :: Kleksik
 $1030 :: Rakieta Bill
 $1031 :: Szczęśliwa Siódemka
-$1032 :: Dwa Grzyby-Przyspieszacze
-$1033 :: Trzy Grzyby-Przyspieszacze
+$1032 :: Dwa Grzyby Przyspieszacze
+$1033 :: Trzy Grzyby Przyspieszacze
 $1034 :: Trzy Zielone Skorupy
 $1035 :: Trzy Banany
 $1036 :: Trzy Czerwone Skorupy
@@ -610,12 +610,12 @@ $1053 :: Yoshi
 $1054 :: Bowser
 $1055 :: DK
 $1056 :: Toad
-$1057 :: Koopa
+$1057 :: Żółwnierz
 $1058 :: Wario
 $1059 :: Daisy
 $1060 :: Lakitu
 $1061 :: Rozalina
-$1062 :: Gąsienica
+$1062 :: Bujeczka
 $1063 :: K. Pszczół
 $1064 :: M. Mario
 $1065 :: Mii
@@ -673,14 +673,14 @@ $1507 :: Puchar Pioruna
 
 #Nitro tracks
 $1600 :: Tor Mario
-$1601 :: Wzgórza Daisy
-$1602 :: Przylądek Cheep Cheepów
+$1601 :: Miasteczko Daisy
+$1602 :: Przylądek Ryb-Rybek
 $1603 :: Alpejska Przełęcz
 $1604 :: Tor Toada
 $1605 :: Bazar Nieśmiałków
 $1606 :: Drogowy Rajd Wuhu
 $1607 :: Galeon Wario
-$1608 :: Rurociągi Roślin-Piranii
+$1608 :: Podziemia Piranium
 $1609 :: Park Muzyczny
 $1610 :: Neo Miasto Bowsera
 $1611 :: Górski Rajd Wuhu
@@ -699,12 +699,12 @@ $1705 :: \uE033 Pinball Waluigiego
 $1706 :: \uE033 Góry DK
 $1707 :: \uE033 Twierdza Sterowców
 $1708 :: \uE067 Kokosowa Galeria
-$1709 :: \uE067 Przylądek Koopy
+$1709 :: \uE067 Żółwiowy Przylądek
 $1710 :: \uE067 Klonowy Zaułek
 $1711 :: \uE067 Grzybowy Wąwóz
 $1712 :: \uE026\uE027 Dżungla Dinozaurów
 $1713 :: \uE026\uE027 Wycieczkowiec Daisy
-$1714 :: \uE022\uE023 Plaża Koopa Troopa
+$1714 :: \uE022\uE023 Żółwiowa Plaża
 $1715 :: \uE031\uE032 Tęczowa Droga
 
 #Balloon battle tracks
@@ -850,7 +850,7 @@ $2205 :: \r2204
 $2206 :: Bitwa
 
 #Single Player mode descriptions
-$2210 :: Ścigaj się w 4-etapowych zawodach o puchar.
+$2210 :: Sięgnij po złoto w serii czterech wyścigów.
 $2211 :: Ścigaj się solo i uzyskaj najlepszy czas.
 $2212 :: Rozbij baloniki przeciwników.
 $2213 :: Zbierz jak najwięcej monet.
@@ -871,7 +871,7 @@ $2233 :: Odbite trasy
 #Kart build stats
 $2240 :: Prędkość
 $2241 :: Przyspieszenie
-$2242 :: Waga
+$2242 :: Ciężar
 $2243 :: Sterowność
 $2244 :: Off-road
 
@@ -943,7 +943,7 @@ $2408 :: Wybierz ducha
 
 #Quit dialogue
 $2406 :: Czy chcesz opuścić grę?
-$9111 :: Czy na pewno chcesz\nzakończyć grę?
+$9111 :: Czy na pewno chcesz wyjść?
 
 #Local Multiplayer menu
 $2407 :: Grupy w grze: \u000E\u0001\u0004\u0004\u0000\u0000
@@ -1231,7 +1231,7 @@ $7501 :: Najpierw musisz \u000E\u0000\u0003\u0002\u0000włączyć\u000E\u0000\u0
 
 #Pause menu
 $9003 :: Wznów
-$9004 :: Zakończ
+$9004 :: Wyjdź
 $9005 :: Zmień trasę
 $9006 :: Zmień postać
 $9007 :: Od początku
