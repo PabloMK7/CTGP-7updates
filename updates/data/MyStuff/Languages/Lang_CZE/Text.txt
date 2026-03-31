@@ -35,7 +35,7 @@ $710065 :: \uE033 Pláž Ryb-Rybeků
 #Spring Cup
 $700014 :: Pružinový Pohár
 $710067 :: \uE033 Hodiny Tik-Tak
-$710075 :: \uE034 Houbový Most
+$710075 :: \uE026\uE027 Houbový Most
 $710066 :: \uE033 Pouštní Kopce
 $710069 :: Časový Hrad
 

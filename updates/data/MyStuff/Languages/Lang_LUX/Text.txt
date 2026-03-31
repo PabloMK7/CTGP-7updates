@@ -789,7 +789,7 @@ $9103 :: Jo
 $9104 :: Nee
 
 #Update dialogue
-$2080 :: Fir online ze spillen,\nmussen d'Mario Kart 7 Updatedaten\nals éischt erofgeluede ginn.
+$2080 :: Fir online ze spillen, mussen\nd'Mario Kart 7 Updatedaten\nals éischt erofgeluede ginn.
 $2081 :: Mario Kart 7 gouf aktualiséiert.\n\nD'Software wäert elo nei starten.
 
 #Main menu

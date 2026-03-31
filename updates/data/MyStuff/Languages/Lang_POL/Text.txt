@@ -395,7 +395,7 @@ course_check :: Suma kontrolna trasy
 
 #Custom Server
 server_name :: Nintendo Network :: CTGP-7 Network
-server_choice :: Wybierz serwer online:\n\n%s:\n    - Tylko dla graczy CTGP-7\n    - CTWW + trasy oryginalne\n    - Silny mechanizm anti-cheat\n%s:\n    - Dla wszystkich graczy MK7\n    - Trasy oryginalne + Społeczności\n    - Słaby mechanizm anti-cheat
+server_choice :: Wybierz serwer online:\n\n%s:\n    - Tylko dla graczy CTGP-7\n    - CTWW + trasy oryginalne\n    - Silny mechanizm anty-cheat\n%s:\n    - Dla wszystkich graczy MK7\n    - Trasy oryginalne + Społeczności\n    - Słaby mechanizm anty-cheat
 server_ctgp7_conn :: Łączenie z CTGP-7 Network...
 server_ctgp7_dconn :: Rozłączyć się\nz CTGP-7 Network?
 server_ctgp7_nocomm :: Sieć CTGP-7 Network\nnie obsługuje Społeczności.
@@ -456,7 +456,7 @@ pts_action_27 :: Auto
 pts_action_28 :: Skrzynia
 pts_action_29 :: Pingwin
 pts_action_30 :: Sopel
-pts_action_31 :: Zgniatacz
+pts_action_31 :: Przygrzmot
 pts_action_32 :: Makieta krzaka
 pts_action_33 :: Makieta Gumby
 pts_action_34 :: Kwiat Piranium
@@ -657,7 +657,7 @@ $1300 :: Super Lotnia
 $1301 :: Paralotnia
 $1302 :: Parasol Peach
 $1303 :: Kwiatolotnia
-$1304 :: Nietolotnia
+$1304 :: Świstolotnia
 $1305 :: Bestiolotnia
 $1306 :: Złota Lotnia
 
@@ -699,7 +699,7 @@ $1705 :: \uE033 Pinball Waluigiego
 $1706 :: \uE033 Góry DK
 $1707 :: \uE033 Twierdza Sterowców
 $1708 :: \uE067 Kokosowa Galeria
-$1709 :: \uE067 Żółwiowy Przylądek
+$1709 :: \uE067 Przylądek Żółwia
 $1710 :: \uE067 Klonowy Zaułek
 $1711 :: \uE067 Grzybowy Wąwóz
 $1712 :: \uE026\uE027 Dżungla Dinozaurów
@@ -850,7 +850,7 @@ $2205 :: \r2204
 $2206 :: Bitwa
 
 #Single Player mode descriptions
-$2210 :: Sięgnij po złoto w serii czterech wyścigów.
+$2210 :: Ścigaj się w 4-etapowych zawodach o puchar.
 $2211 :: Ścigaj się solo i uzyskaj najlepszy czas.
 $2212 :: Rozbij baloniki przeciwników.
 $2213 :: Zbierz jak najwięcej monet.
@@ -1243,7 +1243,7 @@ $9011 :: Jeszcze raz
 $9012 :: Pokaż powtórkę
 $9013 :: Wznów powtórkę
 $9014 :: Powtórka od nowa
-$9015 :: Zakończ powtórkę
+$9015 :: Wyjdź z powtórki
 $9016 :: Następny wyścig
 $9017 :: Następna runda
 

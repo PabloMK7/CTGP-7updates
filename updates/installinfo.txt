@@ -57,6 +57,7 @@ M/MyStuff/Characters/Kirby_shadow.chpack
 M/MyStuff/Characters/Kirby_yellow.chpack
 M/MyStuff/Characters/Luma.chpack
 M/MyStuff/Characters/Midbus.chpack
+M/MyStuff/Characters/Miku.chpack
 M/MyStuff/Characters/Mr._L.chpack
 M/MyStuff/Characters/Nabbit.chpack
 M/MyStuff/Characters/Orange_Yoshi.chpack

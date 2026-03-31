@@ -169,7 +169,7 @@ $710133 :: Ciudadela Brisafría
 $700033 :: Copa Estrella Oscura
 $710134 :: Santuario Oscuro
 $710135 :: Pirámide Infernal
-$710136 :: \uE026\uE027 Cuidad Champiñón
+$710136 :: \uE026\uE027 Ciudad Champiñón
 $710137 :: Castillo Estrella Oscura
 
 #Save Data

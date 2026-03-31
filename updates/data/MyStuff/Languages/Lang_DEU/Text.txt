@@ -236,7 +236,7 @@ exit :: Zurück
 default :: Standard
 button :: Knopf
 summary :: Zusammenfassung
-continue :: Continue
+continue :: Fortfahren
 
 #Folders
 gameplay_folder :: Gameplay-Features :: Konfiguration für zusätzliche Gameplay-Features.
