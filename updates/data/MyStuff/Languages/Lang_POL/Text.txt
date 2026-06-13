@@ -237,6 +237,7 @@ default :: Domyślnie
 button :: Przycisk
 summary :: Podsumowanie
 continue :: Kontynuuj
+mode_type :: Tryb :: Typ
 
 #Folders
 gameplay_folder :: Funkcje gry :: Konfiguracja dodatkowych funkcji podczas gry.
@@ -336,7 +337,14 @@ NextRac :: Wybierz następną trasę.\nPozostało wyścigów:
 extra_diff :: Ekstra trudny :: NIEMOŻLIWY
 cusitem_notice :: Informacja: Czasami domyślny przedmiot (%s) może się pojawiać mimo to.
 item_mega :: Megagrzyb
-item_fib :: Fałszywy Item Box
+item_fib :: Fałszywa Skrzynka
+item_boxes :: Normalne Skrzynki
+item_periodic :: Okresowe :: Ustaw, co ile sekund każdy gracz\nma otrzymać przedmiot.
+item_color_rain :: Deszcz Kolorowych Skrzynek
+item_box_rain :: Deszcz Skrzynek
+item_triple :: Potrójne Przedmioty
+item_bs_show :: Szaleństwo Niebieskich Skorup
+item_sel_mode :: Wybierz tryb przedmiotów. :: Wybierz typ przedmiotów.
 
 #Reset Ghosts
 resghost :: Resetowanie duchów :: Zresetuj duchy na wybranych trasach.
@@ -409,7 +417,7 @@ blue_coin_nocc :: Nie można zbierać\nniebieskich monet,\ngdy selektor CM3\njes
 
 #Lobby
 lobby_type :: Publiczny pokój :: Prywatny pokój
-choose_lobby :: Wybierz pokój online:\n\n- Publiczny: Graj z innymi aktywnymi graczami.\n- Prywatny: Graj tylko z zaproszonymi graczami.\n\nInformacja: Twoje PWO z wersji podstawowej\nbędą brane pod uwagę w prywatnych.
+choose_lobby :: Wybierz pokój online:\n\n- Publiczny: Graj z innymi aktywnymi graczami.\n- Prywatny: Graj tylko z zaproszonymi graczami.\n\nInformacja: Twoje PWO z wersji podstawowej\nbędzie używane w prywatnych pokojach.
 enter_lobby_code :: Wpisz kod pokoju prywatnego.\nPodziel się tym kodem z innymi,\naby zagrać wspólnie! :: Kod pokoju jest zbyt krótki.
 
 #Proximity Chat
@@ -435,9 +443,9 @@ pts_action_6 :: Idealny turbo start
 pts_action_7 :: Sztuczka
 pts_action_8 :: Świetna sztuczka
 pts_action_9 :: Jazda w cieniu
-pts_action_10 :: Złoty grzyb!
+pts_action_10 :: Złoty Grzyb!
 pts_action_11 :: Moneta
-pts_action_12 :: Gwiazda-wyrzutnia
+pts_action_12 :: Gwiazda wyrzutnia
 pts_action_13 :: Rura
 pts_action_14 :: Gumba
 pts_action_15 :: Świstoperz
@@ -481,7 +489,7 @@ pts_action_52 :: Cios: czerw. skorupa!
 pts_action_53 :: Cios: banan!
 pts_action_54 :: Cios: nieb. skorupa!
 pts_action_55 :: Cios: piorun!
-pts_action_56 :: Cios: fałszywy box!
+pts_action_56 :: Cios: fałsz. skrzynka!
 pts_action_57 :: Cios: bob-omba!
 pts_action_58 :: Cios: ogień!
 pts_action_59 :: Cios: ogon!
@@ -631,12 +639,12 @@ $1105 :: Cukinia
 $1106 :: Bolid B
 $1107 :: Gang-Ster
 $1108 :: Trzmiel
-$1109 :: Koopamobil
+$1109 :: Klaunomobil
 $1110 :: Rama Rurowa
 $1111 :: Wyścigówka 7
 $1112 :: Księżniczka
 $1113 :: Kakt-X
-$1114 :: Baryłkomotywa
+$1114 :: Beczkomotywa
 $1115 :: Aerokart
 $1116 :: Złoty Kart
 
@@ -645,7 +653,7 @@ $1200 :: Standardowe
 $1201 :: Rolkowe
 $1202 :: Monster
 $1203 :: Wyścigowe
-$1204 :: Cienkie
+$1204 :: Wąskie
 $1205 :: Gąbkowe
 $1206 :: Czerw. Monster
 $1207 :: Grzybowe
@@ -791,17 +799,17 @@ $1915 :: Gwiazda wyścigów (\u000E\u0001\u0008\u0000)
 $1950 :: Ekspertka od skorup (\u000E\u0001\u0008\u0000)
 $1951 :: Mistrzyni bananów (\u000E\u0001\u0008\u0000)
 $1952 :: Bob-ombowiec (\u000E\u0001\u0008\u0000)
-$1953 :: Super obrończyni (\u000E\u0001\u0008\u0000)
-$1954 :: Zaczepna kierowca (\u000E\u0001\u0008\u0000)
-$1955 :: Skoczkini (\u000E\u0001\u0008\u0000)
-$1956 :: Lotniczka (\u000E\u0001\u0008\u0000)
+$1953 :: Super obrońca (\u000E\u0001\u0008\u0000)
+$1954 :: Zaczepny kierowca (\u000E\u0001\u0008\u0000)
+$1955 :: Skoczek (\u000E\u0001\u0008\u0000)
+$1956 :: Lotnik (\u000E\u0001\u0008\u0000)
 $1957 :: Delfin (\u000E\u0001\u0008\u0000)
-$1958 :: Drifterka (\u000E\u0001\u0008\u0000)
-$1959 :: Szybka starter (\u000E\u0001\u0008\u0000)
+$1958 :: Drifter (\u000E\u0001\u0008\u0000)
+$1959 :: Szybki starter (\u000E\u0001\u0008\u0000)
 $1960 :: Królowa comebacków (\u000E\u0001\u0008\u0000)
-$1961 :: Wzorowa kierowca (\u000E\u0001\u0008\u0000)
-$1962 :: Zygzakerka (\u000E\u0001\u0008\u0000)
-$1963 :: Bezpieczna kierowca (\u000E\u0001\u0008\u0000)
+$1961 :: Wzorowy kierowca (\u000E\u0001\u0008\u0000)
+$1962 :: Zygzaker (\u000E\u0001\u0008\u0000)
+$1963 :: Bezpieczny kierowca (\u000E\u0001\u0008\u0000)
 $1964 :: Początkująca (\u000E\u0001\u0008\u0000)
 $1965 :: Gwiazda wyścigów (\u000E\u0001\u0008\u0000)
 
@@ -993,7 +1001,7 @@ $2515 :: Wygrana w Pucharze Skorupy\nw klasie 150 cm³!\n\nZostała odblokowana\
 $2516 :: Wygrana w Pucharze Banana\nw klasie 150 cm³!\n\nZostała odblokowana\n\u000E\u0000\u0003\u0002\u0000nowa postać\u000E\u0000\u0003\u0002\uFFFF!
 $2517 :: Wygrana w Pucharze Liścia\nw klasie 150 cm³!\n\nZostała odblokowana\n\u000E\u0000\u0003\u0002\u0000nowa postać\u000E\u0000\u0003\u0002\uFFFF!
 $2518 :: Wygrana w Pucharze Pioruna\nw klasie 150 cm³!\n\nZostała odblokowana\n\u000E\u0000\u0003\u0002\u0000nowa postać\u000E\u0000\u0003\u0002\uFFFF!
-$2519 :: Możesz teraz grać jako\nswoja postać \u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
+$2519 :: Możesz teraz grać\nswoją postacią \u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
 $2520 :: Zebrano łącznie \u000E\u0001\u0004\u0004\u0000\u0000 monet!\n\nZostał odblokowany nowy\n\u000E\u0000\u0003\u0002\u0000element pojazdu\u000E\u0000\u0003\u0002\uFFFF!
 $2521 :: Osiągnięto wynik 10000 PWO!\n\nZostał odblokowany nowy\n\u000E\u0000\u0003\u0002\u0000element pojazdu\u000E\u0000\u0003\u0002\uFFFF!
 $2522 :: Ukończono wszystkie puchary\nGrand Prix w każdej klasie\nz co najmniej 1 gwiazdką!\n\nZostał odblokowany nowy\n\u000E\u0000\u0003\u0002\u0000element pojazdu\u000E\u0000\u0003\u0002\uFFFF!

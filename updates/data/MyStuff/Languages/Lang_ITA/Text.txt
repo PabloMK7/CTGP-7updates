@@ -13,7 +13,7 @@ $710045 :: \uE024\uE025 Giardino Nuvola
 
 #Acorn Cup
 $700011 :: Trofeo Ghianda
-$710046 :: Foresta d'autunno
+$710046 :: Foresta d'Autunno
 $710068 :: \uE024\uE025 Parco Lungofiume
 $710043 :: RMX Circuito di Mario 1
 $710049 :: \uE024\uE025 Castello di Bowser 3
@@ -35,7 +35,7 @@ $710065 :: \uE033 Spiaggia Smack
 #Spring Cup
 $700014 :: Trofeo Molla
 $710067 :: \uE033 Pista Tictac
-$710075 :: \uE026\uE027 Ponte dei funghi
+$710075 :: \uE026\uE027 Ponte dei Funghi
 $710066 :: \uE033 Deserto Picchiasol
 $710069 :: Castello del Tempo
 
@@ -44,11 +44,11 @@ $700015 :: Trofeo Uovo
 $710063 :: \uE033 Cascate di Yoshi
 $710047 :: \uE022\uE023 Cioccocanyon
 $710048 :: \uE033 Colli Fungo
-$710051 :: CTR Crash Cove
+$710051 :: CTR Baia Crash
 
 #Bullet Cup
 $700016 :: Trofeo Pallottolo Bill
-$710056 :: CTR Cortex Castle
+$710056 :: CTR Rocca Cortex
 $710089 :: Circuito di Revo
 $710061 :: \uE031\uE032 Cioccoisola 2
 $710064 :: Pendio Stellare
@@ -104,7 +104,7 @@ $710097 :: Pista Arcobaleno DX
 
 #Pickaxe Cup
 $700024 :: Trofeo Piccone
-$710098 :: Vetta Sogno ad Occhi Aperti
+$710098 :: Vetta Sogno
 $710099 :: Pista Tramonto
 $710100 :: \uE024\uE025 Molo rotto
 $710101 :: Miniera del Ghiacciaio
@@ -142,7 +142,7 @@ $700029 :: Trofeo Luna
 $710118 :: RMX Lago Vaniglia 1
 $710119 :: Circuito del Picco
 $710120 :: Laboratorio Interstellare
-$710121 :: Fortezza Della Materia Oscura
+$710121 :: Fortezza della Materia Oscura
 
 #Hammer Cup
 $700030 :: Trofeo Martello
@@ -175,41 +175,41 @@ $710137 :: Castello della Stella Oscura
 #Save Data
 $7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
 $7003 :: Creazione dei dati di salvataggio...
-$7004 :: I Dati di salvataggio\nsono stati creati.
-$7007 :: Il file di salvataggio di\nMario Kart 7 non esistono,\nper favore, avvia il gioco per\ncreare un nuovo salvataggio.\n\nPremi il tasto POWER.
+$7004 :: I dati di salvataggio\nsono stati creati.
+$7007 :: l file di salvataggio di\nMario Kart 7 non esistono,\nper favore, avvia il gioco per\ncreare un nuovo salvataggio.\n\nPremi il tasto POWER.
 
 #First opening welcome message
-welc_t :: Benvenuto a CTGP-7
+welc_t :: Benvenuti su CTGP-7
 welc_1 :: Ciao!\nDal menu di gioco, potrai usare\ndelle funzioni speciali.\nPer aprire il menu di gioco,\npremi (SELECT).
-welc_2 :: Per user unable fanzine, muovi\nil cursore sulla funzione e\npremi A per abilitarlo o configurarlo.
+welc_2 :: Per usare una funzione, muovi\nil cursore sulla funzione e\npremi A per abilitarlo o configurarlo.
 welc_3 :: Ricorda che alcune funzioni,\ncome il "Selettore classe CC", saranno\ndisabilitate durante il gioco online.
-welc_4 :: La tua statistica verrà caricata\nnel server di CTGP-7 così\nsarà disponibile a tutti.\n(I dati saranno anonimi)\nPuoi disabilitare il caricamento delle tue\nstatistiche nei menu di gioco.
-welc_5 :: Usando CTGP-7 Network,\ntu concordi alle sue regole.\n\nPuoi vederle qui:\nctgp-7.github.io/ctww.html
+welc_4 :: Le tue statistiche verranno caricate\nnel server di CTGP-7 così che\nsaranno disponibili a tutti.\n(I dati saranno anonimi)\nLa comunicazione col server può essere\ndisattivata dalle opzioni.
+welc_5 :: Usando CTGP-7 Network,\nne accetti le sue regole.\n\nPuoi vederle qui:\nctgp-7.github.io/ctww.html
 welc_6 :: Ricordati di dare un'occhiata al\nserver discord di CTGP-7!\n\nEcco l'invito:\ninvite.gg/ctgp7
 welc_7 :: Speriamo ti piaccia!\n^w^
 
 #Achievements
-achiev_all_gold :: Hai ottenuto un trofeo d'oro\nin tutti i trofei custom.\n\nCongratulazioni!
-achiev_all_1star :: Hai ottenuto 1 stella\nin tutti i trofei custom.\n\nCongratulazioni!
-achiev_all_3star :: Hai ottenuto 3 stelle\nin tutti i trofei custom.\n\nCongratulazioni!
+achiev_all_gold :: Hai ottenuto un trofeo d'oro\nin tutti i trofei personalizzati.\n\nCongratulazioni!
+achiev_all_1star :: Hai ottenuto 1 stella\nin tutti i trofei personalizzati.\n\nCongratulazioni!
+achiev_all_3star :: Hai ottenuto 3 stelle\nin tutti i trofei personalizzati.\n\nCongratulazioni!
 achiev_all_mission :: Hai ottenuto 10 punti\nin tutte le missioni.\n\nCongratulazioni!
 achiev_5000_vr :: Hai ottenuto 5000 PC\nin CTWW.\n\nCongratulazioni!
-achiev_all_score_completed :: Hai completato tutte le\npiste nella battaglia punti.\n\nCongratulazioni!
-achiev_blue_coin :: Hai preso tutte le\nmonete blu!\n\nCongratulazioni!
-achiev_dodged_blue :: Hai schivato\n3 gusci blu!\n\nCongratulazioni!
+achiev_all_score_completed :: Hai completato tutte le\npiste nella battaglia a punti.\n\nCongratulazioni!
+achiev_blue_coin :: Hai preso tutte le\nMonete Blu!\n\nCongratulazioni!
+achiev_dodged_blue :: Hai schivato\n3 gusci spinosi!\n\nCongratulazioni!
 unlocked_item :: Hai sbloccato:\n\n
-types_achievs :: Obiettivi Normali :: Obiettivi Speciali
-types_achievs_optional :: Obiettivi Secondari
-gold_tro_achiev :: Oro in tutte le piste Custom
-1star_achiev :: 1 stella in tutti i trofei Custom
-3star_achiev :: 3 stelle in tutti i trofei Custom
+types_achievs :: Obiettivi normali :: Obiettivi speciali
+types_achievs_optional :: Obiettivi secondari
+gold_tro_achiev :: Oro in tutte le piste personalizzate
+1star_achiev :: 1 stella in tutti i trofei personalizzati
+3star_achiev :: 3 stelle in tutti i trofei personalizzati
 10pts_msn_achiev :: 10 punti in tutte le missioni
 5000vr_achiev :: 5000VR in CTWW
 score_all_achiev :: Sfida a punti completata
 blue_coin_achiev :: Tutte le monete blu sono state prese
-dodged_blue_achiev :: Schivato 3 gusci blu
-dodged_blue_amount :: Gusci blu schivati
-custom_track_cups :: Trofei Piste Custom
+dodged_blue_achiev :: Schivato 3 gusci spinosi
+dodged_blue_amount :: Gusci spinosi schivati
+custom_track_cups :: Trofei piste personalizzate
 tro_gold :: Oro
 tro_1star :: 1 stella
 tro_3star :: 3 stelle
@@ -220,8 +220,8 @@ tro_blue_collected :: Collezionate
 warning :: AVVISO
 error :: ERRORE
 state :: Stato
-next :: Seguente
-select :: Selezionare
+next :: Avanti
+select :: Seleziona
 chng :: Cambia
 custom :: Personalizzato
 page :: Pagina
@@ -235,33 +235,34 @@ settings :: Impostazioni
 exit :: Esci
 default :: Predefinito
 button :: Pulsante
-summary :: Riassunto:
-continue :: Continue
+summary :: Riassunto
+continue :: Continua
+mode_type :: Mode :: Type
 
 #Folders
-gameplay_folder :: Funzioni di Gameplay :: Configurazione per caratteristiche aggiuntive del gameplay.
-settings_folder :: Opzioni di Gioco :: Impostazioni specifiche di CTGP-7.
-other_folder :: Altre Opzioni :: Altre informazioni e caratteristiche varie.
+gameplay_folder :: Funzioni di gameplay :: Configurazione per caratteristiche aggiuntive del gameplay.
+settings_folder :: Opzioni di gioco :: Impostazioni specifiche di CTGP-7.
+other_folder :: Altre opzioni :: Altre informazioni e caratteristiche varie.
 
 #Entries
 spdmeter :: Tachimetro :: mostra un tachimetro al lato dello schermo.
 ccsel :: Selettore classe CC :: Imposta il valore della classe CC ad un numero arbitrario (imposta prima dell'inizio di una gara per abilitare).
-itemled :: Avviso LED per oggetti :: Il LED della console lampeggerà di blu se un Guscio Blu è usato, e giallo se un Fulmine è usato.
-backcam :: Retrovisore :: Premi \uE002 per vedette dieter di te, esattamente come gli altri giochi della serie! (Nota: Il pulsante \uE002 non potrà più essere usato per attivare gli oggetti.)
-charman :: Gestore Personaggi :: Gestisci i personaggi custom e quelli originali.
+itemled :: Avviso LED per oggetti :: Il LED della console lampeggerà di blu se un Guscio spinoso è usato, e giallo se un Fulmine è usato.
+backcam :: Retrovisore :: Premi \uE002 per vedere dietro di te, esattamente come gli altri giochi della serie! (Nota: Il pulsante \uE002 non potrà più essere usato per attivare gli oggetti.)
+charman :: Gestore personaggi :: Gestisci i personaggi custom e quelli originali.
 cuskart :: Kart personalizzati :: Carica kart personalizzati dalla cartella MyStuff.
-trackorder :: Ordine Delle piste online :: Gestisci l'ordine in cui le piste appariranno nel gioco online.
+trackorder :: Ordine delle piste online :: Gestisci l'ordine in cui le piste appariranno nel gioco online.
 itmprb :: Roulette migliorata :: Mostra le probabilità effettive sulla roulette di oggetti invece di oggetti casuali.
 imtrick :: Acrobazie migliorate :: I kart ruoteranno quando si fa un accrobazia. Usa il Pad Scorrevole per cambiare la direzione di rotazione del kart.
 autoaccel :: Accelerazione automatica :: Premendo \uE000 o \uE003 si abilita l'accelerazione automatica finché non si preme \uE001.
 imbrakedrift :: Derapata lenta migliorata :: Tieni premuto \uE001 durante la derapata per frenare senza perdere il miniturbo.
-autodelaydrift :: "Delay Drift" Automatico :: Aiuta a prevenire la perdita di velocità quando il kart inizia a derapare.
-improvedhorn :: Clacson Migliorato :: Permette di suonare il clacson con il pulsante oggetti e di sentire il clacson degli altri giocatori in Multigiocatore
+autodelaydrift :: "Delay Drift" automatico :: Aiuta a prevenire la perdita di velocità quando il kart inizia a derapare.
+improvedhorn :: Clacson migliorato :: Permette di suonare il clacson con il pulsante oggetti e di sentire il clacson degli altri giocatori in Multigiocatore
 achieventry :: Obiettivi :: Controlla i progressi con gli obbiettivi di CTGP-7
 badgesentry :: Emblemi :: Vedi gli Emblemi ottenuti di CTGP-7 (Richiede connessione ad internet)
 optionsentry :: Opzioni :: Configura le opzioni di CTGP-7
 servsett :: Opzioni del server :: Opzioni relative al server CTGP-7
-cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
+cloudsaveentry :: Backup sul cloud :: Gestisci i salvataggi online creati da questa console.
 
 #Speedometer text
 spd_set :: Tachimetro.
@@ -269,23 +270,23 @@ spd_unit :: Unità
 spd_type :: Tipo
 spd_sunit :: Seleziona l'unità di misura.
 spd_stype :: Seleziona il tipo di tachimetro.
-spd_types1 :: Digital :: Analogico
+spd_types1 :: Digitale :: Analogico
 spd_types2 :: Double Dash
 
 #CC Selector text
-cc_set :: Opzioni Selettore classe CC.
+cc_set :: Opzioni selettore classe CC.
 cc_val :: Valore
 cc_entv :: Inserisci il nuovo valore.
 cc_chgv :: Cambia valore
 
 #Course Manager
-track_ct :: Piste Custom
-track_ori :: Piste Originali
-ct_endis :: Piste custom abilitate :: Piste custom disabilitate
+track_ct :: Piste personalizzate
+track_ori :: Piste originali
+ct_endis :: Piste personalizzate abilitate :: Piste personalizzate disabilitate
 ori_endis :: Piste originali abilitate :: Piste originali disabilitate
 
 #Community Code Generator
-def_spd :: Velocità di default
+def_spd :: Velocità predefinita
 rand_tr :: Forza piste casuali
 code :: Codice
 cusitem :: Articoli personalizzati
@@ -297,7 +298,7 @@ rounds :: Round
 rnd_sel :: Seleziona il numero di round.
 
 #Enhanced Local Map
-enhmap :: Mappa Migliorata :: Aggiunge la funzionalità di zoom alla mappa usando il \uE058 touch screen.
+enhmap :: Mappa nigliorata :: Aggiunge la funzionalità di zoom alla mappa usando il touch screen \uE058.
 
 #Custom character manager text
 char_select :: Seleziona un personaggio da configurare.
@@ -307,13 +308,13 @@ authors :: Autori
 change_face :: Cambia faccia
 
 #Online track order
-order_mode :: Di default :: Alfabetico
+order_mode :: Predefinito :: Alfabetico
 
 #Auto Acceleration
 autoaccel_button :: Scegli il pulsante che attiverà\nl'accelerazione automatica.
 
 #Online update check
-update_check :: Controllo aggiornamenti... :: L'ultima versione di CTGP-7\nè richiesta per giocare online.
+update_check :: Controllo degli aggiornamenti... :: L'ultima versione di CTGP-7\nè richiesta per giocare online.
 fail_conn :: Fallito a connettere\nal server CTGP-7\n\nRiprova più tardi
 
 #CTWW
@@ -333,10 +334,17 @@ RanAll :: Casuali (Tutte)
 OrderH :: Ordine orizzontale
 OrderV :: Ordine verticale
 NextRac :: Seleziona la prossima pista.\nGare rimanenti:
-extra_diff :: Molto Difficile :: ESTREMO
-cusitem_notice :: NOTA: L'oggetto default (%s) potrebbe ancora apparire in alcuni casi.
-item_mega :: Mega Fungo
-item_fib :: Oggetto Finto
+extra_diff :: Molto difficile :: ESTREMA
+cusitem_notice :: NOTA: L'oggetto predefinito (%s) potrebbe ancora apparire in alcuni casi.
+item_mega :: Mega fungo
+item_fib :: Oggetto finto
+item_boxes :: Item Boxes
+item_periodic :: Periodic :: Choose how often objects should\nbe given in seconds.
+item_color_rain :: Color Box Rain
+item_box_rain :: Item Box Rain
+item_triple :: Triple Items
+item_bs_show :: Blue Shell Showdown
+item_sel_mode :: Select item mode. :: Select type of items.
 
 #Reset Ghosts
 resghost :: Resetta Fantasma :: Permette di resettare il fantasma di qualunque pista.
@@ -345,7 +353,7 @@ ghostcantrecov :: Questa operazione non è reversibile.\nProcedere? :: Il fantas
 
 #Server Settings
 serv_consID :: CTGP-7 ConsoleID
-serv_communic :: Server Communication :: This functionality requires server\ncommunication to be enabled.
+serv_communic :: Comunicazione col server :: Questa funzionalità richiede che la\ncomunicazionecol server sia attiva.
 serv_displname :: Visualizza il nome :: Seleziona come viene visualizzato il tuo nome.
 serv_disphid :: Nascosto
 serv_dispmii :: Nome del Mii
@@ -355,8 +363,8 @@ serv_qrshow :: Premere \uE002 per visualizzare.
 #Statistics
 statsentry :: Statistiche locali :: Controlla le tue statistiche private di CTGP-7.
 stats_tpl :: Volte giocato
-stats_tot :: Gare Offline in Totale ::  Gare Online in Totale
-stats_sc :: Totale Gare Battaglia Punti :: Totale Tentativi Sfida Settimanale
+stats_tot :: Gare offline in totale ::  Gare online in totale
+stats_sc :: Totale gare Battaglia a punti :: Totale tentativi Sfida settimanale
 stats_vnll :: Normale
 stats_most :: Percorsi giocati di più :: Arene giocate di più
 stats_rpoints :: Punti di gara
@@ -380,7 +388,7 @@ ms_miss :: Missioni
 ms_desc :: Completa le sfide e ottieni il grado maggiore.
 ms_selmiss :: Selezionare Missione
 ms_rcrd :: Record
-ms_gradelim :: Grado Max. :: Grado Min.
+ms_gradelim :: Grado max. :: Grado min.
 ms_timescor :: Tempo :: Punteggio
 ms_failed :: Missione fallita!
 ms_nodata :: Nessun dato
@@ -395,22 +403,22 @@ course_check :: Checksum della pista
 
 #Custom Server
 server_name :: Nintendo Network :: CTGP-7 Network
-server_choice :: Seleziona il server online:\n\n%s:\n    - Solo per giocatori di CTGP-7\n    - CTWW e circuiti originali\n    - "Anti-cheat" forte\n%s:\n    - Per tutti i giocatori di MK7\n    - Circuiti originali e comunità\n    - "Anti-cheat" debole
+server_choice :: Seleziona il server online:\n\n%s:\n    - Solo per giocatori di CTGP-7\n    - CTWW e circuiti originali\n    - "Anti-cheat" forte\n%s:\n    - Per tutti i giocatori di MK7\n    - Circuiti originali e community\n    - "Anti-cheat" debole
 server_ctgp7_conn :: Collegamento a\nCTGP-7 Network\nin corso...
 server_ctgp7_dconn :: Vuoi interrompere\nil collegamento a\nCTGP-7 Network?
-server_ctgp7_nocomm :: Le comunità\nnon sono disponibili\nsullaCTGP-7 Network.
+server_ctgp7_nocomm :: Le community\nnon sono disponibili\nsu CTGP-7 Network.
 
 #Blue Coins
 blue_coins :: Monete Blu
 blue_coins_desc :: Una moneta blu apparirà in ogni pista. Collezionale tutte per sbloccare qualcosa!
-blue_coin_obtain :: $Moneta Blu$\ncollezionata! :: %d piste\nrimanenti.
-blue_coin_all :: Tutte le monete\n sono state collezionate!
-blue_coin_nocc :: Le Monete Blu non possono\nessere ottenute quando\nil Selettore classe CC\né attivo.
+blue_coin_obtain :: $Moneta Blu$\nottenuta! :: %d piste\nrimanenti.
+blue_coin_all :: Tutte le monete\nsono state ottenute!
+blue_coin_nocc :: Le Monete Blu non possono\nessere ottenute quando\nil Selettore classe CC\nè attivo.
 
 #Lobby
 lobby_type :: Partita pubblica :: Partita privata
-choose_lobby :: Scegli partita online:\n\n- Pubblica: Gioca con gli altri giocatori di CTGP-7.\n- Privata: Gioca con gli altri giocatori in privato.\n\nNOTA: Verranno usati i PC originali nelle partite private.
-enter_lobby_code :: Inserire codice per partita privata.\nCondividi questo codice con gli altri per giocare insieme! :: Il codice partita è troppo corto.
+choose_lobby :: Scegli una partita online:\n\n- Pubblica: Gioca con gli altri giocatori di CTGP-7.\n- Privata: Gioca con gli altri giocatori in privato.\n\nNOTA: Verranno usati i PC originali nelle partite private.
+enter_lobby_code :: Inserisci il codice per la partita privata.\nCondividi questo codice con gli altri per giocare insieme! :: Il codice della partita è troppo corto.
 
 #Proximity Chat
 proximity_chat :: Chat di prossimità :: (premi \uE002 per attivare)
@@ -419,29 +427,29 @@ proximity_chat_desc :: Connetti il ​​client di chat di prossimità.\nUlterio
 #Badges
 badges_obtained :: Emblemi ottenuti:
 badges_use_online :: Usa online :: Non usare online
-badge_name_desc :: Nome Emblema :: Descrizione Emblema
+badge_name_desc :: Nome :: Descrizione
 badge_date :: Ottenuto in data
-badge_msg :: Hai ottenuto un nuovo\nEmblema CTGP-7. \n\nCongratulazioni!
-badge_date_fmt :: %d.%m.%Y
+badge_msg :: Hai ottenuto nuovi emblemi.\n\nCongratulazioni!
+badge_date_fmt :: %d/%m/%Y
 
 #Score Attack Actions
 pts_action_0 :: Fungo!
-pts_action_1 :: Pannello Scatto
+pts_action_1 :: Pannello scatto
 pts_action_2 :: Miniturbo
-pts_action_3 :: Super Miniturbo
-pts_action_4 :: Partenza Razzo Minore
-pts_action_5 :: Partenza Razzo Minore
-pts_action_6 :: Partenza Razzo Perfetta
-pts_action_7 :: Salto Turbo
-pts_action_8 :: Trick Avanzato
+pts_action_3 :: Super miniturbo
+pts_action_4 :: Partenza a razzo minore
+pts_action_5 :: Partenza a razzo
+pts_action_6 :: Partenza a razzo perfetta
+pts_action_7 :: Salto turbo
+pts_action_8 :: Salto turbo avanzato
 pts_action_9 :: Scia
-pts_action_10 :: Fungo scatto dorato!
+pts_action_10 :: Fungo dorato!
 pts_action_11 :: Moneta
 pts_action_12 :: Anello Stella
 pts_action_13 :: Tubo
 pts_action_14 :: Goomba
 pts_action_15 :: Swooper
-pts_action_16 :: Cono Stradale
+pts_action_16 :: Cono stradale
 pts_action_17 :: Masso
 pts_action_18 :: Pesce Smack
 pts_action_19 :: Ostrica
@@ -457,8 +465,8 @@ pts_action_28 :: Cassa
 pts_action_29 :: Pinguino
 pts_action_30 :: Stalattite
 pts_action_31 :: Twomp
-pts_action_32 :: Cespuglio Falso
-pts_action_33 :: Goomba Falso
+pts_action_32 :: Cespuglio finto
+pts_action_33 :: Goomba finto
 pts_action_34 :: Pianta Piranha
 pts_action_35 :: Categnaccio
 pts_action_36 :: Pesce Lisca
@@ -476,44 +484,44 @@ pts_action_47 :: Cactus
 pts_action_48 :: Treno
 pts_action_49 :: Apiciccia
 pts_action_50 :: Tempo in volo
-pts_action_51 :: Guscio Verde a segno!
-pts_action_52 :: Guscio Rosso a segno!
+pts_action_51 :: Guscio verde a segno!
+pts_action_52 :: Guscio rosso a segno!
 pts_action_53 :: Banana a segno!
-pts_action_54 :: Guscio Spinoso a segno!
+pts_action_54 :: Guscio spinoso a segno!
 pts_action_55 :: Fulmine a segno!
-pts_action_56 :: Oggetto Finto a segno!
+pts_action_56 :: Oggetto finto a segno!
 pts_action_57 :: Bob-omba a segno!
 pts_action_58 :: Fiore di fuoco a segno!
 pts_action_59 :: Superfoglia a segno!
-pts_action_60 :: Calamako Lanciato!
+pts_action_60 :: Calamako lanciato!
 pts_action_61 :: Stella a segno!
-pts_action_62 :: Mega Fungo a segno!
+pts_action_62 :: Mega fungo a segno!
 pts_action_63 :: Pallottolo Bill a segno!
-pts_action_64 :: Sorpasso Pallottolo Bill
+pts_action_64 :: Sorpasso col Pallottolo Bill
 pts_action_65 :: Rivincita!
-pts_action_66 :: Appiattimento!
-pts_action_67 :: Oggetto Distrutto
-pts_action_68 :: Oggetto Deviato
-pts_action_69 :: Guscio Spinoso Schivato!
-pts_action_70 :: Prossimo Giro!
-pts_action_71 :: Prossima Sezione!
-pts_action_72 :: Fine Frenetica!
-pts_action_73 :: Gara Finita!
+pts_action_66 :: Colpito!
+pts_action_67 :: Oggetto distrutto
+pts_action_68 :: Oggetto deviato
+pts_action_69 :: Guscio spinoso schivato!
+pts_action_70 :: Prossimo giro!
+pts_action_71 :: Prossima sezione!
+pts_action_72 :: Fine frenesia!
+pts_action_73 :: Gara finita!
 
 #Score Attack
-score_attack :: Battaglia Punti :: Incatena azioni per prendere più punti.
+score_attack :: Battaglia a punti :: Incatena azioni per prendere più punti.
 sc_at_spc_cup :: Percorso Casuale :: Sfida Settimanale
 sc_at_race_start :: Partenza Gara
-sc_at_clear :: Percorso Superato :: Percorso Non Superato
-sc_at_save :: (Cancella Salvataggio: \uE002) :: (Nessuno)
-sc_at_score :: Punteggio Migliore :: Punteggio fatto
+sc_at_clear :: Percorso superato :: Percorso non superato
+sc_at_save :: (Elimina salvataggio: \uE002) :: (Nessuno)
+sc_at_score :: Punteggio migliore :: Punteggio fatto
 sc_at_delete :: Vuoi cancellare i dati di questa pista?
 sc_at_record :: Nuovo Record!
 sc_at_clear_small :: Passato! :: Non passato
 sc_at_cleared_tr :: Percorsi superati
 sc_at_nice :: BENE!
-sc_at_great :: GRANDE!
-sc_at_excel :: OTTIMO!
+sc_at_great :: OTTIMO!
+sc_at_excel :: ECCELLENTE!
 sc_at_fanta :: FANTASTICO!
 sc_at_combo :: Combo x
 
@@ -534,23 +542,23 @@ sc_wc_retry :: Riprovare?
 mult_error :: Tutti i partecipanti devono avere\nl'ultima versione di CTGP-7\ninstallata. :: Devi aggiornare CTGP-7\n per entrare in\nquesta stanza.
 
 #Save Backup
-sbak_avail :: This option is only available\nwithin the "Singleplayer" menu.
-sbak_fetch :: Fetching save backup info... :: Failed to get save backup info:\n0x%08X
-sbak_info :: Save Backup Information
-sbak_found :: Save backup found. :: Save backup not found.
-sbak_created :: Created:
-sbak_cretime :: Today :: %d days ago
-sbak_create :: Create backup
-sbak_restore :: Restore backup
-sbak_delete :: Delete backup
-sbak_new :: A new online save backup will be\ncreated (excluding ghost data). :: The previous online backup will be overwritten.
-sbak_newprog :: Creating backup: %s
-sbak_newres :: Backup created successfully. :: Failed to create backup:\n0x%08X
-sbak_rest :: The online backup save data\nwill be restored. :: The current save data will\nbe backed up to the folders:
-sbak_restex :: The backup folders already exist\nand they will be deleted.
-sbak_restprog :: Restoring backup: %s
-sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
-sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
-sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
-sbak_deleprog :: Deleting backup...
-sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X
+sbak_avail :: Questa opzione è disponibile\nsolo in giocatore singolo.
+sbak_fetch :: Ottenendo le informazioni sul backup... :: Non è stato possibile ottenere\nle informazioni sul backup:\n0x%08X
+sbak_info :: Informazioni sul backup
+sbak_found :: Backup trovato. :: Backup non trovato.
+sbak_created :: Creato:
+sbak_cretime :: Oggi :: %d giorni fa
+sbak_create :: Crea backup
+sbak_restore :: Ripristina backup
+sbak_delete :: Elimina backup
+sbak_new :: Sarà creato un nuovo backup\n(escludendo i dati sui fantasmi). :: Il backup precedente verrà sovrascritto.
+sbak_newprog :: Creando il backup: %s
+sbak_newres :: Backup creato con successo. :: Backup fallito:\n0x%08X
+sbak_rest :: Il backup online sarà ripristinato. :: Il salvataggio attuale sarà\npreservato in queste cartelle:
+sbak_restex :: Queste cartelle già esistono\ne saranno eliminate.
+sbak_restprog :: Ripristino del backup: %s
+sbak_restres :: Backup ripristinato con successo. :: Ripristino fallito:\n0x%08X
+sbak_restres2 :: Ripristina queste cartelle\nmanualmente per recuperare il tuo\nvecchio salvataggio: :: Il gioco ora si chiuderà.
+sbak_dele :: Il backup online sarà eliminato. :: Quest'azione non può essere annullata.
+sbak_deleprog :: Eliminando il backup...
+sbak_deleres :: Backup eliminato con successo. :: Eliminazione fallita:\n0x%08X

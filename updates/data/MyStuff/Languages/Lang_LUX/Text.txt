@@ -237,6 +237,7 @@ default :: Standard
 button :: Knupp
 summary :: Resumé
 continue :: Continue
+mode_type :: Mode :: Type
 
 #Folders
 gameplay_folder :: Spillfunktiounen :: Konfiguratioun fir zousätzlech Spillfunktiounen.
@@ -337,6 +338,13 @@ extra_diff :: Ganz schwéier :: EXTREM
 cusitem_notice :: Opgepasst: Den Default-Objeten (%s) kann a verschiddene Fäll nach ëmmer optrieden.
 item_mega :: Mega-Champignon
 item_fib :: Fake Item Box
+item_boxes :: Item Boxes
+item_periodic :: Periodic :: Choose how often objects should\nbe given in seconds.
+item_color_rain :: Color Box Rain
+item_box_rain :: Item Box Rain
+item_triple :: Triple Items
+item_bs_show :: Blue Shell Showdown
+item_sel_mode :: Select item mode. :: Select type of items.
 
 #Reset Ghosts
 resghost :: Phantom zrécksetzen :: Erlaabt Iech de Phantom vun enger Streck vun Ärer Wiel zréckzesetzen.
@@ -938,7 +946,7 @@ $2503 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Stär-Coupe\u000E\u0000\u000
 $2504 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Speziall-Coupe\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
 
 #Retro cup unlock messages
-$2506 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Banane-Coupep\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
+$2506 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Banane-Coupe\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
 $2507 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Blat-Coupe\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
 $2508 :: Dir hutt d'\n\u000E\u0000\u0003\u0002\u0000Blëtz-Coupe\u000E\u0000\u0003\u0002\uFFFF opgehuewen!
 

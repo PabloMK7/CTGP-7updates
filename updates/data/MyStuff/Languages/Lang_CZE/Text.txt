@@ -237,6 +237,7 @@ default :: Výchozí
 button :: Tlačítko
 summary :: Shrnutí
 continue :: Pokračovat
+mode_type :: Mód ::Typ
 
 #Folders
 gameplay_folder :: Herní Funkce :: Konfigurace pro další herní funkce.
@@ -337,6 +338,13 @@ extra_diff :: Velmi Těžké :: EXTRÉMNÍ
 cusitem_notice :: POZNÁMKA: Výchozí objekt (%s) se může v některých případech stále objevit.
 item_mega :: Mega Houba
 item_fib :: Falešná Krabice
+item_boxes :: Objektové Krabice
+item_periodic :: Doba :: Vyber, jak často mají být\nobjekty podávány v sekundách.
+item_color_rain :: Barevná Krabicový Déšť
+item_box_rain :: Objektová Krabicový Déšť
+item_triple :: Trojité Objekty
+item_bs_show :: Zúčtování s Modrými Krunýři
+item_sel_mode :: Vyber mód objektu. :: Vyber typ objektů.
 
 #Reset Ghosts
 resghost :: Resetovat Ducha :: Umožňuje resetovat ducha z libovolné tratě.

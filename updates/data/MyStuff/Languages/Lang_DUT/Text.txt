@@ -237,6 +237,7 @@ default :: Standaard
 button :: Knop
 summary :: Samenvatting
 continue :: Verdergaan
+mode_type :: Mode :: Type
 
 #Folders
 gameplay_folder :: Spelfuncties :: Configuratie voor aanvullende spelfuncties.
@@ -337,6 +338,13 @@ extra_diff :: Erg Moeilijk :: EXTREEM
 cusitem_notice :: Merk op: Het standaard voorwerp (%s) zal in sommige gevallen toch voor kunnen komen.
 item_mega :: Megapaddenstoel
 item_fib :: Nep-blok
+item_boxes :: Item Boxes
+item_periodic :: Periodic :: Choose how often objects should\nbe given in seconds.
+item_color_rain :: Color Box Rain
+item_box_rain :: Item Box Rain
+item_triple :: Triple Items
+item_bs_show :: Blue Shell Showdown
+item_sel_mode :: Select item mode. :: Select type of items.
 
 #Reset Ghosts
 resghost :: Reset ghost :: Staat het resetten van een ghost toe op elk circuit.

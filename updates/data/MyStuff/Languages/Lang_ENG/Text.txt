@@ -237,6 +237,7 @@ default :: Default
 button :: Button
 summary :: Summary
 continue :: Continue
+mode_type :: Mode :: Type
 
 #Folders
 gameplay_folder :: Gameplay Features :: Configuration for additional gameplay features.
@@ -337,6 +338,13 @@ extra_diff :: Very Hard :: EXTREME
 cusitem_notice :: NOTE: The default item (%s) may still appear in some cases.
 item_mega :: Mega Mushroom
 item_fib :: Fake Item Box
+item_boxes :: Item Boxes
+item_periodic :: Periodic :: Choose how often objects should\nbe given in seconds.
+item_color_rain :: Color Box Rain
+item_box_rain :: Item Box Rain
+item_triple :: Triple Items
+item_bs_show :: Blue Shell Showdown
+item_sel_mode :: Select item mode. :: Select type of items.
 
 #Reset Ghosts
 resghost :: Reset Ghost :: Allows resetting the ghost from any track.

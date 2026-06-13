@@ -28,4 +28,4 @@ $1202 :: \uE033 Monster
 $1206 :: Nieb. Monster
 
 #Kart Glider Parts
-$1304 :: Ognietolotnia
+$1304 :: Ognioświst

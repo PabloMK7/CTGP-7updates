@@ -237,6 +237,7 @@ default :: Por defecto
 button :: Botón
 summary :: Resumen
 continue :: Continuar
+mode_type :: Modo :: Tipo
 
 #Folders
 gameplay_folder :: Funciones del Juego :: Configuración de funciones adicionales para el juego. 
@@ -337,6 +338,13 @@ extra_diff :: Muy Difícil :: EXTREMO
 cusitem_notice :: NOTA: El objeto por defecto (%s) puede seguir apareciendo en algunos casos.
 item_mega :: Mega Champiñón
 item_fib :: Bloque Sorpresa
+item_boxes :: Cajas de Objeto
+item_periodic :: Periódicos :: Elige cada cúantos segundos\nse deben otorgar los objetos.
+item_color_rain :: Lluvia de Cajas de Color
+item_box_rain :: Lluvia de Cajas de Objecto
+item_triple :: Objetos Triples
+item_bs_show :: Caos de Carapazones de Pinchos
+item_sel_mode :: Selecciona modo de objetos. :: Selecciona tipos de objeto.
 
 #Reset Ghosts
 resghost :: Resetear Corredor Fantasma :: Permite resetear el corredor fantasma de cualquier circuito.

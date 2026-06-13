@@ -237,6 +237,7 @@ default :: Par défaut
 button :: Bouton
 summary :: Sommaire
 continue :: Continuer
+mode_type :: Mode :: Type
 
 #Folders
 gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalités du jeu additionnel.
@@ -337,6 +338,13 @@ extra_diff :: Très difficile :: EXTRÊME
 cusitem_notice :: NOTE : L'objet par défaut (%s) peut apparaître dans certaines situations.
 item_mega :: Méga champignon
 item_fib :: Fausse boîte à objets
+item_boxes :: Boîtes à objets
+item_periodic :: Périodique :: Choisissez la fréquence à laquelle\nles objets doivent être fournis\nen secondes.
+item_color_rain :: Pluie de boîte à couleur
+item_box_rain :: Pluie de boîte à objets
+item_triple :: Triple objets
+item_bs_show :: Tempête de carapace à épines
+item_sel_mode :: Sélectionnez le mode des objets. :: Sélectionnez le type des objets.
 
 #Reset Ghosts
 resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantômes de n'importe quel circuit.
