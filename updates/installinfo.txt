@@ -63,6 +63,7 @@ M/MyStuff/Characters/Nabbit.chpack
 M/MyStuff/Characters/Orange_Yoshi.chpack
 M/MyStuff/Characters/Paratroopa.chpack
 M/MyStuff/Characters/Paratroopa_Spiny.chpack
+M/MyStuff/Characters/Pauline.chpack
 M/MyStuff/Characters/Petey_Piranha.chpack
 M/MyStuff/Characters/Pink_Yoshi.chpack
 M/MyStuff/Characters/Piranha_Plant.chpack
@@ -637,6 +638,7 @@ M/gamefs/UI/no_archive/title_yoshi_r.bclim
 M/resources/CTGP-7.3gx
 C/resources/CTGP-7.3gx
 M/resources/CTGP-7.sarc
+M/resources/CTGP-7Streamed.sarc
 M/resources/courseCredits.ini
 M/resources/coursePreviews.sarc
 M/resources/credits.ini
@@ -650,3 +652,4 @@ M/resources/pat/eur_rev2_code.bin
 M/resources/pat/jap_rev2_code.bin
 M/resources/pat/kor_rev2_code.bin
 M/resources/pat/usa_rev2_code.bin
+M/resources/secure.sarc
