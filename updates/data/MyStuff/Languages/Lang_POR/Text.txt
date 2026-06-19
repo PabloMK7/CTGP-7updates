@@ -183,7 +183,7 @@ welc_t :: Bem-vindo ao CTGP-7
 welc_1 :: Olá!\nPelo menu do jogo,\n poderá\nusar algumas interessantes funções.\n\nPara abrir o menu em jogo,\nuse o botão (SELECT).
 welc_2 :: Para usar qualquer função, coloque o\ncursor sobre uma entrada e\nprima \uE000 para ativar/configurar.
 welc_3 :: Lembre-se de que algumas funções\ncomo "Seletor CC" irão ser\ndesativadas no modo online.
-welc_4 :: Suas estatísticas serão enviadas\npara o servidor de CTGP-7 então estarão\ndisponíveis para o público ver.\n(Dados são anônimos.)\nPodes desligar o envio\npelo menu.
+welc_4 :: Suas estatísticas serão enviadas\npara o servidor de CTGP-7 e estarão\ndisponíveis para o público.\n(Dados são anônimos.)\nPodes desligar o envio\npelo menu.
 welc_5 :: Usando CTGP-7 Network,\nvocê concorda com suas regras.\n\nPodes ver-las aqui:\nctgp-7.github.io/ctww.html
 welc_6 :: Lembre-se de checar o\nservidor discord de CTGP-7!\n\nLink do convite:\ninvite.gg/ctgp7
 welc_7 :: Esperamos que goste do mod! ^ω^
@@ -194,7 +194,7 @@ achiev_all_1star :: Conseguiste uma estrela em\ntodas as taças personalizadas.\
 achiev_all_3star :: Conseguiste três estrelas em\ntodas as taças personalizadas.\n\nParabéns!
 achiev_all_mission :: Conseguiste 10 pontos em\ntodas as missões.\n\nParabéns!
 achiev_5000_vr :: Conseguiste 5000 VR em\ncircúitos personalizados\nonline.\n\nParabéns!
-achiev_all_score_completed :: You have cleared all\ntracks in Score Attack.\n\nCongratulations!
+achiev_all_score_completed :: Conseguiste terminar todos\ncircúitos em Ataque de Pontos. \n\nParabéns!
 achiev_blue_coin :: Conseguiste todas as\nmonedas azuis.\n\nParabéns!
 achiev_dodged_blue :: Conseguiste esquivar\n3 cascos azuis!\n\nParabéns!
 unlocked_item :: Desbloqueaste:\n\n
@@ -205,7 +205,7 @@ gold_tro_achiev :: Ouro em todas as taças personalizadas
 3star_achiev :: 3 estrelas em todas as taças personalizadas
 10pts_msn_achiev :: 10 pontos em todas as missões
 5000vr_achiev :: 5000VR em CTWW
-score_all_achiev :: All tracks cleared in Score Attack
+score_all_achiev :: Todas as corridas terminadas em Ataque de Pontos
 blue_coin_achiev :: Todas as moedas azuis obtidas
 dodged_blue_achiev :: Esquivou de 3 cascos azuis
 dodged_blue_amount :: Cascos azuis esquivados
@@ -236,8 +236,8 @@ exit :: Sair
 default :: Padrão 
 button :: Botão
 summary :: Resumo
-continue :: Continue
-mode_type :: Mode :: Type
+continue :: Continuar
+mode_type :: Modo :: Tipo
 
 #Folders
 gameplay_folder :: Funcionalidades do jogo :: Configuração para recursos adicionais de jogabilidade.
@@ -257,12 +257,12 @@ imtrick :: Manobras Melhoradas ::  Os Karts irão rodopiar quando fizerem uma ma
 autoaccel :: Aceleração Automática :: Pressionando \uE000 ou \uE003 irá ativar a aceleração automática até \uE001 ser pressionado.  
 imbrakedrift :: Freio de Drift Melhorado :: Segure \uE001 enquanto derrapa para freiar sem perder seu miniturbo.
 autodelaydrift :: "Delay Drift" Automático :: Ajuda a evitar que o kart perca velocidade quando começa a derrapar.
-improvedhorn :: Improved Horn :: Allows playing the horn with the item button and hearing other player's horns in multiplayer.
+improvedhorn :: Buzina Melhorada :: Permite utilizar a buzina com o botão de item e ouvir buzina de outros jogadores no multijogador.
 achieventry :: Conquistas :: Veja o progresso das conquistas de CTGP-7
 badgesentry :: Insígnias :: Ver Insígnias CTGP-7 obtidas (requer conexão com a internet).
 optionsentry :: Opções :: Configure as opções de CTGP-7.
 servsett :: Configurações de Servidor :: Configurações relacionadas ao servidor CTGP-7.
-cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
+cloudsaveentry :: Backup em Núvem :: Gerenciar dados salvos na núvem criados a partir desta consola.
 
 #Speedometer text
 spd_set :: Opções do velocímetro.
@@ -337,14 +337,14 @@ NextRac :: Selecione a próxima pista.\nCorridas restantes:
 extra_diff :: Muito Difícil :: EXTREMO
 cusitem_notice :: O item padrão (%s) provavelmente apareça em alguns casos.
 item_mega :: Mega Cogumelo
-item_fib :: Bloco Surpresa
-item_boxes :: Item Boxes
-item_periodic :: Periodic :: Choose how often objects should\nbe given in seconds.
-item_color_rain :: Color Box Rain
-item_box_rain :: Item Box Rain
-item_triple :: Triple Items
-item_bs_show :: Blue Shell Showdown
-item_sel_mode :: Select item mode. :: Select type of items.
+item_fib :: Bloco Surpresa Falso
+item_boxes :: Bloco Surpresa
+item_periodic :: Periódico :: Escolha como objetos irão aparecer\nem segundos.
+item_color_rain :: Chuva de Bloco Colorida
+item_box_rain :: Chuva de Bloco Surpresa
+item_triple :: Itens Triplos
+item_bs_show :: Confronto de Casco Azul
+item_sel_mode :: Selecione modo de item. :: Selecione tipo de itens.
 
 #Reset Ghosts
 resghost :: Reiniciar Corredor Fantasma :: Permite reiniciar o corredor fantasma de qualquer pista.
@@ -353,7 +353,7 @@ ghostcantrecov :: Esta operação não poderá ser desfeita!\nContinuar? :: O Co
 
 #Server Settings
 serv_consID :: CTGP-7 ConsoleID
-serv_communic :: Server Communication :: This functionality requires server\ncommunication to be enabled.
+serv_communic :: Comunicação do Servidor :: Esta função requeres comunicalção\ndo servidor habilitada.
 serv_displname :: Mostrar Nome :: Selecione o modo de mostrar nomes.
 serv_disphid :: Escondido
 serv_dispmii :: Nome Mii
@@ -364,7 +364,7 @@ serv_qrshow :: Prima \uE002 para mostrar.
 statsentry :: Estatísticas Locais :: Veja suas estatísticas CTGP-7 privadas aqui.
 stats_tpl :: Horas jogadas
 stats_tot :: Total de Corridas Offline  :: Total de Corridas Online
-stats_sc :: Total Score Attack Races :: Total Weekly Challenge Attempts
+stats_sc :: Total de Corridas Ataque de Pontos :: Total de Tentativas a Desafios Semanais
 stats_vnll :: Vanilla
 stats_most :: Pistas mais jogadas :: Arenas mais jogadas
 stats_rpoints :: Pontos de corrida
@@ -433,55 +433,55 @@ badge_msg :: Você obteve uma nova\nInsígnia CTGP-7.\n\nParabéns!
 badge_date_fmt :: %d/%m/%Y
 
 #Score Attack Actions
-pts_action_0 :: Mushroom!
-pts_action_1 :: Dash Panel
-pts_action_2 :: Mini-Turbo
-pts_action_3 :: Super Mini-Turbo
+pts_action_0 :: Cogumelo!
+pts_action_1 :: Painel Turbo
+pts_action_2 :: Miniturbo
+pts_action_3 :: Super Miniturbo
 pts_action_4 :: Small Rocket Start
 pts_action_5 :: Rocket Start
 pts_action_6 :: Perfect Rocket Start
-pts_action_7 :: Trick
-pts_action_8 :: Advanced Trick
+pts_action_7 :: Truque
+pts_action_8 :: Truque Avançado
 pts_action_9 :: Slipstream
-pts_action_10 :: Golden Mushroom!
-pts_action_11 :: Coin
-pts_action_12 :: Star Ring
-pts_action_13 :: Pipe
+pts_action_10 :: Cogumelo Dourado!
+pts_action_11 :: Moeda
+pts_action_12 :: Anel Estelar
+pts_action_13 :: Tubo
 pts_action_14 :: Goomba
 pts_action_15 :: Swoop
-pts_action_16 :: Traffic Cone
-pts_action_17 :: Boulder
+pts_action_16 :: Cone de Tráfico
+pts_action_17 :: Rocha
 pts_action_18 :: Cheep Cheep
-pts_action_19 :: Clampy
-pts_action_20 :: Sidestepper
-pts_action_21 :: Goat
-pts_action_22 :: Pot
-pts_action_23 :: Carpet Shy Guy
-pts_action_24 :: Barrel
+pts_action_19 :: Ostra
+pts_action_20 :: Carangueijo
+pts_action_21 :: Cabra
+pts_action_22 :: Vasilha
+pts_action_23 :: Shy Guy Voador
+pts_action_24 :: Barril
 pts_action_25 :: Tiki Goon
-pts_action_26 :: Frogoon
-pts_action_27 :: Car
-pts_action_28 :: Crate
-pts_action_29 :: Penguin
-pts_action_30 :: Icicle
+pts_action_26 :: Sapito
+pts_action_27 :: Carro
+pts_action_28 :: Caixa
+pts_action_29 :: Penguim
+pts_action_30 :: Estalactite
 pts_action_31 :: Thwomp
-pts_action_32 :: Fake Bush
-pts_action_33 :: Fake Goomba
-pts_action_34 :: Piranha Plant
+pts_action_32 :: Arbuso Falso
+pts_action_33 :: Goomba Falso
+pts_action_34 :: Planta Piranha
 pts_action_35 :: Chain Chomp
-pts_action_36 :: Fish Bone
-pts_action_37 :: Anchor
-pts_action_38 :: Music Bash
-pts_action_39 :: Leaf Pile
+pts_action_36 :: Peixesqueleto
+pts_action_37 :: Âncora
+pts_action_38 :: Nota Musical
+pts_action_39 :: Pilha de Folhas
 pts_action_40 :: Wiggler
-pts_action_41 :: Bullet Bill
+pts_action_41 :: Bala Bill
 pts_action_42 :: Rocky Wrench
-pts_action_43 :: Snowman
-pts_action_44 :: Snowball
-pts_action_45 :: Metal Ball
-pts_action_46 :: Table
-pts_action_47 :: Cactus
-pts_action_48 :: Train
+pts_action_43 :: Boneco de Neve
+pts_action_44 :: Bola de Neve
+pts_action_45 :: Bola de Metal
+pts_action_46 :: Mesa
+pts_action_47 :: Cacto
+pts_action_48 :: Trem
 pts_action_49 :: Stingby
 pts_action_50 :: Glide Time
 pts_action_51 :: Green Shell Hit!
@@ -559,6 +559,10 @@ sbak_restex :: The backup folders already exist\nand they will be deleted.
 sbak_restprog :: Restoring backup: %s
 sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
 sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
-sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
-sbak_deleprog :: Deleting backup...
-sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X
+sbak_dele :: Os dadosde backup online\nserão eliminados. :: Esta operação não poderá ser desfeita.
+sbak_deleprog :: Eliminando backup...
+sbak_deleres :: Backup eliminado com sucesso. :: Falha ao eliminar backup:\n0x%08X
+
+#Photo Mode
+photo_inst :: Photo Mode Controls\n\nA: Take photo\nB: Back\nCPad: Move\nTouch: Look around\nL/R: Zoom\nX/Y: Change speed
+photo_saved :: Photo saved!

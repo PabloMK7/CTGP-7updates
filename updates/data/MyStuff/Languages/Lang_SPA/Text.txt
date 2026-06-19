@@ -562,3 +562,7 @@ sbak_restres2 :: Restaura las siguientes carpetas\nmanualmente para recuperar\nt
 sbak_dele :: La copia de seguridad en línea\nserá eliminada. :: Esta operación no se puede deshacer.
 sbak_deleprog :: Borrando copia de seguridad...
 sbak_deleres :: Copia de seguridad borrada con éxito. :: Fallo al borrar la copia de seguridad:\n0x%08X
+
+#Photo Mode
+photo_inst :: Controles de modo cámara\n\nA: Tomar foto\nB: Atrás\nCPad: Mover\nTáctil: Mirar alrededor\nL/R: Zoom\nX/Y: Cambiar velocidad
+photo_saved :: ¡Foto guardada!

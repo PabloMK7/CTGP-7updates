@@ -563,6 +563,10 @@ sbak_dele :: La còpia de seguretat en línia\nserà eliminada. :: Aquesta opera
 sbak_deleprog :: Esborrant còpia de seguretat...
 sbak_deleres :: Còpia de seguretat esborrada amb èxit. :: Error en esborrar la còpia de seguretat:\n0x%08X
 
+#Photo Mode
+photo_inst :: Controls de la càmera\n\nA: Fer foto\nB: Enrere\nCPad: Moure\nTàctil: Mirar al voltant\nL/R: Zoom\nX/Y: Canviar velocitat
+photo_saved :: Foto guardada!
+
 #Characters
 $1000 :: Mario
 $1001 :: Luigi

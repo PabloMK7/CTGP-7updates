@@ -563,6 +563,10 @@ sbak_dele :: Kopia zapasowa w chmurze zostanie usunięta. :: Tej operacji nie mo
 sbak_deleprog :: Usuwanie kopii zapasowej...
 sbak_deleres :: Usunięto kopię zapasową pomyślnie. :: Nie można usunąć kopii zapasowej.\n\nBłąd 0x%08X
 
+#Photo Mode
+photo_inst :: Sterowanie trybu fotograficznego\n\nA: Zrób zdjęcie\nB: Powrót\nGałka: Ruch kamery\nDotyk: Obrót kamery\nL/R: Zoom\nX/Y: Dostosuj szybkość
+photo_saved :: Zapisano zdjęcie!
+
 #Characters
 $1000 :: Mario
 $1001 :: Luigi

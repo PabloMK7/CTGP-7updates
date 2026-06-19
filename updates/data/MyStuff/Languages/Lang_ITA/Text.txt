@@ -237,7 +237,7 @@ default :: Predefinito
 button :: Pulsante
 summary :: Riassunto
 continue :: Continua
-mode_type :: Mode :: Type
+mode_type :: Modalità :: Tipo
 
 #Folders
 gameplay_folder :: Funzioni di gameplay :: Configurazione per caratteristiche aggiuntive del gameplay.
@@ -338,13 +338,13 @@ extra_diff :: Molto difficile :: ESTREMA
 cusitem_notice :: NOTA: L'oggetto predefinito (%s) potrebbe ancora apparire in alcuni casi.
 item_mega :: Mega fungo
 item_fib :: Oggetto finto
-item_boxes :: Item Boxes
-item_periodic :: Periodic :: Choose how often objects should\nbe given in seconds.
-item_color_rain :: Color Box Rain
-item_box_rain :: Item Box Rain
-item_triple :: Triple Items
-item_bs_show :: Blue Shell Showdown
-item_sel_mode :: Select item mode. :: Select type of items.
+item_boxes :: Oggetti
+item_periodic :: Periodo :: Scegli quanto spesso gli strumenti\nvengono dati in secondi.
+item_color_rain :: Pioggia di oggetti colorati
+item_box_rain :: Pioggia di oggetti
+item_triple :: Oggetti tripli
+item_bs_show :: Scontro tra gusci spinosi
+item_sel_mode :: Seleziona modalità oggetti :: Seleziona i tipi di oggetti.
 
 #Reset Ghosts
 resghost :: Resetta Fantasma :: Permette di resettare il fantasma di qualunque pista.
@@ -483,7 +483,7 @@ pts_action_46 :: Tavolo
 pts_action_47 :: Cactus
 pts_action_48 :: Treno
 pts_action_49 :: Apiciccia
-pts_action_50 :: Tempo in volo
+pts_action_50 :: Tempo in planata
 pts_action_51 :: Guscio verde a segno!
 pts_action_52 :: Guscio rosso a segno!
 pts_action_53 :: Banana a segno!
@@ -515,14 +515,14 @@ sc_at_race_start :: Partenza Gara
 sc_at_clear :: Percorso superato :: Percorso non superato
 sc_at_save :: (Elimina salvataggio: \uE002) :: (Nessuno)
 sc_at_score :: Punteggio migliore :: Punteggio fatto
-sc_at_delete :: Vuoi cancellare i dati di questa pista?
+sc_at_delete :: Vuoi eliminare i dati di questa pista?
 sc_at_record :: Nuovo Record!
 sc_at_clear_small :: Passato! :: Non passato
 sc_at_cleared_tr :: Percorsi superati
 sc_at_nice :: BENE!
 sc_at_great :: OTTIMO!
 sc_at_excel :: ECCELLENTE!
-sc_at_fanta :: FANTASTICO!
+sc_at_fanta :: STRAORDINARIO!
 sc_at_combo :: Combo x
 
 #Score Attack Weekly
@@ -552,7 +552,7 @@ sbak_create :: Crea backup
 sbak_restore :: Ripristina backup
 sbak_delete :: Elimina backup
 sbak_new :: Sarà creato un nuovo backup\n(escludendo i dati sui fantasmi). :: Il backup precedente verrà sovrascritto.
-sbak_newprog :: Creando il backup: %s
+sbak_newprog :: Creazione del backup: %s
 sbak_newres :: Backup creato con successo. :: Backup fallito:\n0x%08X
 sbak_rest :: Il backup online sarà ripristinato. :: Il salvataggio attuale sarà\npreservato in queste cartelle:
 sbak_restex :: Queste cartelle già esistono\ne saranno eliminate.
@@ -560,5 +560,9 @@ sbak_restprog :: Ripristino del backup: %s
 sbak_restres :: Backup ripristinato con successo. :: Ripristino fallito:\n0x%08X
 sbak_restres2 :: Ripristina queste cartelle\nmanualmente per recuperare il tuo\nvecchio salvataggio: :: Il gioco ora si chiuderà.
 sbak_dele :: Il backup online sarà eliminato. :: Quest'azione non può essere annullata.
-sbak_deleprog :: Eliminando il backup...
+sbak_deleprog :: Eliminazione del backup...
 sbak_deleres :: Backup eliminato con successo. :: Eliminazione fallita:\n0x%08X
+
+#Photo Mode
+photo_inst :: Comandi modalità foto\n\nA: Scatta\nB: Indietro\nCPad: Sposta\nTouch: Guarda attorno\nL/R: Zoom\nX/Y: Cambia velocità
+photo_saved :: Foto salvata!

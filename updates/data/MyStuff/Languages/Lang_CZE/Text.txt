@@ -563,6 +563,10 @@ sbak_dele :: Online záloha uložených\ndat bude smazána. :: Tuto operaci nelz
 sbak_deleprog :: Smazání zálohy: %s
 sbak_deleres :: Záloha úspěšně smazána. :: Nepodařilo se smazat zálohu:\n0x%08X
 
+#Photo Mode
+photo_inst :: Photo Mode Controls\n\nA: Take photo\nB: Back\nCPad: Move\nTouch: Look around\nL/R: Zoom\nX/Y: Change speed
+photo_saved :: Photo saved!
+
 #Characters
 $1000 :: Mario
 $1001 :: Luigi

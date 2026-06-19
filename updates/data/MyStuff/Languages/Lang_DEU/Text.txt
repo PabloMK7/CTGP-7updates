@@ -237,7 +237,7 @@ default :: Standard
 button :: Knopf
 summary :: Zusammenfassung
 continue :: Fortfahren
-mode_type :: Mode :: Type
+mode_type :: Modus :: Art
 
 #Folders
 gameplay_folder :: Gameplay-Features :: Konfiguration für zusätzliche Gameplay-Features.
@@ -262,7 +262,7 @@ achieventry :: Erfolge :: Sieh deinen Fortschritt bei den CTGP-7-Erfolgen an.
 badgesentry :: Orden :: Erhaltene CTGP-7 Orden ansehen (Internet-Verbindung benötigt).
 optionsentry :: Optionen :: CTGP-7 Einstellungen verwalten.
 servsett :: Server-Einstellungen :: Einstellungen bezüglich des CTGP-7-Servers
-cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
+cloudsaveentry :: Cloud Speicher-Backup ::Verwalte online Speicher-Backups die auf dieser Konsole erstellt wurden.
 
 #Speedometer text
 spd_set :: Tachometer-Einstellungen
@@ -338,13 +338,13 @@ extra_diff :: Sehr schwer :: EXTREM
 cusitem_notice :: Hinweis: Das Standarditem (%s) kann in manchen Fällen weiterhin erscheinen.
 item_mega :: Mega-Pilz
 item_fib :: Schwindel-Box
-item_boxes :: Item Boxes
+item_boxes :: Itemboxen
 item_periodic :: Periodic :: Choose how often objects should\nbe given in seconds.
-item_color_rain :: Color Box Rain
-item_box_rain :: Item Box Rain
-item_triple :: Triple Items
-item_bs_show :: Blue Shell Showdown
-item_sel_mode :: Select item mode. :: Select type of items.
+item_color_rain :: Farbbox-Regen
+item_box_rain :: Itembox-Regen
+item_triple :: Dreifach-Items
+item_bs_show :: Blauer Panzer-Showdown
+item_sel_mode :: Item-Modus wählen :: Wähle die Art von Items.
 
 #Reset Ghosts
 resghost :: Geist zurücksetzen :: Ermöglicht das Zurücksetzen des Geistes einer Strecke deiner Wahl.
@@ -542,23 +542,27 @@ sc_wc_retry :: Neuer Versuch?
 mult_error :: Alle Teilnehmer müssen\ndie neueste Version von CTGP-7\ninstalliert haben. :: Du musst aktualisieren, um\nin diesem Raum spielen zu können.
 
 #Save Backup
-sbak_avail :: This option is only available\nwithin the "Singleplayer" menu.
+sbak_avail :: Diese Option ist nur im\n"Einzelspieler" Menü verfügbar.
 sbak_fetch :: Fetching save backup info... :: Failed to get save backup info:\n0x%08X
 sbak_info :: Save Backup Information
-sbak_found :: Save backup found. :: Save backup not found.
+sbak_found :: Speicher-Backup gefunden. :: Es wurde kein Speicher-Backup gefunden.
 sbak_created :: Created:
-sbak_cretime :: Today :: %d days ago
-sbak_create :: Create backup
-sbak_restore :: Restore backup
-sbak_delete :: Delete backup
+sbak_cretime :: Heute :: vor %d Tagen
+sbak_create :: Backup erstellen
+sbak_restore :: Backup wiederherstellen
+sbak_delete :: Backup löschen
 sbak_new :: A new online save backup will be\ncreated (excluding ghost data). :: The previous online backup will be overwritten.
-sbak_newprog :: Creating backup: %s
-sbak_newres :: Backup created successfully. :: Failed to create backup:\n0x%08X
+sbak_newprog :: Backup wird erstellt: %s
+sbak_newres :: Backup wurde erfolgreich erstellt. :: Erstellen des Backups ist fehlgeschlagen\n0x%08X
 sbak_rest :: The online backup save data\nwill be restored. :: The current save data will\nbe backed up to the folders:
 sbak_restex :: The backup folders already exist\nand they will be deleted.
-sbak_restprog :: Restoring backup: %s
-sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
+sbak_restprog :: Backup wird wiederhergestellt: %s
+sbak_restres :: Backup wurde erfolgreich wiederhergestellt. :: Das Wiederherstellen des online-Backups ist fehlgeschlagen:\n0x%08X
 sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
 sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
-sbak_deleprog :: Deleting backup...
+sbak_deleprog :: Backup wird gelöscht...
 sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X
+
+#Photo Mode
+photo_inst :: Photo Mode Controls\n\nA: Take photo\nB: Back\nCPad: Move\nTouch: Look around\nL/R: Zoom\nX/Y: Change speed
+photo_saved :: Foto gespeichert!

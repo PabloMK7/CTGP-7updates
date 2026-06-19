@@ -236,8 +236,8 @@ exit :: Kilépés
 default :: Alapértelmezett
 button :: Gomb
 summary :: Összegzés
-continue :: Continue
-mode_type :: Mode :: Type
+continue :: Folytatás
+mode_type :: Mód :: Típus
 
 #Folders
 gameplay_folder :: Játékfunkciók :: Az extra funkciók beállításai.
@@ -262,7 +262,7 @@ achieventry :: Teljesítmények :: A CTGP-7-es teljesítményhaladás megtekint�
 badgesentry :: Kitűzők :: A megszerzett CTGP-7-es kitűzők megtekintése (internetkapcsolat szükséges.)
 optionsentry :: Beállítások :: A CTGP-7 beállításainak testreszabása.
 servsett :: Szerverbeállítások :: CTGP-7 szerverbeállítások
-cloudsaveentry :: Cloud Save Backup :: Manage online save backups created from this console.
+cloudsaveentry :: Felhőalapú mentések :: Internetes biztonsági mentések kezelése.
 
 #Speedometer text
 spd_set :: Sebességmérő beállításai.
@@ -338,13 +338,13 @@ extra_diff :: Nagyon nehéz :: EXTRÉM
 cusitem_notice :: MEGJEGYZÉS: Az eredeti tárgy (%s) bizonyos esetekben még előfordulhat.
 item_mega :: Óriásgomba
 item_fib :: Hamis tárgydoboz
-item_boxes :: Item Boxes
-item_periodic :: Periodic :: Choose how often objects should\nbe given in seconds.
-item_color_rain :: Color Box Rain
-item_box_rain :: Item Box Rain
-item_triple :: Triple Items
-item_bs_show :: Blue Shell Showdown
-item_sel_mode :: Select item mode. :: Select type of items.
+item_boxes :: Tárgydobozok
+item_periodic :: Bizonyos időközönként :: Add meg, hogy milyen gyakran\njelenjenek meg tárgyak,\nmásodpercben.
+item_color_rain :: Színdobozeső
+item_box_rain :: Tárgydobozeső
+item_triple :: Hármas tárgyak
+item_bs_show :: Kékpáncél-leszámolás
+item_sel_mode :: Tárgymód megadása. :: Tárgytípusok megadása.
 
 #Reset Ghosts
 resghost :: Szellem visszaállítása :: Alaphelyzetbe állít egy szellemet akármelyik pályán.
@@ -353,7 +353,7 @@ ghostcantrecov :: Ez a művelet nem vonható vissza.\nBiztos vagy benne? :: A sz
 
 #Server Settings
 serv_consID :: CTGP-7 ConsoleID
-serv_communic :: Server Communication :: This functionality requires server\ncommunication to be enabled.
+serv_communic :: Internetes adatátvitel :: Ehhez a funkcióhoz az\ninternetes adatátvitel\nengedélyezése szükséges.
 serv_displname :: Felhasználónév :: Felhasználónév beállítása
 serv_disphid :: Rejtett
 serv_dispmii :: Mii neve
@@ -509,7 +509,7 @@ pts_action_72 :: Őrületes célbaérés!
 pts_action_73 :: Célbaérés!
 
 #Score Attack
-score_attack :: Pontszámfutam :: Végezz el több cselekvést gyors egymásutánban a legmagasabb pontszám megszerzéséhez!
+score_attack :: Pontszámfutam :: Végezz el több cselekvést\ngyors egymásutánban a\nlegmagasabb pontszám\nmegszerzéséhez!
 sc_at_spc_cup :: Véletlenszerű pálya :: Heti kihívás
 sc_at_race_start :: Verseny indul
 sc_at_clear :: Pálya teljesítve :: Pálya nem teljesítve
@@ -542,26 +542,30 @@ sc_wc_retry :: Szeretnéd újra megpróbálni?
 mult_error :: Minden résztvevőnek\na legújabb\nCTGP-7-verzióval\nkell rendelkeznie. :: Frissítened kell\na CTGP-7-et,\nmielőtt játszhatnál\nebben a szobában.
 
 #Save Backup
-sbak_avail :: This option is only available\nwithin the "Singleplayer" menu.
-sbak_fetch :: Fetching save backup info... :: Failed to get save backup info:\n0x%08X
-sbak_info :: Save Backup Information
-sbak_found :: Save backup found. :: Save backup not found.
-sbak_created :: Created:
-sbak_cretime :: Today :: %d days ago
-sbak_create :: Create backup
-sbak_restore :: Restore backup
-sbak_delete :: Delete backup
-sbak_new :: A new online save backup will be\ncreated (excluding ghost data). :: The previous online backup will be overwritten.
-sbak_newprog :: Creating backup: %s
-sbak_newres :: Backup created successfully. :: Failed to create backup:\n0x%08X
-sbak_rest :: The online backup save data\nwill be restored. :: The current save data will\nbe backed up to the folders:
-sbak_restex :: The backup folders already exist\nand they will be deleted.
-sbak_restprog :: Restoring backup: %s
-sbak_restres :: Backup restored successfully. :: Failed to restore online backup:\n0x%08X
-sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsave data: :: The game will now close.
-sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
-sbak_deleprog :: Deleting backup...
-sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X
+sbak_avail :: Ez a lehetőség csak az\nEgyjátékos menüben\nelérhető.
+sbak_fetch :: Mentések lekérése... :: A mentések lekérése\nmeghiúsult:\n0x%08X
+sbak_info :: Információ a felhőalapú mentésekről
+sbak_found :: Felhőalapú mentés észlelve. :: Nincsenek felhőalapú mentések.
+sbak_created :: Létrehozva:
+sbak_cretime :: ma :: %d nappal ezelőtt
+sbak_create :: Mentés most
+sbak_restore :: Korábbi mentés visszaállítása
+sbak_delete :: Korábbi mentés törlése
+sbak_new :: Ezzel egy új felhőalapú mentés\nlesz létrehozva, amely\nszellemadatokat nem tartalmaz. :: A korábbi mentés felül lesz írva.
+sbak_newprog :: Mentés létrehozása: %s
+sbak_newres :: Sikeres mentés. :: Sikertelen mentés:\n0x%08X
+sbak_rest :: A felhőalapú mentés\nbetöltésre kerül. :: A jelenlegi mentésről\nmásolat készül az\nalábbi könyvtárakba:
+sbak_restex :: A létező biztonsági mentés mappái\ntörölve lesznek.
+sbak_restprog :: Mentés visszaállítása: %s
+sbak_restres :: A mentés betöltése\nsikeresen befejeződött. :: A mentés betöltése meghiúsult:\n0x%08X
+sbak_restres2 :: A korábbi mentés visszaállításához\naz alábbi könyvtárakat kell\nvisszatenned a helyükre. :: A játék most be lesz zárva.
+sbak_dele :: A felhőalapú mentés törlésre kerül. :: Ez a művelet nem vonható vissza.
+sbak_deleprog :: Mentés törlése folyamatban...
+sbak_deleres :: A törlés sikeresen befejeződött. :: A törlés meghiúsult:\n0x%08X
+
+#Photo Mode
+photo_inst :: A fényképezőmód kezelése:\n\nA: exponálás\nB: vissza\nBal kar: mozgatás\nÉrintés: forgatás\nR/L: közelítés/távolítás\nX/Y: sebesség állítása
+photo_saved :: Fénykép elmentve.
 
 #Characters
 $1000 :: Mario

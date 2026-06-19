@@ -237,7 +237,7 @@ default :: Standaard
 button :: Knop
 summary :: Samenvatting
 continue :: Verdergaan
-mode_type :: Mode :: Type
+mode_type :: Modus :: Type
 
 #Folders
 gameplay_folder :: Spelfuncties :: Configuratie voor aanvullende spelfuncties.
@@ -338,13 +338,13 @@ extra_diff :: Erg Moeilijk :: EXTREEM
 cusitem_notice :: Merk op: Het standaard voorwerp (%s) zal in sommige gevallen toch voor kunnen komen.
 item_mega :: Megapaddenstoel
 item_fib :: Nep-blok
-item_boxes :: Item Boxes
-item_periodic :: Periodic :: Choose how often objects should\nbe given in seconds.
-item_color_rain :: Color Box Rain
-item_box_rain :: Item Box Rain
-item_triple :: Triple Items
-item_bs_show :: Blue Shell Showdown
-item_sel_mode :: Select item mode. :: Select type of items.
+item_boxes :: Voorwerpdozen
+item_periodic :: Periodiek :: Kies hoe vaak voorwerpen worden\ngegeven in seconden.
+item_color_rain :: Kleurendoosregen
+item_box_rain :: Voorwerpdoosregen
+item_triple :: Driedubbele voorwerpen
+item_bs_show :: Spiny-schild Showdown
+item_sel_mode :: Selecteer voorwerpmodus. :: Selecteer voorwerptype.
 
 #Reset Ghosts
 resghost :: Reset ghost :: Staat het resetten van een ghost toe op elk circuit.
@@ -562,3 +562,7 @@ sbak_restres2 :: Herstel de volgende mappen\nhandmatig om de oude\nsave-data ter
 sbak_dele :: De online save-backup wordt\nverwijderd. :: Dit kan niet ongedaan gemaakt worden.
 sbak_deleprog :: Verwijderen van backup...
 sbak_deleres :: Backup succesvol verwijderd. :: Mislukt om backup te verwijderen:\n0x%08X
+
+#Photo Mode
+photo_inst :: Foto maken: Besturing\n\nA: Maak foto\nB: Terug\nCPad: Beweeg\nAanraken: Rondkijken\nL/R: Zoom\nX/Y: Verander snelheid
+photo_saved :: Foto opgeslagen!

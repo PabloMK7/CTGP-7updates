@@ -562,3 +562,7 @@ sbak_restres2 :: Restore the following folders\nmanually to recover your old\nsa
 sbak_dele :: The online backup save data\nwill be deleted. :: This operation cannot be undone.
 sbak_deleprog :: Deleting backup...
 sbak_deleres :: Backup deleted successfully. :: Failed to delete backup:\n0x%08X
+
+#Photo Mode
+photo_inst :: Photo Mode Controls\n\nA: Take photo\nB: Back\nCPad: Move\nTouch: Look around\nL/R: Zoom\nX/Y: Change speed
+photo_saved :: Photo saved!
