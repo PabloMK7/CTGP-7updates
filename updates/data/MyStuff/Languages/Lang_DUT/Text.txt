@@ -564,5 +564,5 @@ sbak_deleprog :: Verwijderen van backup...
 sbak_deleres :: Backup succesvol verwijderd. :: Mislukt om backup te verwijderen:\n0x%08X
 
 #Photo Mode
-photo_inst :: Foto maken: Besturing\n\nA: Maak foto\nB: Terug\nCPad: Beweeg\nAanraken: Rondkijken\nL/R: Zoom\nX/Y: Verander snelheid
+photo_inst :: Besturing foto maken\n\nA: Maak foto\nB: Terug\nDraaiknop: Beweeg\nTouchscreen: Rondkijken\nL/R: Zoom\nX/Y: Verander snelheid
 photo_saved :: Foto opgeslagen!

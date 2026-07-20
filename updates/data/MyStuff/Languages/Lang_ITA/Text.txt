@@ -55,7 +55,7 @@ $710064 :: Pendio Stellare
 
 #Blooper Cup
 $700018 :: Trofeo Calamako
-$710074 :: Parco Castello di Sabbia
+$710074 :: Parco Castelsabbia
 $710058 :: Rovine della Giungla
 $710076 :: \uE026\uE027 Circuito di Luigi
 $710077 :: Rovine di Spiaggia Vulcano
@@ -142,7 +142,7 @@ $700029 :: Trofeo Luna
 $710118 :: RMX Lago Vaniglia 1
 $710119 :: Circuito del Picco
 $710120 :: Laboratorio Interstellare
-$710121 :: Fortezza della Materia Oscura
+$710121 :: Fortezza Materia Oscura
 
 #Hammer Cup
 $700030 :: Trofeo Martello
@@ -170,7 +170,7 @@ $700033 :: Trofeo Stella Oscura
 $710134 :: Santuario Oscuro
 $710135 :: Piramide Infernale
 $710136 :: \uE026\uE027 Città dei Funghi
-$710137 :: Castello della Stella Oscura
+$710137 :: Castello Stella Oscura
 
 #Save Data
 $7005 :: Dati di salvataggio per CTGP-7\nsaranno creati nella scheda SD.
@@ -225,7 +225,7 @@ select :: Seleziona
 chng :: Cambia
 custom :: Personalizzato
 page :: Pagina
-race_noun :: Gara
+race_noun :: Corsa
 state_mode :: Abilitato :: Disabilitato
 state_inf :: Abilita :: Disabilita
 allow_inf :: Consenti :: Impedisci
@@ -246,7 +246,7 @@ other_folder :: Altre opzioni :: Altre informazioni e caratteristiche varie.
 
 #Entries
 spdmeter :: Tachimetro :: mostra un tachimetro al lato dello schermo.
-ccsel :: Selettore classe CC :: Imposta il valore della classe CC ad un numero arbitrario (imposta prima dell'inizio di una gara per abilitare).
+ccsel :: Selettore classe CC :: Imposta il valore della classe CC a un numero arbitrario (imposta prima dell'inizio di una corsa per abilitare).
 itemled :: Avviso LED per oggetti :: Il LED della console lampeggerà di blu se un Guscio spinoso è usato, e giallo se un Fulmine è usato.
 backcam :: Retrovisore :: Premi \uE002 per vedere dietro di te, esattamente come gli altri giochi della serie! (Nota: Il pulsante \uE002 non potrà più essere usato per attivare gli oggetti.)
 charman :: Gestore personaggi :: Gestisci i personaggi custom e quelli originali.
@@ -367,7 +367,7 @@ stats_tot :: Gare offline in totale ::  Gare online in totale
 stats_sc :: Totale gare Battaglia a punti :: Totale tentativi Sfida settimanale
 stats_vnll :: Normale
 stats_most :: Percorsi giocati di più :: Arene giocate di più
-stats_rpoints :: Punti di gara
+stats_rpoints :: Punti corsa
 
 #Discord
 disc_info :: Informazioni Discord
@@ -412,7 +412,7 @@ server_ctgp7_nocomm :: Le community\nnon sono disponibili\nsu CTGP-7 Network.
 blue_coins :: Monete Blu
 blue_coins_desc :: Una moneta blu apparirà in ogni pista. Collezionale tutte per sbloccare qualcosa!
 blue_coin_obtain :: $Moneta Blu$\nottenuta! :: %d piste\nrimanenti.
-blue_coin_all :: Tutte le monete\nsono state ottenute!
+blue_coin_all :: Hai ottenuto\ntutte le monete!
 blue_coin_nocc :: Le Monete Blu non possono\nessere ottenute quando\nil Selettore classe CC\nè attivo.
 
 #Lobby
@@ -497,32 +497,32 @@ pts_action_60 :: Calamako lanciato!
 pts_action_61 :: Stella a segno!
 pts_action_62 :: Mega fungo a segno!
 pts_action_63 :: Pallottolo Bill a segno!
-pts_action_64 :: Sorpasso col Pallottolo Bill
+pts_action_64 :: Sorpasso col Pallottolo
 pts_action_65 :: Rivincita!
 pts_action_66 :: Colpito!
 pts_action_67 :: Oggetto distrutto
 pts_action_68 :: Oggetto deviato
 pts_action_69 :: Guscio spinoso schivato!
-pts_action_70 :: Prossimo giro!
-pts_action_71 :: Prossima sezione!
+pts_action_70 :: Giro successivo!
+pts_action_71 :: Sezione successiva!
 pts_action_72 :: Fine frenesia!
-pts_action_73 :: Gara finita!
+pts_action_73 :: Corsa finita!
 
 #Score Attack
 score_attack :: Battaglia a punti :: Incatena azioni per prendere più punti.
 sc_at_spc_cup :: Percorso Casuale :: Sfida Settimanale
-sc_at_race_start :: Partenza Gara
+sc_at_race_start :: Partenza
 sc_at_clear :: Percorso superato :: Percorso non superato
 sc_at_save :: (Elimina salvataggio: \uE002) :: (Nessuno)
-sc_at_score :: Punteggio migliore :: Punteggio fatto
+sc_at_score :: Punteggio migliore :: Per superare
 sc_at_delete :: Vuoi eliminare i dati di questa pista?
-sc_at_record :: Nuovo Record!
-sc_at_clear_small :: Passato! :: Non passato
+sc_at_record :: Nuovo record!
+sc_at_clear_small :: Superato! :: Non superato
 sc_at_cleared_tr :: Percorsi superati
 sc_at_nice :: BENE!
-sc_at_great :: OTTIMO!
-sc_at_excel :: ECCELLENTE!
-sc_at_fanta :: STRAORDINARIO!
+sc_at_great :: GRANDE!
+sc_at_excel :: OTTIMO!
+sc_at_fanta :: FANTASTICO!
 sc_at_combo :: Combo x
 
 #Score Attack Weekly
@@ -543,11 +543,11 @@ mult_error :: Tutti i partecipanti devono avere\nl'ultima versione di CTGP-7\nin
 
 #Save Backup
 sbak_avail :: Questa opzione è disponibile\nsolo in giocatore singolo.
-sbak_fetch :: Ottenendo le informazioni sul backup... :: Non è stato possibile ottenere\nle informazioni sul backup:\n0x%08X
+sbak_fetch :: Recuperando le informazioni sul backup... :: Non è stato possibile recuperare\nle informazioni sul backup:\n0x%08X
 sbak_info :: Informazioni sul backup
 sbak_found :: Backup trovato. :: Backup non trovato.
 sbak_created :: Creato:
-sbak_cretime :: Oggi :: %d giorni fa
+sbak_cretime :: oggi :: %d giorni fa
 sbak_create :: Crea backup
 sbak_restore :: Ripristina backup
 sbak_delete :: Elimina backup
@@ -564,5 +564,5 @@ sbak_deleprog :: Eliminazione del backup...
 sbak_deleres :: Backup eliminato con successo. :: Eliminazione fallita:\n0x%08X
 
 #Photo Mode
-photo_inst :: Comandi modalità foto\n\nA: Scatta\nB: Indietro\nCPad: Sposta\nTouch: Guarda attorno\nL/R: Zoom\nX/Y: Cambia velocità
+photo_inst :: Controlli fotocamera\n\nA: Scatta\nB: Indietro\nCPad: Sposta\nTouch: Guarda attorno\nL/R: Zoom\nX/Y: Cambia velocità
 photo_saved :: Foto salvata!
