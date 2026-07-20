@@ -237,7 +237,7 @@ default :: Domyślnie
 button :: Przycisk
 summary :: Podsumowanie
 continue :: Kontynuuj
-mode_type :: Tryb :: Typ
+mode_type :: Tryb :: Występujące
 
 #Folders
 gameplay_folder :: Funkcje gry :: Konfiguracja dodatkowych funkcji podczas gry.
@@ -338,13 +338,13 @@ extra_diff :: Ekstra trudny :: NIEMOŻLIWY
 cusitem_notice :: Informacja: Czasami domyślny przedmiot (%s) może się pojawiać mimo to.
 item_mega :: Megagrzyb
 item_fib :: Fałszywa Skrzynka
-item_boxes :: Normalne Skrzynki
+item_boxes :: Normalne skrzynki
 item_periodic :: Okresowe :: Ustaw, co ile sekund każdy gracz\nma otrzymać przedmiot.
-item_color_rain :: Deszcz Kolorowych Skrzynek
-item_box_rain :: Deszcz Skrzynek
-item_triple :: Potrójne Przedmioty
-item_bs_show :: Szaleństwo Niebieskich Skorup
-item_sel_mode :: Wybierz tryb przedmiotów. :: Wybierz typ przedmiotów.
+item_color_rain :: Deszcz kolorowych skrzynek
+item_box_rain :: Deszcz skrzynek
+item_triple :: Potrójne przedmioty
+item_bs_show :: Szaleństwo nieb. skorup
+item_sel_mode :: Wybierz tryb przedmiotów. :: Wybierz występujące przedmioty.
 
 #Reset Ghosts
 resghost :: Resetowanie duchów :: Zresetuj duchy na wybranych trasach.
@@ -436,12 +436,12 @@ badge_date_fmt :: %d.%m.%Y
 pts_action_0 :: Grzyb!
 pts_action_1 :: Przyspieszacz
 pts_action_2 :: Miniturbo
-pts_action_3 :: Super miniturbo
-pts_action_4 :: Drobny turbo start
+pts_action_3 :: Superminiturbo
+pts_action_4 :: Niewielki turbo start
 pts_action_5 :: Turbo start
 pts_action_6 :: Idealny turbo start
-pts_action_7 :: Sztuczka
-pts_action_8 :: Świetna sztuczka
+pts_action_7 :: Trik
+pts_action_8 :: Świetny trik
 pts_action_9 :: Jazda w cieniu
 pts_action_10 :: Złoty Grzyb!
 pts_action_11 :: Moneta
@@ -564,7 +564,7 @@ sbak_deleprog :: Usuwanie kopii zapasowej...
 sbak_deleres :: Usunięto kopię zapasową pomyślnie. :: Nie można usunąć kopii zapasowej.\n\nBłąd 0x%08X
 
 #Photo Mode
-photo_inst :: Sterowanie trybu fotograficznego\n\nA: Zrób zdjęcie\nB: Powrót\nGałka: Ruch kamery\nDotyk: Obrót kamery\nL/R: Zoom\nX/Y: Dostosuj szybkość
+photo_inst :: Sterowanie trybu fotograficznego\n\nA: Zrób zdjęcie\nB: Powrót\nGałka: Ruch kamery\nDotyk: Obrót kamery\nL/R: Zoom\nX/Y: Dostosuj szybkość ruchu
 photo_saved :: Zapisano zdjęcie!
 
 #Characters

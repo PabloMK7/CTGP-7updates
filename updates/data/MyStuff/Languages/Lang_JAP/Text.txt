@@ -564,5 +564,5 @@ sbak_deleprog :: バックアップを削除しています...
 sbak_deleres :: バックアップが正常に削除されました。 :: バックアップの削除に失敗しました:\n0x%08X
 
 #Photo Mode
-photo_inst :: Photo Mode Controls\n\nA: Take photo\nB: Back\nCPad: Move\nTouch: Look around\nL/R: Zoom\nX/Y: Change speed
-photo_saved :: Photo saved!
+photo_inst :: フォトモードのそうさ\n\nA: とる\nB: もどる\nスライドパッド: いどう\nタッチ: みまわす\nL/R: ズーム\nX/Y: そくどへんこう
+photo_saved :: ほぞんしました！
