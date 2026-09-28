@@ -32,7 +32,6 @@ M/MyStuff/Characters/Face_Raider.chpack
 M/MyStuff/Characters/Face_Raider/Faces/README.txt
 M/MyStuff/Characters/Face_Raider/Faces/default.bclim
 M/MyStuff/Characters/Fish_Bone.chpack
-M/MyStuff/Characters/Funky_Kong.chpack
 M/MyStuff/Characters/Gold_Chomp.chpack
 M/MyStuff/Characters/Gold_Dry_Bones.chpack
 M/MyStuff/Characters/Gold_Mario.chpack
@@ -86,7 +85,6 @@ M/MyStuff/Characters/Shy_Guy_Light_Blue.chpack
 M/MyStuff/Characters/Shy_Guy_Pink.chpack
 M/MyStuff/Characters/Shy_Guy_White.chpack
 M/MyStuff/Characters/Shy_Guy_Yellow.chpack
-M/MyStuff/Characters/Sonic.chpack
 M/MyStuff/Characters/Toadette.chpack
 M/MyStuff/Characters/Toadsworth.chpack
 M/MyStuff/Characters/Vivian.chpack
