@@ -28,6 +28,7 @@ M/MyStuff/Characters/Dry_Bones.chpack
 M/MyStuff/Characters/Dry_Bowser.chpack
 M/MyStuff/Characters/E_gadd.chpack
 M/MyStuff/Characters/Eshop_Bag.chpack
+M/MyStuff/Characters/Event_Token.chpack
 M/MyStuff/Characters/Face_Raider.chpack
 M/MyStuff/Characters/Face_Raider/Faces/README.txt
 M/MyStuff/Characters/Face_Raider/Faces/default.bclim
