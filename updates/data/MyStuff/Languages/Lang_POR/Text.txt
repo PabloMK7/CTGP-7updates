@@ -345,6 +345,8 @@ item_box_rain :: Chuva de Bloco Surpresa
 item_triple :: Itens Triplos
 item_bs_show :: Confronto de Casco Azul
 item_sel_mode :: Selecione modo de item. :: Selecione tipo de itens.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Reiniciar Corredor Fantasma :: Permite reiniciar o corredor fantasma de qualquer pista.

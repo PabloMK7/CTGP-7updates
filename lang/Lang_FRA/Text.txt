@@ -183,7 +183,7 @@ welc_t :: Bienvenue sur CTGP-7 !
 welc_1 :: Salut ! Depuis le menu du jeu,\nvous pouvez avoir accès\nà de nombreuses fonctionnalités.\n\nPour ouvrir ce menu,\nappuyez sur (SELECT).
 welc_2 :: Pour utiliser une fonctionnalité,\nplacez le curseur sur une\nentrée et appuyez sur A pour\nl'activer ou la configurer.
 welc_3 :: Gardez à l'esprit que certaines\nfonctionnalités, comme\n"Changer de (cc)", seront\ndésactivées en ligne.
-welc_4 :: Vos statistiques seront envoyées\nsur le serveur CTGP-7 et seront\ndonc visibles au près du publique\n(Donnée anonyme.)\nVous pouvez désactiver l'envoi des\nstatistiques depuis le menu du jeu.
+welc_4 :: Vos statistiques seront envoyées\nvers le serveur CTGP-7 afin\nqu'ils soient accessibles au public.\n(Vos données seront anonymes.)\nVous pouvez désactiver la communication\ndu serveur dans le menu du jeu.
 welc_5 :: En utilisant CTGP-7 Network,\nvous acceptez ses règles.\n\nVous pouvez les consulter ici :\nctgp-7.github.io/ctww.html
 welc_6 :: N'oubliez pas de jeter un coup\nd'œil au serveur discord CTGP-7 !\n\nLien d'invitation :\ninvite.gg/ctgp7
 welc_7 :: Nous espérons que vous\napprécierez ce mod ! ^ω^
@@ -236,6 +236,8 @@ exit :: Fermer
 default :: Par défaut
 button :: Bouton
 summary :: Sommaire
+continue :: Continuer
+mode_type :: Mode :: Type
 
 #Folders
 gameplay_folder :: Fonctionnalités du jeu :: Configuration des fonctionnalités du jeu additionnel.
@@ -251,7 +253,7 @@ charman :: Gestionnaire des personnages :: Choisissez entre les personnages par 
 cuskart :: Karts customisés :: Utilisez des Karts customisés depuis le dossier MyStuff.
 trackorder :: Ordre des courses en ligne :: Changez l'organisation des coupes pour le jeu en ligne.
 itmprb :: Roulette d'objet améliorée :: À la place de faire défiler des objets aléatoirement, la roulette d'objet affichera seulement les objets probables à votre position.
-imtrick :: Sauts améliorés :: Les sauts effectués sur certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
+imtrick :: Sauts synchros améliorés :: Les sauts synchros effectués sur certaines rampes vont faire tourner les Karts. Utilisez le stick analogique \uE077 pour changer la direction des sauts.
 autoaccel :: Accélération auto :: Appuyez sur \uE000 ou \uE003 pour activer l'accélération auto. Pour la désactiver, appuyez sur \uE001.  
 imbrakedrift :: Amélioration du freinage en dérapant :: Maintenez \uE001 en dérapant pour freiner sans perdre votre mini-turbo.
 autodelaydrift :: "Delay Drift" Automatique :: Aide à prévenir la perte de vitesse lors du début d'un dérapage.
@@ -259,6 +261,8 @@ improvedhorn :: Klaxon amélioré :: Autorise l'utilisation du klaxon avec le bo
 achieventry :: Succès :: Voir votre progrès des succès CTGP-7
 badgesentry :: Badges :: Voir les badges CTGP-7 obtenus. (Nécessite une connexion Internet)
 optionsentry :: Options :: Configurer les options de CTGP-7.
+servsett :: Paramètres du serveur :: Paramètres liés au serveur CTGP-7. 
+cloudsaveentry :: Données de sauvegarde du Cloud :: Gérez les sauvegardes en ligne créées depuis cette console.
 
 #Speedometer text
 spd_set :: Paramètres du compteur de vitesse
@@ -334,6 +338,15 @@ extra_diff :: Très difficile :: EXTRÊME
 cusitem_notice :: NOTE : L'objet par défaut (%s) peut apparaître dans certaines situations.
 item_mega :: Méga champignon
 item_fib :: Fausse boîte à objets
+item_boxes :: Boîtes à objets
+item_periodic :: Périodique :: Choisissez la fréquence à laquelle\nles objets doivent être fournis\nen secondes.
+item_color_rain :: Pluie de boîte à couleur
+item_box_rain :: Pluie de boîte à objets
+item_triple :: Triple objets
+item_bs_show :: Tempête de carapace à épines
+item_sel_mode :: Sélectionnez le mode des objets. :: Sélectionnez le type des objets.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantômes de n'importe quel circuit.
@@ -341,9 +354,8 @@ ghostseltrack :: Veuillez sélectionner un circuit dont\nvous voulez réinitiali
 ghostcantrecov :: Les données du fantôme de ce circuit vont être effacées. Cette action est irréversible.\nVoulez-vous continuer ? :: Les fantômes de ce circuit ont été réinitialisé avec succès.
 
 #Server Settings
-servsett :: Paramètres du serveur :: Paramètres liés au serveur CTGP-7. 
 serv_consID :: ID Console CTGP-7
-serv_statsupl :: Envoi des statistiques
+serv_communic :: Communication avec le serveur :: Cette foncionnalité nécessite que\nla communication avec le serveur\nsoit activée.
 serv_displname :: Afficher un nom :: Sélectionnez le mode d'affichage du nom.
 serv_disphid :: Masquer
 serv_dispmii :: Nom du Mii
@@ -433,7 +445,7 @@ pts_action_6 :: Excellent départ turbo
 pts_action_7 :: Figure
 pts_action_8 :: Figure avancée
 pts_action_9 :: Aspiration
-pts_action_10 :: Champignon doré !
+pts_action_10 :: Champi turbo doré !
 pts_action_11 :: Pièce ramassée
 pts_action_12 :: Anneau d'étoile
 pts_action_13 :: Tuyau
@@ -499,8 +511,8 @@ pts_action_72 :: Frénésie à l'arrivée !
 pts_action_73 :: Fin de course !
 
 #Score Attack
-score_attack :: Contre-le-score :: Enchaînez les actions pour obtenir le plus de points.
-sc_at_spc_cup :: Course aléatoire :: Défi hebdomadaire.
+score_attack :: Contre-le-score :: Enchaînez les actions et visez le meilleur score !
+sc_at_spc_cup :: Course aléatoire :: Défi hebdomadaire
 sc_at_race_start :: Début de course
 sc_at_clear :: Circuit terminé :: Circuit non terminé
 sc_at_save :: (Suppr. sauvegarde : \uE002) :: (Aucun)
@@ -530,3 +542,29 @@ sc_wc_retry :: Réessayer ?
 
 #Local Multiplayer Error
 mult_error :: Tous les participants\ndoivent posséder la\ndernière version de CTGP-7. :: Veuillez mettre à\njour CTGP-7 afin de\nparticiper à cette salle.
+
+#Save Backup
+sbak_avail :: Cette option est uniquement disponible\ndans le menu "Un joueur".
+sbak_fetch :: Récupération des données en cours… :: La récupération des données a échouée.
+sbak_info :: Information sur les données de sauvegarde
+sbak_found :: Données de sauvegarde trouvées :: Aucune donnée de sauvegarde trouvée
+sbak_created :: Créée :
+sbak_cretime :: Aujourd'hui :: Il y a %d jour(s)
+sbak_create :: Créer une sauvegarde
+sbak_restore :: Restaurer la sauvegarde
+sbak_delete :: Supprimer la sauvegarde
+sbak_new :: Une nouvelle donnée de sauvegarde\nen ligne va être créée\n(données fantômes non inclus). :: La sauvegarde en ligne précédente sera écrasée.
+sbak_newprog :: Création de la sauvegarde : %s
+sbak_newres :: Sauvegarde créée avec succès. :: Échec de la création de la sauvegarde :\n0x%08X
+sbak_rest :: Les données de sauvegarde\nen ligne seront restaurées. :: Les données de sauvegarde actuelles\nseront sauvegardées dans\nles dossiers suivants :
+sbak_restex :: Les dossiers de sauvegarde existent\ndéjà et vont être supprimés.
+sbak_restprog :: Restauration de la sauvegarde : %s
+sbak_restres :: Sauvegarde restaurée avec succès. :: Échec de la restauration de\nla sauvegarde en ligne :\n0x%08X
+sbak_restres2 :: Restaurez les dossiers suivants\nmanuellement pour récupérer\nvos anciennes données\nde sauvegarde : :: Vous êtes sur le point de\nquitter le jeu.
+sbak_dele :: Les données de sauvegarde\nen ligne seront supprimées. :: Cette opération est irréversible.
+sbak_deleprog :: Suppression de la sauvegarde en cours…
+sbak_deleres :: La sauvegarde a bien été supprimée. :: La suppression de la sauvegarde\na échouée :\n0x%08X
+
+#Photo Mode
+photo_inst :: Commandes du mode photo\n\nA : Prendre une photo\nB : Retour au menu pause\nPad circulaire : Se déplacer\nTactile : Orienter la caméra\nL/R : Ajuster l'angle de vue\nX/Y : Ajuster la vitesse
+photo_saved :: Photo sauvegardée !

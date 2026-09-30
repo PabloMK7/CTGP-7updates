@@ -345,6 +345,8 @@ item_box_rain :: Objektová Krabicový Déšť
 item_triple :: Trojité Objekty
 item_bs_show :: Zúčtování s Modrými Krunýři
 item_sel_mode :: Vyber mód objektu. :: Vyber typ objektů.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Resetovat Ducha :: Umožňuje resetovat ducha z libovolné tratě.

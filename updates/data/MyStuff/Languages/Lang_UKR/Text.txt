@@ -345,6 +345,8 @@ item_box_rain :: Дощ iз коробок з предметами
 item_triple :: Потрiйнi предмети
 item_bs_show :: Протистояння синiх панцирiв
 item_sel_mode :: Вибiр режиму предметiв. :: Виберiть тип предметiв.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Скидання привида :: Дозволяε скинути привида будь-якоï траси.

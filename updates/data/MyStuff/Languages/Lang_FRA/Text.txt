@@ -345,6 +345,8 @@ item_box_rain :: Pluie de boîte à objets
 item_triple :: Triple objets
 item_bs_show :: Tempête de carapace à épines
 item_sel_mode :: Sélectionnez le mode des objets. :: Sélectionnez le type des objets.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Réinitialisation des fantômes :: Permet la réinitialisation des fantômes de n'importe quel circuit.

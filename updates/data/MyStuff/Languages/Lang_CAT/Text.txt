@@ -345,6 +345,8 @@ item_box_rain :: Pluja de Caixes d'Objecte
 item_triple :: Objectes Triples
 item_bs_show :: Caos de Closques de Punxos
 item_sel_mode :: Selecciona mode d'objectes. :: Selecciona tipus d'objecte.
+race_style :: Estil de carrera
+race_style_modes :: Estàndard :: Punts
 
 #Reset Ghosts
 resghost :: Resetejar Corredor Fantasma :: Permitix resetejar el corredor fantasma de qualsevol circuit.

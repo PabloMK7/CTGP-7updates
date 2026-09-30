@@ -345,6 +345,8 @@ item_box_rain :: Item Box Rain
 item_triple :: Triple Items
 item_bs_show :: Blue Shell Showdown
 item_sel_mode :: Select item mode. :: Select type of items.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Reset Ghost :: Allows resetting the ghost from any track.

@@ -345,6 +345,8 @@ item_box_rain :: Deszcz skrzynek
 item_triple :: Potrójne przedmioty
 item_bs_show :: Szaleństwo nieb. skorup
 item_sel_mode :: Wybierz tryb przedmiotów. :: Wybierz występujące przedmioty.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Resetowanie duchów :: Zresetuj duchy na wybranych trasach.

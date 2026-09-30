@@ -345,6 +345,8 @@ item_box_rain :: Voorwerpdoosregen
 item_triple :: Driedubbele voorwerpen
 item_bs_show :: Spiny-schild Showdown
 item_sel_mode :: Selecteer voorwerpmodus. :: Selecteer voorwerptype.
+race_style :: Racestijl
+race_style_modes :: Standaard :: Score
 
 #Reset Ghosts
 resghost :: Reset ghost :: Staat het resetten van een ghost toe op elk circuit.

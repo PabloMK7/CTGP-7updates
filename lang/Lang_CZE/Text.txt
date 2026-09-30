@@ -30,12 +30,12 @@ $700013 :: Boo Pohár
 $710055 :: Prokletý Most 2
 $710062 :: Prvková Jeskyně
 $710057 :: \uE031\uE032 Údolí Duchů 2
-$710065 :: \uE033 Pláž Cheep Cheepů
+$710065 :: \uE033 Pláž Ryb-Rybeků
 
 #Spring Cup
 $700014 :: Pružinový Pohár
 $710067 :: \uE033 Hodiny Tik-Tak
-$710075 :: \uE034 Houbový Most
+$710075 :: \uE026\uE027 Houbový Most
 $710066 :: \uE033 Pouštní Kopce
 $710069 :: Časový Hrad
 
@@ -173,9 +173,9 @@ $710136 :: \uE026\uE027 Houbové Město
 $710137 :: Hrad Temné Hvězdy
 
 #Save Data
-$7005 :: V SD kartě budou vytvořena\nextra uložená data pro CTGP-7.
-$7003 :: Vytváření dalších uložených dat...
-$7004 :: Extra uložená data byla vytvořena.
+$7005 :: V SD kartě budou vytvořena\nextra uložená data\npro CTGP-7.
+$7003 :: Vytváření dalších\nuložených dat...
+$7004 :: Extra uložená data\nbyla vytvořena.
 $7007 :: Mario Kart 7 uložená data\nneexistuje, prosím, spusť\nhru generovat nová\nuložená data.\n\nZmačkni tlačítko POWER. 
 
 #First opening welcome message
@@ -194,7 +194,7 @@ achiev_all_1star :: Získal jsi 1 hvězdičku\nve všech vlastních pohárech.\n
 achiev_all_3star :: Získal jsi 3 hvězdičky\nve všech vlastních pohárech.\n\nGratuluji!
 achiev_all_mission :: Ve všech misích\njsi získal 10 bodů.\n\nGratuluji!
 achiev_5000_vr :: Máš 5000 VR\nve celosvětových vlastních tratích.\n\nGratuluji!
-achiev_all_score_completed :: V Bodovém Testu jsi vymazal všechny tratě. Gratuluji!
+achiev_all_score_completed :: V Bodovém Testu\njsi dokončil všechny tratě.\n\nGratuluji!
 achiev_blue_coin :: Nasbíral jsi\nvšechny modré mince!\n\nGratuluji!
 achiev_dodged_blue :: Vyhnul jsi\n3 modrým krunýřim!\n\nGratuluji!
 unlocked_item :: Odemknul jsi:\n\n
@@ -236,6 +236,8 @@ exit :: Odejít
 default :: Výchozí
 button :: Tlačítko
 summary :: Shrnutí
+continue :: Pokračovat
+mode_type :: Mód ::Typ
 
 #Folders
 gameplay_folder :: Herní Funkce :: Konfigurace pro další herní funkce.
@@ -259,6 +261,8 @@ improvedhorn :: Vylepšený Klakson :: Umožňuje hrát na klakson tlačítkem o
 achieventry :: Úspěchy :: Zkontroluj pokrok v úspěších CTGP-7.
 badgesentry :: Odznaky :: Zobrazit získaných odznaků CTGP-7 (vyžaduje připojení k internetu).
 optionsentry :: Možnosti :: Konfigurovat možností CTGP-7.
+servsett :: Nastavení Serveru :: Nastavení související se serverem CTGP-7.
+cloudsaveentry :: Zálohování do Cloudu :: Spravuj online zálohy vytvořené z této konzole.
 
 #Speedometer text
 spd_set :: Nastavení rychloměru.
@@ -310,7 +314,7 @@ order_mode :: Výchozí :: Abecední
 autoaccel_button :: Vyber tlačítko, které aktivuje\nautomatické zrychlení.
 
 #Online update check
-update_check :: Kontrola aktualizací... :: Pro hraní online je potřeba nejnovější verze CTGP-7.
+update_check :: Kontrola aktualizací... :: Pro hraní online je potřeba\nnejnovější verze CTGP-7.
 fail_conn :: Připojení k serveru\nCTGP-7 se nezdařilo.\n\nZkus to prosím znovu později.
 
 #CTWW
@@ -334,16 +338,24 @@ extra_diff :: Velmi Těžké :: EXTRÉMNÍ
 cusitem_notice :: POZNÁMKA: Výchozí objekt (%s) se může v některých případech stále objevit.
 item_mega :: Mega Houba
 item_fib :: Falešná Krabice
+item_boxes :: Objektové Krabice
+item_periodic :: Doba :: Vyber, jak často mají být\nobjekty podávány v sekundách.
+item_color_rain :: Barevná Krabicový Déšť
+item_box_rain :: Objektová Krabicový Déšť
+item_triple :: Trojité Objekty
+item_bs_show :: Zúčtování s Modrými Krunýři
+item_sel_mode :: Vyber mód objektu. :: Vyber typ objektů.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Resetovat Ducha :: Umožňuje resetovat ducha z libovolné tratě.
 ghostseltrack :: Vyber trať pro resetování ducha z:
-ghostcantrecov :: Tuto operaci nelze vrátit zpět.\nPokračovat? :: Duch byl resetován.
+ghostcantrecov :: Tuto operaci není možné vrátit zpět.\nPokračovat? :: Duch byl resetován.
 
 #Server Settings
-servsett :: Nastavení Serveru :: Nastavení související se serverem CTGP-7.
 serv_consID :: ID Konzole CTGP-7
-serv_statsupl :: Nahrát Statistiky
+serv_communic :: Komunikace se Serverem :: Tato funkce vyžaduje povolenou\nkomunikaci se serverem.
 serv_displname :: Zobrazované jmeno :: Vybrat režim zobrazovaného jmenu.
 serv_disphid :: Skrytý
 serv_dispmii :: Mii Jméno
@@ -354,7 +366,7 @@ serv_qrshow :: Pro zobrazení zmačkni \uE002.
 statsentry :: Místní Statistiky :: Zde zkontroluj tvé statistiky soukromého využití CTGP-7.
 stats_tpl :: Počet Odehraných
 stats_tot :: Celkem offline závodů :: Celkem online závodů
-stats_sc :: Počet Bodových Testovacích Závodů :: Počet  Týdenních Výzvu Pokusů
+stats_sc :: Počet Bodových Testovacích Závodů :: Počet Týdenních Výzvu Pokusů
 stats_vnll :: Původní
 stats_most :: Nejhranější Tratě :: Nejhranější Bitevní Arény
 stats_rpoints :: Závodní Body
@@ -407,8 +419,8 @@ blue_coin_nocc :: Modré mince nemůžou\nbýt získan s povoleným\nvoličem CC
 
 #Lobby
 lobby_type :: Veřejná lobby :: Privátní lobby
-choose_lobby :: Vyber si online lobby:\n\n- Veřejná: Hraj s ostatními hráči CTGP-7.\n- Privátní: Hraj s ostatními hráči soukromě.\n\nPOZNÁMKA: Vanilla VR bude použit v privátních lobby.
-enter_lobby_code :: Zadej kód privátní lobby.\nSdílej tento kód s ostatními, abyste mohli hrát společně! :: Kód lobby je moc krátký.
+choose_lobby :: Vyber si online lobby:\n\n- Veřejná: Hraj s ostatními hráči CTGP-7.\n- Privátní: Hraj s ostatními hráči soukromě.\n\nPOZNÁMKA: Vanilla VR bude použit v privátních\nlobby.
+enter_lobby_code :: Zadej kód privátní lobby.\nSdílej tento kód s ostatními, abyste mohli hrát\nspolečně! :: Kód lobby je moc krátký.
 
 #Proximity Chat
 proximity_chat :: Blízkost Chat :: (zmačkni \uE002 pro přepínání)
@@ -463,7 +475,7 @@ pts_action_36 :: Rybíkostra
 pts_action_37 :: Kotva
 pts_action_38 :: Poskakující Nota
 pts_action_39 :: Hromada Listů
-pts_action_40 :: Wiggler
+pts_action_40 :: Lousenka
 pts_action_41 :: Rakeťák Bill
 pts_action_42 :: Klíčový Krtek
 pts_action_43 :: Sněhulák
@@ -521,7 +533,7 @@ sc_wc_curr :: Aktuální výzva:
 sc_wc_time :: Zbývající čas:
 sc_wc_bonus :: Bonusová kombinace: :: Tvůj bonus:
 sc_wc_board :: Žebříček: Top 10 :: Žebříček: Moje skóre
-sc_wc_getting :: Získání informací o Týdenní Výzvě... :: Získání informací o Týdenní Výzvě se nezdařilo.\nChyba: 0 x% 08X
+sc_wc_getting :: Získání informací o Týdenní Výzvě... :: Získání informací o Týdenní Výzvě se nezdařilo.\nChyba: 0x%08X
 sc_wc_results :: Výsledky Týdenní Výzvy
 sc_wc_score :: Předchozí skóre: :: Nové skóre:
 sc_wc_upload :: Chtěl bys publikovat tvé skóre? :: Publikovat
@@ -530,6 +542,32 @@ sc_wc_retry :: Zkusit to znovu?
 
 #Local Multiplayer Error
 mult_error :: Všichni účastníci musí\nmít nainstalovanou nejnovější\nverzi CTGP-7. :: Abys mohl hrát\nv této místnosti, musíš\naktualizovat CTGP-7.
+
+#Save Backup
+sbak_avail :: Tato možnost je k dispozici\npouze v nabídce "Jeden Hráč“.
+sbak_fetch :: Načítání informací o uložené záloze... :: Nepodařilo se načíst informace o uložené záloze:\n0x%08X
+sbak_info :: Informace Uložené Zálohované
+sbak_found :: Uložená záloha nalezena. :: Uložená záloha nenalezena.
+sbak_created :: Vytvořeno:
+sbak_cretime :: Dnes :: před % dny
+sbak_create :: Vytvořit zálohu
+sbak_restore :: Obnovit zálohu
+sbak_delete :: Smazat zálohu
+sbak_new :: Bude vytvořena nová online\nzáloha (bez dat duchů). :: Předchozí online záloha bude přepsána.
+sbak_newprog :: Vytváření zálohy: %s
+sbak_newres :: Záloha úspěšně vytvořena. :: Nepodařilo se vytvořit zálohu:\n0x%08X
+sbak_rest :: Online záloha uložených\ndat bude obnovena. :: Aktuální uložená data budou\nzálohována do složek:
+sbak_restex :: Záložní složky už existují\na budou smazány.
+sbak_restprog :: Obnovení zálohy: %s
+sbak_restres :: Záloha úspěšně obnovena. :: Nepodařilo se obnovit zálohu:\n0x%08X
+sbak_restres2 :: Ručně obnov následující\nsložky, abys obnovil stará\nuložená data: :: Hra se teď zavře.
+sbak_dele :: Online záloha uložených\ndat bude smazána. :: Tuto operaci nelze vrátit zpět.
+sbak_deleprog :: Smazání zálohy: %s
+sbak_deleres :: Záloha úspěšně smazána. :: Nepodařilo se smazat zálohu:\n0x%08X
+
+#Photo Mode
+photo_inst :: Ovládací Prvky Módu Fotka\n\nA: Udělat fotku\nB: Zpět\nCPad: Přesunout\nDotek: Rozhlédnout se\nL/R: Zoom\nX/Y: Změnit rychlost
+photo_saved :: Fotka uložena!
 
 #Characters
 $1000 :: Mario
@@ -544,7 +582,7 @@ $1008 :: Wario
 $1009 :: Daisy
 $1010 :: Lakitu
 $1011 :: Rosalina
-$1012 :: Wiggler
+$1012 :: Lousenka
 $1013 :: Včelka Mája
 $1014 :: Železný Mario
 $1015 :: Mii
@@ -591,7 +629,7 @@ $1058 :: Wario
 $1059 :: Daisy
 $1060 :: Lakitu
 $1061 :: Rosalina
-$1062 :: Wiggler
+$1062 :: Lousenka
 $1063 :: Mája
 $1064 :: Ž. Mario
 $1065 :: Mii
@@ -650,7 +688,7 @@ $1507 :: Bleskový Pohár
 #Nitro tracks
 $1600 :: Mariův Okruh
 $1601 :: Daisyných Kopce
-$1602 :: Mys Cheep Cheepa
+$1602 :: Mys Ryb-Rybeka
 $1603 :: Alpský Průsmyk
 $1604 :: Toadův Okruh
 $1605 :: Shy Guy Bazar
@@ -801,8 +839,8 @@ $9103 :: Ano
 $9104 :: Ne
 
 #Update dialogue
-$2080 :: Aby jsi mohl hrát online, \nmusíš prvně stáhnout \naktualizaci Mario Kart 7
-$2081 :: Mario Kart 7 byl aktualizován.\n\nHra se nyní restartuje
+$2080 :: Aby jsi mohl hrát online,\nmusíš prvně stáhnout\naktualizaci Mario Kart 7.
+$2081 :: Mario Kart 7 byl aktualizován.\n\nHra se nyní restartuje.
 
 #Main menu
 $2090 :: Jeden Hráč
@@ -1107,7 +1145,7 @@ $6424 :: Vytvořit Grand Prix
 $6425 :: Nastavení
 
 #Mario Kart Channel
-$6415 :: Další hráči Mario Kart 7, kteří se\nsetkali přes StreetPass, budou přidáni\ndo tvého seznamu StreetPass.
+$6415 :: Další hráči Mario Kart 7, kteří\nse setkali přes StreetPass,\nbudou přidáni do tvého\nseznamu StreetPass.
 
 #Menus
 $6410 :: Hrát
@@ -1166,7 +1204,7 @@ $7101 :: SD karta byla\nodstraněna.\n\nPřed odstraněním SD\nkaret vypni nap�
 $7102 :: Prosím počkej...\n\nNevypni napájení ani\nneodstraň SD kartu.
 $7103 :: Není vložena žádná SD karta.
 $7104 :: Zařízení aktuálně vložené\ndo slotu SD karty\nnení možné použít.
-$7105 :: Na SD kartu nelze zapisovat.\n\nPřesuň prosím spínač\nochrany proti zápisu\ndo vypnuté polohy.
+$7105 :: Na SD kartu není možné zapisovat.\n\nPřesuň prosím spínač\nochrany proti zápisu\ndo vypnuté polohy.
 $7106 :: Není možné vytvořit data\npro Mario Kart Channel.\nNa SD kartě není\ndostatek volného místa.
 $7107 :: Chyba SD karty.
 $7108 :: Mario Kart Kanál data\nje poškozena a\nteď bude resetována.

@@ -345,6 +345,8 @@ item_box_rain :: アイテムボックスレイン
 item_triple :: トリプルアイテム
 item_bs_show :: トゲゾーこうら対決
 item_sel_mode :: アイテムモードを選択してください。 :: アイテムの種類を選択してください。
+race_style :: レーススタイル
+race_style_modes :: スタンダード :: スコア
 
 #Reset Ghosts
 resghost :: ゴーストのリセット :: タイムアタックのゴーストをリセットできます。

@@ -236,6 +236,8 @@ exit :: Zurück
 default :: Standard
 button :: Knopf
 summary :: Zusammenfassung
+continue :: Fortfahren
+mode_type :: Modus :: Art
 
 #Folders
 gameplay_folder :: Gameplay-Features :: Konfiguration für zusätzliche Gameplay-Features.
@@ -259,6 +261,8 @@ improvedhorn :: Verbesserte Hupe: Ermöglicht das Aktivieren der Hupe mit der It
 achieventry :: Erfolge :: Sieh deinen Fortschritt bei den CTGP-7-Erfolgen an.
 badgesentry :: Orden :: Erhaltene CTGP-7 Orden ansehen (Internet-Verbindung benötigt).
 optionsentry :: Optionen :: CTGP-7 Einstellungen verwalten.
+servsett :: Server-Einstellungen :: Einstellungen bezüglich des CTGP-7-Servers
+cloudsaveentry :: Cloud Speicher-Backup ::Verwalte online Speicher-Backups die auf dieser Konsole erstellt wurden.
 
 #Speedometer text
 spd_set :: Tachometer-Einstellungen
@@ -334,6 +338,15 @@ extra_diff :: Sehr schwer :: EXTREM
 cusitem_notice :: Hinweis: Das Standarditem (%s) kann in manchen Fällen weiterhin erscheinen.
 item_mega :: Mega-Pilz
 item_fib :: Schwindel-Box
+item_boxes :: Itemboxen
+item_periodic :: Periodisch :: Lege fest, in welchen Zeitabständen/n (in Sekunden) Objekte ausgegeben werden sollen.
+item_color_rain :: Farbbox-Regen
+item_box_rain :: Itembox-Regen
+item_triple :: Dreifach-Items
+item_bs_show :: Blauer Panzer-Showdown
+item_sel_mode :: Item-Modus wählen :: Wähle die Art von Items.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Geist zurücksetzen :: Ermöglicht das Zurücksetzen des Geistes einer Strecke deiner Wahl.
@@ -341,9 +354,8 @@ ghostseltrack :: Wähle die Strecke, dessen Geist zurück-\ngesetzt werden soll:
 ghostcantrecov :: Dieser Vorgang kann nicht mehr rückgängig\ngemacht werden.\nTrotzdem fortfahren? :: Der Geist wurde zurückgesetzt.
 
 #Server Settings
-servsett :: Server-Einstellungen :: Einstellungen bezüglich des CTGP-7-Servers
 serv_consID :: CTGP-7-Geräte-ID
-serv_statsupl :: Statistiken hochladen
+serv_communic :: 
 serv_displname :: Anzeigename :: Wähle einen Modus für den Anzeigenamen.
 serv_disphid :: Versteckt
 serv_dispmii :: Mii-Spitzname
@@ -354,7 +366,7 @@ serv_qrshow :: Zum Anzeigen \uE002 drücken.
 statsentry :: Lokale Statistik :: Hier kannst du deine privaten Nutzungsstatistiken einsehen.
 stats_tpl :: Spiel gestartet
 stats_tot :: Gesamtanzahl der Offline-Rennen :: Gesamtanzahl der Online-Rennen
-stats_sc :: Total Score Attack Races :: Total Weekly Challenge Attempts
+stats_sc :: Gesamtanzahl der Punktejagd-Rennen :: Gesamtanzahl der Wöchentliche Herausforderungen
 stats_vnll :: Originale
 stats_most :: Meistgespielte Strecken :: Meistgespielte Wettkampf-Arenen
 stats_rpoints :: Offline-RP
@@ -530,3 +542,29 @@ sc_wc_retry :: Neuer Versuch?
 
 #Local Multiplayer Error
 mult_error :: Alle Teilnehmer müssen\ndie neueste Version von CTGP-7\ninstalliert haben. :: Du musst aktualisieren, um\nin diesem Raum spielen zu können.
+
+#Save Backup
+sbak_avail :: Diese Option ist nur im\n"Einzelspieler" Menü verfügbar.
+sbak_fetch :: Speicher-Backup Infos werden geladen... :: Das Laden der Speicher-Backup Infos ist fehlgeschlagen:\n0x%08X
+sbak_info :: Speicher-Backup Informationen
+sbak_found :: Speicher-Backup gefunden. :: Es wurde kein Speicher-Backup gefunden.
+sbak_created :: Erstellt:
+sbak_cretime :: Heute :: vor %d Tagen
+sbak_create :: Backup erstellen
+sbak_restore :: Backup wiederherstellen
+sbak_delete :: Backup löschen
+sbak_new :: Ein neues online Speicher-Backup wird erstellt werden\n(mit der Ausnahme von Geistdaten). :: Das vorherige online Backup wird dadurch überschrieben werden.
+sbak_newprog :: Backup wird erstellt: %s
+sbak_newres :: Backup wurde erfolgreich erstellt. :: Erstellen des Backups ist fehlgeschlagen\n0x%08X
+sbak_rest :: Die Online-Sicherungsdaten/nwerden wiederhergestellt. :: Die aktuellen Speicherdaten werden/nin folgenden Ordnern gesichert:
+sbak_restex :: Die Wiederherstellungsordner sind bereits vorhanden/nund werden gelöscht.
+sbak_restprog :: Backup wird wiederhergestellt: %s
+sbak_restres :: Backup wurde erfolgreich wiederhergestellt. :: Das Wiederherstellen des online-Backups ist fehlgeschlagen:\n0x%08X
+sbak_restres2 :: Stelle die folgenden Ordner\nmanuell wieder her, um die alten\n Spielstände wiederherzustellen. :: Das Spiel wird nun beendet.
+sbak_dele :: Die Online-Sicherungsdaten\n werden gelöscht. :: Dieser Vorgang kann nicht rückgängig gemacht werden.
+sbak_deleprog :: Backup wird gelöscht...
+sbak_deleres :: Backup erfolgreich gelöscht. :: Backup konnte nicht gelöscht werden
+
+#Photo Mode
+photo_inst :: Foto-Modus Steuerung\n\nA: Foto machen\nB: Zurück\nCPad: Steuern\nTouch: Umsehen\nL/R: Zoom\nX/Y: Geschwindigkeit ändern
+photo_saved :: Foto gespeichert!

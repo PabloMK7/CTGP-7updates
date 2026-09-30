@@ -20,7 +20,7 @@ $710049 :: \uE024\uE025 Zamek Bowsera 3
 
 #Cloud Cup
 $700012 :: Puchar Chmurkokwiatowy
-$710053 :: \uE022\uE023 Polarne Śnieżyce
+$710053 :: \uE022\uE023 Mrożona Kraina
 $710054 :: \uE022\uE023 Farma Muu Muu
 $710052 :: \uE033 Skwer Delfino
 $710096 :: \uE026\uE027 Tor Mario
@@ -30,7 +30,7 @@ $700013 :: Puchar Buu
 $710055 :: Promenada Duchów 2
 $710062 :: Jaskinia Żywiołów
 $710057 :: \uE031\uE032 Dolina Duchów 2
-$710065 :: \uE033 Plaża Cheep Cheepów
+$710065 :: \uE033 Plaża Ryb-Rybek
 
 #Spring Cup
 $700014 :: Puchar Sprężynogrzybowy
@@ -54,7 +54,7 @@ $710061 :: \uE031\uE032 Czekoladowa Wyspa 2
 $710064 :: Gwiezdny Stok
 
 #Blooper Cup
-$700018 :: Puchar Bloopera
+$700018 :: Puchar Kleksika
 $710074 :: Park Zamków z Piasku
 $710058 :: Dżunglowe Ruiny
 $710076 :: \uE026\uE027 Tor Luigiego
@@ -78,7 +78,7 @@ $710085 :: Ukryta Zjeżdżalnia
 $700021 :: Puchar Bob-omby
 $710086 :: \uE033 Stadion Wario
 $710087 :: Tor Ermii
-$710088 :: \uE026\uE027 Park Bobasów
+$710088 :: \uE026\uE027 Bobo Park
 $710072 :: \uE026\uE027 Zamek Bowsera
 
 #Cherry Cup
@@ -135,7 +135,7 @@ $700028 :: Puchar Kamieniogrzybowy
 $710060 :: Wyspa Rur-Przenośni
 $710115 :: Neo Metropolis
 $710116 :: Śnieżne Wyżyny
-$710117 :: Siedziba Gnasty Gnorca
+$710117 :: Kryjówka Gnasty Gnorca
 
 #Moon Cup
 $700029 :: Puchar Księżycowy
@@ -167,45 +167,45 @@ $710133 :: Śnieżnomroźna Cytadela
 
 #Dark Star Cup
 $700033 :: Puchar Ciemnogwiezdny
-$710134 :: Mroczne Sanktuarium
+$710134 :: Sanktuarium Ciemności
 $710135 :: Piekielna Piramida
 $710136 :: \uE026\uE027 Grzybowe Miasto
 $710137 :: Zamek Gwiazdy Ciemności
 
 #Save Data
 $7005 :: Na karcie SD zostanie\nutworzony dodatkowy zapis\ndla CTGP-7.
-$7003 :: Tworzenie dodatkowego zapisu...
+$7003 :: Tworzenie\ndodatkowego zapisu...
 $7004 :: Dodatkowy zapis\nzostał utworzony.
-$7007 :: Nie ma zapisu w wersji\npodstawowej gry Mario Kart 7.\nUruchom ją, aby wygenerować\nnowy zapis.\nWyłącz konsolę za pomocą\nprzycisku POWER.
+$7007 :: Nie ma zapisu w wersji podst.\ngry Mario Kart 7. Uruchom ją,\naby wygenerować\nnowy zapis.\n\nWyłącz konsolę za pomocą\nprzycisku POWER.
 
 #First opening welcome message
 welc_t :: CTGP-7 - Zapraszamy!
-welc_1 :: Witaj!\nW tej modyfikacji dostępne jest\nmenu gry, w którym można włączyć\nkilka ciekawych funkcji.\nAby je otworzyć,\nnaciśnij przycisk (SELECT).
-welc_2 :: Aby korzystać z dowolnych funkcji,\numieść kursor nad elementem\ni naciśnij przycisk A,\naby go włączyć/skonfigurować.
+welc_1 :: Witaj!\nTen mod zawiera menu gry,\nw którym można włączyć kilka\nciekawych funkcji.\nAby je otworzyć, naciśnij\nprzycisk SELECT.
+welc_2 :: Żeby korzystać z funkcji,\nustaw kursor na jakimś\nelemencie i naciśnij przycisk A,\naby ją włączyć/skonfigurować.
 welc_3 :: Pamiętaj, że niektóre funkcje\n(takie jak selektor CM3)\nbędą wyłączone podczas gry\nw trybie online.
-welc_4 :: Twoje statystyki gry będą przesyłane\nna serwer CTGP-7, aby każdy mógł je\nobejrzeć (dane są anonimowe).\nMożna wyłączyć tę funkcję w opcjach\nw menu gry.
-welc_5 :: Korzystanie z sieci CTGP-7 Network\nzakłada, że zgadzasz się z zasadami.\n\nMożna je przeczytać na stronie:\nctgp-7.github.io/ctww.html
+welc_4 :: Statystyki Twojej gry będą\nprzesyłane na serwer CTGP-7,\naby tworzyć statystyki ogólne\n(dane są anonimowe).\nMożna wyłączyć opcję łączności\nz serwerem w menu gry.
+welc_5 :: Korzystanie z sieci gry online\nCTGP-7 Network zakłada,\nże zgadzasz się przestrzegać\nobowiązujące zasady.\nMożna je przeczytać na stronie:\nctgp-7.github.io/ctww.html
 welc_6 :: Nie zapomnij odwiedzić\nserwera CTGP-7 na Discordzie!\n\nLink z zaproszeniem:\ninvite.gg/ctgp7
 welc_7 :: Życzymy miłej zabawy z modem!\n^w^
 
 #Achievements
-achiev_all_gold :: OSIĄGNIĘCIE ODBLOKOWANE:\nZłoto na każdym pucharze\nniestandardowym!\nGratulacje!
-achiev_all_1star :: OSIĄGNIĘCIE ODBLOKOWANE:\n1 gwiazdka na każdym pucharze\nniestandardowym!\nGratulacje!
-achiev_all_3star :: OSIĄGNIĘCIE ODBLOKOWANE:\n3 gwiazdki na każdym pucharze\nniestandardowym!\nGratulacje!
-achiev_all_mission :: OSIĄGNIĘCIE ODBLOKOWANE:\n10 punktów na każdej misji!\n\nGratulacje!
-achiev_5000_vr :: OSIĄGNIĘCIE ODBLOKOWANE:\n5000 PWO w trybie CTWW!\n\nGratulacje!
-achiev_all_score_completed :: OSIĄGNIĘCIE ODBLOKOWANE:\nUkończono próbę punktową\nna każdej trasie!\nGratulacje!
-achiev_blue_coin :: OSIĄGNIĘCIE ODBLOKOWANE:\nZebrane wszystkie niebieskie monety!\n\nGratulacje!
-achiev_dodged_blue :: OSIĄGNIĘCIE ODBLOKOWANE:\nUniknięte 3 niebieskie skorupy!\n\nGratulacje!
+achiev_all_gold :: OSIĄGNIĘCIE ODBLOKOWANE:\n\nZłoto na każdym pucharze\nniestandardowym!\n\nGratulacje!
+achiev_all_1star :: OSIĄGNIĘCIE ODBLOKOWANE:\n\n1 gwiazdka na każdym\npucharze niestandardowym!\n\nGratulacje!
+achiev_all_3star :: OSIĄGNIĘCIE ODBLOKOWANE:\n\n3 gwiazdki na każdym\npucharze niestandardowym!\n\nGratulacje!
+achiev_all_mission :: OSIĄGNIĘCIE ODBLOKOWANE:\n\n10 punktów na każdej misji!\n\nGratulacje!
+achiev_5000_vr :: OSIĄGNIĘCIE ODBLOKOWANE:\n\n5000 PWO w trybie CTWW!\n\nGratulacje!
+achiev_all_score_completed :: OSIĄGNIĘCIE ODBLOKOWANE:\n\nZaliczona próba punktowa\nna każdej trasie!\n\nGratulacje!
+achiev_blue_coin :: OSIĄGNIĘCIE ODBLOKOWANE:\n\nZebrane wszystkie\nniebieskie monety!\n\nGratulacje!
+achiev_dodged_blue :: OSIĄGNIĘCIE ODBLOKOWANE:\n\nUniknięte 3 niebieskie skorupy!\n\nGratulacje!
 unlocked_item :: Odblokowano:\n\n
 types_achievs :: Normalne osiągnięcia :: Specjalne osiągnięcia
 types_achievs_optional :: Dodatkowe osiągnięcia
 gold_tro_achiev :: Złoto na każdym pucharze niestandardowym
-1star_achiev :: 1 gwiazdka na każdym pucharze niestandardowym
-3star_achiev :: 3 gwiazdki na każdym pucharze niestandardowym
+1star_achiev :: 1 gwiazdka na każdym pucharze niestandard.
+3star_achiev :: 3 gwiazdki na każdym pucharze niestandard.
 10pts_msn_achiev :: 10 punktów na każdej misji
 5000vr_achiev :: 5000 PWO w trybie CTWW
-score_all_achiev :: Ukończono próbę punktową na każdej trasie
+score_all_achiev :: Zaliczona próba punktowa na każdej trasie
 blue_coin_achiev :: Zebrane wszystkie niebieskie monety
 dodged_blue_achiev :: Uniknięte 3 niebieskie skorupy
 dodged_blue_amount :: Uniknięte niebieskie skorupy
@@ -236,29 +236,33 @@ exit :: Wyjdź
 default :: Domyślnie
 button :: Przycisk
 summary :: Podsumowanie
+continue :: Kontynuuj
+mode_type :: Tryb :: Występujące
 
 #Folders
-gameplay_folder :: Funkcje rozgrywki :: Konfiguracja dodatkowych funkcji podczas gry.
+gameplay_folder :: Funkcje gry :: Konfiguracja dodatkowych funkcji podczas gry.
 settings_folder :: Opcje gry :: Ustawienia czysto związane z CTGP-7.
 other_folder :: Inne opcje :: Pozostałe różne opcje i funkcje.
 
 #Entries
 spdmeter :: Prędkościomierz :: Wyświetla prędkość w prawym dolnym rogu górnego ekranu.
 ccsel :: Selektor CM3 :: Pozwala ustawić niestandardową, dowolną klasę silnika. Musi być włączony przed rozpoczęciem wyścigu.
-itemled :: Ostrzeżenia LED od przedmiotów :: Dioda LED powiadomień będzie migać m.in. na niebiesko, gdy ktoś rzuci Kolczastą Skorupę, a na żółto, gdy użyje Pioruna.
+itemled :: Ostrzeż. LED od przedmiotów :: Dioda LED powiadomień będzie migać m.in. na niebiesko, gdy ktoś rzuci Kolczastą Skorupę, a na żółto, gdy użyje Pioruna.
 backcam :: Zaglądanie do tyłu :: Naciśnij \uE002, aby zobaczyć, co się znajduje za Tobą - tak jak w kilku innych grach Mario Kart! (Informacja: Przycisk \uE002 już nie będzie odpowiadał za przedmioty.)
 charman :: Menedżer postaci niestandardowych :: Wybierz, które postacie oryginalne lub niestandardowe mają być dostępne\nw menu wyboru postaci.
 cuskart :: Niestandardowe karty :: Wczytuj niestandardowe karty zapisane\nw folderze MyStuff.
 trackorder :: Kolejność tras online :: Zdecyduj, w jakiej kolejności mają być posortowane trasy na liście podczas gry online.
 itmprb :: Lepsze losowanie przedmiotów :: Podczas losowania przedmiotu, w polu na przedmiot będą pojawiały się tylko takie, które mają szansę zostać wylosowane, zgodnie z ich prawdopodobieństwem.
-imtrick :: Lepsze sztuczki :: Pojazdy będą mogły wykonać obrót lub przewrót jako sztuczkę podczas zeskakiwania\nz rampy. Użyj \uE077 pada kołowego, aby zmienić kierunek obrotu.
+imtrick :: Lepsze sztuczki :: Pojazdy będą mogły wykonać obrót lub przewrót jako sztuczkę podczas zeskakiwania z rampy. Użyj \uE077 pada kołowego, aby zmienić kierunek obrotu.
 autoaccel :: Automatyczne przyspieszanie :: Naciśnięcie przycisku \uE000 albo \uE003 spowoduje, że pojazd będzie sam przyspieszał (dopóki nie zostanie naciśnięty przycisk \uE001).  
 imbrakedrift :: Lepsze hamowanie w drifcie :: Przytrzymaj \uE001 w trakcie driftowania, aby lekko zwolnić bez utraty mini-turbo.
 autodelaydrift :: Automatyczny delay-drift :: Pomaga zapobiegać utracie prędkości pojazdu podczas rozpoczynania driftu.
 improvedhorn :: Lepszy klakson :: Będzie można zatrąbić klaksonem za pomocą przycisku od przedmiotów. Podczas gry wieloosobowej usłyszysz też klaksony innych graczy.
-achieventry :: Osiągnięcia :: Zobacz swoje postępy w odblokowywaniu osiągnięć w CTGP-7.
+achieventry :: Osiągnięcia :: Zobacz swoje postępy w osiągnięciach, jakie można odblokować w CTGP-7.
 badgesentry :: Odznaki :: Obejrzyj odznaki zdobyte w CTGP-7. Wymaga to połączenia z Internetem.
 optionsentry :: Opcje :: Zmień ustawienia gry CTGP-7.
+servsett :: Opcje serwera :: Ustawienia dotyczące Twoich danych na serwerze gry online CTGP-7.
+cloudsaveentry :: Kopia zapasowa w chmurze :: Zarządzaj zapisaną w chmurze kopią zapasową postępów gry z tej konsoli.
 
 #Speedometer text
 spd_set :: Opcje prędkościomierza.
@@ -289,7 +293,7 @@ cusitem :: Niestandardowe przedmioty
 
 #Change Round Number
 chgrnd :: Zmień liczbę rund :: Zmienia liczbę rund w trybach wyścigów VS i bitwy.
-chgrnd_desc :: Ustaw, ile rund ma być rozgrywanych w trybach\nwyścigów VS i bitwy.\nInformacja: Nie obsługuje funkcji Download Play.\nW grze wieloosobowej lokalnej wszyscy muszą mieć\nustawioną tę samą wartość.
+chgrnd_desc :: Ustaw, ile rund ma być rozgrywanych w trybach\nwyścigów VS i bitwy.\nInformacja: Nie obsługuje funkcji Download Play.\nW grze wieloosobowej lokalnej wszyscy muszą\nmieć ustawioną tę samą wartość.
 rounds :: Liczba rund
 rnd_sel :: Ustaw liczbę rund.
 
@@ -331,9 +335,18 @@ OrderH :: Po kolei (poziomo)
 OrderV :: Po kolei (pionowo)
 NextRac :: Wybierz następną trasę.\nPozostało wyścigów:
 extra_diff :: Ekstra trudny :: NIEMOŻLIWY
-cusitem_notice :: Informacja: Czasami domyślny przedmiot (%s) może się pojawiać i tak.
-item_mega :: Mega-Grzyb
-item_fib :: Fałszywy Item-Box
+cusitem_notice :: Informacja: Czasami domyślny przedmiot (%s) może się pojawiać mimo to.
+item_mega :: Megagrzyb
+item_fib :: Fałszywa Skrzynka
+item_boxes :: Normalne skrzynki
+item_periodic :: Okresowe :: Ustaw, co ile sekund każdy gracz\nma otrzymać przedmiot.
+item_color_rain :: Deszcz kolorowych skrzynek
+item_box_rain :: Deszcz skrzynek
+item_triple :: Potrójne przedmioty
+item_bs_show :: Szaleństwo nieb. skorup
+item_sel_mode :: Wybierz tryb przedmiotów. :: Wybierz występujące przedmioty.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Resetowanie duchów :: Zresetuj duchy na wybranych trasach.
@@ -341,9 +354,8 @@ ghostseltrack :: Wybierz trasę, na której chcesz zresetować ducha.
 ghostcantrecov :: Tej operacji nie można cofnąć.\nKontynuować? :: Duch został zresetowany.
 
 #Server Settings
-servsett :: Opcje serwera :: Ustawienia dotyczące Twoich danych na serwerze gry online CTGP-7.
 serv_consID :: ID konsoli w CTGP-7
-serv_statsupl :: Przesyłanie statystyk
+serv_communic :: Łączność z serwerem :: Ta funkcja wymaga zezwolenia\nna łączność z serwerem.
 serv_displname :: Wyświetlana nazwa :: Zmień rodzaj wyświetlanej nazwy gracza.
 serv_disphid :: Ukryta (Player)
 serv_dispmii :: Pseudonim Mii
@@ -354,7 +366,7 @@ serv_qrshow :: Naciśnij \uE002, aby wyświetlić.
 statsentry :: Statystyki lokalne :: Zobacz swoje prywatne statystyki gry\nw CTGP-7.
 stats_tpl :: Liczba uruchomień
 stats_tot :: Wyścigi offline :: Wyścigi online
-stats_sc :: Rozegrane próby punktowe :: Rozegrane wyzwania tygodnia
+stats_sc :: Rozegrane próby punktowe :: Rozegrane próby wyzwań tygodnia
 stats_vnll :: Wersja podstawowa
 stats_most :: Najczęściej rozgrywane trasy :: Najczęściej rozgrywane areny
 stats_rpoints :: Punkty wyścigów
@@ -362,7 +374,7 @@ stats_rpoints :: Punkty wyścigów
 #Discord
 disc_info :: Informacje z Discorda
 disc_notlink :: Ta konsola nie jest połączona\nz kontem na Discordzie.\n\nCzy chcesz ją połączyć?
-disc_linksteps1 :: Wykonaj następujące kroki,\naby połączyć konsolę z kontem\nna Discordzie:
+disc_linksteps1 :: Wykonaj następujące kroki, aby połączyć\nkonsolę z kontem na Discordzie:
 disc_linksteps2 :: 1. Dołącz do serwera CTGP-7 na Discordzie.\n(Link: invite.gg/ctgp7)
 disc_linksteps3 :: 2. Przejdź na kanał \#bots.
 disc_linksteps4 :: 3. Wyślij wiadomość o następującej treści:
@@ -371,7 +383,7 @@ disc_beta :: Kwalifikuje się do prywatnych beta-testów. :: Nie kwalifikuje si�
 disc_unlink :: Usuń połączenie :: Usunąć połączenie z kontem na Discordzie?
 
 #Render Optimizations
-render_optim :: Optymalizacja renderowania :: Wyłącza tryb 3D górnego ekranu i włącza udoskonalenia procesora New 3DS.
+render_optim :: Optymalizacja renderowania :: Wyłącza tryb 3D górnego ekranu oraz włącza udoskonalenia procesora New 3DS.
 
 #Missions
 ms_miss :: Misje
@@ -393,7 +405,7 @@ course_check :: Suma kontrolna trasy
 
 #Custom Server
 server_name :: Nintendo Network :: CTGP-7 Network
-server_choice :: Wybierz serwer online:\n\n%s:\n    - Tylko dla graczy CTGP-7\n    - CTWW + trasy oryginalne\n    - Silny mechanizm anti-cheat\n%s:\n    - Dla wszystkich graczy MK7\n    - Trasy oryginalne + Społeczności\n    - Słaby mechanizm anti-cheat
+server_choice :: Wybierz serwer online:\n\n%s:\n    - Tylko dla graczy CTGP-7\n    - CTWW + trasy oryginalne\n    - Silny mechanizm anty-cheat\n%s:\n    - Dla wszystkich graczy MK7\n    - Trasy oryginalne + Społeczności\n    - Słaby mechanizm anty-cheat
 server_ctgp7_conn :: Łączenie z CTGP-7 Network...
 server_ctgp7_dconn :: Rozłączyć się\nz CTGP-7 Network?
 server_ctgp7_nocomm :: Sieć CTGP-7 Network\nnie obsługuje Społeczności.
@@ -401,14 +413,14 @@ server_ctgp7_nocomm :: Sieć CTGP-7 Network\nnie obsługuje Społeczności.
 #Blue Coins
 blue_coins :: Niebieskie monety
 blue_coins_desc :: Na każdej trasie pojawi się jedna niebieska moneta - zbierz je wszystkie, aby odblokować coś fajnego!
-blue_coin_obtain :: Znaleziono $niebieską monetę$! :: Pozostało tras: %d.
+blue_coin_obtain :: $Niebieska moneta$ zebrana! :: Pozostało tras: %d.
 blue_coin_all :: Wszystkie monety\nzostały zebrane!
 blue_coin_nocc :: Nie można zbierać\nniebieskich monet,\ngdy selektor CM3\njest włączony.
 
 #Lobby
 lobby_type :: Publiczny pokój :: Prywatny pokój
-choose_lobby :: Wybierz pokój online:\n\n- Publiczny: Graj z innymi graczami CTGP-7.\n- Prywatny: Graj z innymi graczami prywatnie.\n\nInformacja: Wynik PWO z wersji podstawowej będzie\nwykorzystywany w pokojach prywatnych.
-enter_lobby_code :: Wpisz kod pokoju prywatnego.\nPodziel się tym kodem z innymi, aby zagrać wspólnie! :: Kod pokoju jest zbyt krótki.
+choose_lobby :: Wybierz pokój online:\n\n- Publiczny: Graj z innymi aktywnymi graczami.\n- Prywatny: Graj tylko z zaproszonymi graczami.\n\nInformacja: Twoje PWO z wersji podstawowej\nbędzie używane w prywatnych pokojach.
+enter_lobby_code :: Wpisz kod pokoju prywatnego.\nPodziel się tym kodem z innymi,\naby zagrać wspólnie! :: Kod pokoju jest zbyt krótki.
 
 #Proximity Chat
 proximity_chat :: Czat zbliżeniowy :: (naciśnij \uE002, aby przełączyć)
@@ -425,25 +437,25 @@ badge_date_fmt :: %d.%m.%Y
 #Score Attack Actions
 pts_action_0 :: Grzyb!
 pts_action_1 :: Przyspieszacz
-pts_action_2 :: Mini-turbo
-pts_action_3 :: Super mini-turbo
-pts_action_4 :: Drobny turbo-start
-pts_action_5 :: Turbo-start
-pts_action_6 :: Idealny turbo-start
-pts_action_7 :: Sztuczka
-pts_action_8 :: Zaaw. sztuczka
+pts_action_2 :: Miniturbo
+pts_action_3 :: Superminiturbo
+pts_action_4 :: Niewielki turbo start
+pts_action_5 :: Turbo start
+pts_action_6 :: Idealny turbo start
+pts_action_7 :: Trik
+pts_action_8 :: Świetny trik
 pts_action_9 :: Jazda w cieniu
 pts_action_10 :: Złoty Grzyb!
 pts_action_11 :: Moneta
-pts_action_12 :: Gwiazda-wyrzutnia
+pts_action_12 :: Gwiazda wyrzutnia
 pts_action_13 :: Rura
-pts_action_14 :: Goomba
-pts_action_15 :: Nietoperz
+pts_action_14 :: Gumba
+pts_action_15 :: Świstoperz
 pts_action_16 :: Pachołek
 pts_action_17 :: Skała
-pts_action_18 :: Cheep Cheep
+pts_action_18 :: Ryb-Rybka
 pts_action_19 :: Małż
-pts_action_20 :: Krab
+pts_action_20 :: Kraboczek
 pts_action_21 :: Koza
 pts_action_22 :: Dzban
 pts_action_23 :: Nieśmiałek dywaniarz
@@ -454,39 +466,39 @@ pts_action_27 :: Auto
 pts_action_28 :: Skrzynia
 pts_action_29 :: Pingwin
 pts_action_30 :: Sopel
-pts_action_31 :: Zgniatacz
+pts_action_31 :: Przygrzmot
 pts_action_32 :: Makieta krzaka
-pts_action_33 :: Makieta Goomby
-pts_action_34 :: Roślina-Pirania
-pts_action_35 :: Chain Chomp
-pts_action_36 :: Ryboszkielet
+pts_action_33 :: Makieta Gumby
+pts_action_34 :: Kwiat Piranium
+pts_action_35 :: Gryziuch
+pts_action_36 :: Ościak
 pts_action_37 :: Kotwica
 pts_action_38 :: Skoczna Nutka
 pts_action_39 :: Stos liści
-pts_action_40 :: Gąsienica
+pts_action_40 :: Bujeczka
 pts_action_41 :: Rakieta Bill
-pts_action_42 :: Kret
+pts_action_42 :: Kaziu Kluczyk
 pts_action_43 :: Bałwan
 pts_action_44 :: Kula śnieżna
-pts_action_45 :: Kula pinballowa
+pts_action_45 :: Kula metalowa
 pts_action_46 :: Stół
 pts_action_47 :: Kaktus
 pts_action_48 :: Pociąg
-pts_action_49 :: Pszczelik
+pts_action_49 :: Żądlik
 pts_action_50 :: Czas w powietrzu
-pts_action_51 :: Cios ziel. skorupą!
-pts_action_52 :: Cios czerw. skorupą!
-pts_action_53 :: Cios bananem!
-pts_action_54 :: Cios nieb. skorupą!
-pts_action_55 :: Cios piorunem!
-pts_action_56 :: Cios fałsz. boxem!
-pts_action_57 :: Cios bob-ombą!
-pts_action_58 :: Cios ogniem!
-pts_action_59 :: Cios ogonem!
-pts_action_60 :: Użycie bloopera!
-pts_action_61 :: Cios z gwiazdy!
-pts_action_62 :: Cios z mega-grzyba!
-pts_action_63 :: Cios rakietą!
+pts_action_51 :: Cios: ziel. skorupa!
+pts_action_52 :: Cios: czerw. skorupa!
+pts_action_53 :: Cios: banan!
+pts_action_54 :: Cios: nieb. skorupa!
+pts_action_55 :: Cios: piorun!
+pts_action_56 :: Cios: fałsz. skrzynka!
+pts_action_57 :: Cios: bob-omba!
+pts_action_58 :: Cios: ogień!
+pts_action_59 :: Cios: ogon!
+pts_action_60 :: Użycie kleksika!
+pts_action_61 :: Cios: gwiazda!
+pts_action_62 :: Cios: megagrzyb!
+pts_action_63 :: Cios: rakieta!
 pts_action_64 :: Wyprzedzenie rakietą
 pts_action_65 :: Zemsta!
 pts_action_66 :: Trzask!
@@ -501,14 +513,14 @@ pts_action_73 :: Meta!
 #Score Attack
 score_attack :: Próby punktowe :: Wykonuj serie akcji i zdobywaj punkty.
 sc_at_spc_cup :: Losowa trasa :: Wyzwanie tygodnia
-sc_at_race_start :: Start
-sc_at_clear :: Trasa ukończona :: Trasa nieukończona
-sc_at_save :: (Usuń zapis: \uE002) :: (Brak)
-sc_at_score :: Najlepszy wynik :: Usuń wynik
+sc_at_race_start :: Próba punktowa
+sc_at_clear :: Zaliczona trasa :: Niezaliczona trasa
+sc_at_save :: (Usuń zapis: \uE002) :: (brak)
+sc_at_score :: Twój rekord :: Próg zaliczenia
 sc_at_delete :: Zresetować rekord tej trasy?
 sc_at_record :: Nowy rekord!
-sc_at_clear_small :: Ukończono! :: Nie ukończono
-sc_at_cleared_tr :: Ukończone trasy
+sc_at_clear_small :: Zaliczono! :: Nie zaliczono
+sc_at_cleared_tr :: Zaliczone trasy
 sc_at_nice :: NIEŹLE!
 sc_at_great :: ŚWIETNIE!
 sc_at_excel :: WSPANIALE!
@@ -518,9 +530,9 @@ sc_at_combo :: Seria x
 #Score Attack Weekly
 sc_wc_ended :: Wyzwanie tygodnia dobiegło końca. :: Brak danych.
 sc_wc_curr :: Aktualne wyzwanie:
-sc_wc_time :: Pozostały czas:
-sc_wc_bonus :: Bonusowa seria: :: Twój bonus:
-sc_wc_board :: Ranking: Top 10 :: Ranking: Własne
+sc_wc_time :: Pozostały czas: 
+sc_wc_bonus :: Premiowana kombinacja: :: Twoja premia:
+sc_wc_board :: Ranking (Top 10) :: Ranking (blisko Twojego wyniku)
 sc_wc_getting :: Pobieranie danych wyzwania tygodnia... :: Nie można pobrać danych wyzwania.\nBłąd 0x%08X
 sc_wc_results :: Wyniki wyzwania tygodnia
 sc_wc_score :: Poprzedni wynik: :: Nowy wynik:
@@ -529,7 +541,33 @@ sc_wc_uploading :: Przesyłanie wyniku... :: Wystąpił błąd.
 sc_wc_retry :: Jeszcze raz?
 
 #Local Multiplayer Error
-mult_error :: Wszyscy gracze muszą\nmieć zainstalowaną najnowszą\nwersję CTGP-7. :: Musisz zaktualizować CTGP-7,\naby grać w tym pokoju.
+mult_error :: Wszyscy gracze muszą mieć\nzainstalowaną najnowszą\nwersję CTGP-7. :: Musisz zaktualizować CTGP-7,\nżeby móc grać w tym pokoju.
+
+#Save Backup
+sbak_avail :: Ta opcja jest dostępna tylko\nw menu "Gra jednoosobowa".
+sbak_fetch :: Pobieranie informacji o kopii zapasowej... :: Nie można pobrać informacji o kopii zapasowej.\n\nBłąd 0x%08X
+sbak_info :: Informacje o kopii zapasowej
+sbak_found :: Znaleziono kopię zapasową. :: Nie znaleziono kopii zapasowej.
+sbak_created :: Utworzono:
+sbak_cretime :: Dzisiaj :: %d dni temu
+sbak_create :: Utwórz kopię zapasową
+sbak_restore :: Przywróć kopię zapasową
+sbak_delete :: Usuń kopię zapasową
+sbak_new :: Zostanie utworzona nowa kopia zapasowa\nw chmurze (pełna, z wyjątkiem duchów). :: Poprzednio zapisana w chmurze kopia\nzostanie nadpisana.
+sbak_newprog :: Tworzenie kopii zapasowej: %s
+sbak_newres :: Pomyślnie utworzono kopię zapasową. :: Nie można utworzyć kopii zapasowej.\n\nBłąd 0x%08X
+sbak_rest :: Zostanie przywrócona kopia zapasowa z chmury. :: Aktualny zapis gry zostanie skopiowany\ndo folderów:
+sbak_restex :: Foldery zapasowej kopii już istnieją\ni zostaną usunięte.
+sbak_restprog :: Przywracanie kopii zapasowej: %s
+sbak_restres :: Pomyślnie przywrócono kopię zapasową. :: Nie można przywrócić kopii zapasowej z chmury.\n\nBłąd 0x%08X
+sbak_restres2 :: Ręcznie przywróć następujące foldery,\naby odzyskać stary zapis: :: Gra teraz zostanie zamknięta.
+sbak_dele :: Kopia zapasowa w chmurze zostanie usunięta. :: Tej operacji nie można cofnąć.
+sbak_deleprog :: Usuwanie kopii zapasowej...
+sbak_deleres :: Usunięto kopię zapasową pomyślnie. :: Nie można usunąć kopii zapasowej.\n\nBłąd 0x%08X
+
+#Photo Mode
+photo_inst :: Sterowanie trybu fotograficznego\n\nA: Zrób zdjęcie\nB: Powrót\nGałka: Ruch kamery\nDotyk: Obrót kamery\nL/R: Zoom\nX/Y: Dostosuj szybkość ruchu
+photo_saved :: Zapisano zdjęcie!
 
 #Characters
 $1000 :: Mario
@@ -539,22 +577,22 @@ $1003 :: Yoshi
 $1004 :: Bowser
 $1005 :: Donkey Kong
 $1006 :: Toad
-$1007 :: Koopa Troopa
+$1007 :: Żółwnierz
 $1008 :: Wario
 $1009 :: Daisy
 $1010 :: Lakitu
 $1011 :: Rozalina
-$1012 :: Gąsienica
+$1012 :: Bujeczka
 $1013 :: Królowa Pszczół
 $1014 :: Metalowy Mario
 $1015 :: Mii
 $1016 :: Nieśmiałek
 
 #Items
-$1018 :: Grzyb-Przyspieszacz
-$1019 :: Kwiat Ognia
+$1018 :: Grzyb Przyspieszacz
+$1019 :: Ogniokwiat
 $1020 :: Super Gwiazda
-$1021 :: Złoty Grzyb-Przyspieszacz
+$1021 :: Złoty Grzyb Przyspieszacz
 $1022 :: Zielona Skorupa
 $1023 :: Banan
 $1024 :: Super Liść
@@ -562,18 +600,18 @@ $1025 :: Piorun
 $1026 :: Czerwona Skorupa
 $1027 :: Bob-omba
 $1028 :: Kolczasta Skorupa
-$1029 :: Blooper
+$1029 :: Kleksik
 $1030 :: Rakieta Bill
 $1031 :: Szczęśliwa Siódemka
-$1032 :: Dwa Grzyby-Przyspieszacze
-$1033 :: Trzy Grzyby-Przyspieszacze
+$1032 :: Dwa Grzyby Przyspieszacze
+$1033 :: Trzy Grzyby Przyspieszacze
 $1034 :: Trzy Zielone Skorupy
 $1035 :: Trzy Banany
 $1036 :: Trzy Czerwone Skorupy
 
 #Icons
 $1043 :: Flaga
-$1044 :: Balony
+$1044 :: Baloniki
 $1045 :: Moneta
 $1046 :: Kierownica
 $1047 :: Złota Kierownica
@@ -586,12 +624,12 @@ $1053 :: Yoshi
 $1054 :: Bowser
 $1055 :: DK
 $1056 :: Toad
-$1057 :: Koopa
+$1057 :: Żółwnierz
 $1058 :: Wario
 $1059 :: Daisy
 $1060 :: Lakitu
 $1061 :: Rozalina
-$1062 :: Gąsienica
+$1062 :: Bujeczka
 $1063 :: K. Pszczół
 $1064 :: M. Mario
 $1065 :: Mii
@@ -607,12 +645,12 @@ $1105 :: Cukinia
 $1106 :: Bolid B
 $1107 :: Gang-Ster
 $1108 :: Trzmiel
-$1109 :: Koopamobil
+$1109 :: Klaunomobil
 $1110 :: Rama Rurowa
 $1111 :: Wyścigówka 7
 $1112 :: Księżniczka
 $1113 :: Kakt-X
-$1114 :: Baryłkomotywa
+$1114 :: Beczkomotywa
 $1115 :: Aerokart
 $1116 :: Złoty Kart
 
@@ -621,7 +659,7 @@ $1200 :: Standardowe
 $1201 :: Rolkowe
 $1202 :: Monster
 $1203 :: Wyścigowe
-$1204 :: Cienkie
+$1204 :: Wąskie
 $1205 :: Gąbkowe
 $1206 :: Czerw. Monster
 $1207 :: Grzybowe
@@ -633,7 +671,7 @@ $1300 :: Super Lotnia
 $1301 :: Paralotnia
 $1302 :: Parasol Peach
 $1303 :: Kwiatolotnia
-$1304 :: Nietolotnia
+$1304 :: Świstolotnia
 $1305 :: Bestiolotnia
 $1306 :: Złota Lotnia
 
@@ -649,14 +687,14 @@ $1507 :: Puchar Pioruna
 
 #Nitro tracks
 $1600 :: Tor Mario
-$1601 :: Wzgórza Daisy
-$1602 :: Przylądek Cheep Cheepów
+$1601 :: Miasteczko Daisy
+$1602 :: Przylądek Ryb-Rybek
 $1603 :: Alpejska Przełęcz
 $1604 :: Tor Toada
 $1605 :: Bazar Nieśmiałków
 $1606 :: Drogowy Rajd Wuhu
 $1607 :: Galeon Wario
-$1608 :: Rurociągi Roślin-Piranii
+$1608 :: Podziemia Piranium
 $1609 :: Park Muzyczny
 $1610 :: Neo Miasto Bowsera
 $1611 :: Górski Rajd Wuhu
@@ -675,12 +713,12 @@ $1705 :: \uE033 Pinball Waluigiego
 $1706 :: \uE033 Góry DK
 $1707 :: \uE033 Twierdza Sterowców
 $1708 :: \uE067 Kokosowa Galeria
-$1709 :: \uE067 Przylądek Koopy
+$1709 :: \uE067 Przylądek Żółwia
 $1710 :: \uE067 Klonowy Zaułek
 $1711 :: \uE067 Grzybowy Wąwóz
 $1712 :: \uE026\uE027 Dżungla Dinozaurów
 $1713 :: \uE026\uE027 Wycieczkowiec Daisy
-$1714 :: \uE022\uE023 Plaża Koopa Troopa
+$1714 :: \uE022\uE023 Żółwiowa Plaża
 $1715 :: \uE031\uE032 Tęczowa Droga
 
 #Balloon battle tracks
@@ -767,17 +805,17 @@ $1915 :: Gwiazda wyścigów (\u000E\u0001\u0008\u0000)
 $1950 :: Ekspertka od skorup (\u000E\u0001\u0008\u0000)
 $1951 :: Mistrzyni bananów (\u000E\u0001\u0008\u0000)
 $1952 :: Bob-ombowiec (\u000E\u0001\u0008\u0000)
-$1953 :: Super obrończyni (\u000E\u0001\u0008\u0000)
-$1954 :: Zaczepna kierowca (\u000E\u0001\u0008\u0000)
-$1955 :: Skoczkini (\u000E\u0001\u0008\u0000)
-$1956 :: Lotniczka (\u000E\u0001\u0008\u0000)
+$1953 :: Super obrońca (\u000E\u0001\u0008\u0000)
+$1954 :: Zaczepny kierowca (\u000E\u0001\u0008\u0000)
+$1955 :: Skoczek (\u000E\u0001\u0008\u0000)
+$1956 :: Lotnik (\u000E\u0001\u0008\u0000)
 $1957 :: Delfin (\u000E\u0001\u0008\u0000)
-$1958 :: Drifterka (\u000E\u0001\u0008\u0000)
-$1959 :: Szybka starter (\u000E\u0001\u0008\u0000)
+$1958 :: Drifter (\u000E\u0001\u0008\u0000)
+$1959 :: Szybki starter (\u000E\u0001\u0008\u0000)
 $1960 :: Królowa comebacków (\u000E\u0001\u0008\u0000)
-$1961 :: Wzorowa kierowca (\u000E\u0001\u0008\u0000)
-$1962 :: Zygzakerka (\u000E\u0001\u0008\u0000)
-$1963 :: Bezpieczna kierowca (\u000E\u0001\u0008\u0000)
+$1961 :: Wzorowy kierowca (\u000E\u0001\u0008\u0000)
+$1962 :: Zygzaker (\u000E\u0001\u0008\u0000)
+$1963 :: Bezpieczny kierowca (\u000E\u0001\u0008\u0000)
 $1964 :: Początkująca (\u000E\u0001\u0008\u0000)
 $1965 :: Gwiazda wyścigów (\u000E\u0001\u0008\u0000)
 
@@ -800,12 +838,12 @@ $2003 :: Tak
 $2004 :: Nie
 $2005 :: Anuluj
 $2006 :: Dalej
-$9103 :: \r2003
-$9104 :: \r2004
+$9103 :: Tak
+$9104 :: Nie
 
 #Update dialogue
 $2080 :: Aby móc grać w trybie online,\nnajpierw należy pobrać\naktualizację gry Mario Kart 7.
-$2081 :: Zaktualizowano grę Mario Kart 7.\nGra zostanie uruchomiona ponownie.
+$2081 :: Zaktualizowano Mario Kart 7.\nGra zostanie\nuruchomiona ponownie.
 
 #Main menu
 $2090 :: Gra jednoosobowa
@@ -847,7 +885,7 @@ $2233 :: Odbite trasy
 #Kart build stats
 $2240 :: Prędkość
 $2241 :: Przyspieszenie
-$2242 :: Waga
+$2242 :: Ciężar
 $2243 :: Sterowność
 $2244 :: Off-road
 
@@ -919,7 +957,7 @@ $2408 :: Wybierz ducha
 
 #Quit dialogue
 $2406 :: Czy chcesz opuścić grę?
-$9111 :: Czy na pewno chcesz\nzakończyć grę?
+$9111 :: Czy na pewno chcesz wyjść?
 
 #Local Multiplayer menu
 $2407 :: Grupy w grze: \u000E\u0001\u0004\u0004\u0000\u0000
@@ -969,7 +1007,7 @@ $2515 :: Wygrana w Pucharze Skorupy\nw klasie 150 cm³!\n\nZostała odblokowana\
 $2516 :: Wygrana w Pucharze Banana\nw klasie 150 cm³!\n\nZostała odblokowana\n\u000E\u0000\u0003\u0002\u0000nowa postać\u000E\u0000\u0003\u0002\uFFFF!
 $2517 :: Wygrana w Pucharze Liścia\nw klasie 150 cm³!\n\nZostała odblokowana\n\u000E\u0000\u0003\u0002\u0000nowa postać\u000E\u0000\u0003\u0002\uFFFF!
 $2518 :: Wygrana w Pucharze Pioruna\nw klasie 150 cm³!\n\nZostała odblokowana\n\u000E\u0000\u0003\u0002\u0000nowa postać\u000E\u0000\u0003\u0002\uFFFF!
-$2519 :: Możesz teraz grać jako\nswoja postać \u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
+$2519 :: Możesz teraz grać\nswoją postacią \u000E\u0000\u0003\u0002\u0000Mii\u000E\u0000\u0003\u0002\uFFFF!
 $2520 :: Zebrano łącznie \u000E\u0001\u0004\u0004\u0000\u0000 monet!\n\nZostał odblokowany nowy\n\u000E\u0000\u0003\u0002\u0000element pojazdu\u000E\u0000\u0003\u0002\uFFFF!
 $2521 :: Osiągnięto wynik 10000 PWO!\n\nZostał odblokowany nowy\n\u000E\u0000\u0003\u0002\u0000element pojazdu\u000E\u0000\u0003\u0002\uFFFF!
 $2522 :: Ukończono wszystkie puchary\nGrand Prix w każdej klasie\nz co najmniej 1 gwiazdką!\n\nZostał odblokowany nowy\n\u000E\u0000\u0003\u0002\u0000element pojazdu\u000E\u0000\u0003\u0002\uFFFF!
@@ -1003,7 +1041,7 @@ $6312 :: Nie możesz tworzyć\nwięcej społeczności.
 $6313 :: Nie możesz jeszcze\nutworzyć społeczności.\n\nSpróbuj ponownie później.
 $6314 :: Wprowadź nazwę społeczności.\n\nMożesz utworzyć co najwyżej\nosiem społeczności.
 $6315 :: Wybierz ustawienia gry\ndla tej społeczności.\n\nPostaraj się wybrać ustawienia,\nktóre spodobają się dołączającym.
-$6316 :: \r2001
+$6316 :: OK
 $6317 :: Wprowadź opis społeczności.\n\nPowinien jasno\nprzedstawiać, jakiego rodzaju\njest to społeczność.
 $6318 :: Powstanie społeczność przy\nużyciu powyższych ustawień.\nNie będzie można ich później\nw żaden sposób zmienić.\nCzy wszystko się zgadza?
 $6319 :: Twoja społeczność:\n\n\u000E\u0000\u0003\u0002\u0000\u000E\u0001\u0005\u0000\u0000\u000E\u0000\u0003\u0002\uFFFF\n\nzostała utworzona!
@@ -1013,7 +1051,7 @@ $6322 :: Ta społeczność została usunięta\nz serwera.
 $6323 :: Aby móc grać w społecznościach,\nmuszą zostać utworzone dane\nKanału Mario Kart.
 $6324 :: Społeczności\n\nGraj z innymi graczami\nnależącymi do tej samej\nspołeczności.
 $6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0016\u0006pkt\u0008pkt.\u0000\u0000
-$6326 :: Liczba graczy\n\u000E\u0001\u0004\u0004\u0000\u0000
+$6326 :: Graczy\n\u000E\u0001\u0004\u0004\u0000\u0000
 $6327 :: Wybierz ikonę\ndla tej społeczności.
 $6328 :: Przedmioty
 $6329 :: Postacie
@@ -1178,7 +1216,7 @@ $7108 :: Dane Kanału Mario Kart\nsą uszkodzone i zostaną\nzresetowane.
 $7201 :: Kanał Mario Kart może korzystać\nz usług \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF i \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF,\naby odbierać różne dane.
 $7202 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF:\nWymieniaj profile z osobami,\nobok których przechodzisz, aby\nmóc im rzucić wyzwanie online.
 $7203 :: \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF:\nOdbieraj duchy graczy\nz całego świata oraz\npropozycje społeczności,\nktóre mogą Ci się spodobać.
-$7204 :: Zarówno \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF, jak i \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\npozostają aktywne nawet\npo wyłączeniu gry Mario Kart 7.
+$7204 :: \u000E\u0000\u0003\u0002\u0002StreetPass\u000E\u0000\u0003\u0002\uFFFF i \u000E\u0000\u0003\u0002\u0001SpotPass\u000E\u0000\u0003\u0002\uFFFF\npozostają aktywne nawet\npo wyłączeniu gry Mario Kart 7.
 $7205 :: Dane odbierane przez\nKanał Mario Kart\nsą zapisywane na karcie SD.
 
 #Mario Kart Channel first time setup
@@ -1207,7 +1245,7 @@ $7501 :: Najpierw musisz \u000E\u0000\u0003\u0002\u0000włączyć\u000E\u0000\u0
 
 #Pause menu
 $9003 :: Wznów
-$9004 :: Zakończ
+$9004 :: Wyjdź
 $9005 :: Zmień trasę
 $9006 :: Zmień postać
 $9007 :: Od początku
@@ -1219,12 +1257,12 @@ $9011 :: Jeszcze raz
 $9012 :: Pokaż powtórkę
 $9013 :: Wznów powtórkę
 $9014 :: Powtórka od nowa
-$9015 :: Zakończ powtórkę
-$9016 :: \r9009
+$9015 :: Wyjdź z powtórki
+$9016 :: Następny wyścig
 $9017 :: Następna runda
 
 #Dialogue button
-$9101 :: \r2001
+$9101 :: OK
 
 #Ghost creation dialogues
 $9151 :: Utworzono nowego ducha.
@@ -1249,7 +1287,7 @@ $9173 :: Grupa jest pełna - zaczekaj.
 $9201 :: WYNIKI
 $9202 :: KLASYFIKACJA GENERALNA
 $9203 :: KLASYFIKACJA KOŃCOWA
-$9204 :: NAJLEPSZE REKORDY
+$9204 :: REKORDY
 
 #Lap number
 $9817 :: OKRĄŻENIE

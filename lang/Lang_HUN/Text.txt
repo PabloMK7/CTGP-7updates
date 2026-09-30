@@ -201,8 +201,8 @@ unlocked_item :: Feloldottad az alábbit:\n\n
 types_achievs :: Sima teljesítmények :: Különleges teljesítmények
 types_achievs_optional :: Nem kötelező teljesítmények
 gold_tro_achiev :: Szerezz aranyérmet minden egyéni pályás kupán
-1star_achiev :: Érj el egycsillagos teljesítményt minden egyéni pályás kupán
-3star_achiev :: Érj el háromcsillagos teljesítményt minden egyéni pályás kupán
+1star_achiev :: Érj el egycsillagos teljesítményt minden egyéni\n  pályás kupán
+3star_achiev :: Érj el háromcsillagos teljesítményt minden egyéni\n  pályás kupán
 10pts_msn_achiev :: Érj el tízpontos teljesítményt minden küldetésen
 5000vr_achiev :: Érj el 5000 VR-os teljesítményt a CTWW-n
 score_all_achiev :: Teljesíts minden pályát pontszámfutamban
@@ -236,6 +236,8 @@ exit :: Kilépés
 default :: Alapértelmezett
 button :: Gomb
 summary :: Összegzés
+continue :: Folytatás
+mode_type :: Mód :: Típus
 
 #Folders
 gameplay_folder :: Játékfunkciók :: Az extra funkciók beállításai.
@@ -259,6 +261,8 @@ improvedhorn :: Javított duda :: Lehetővé teszi a duda használatát a tárgy
 achieventry :: Teljesítmények :: A CTGP-7-es teljesítményhaladás megtekintése.
 badgesentry :: Kitűzők :: A megszerzett CTGP-7-es kitűzők megtekintése (internetkapcsolat szükséges.)
 optionsentry :: Beállítások :: A CTGP-7 beállításainak testreszabása.
+servsett :: Szerverbeállítások :: CTGP-7 szerverbeállítások
+cloudsaveentry :: Felhőalapú mentések :: Internetes biztonsági mentések kezelése.
 
 #Speedometer text
 spd_set :: Sebességmérő beállításai.
@@ -334,6 +338,15 @@ extra_diff :: Nagyon nehéz :: EXTRÉM
 cusitem_notice :: MEGJEGYZÉS: Az eredeti tárgy (%s) bizonyos esetekben még előfordulhat.
 item_mega :: Óriásgomba
 item_fib :: Hamis tárgydoboz
+item_boxes :: Tárgydobozok
+item_periodic :: Bizonyos időközönként :: Add meg, hogy milyen gyakran\njelenjenek meg tárgyak,\nmásodpercben.
+item_color_rain :: Színdobozeső
+item_box_rain :: Tárgydobozeső
+item_triple :: Hármas tárgyak
+item_bs_show :: Kékpáncél-leszámolás
+item_sel_mode :: Tárgymód megadása. :: Tárgytípusok megadása.
+race_style :: Race Style
+race_style_modes :: Standard :: Score
 
 #Reset Ghosts
 resghost :: Szellem visszaállítása :: Alaphelyzetbe állít egy szellemet akármelyik pályán.
@@ -341,9 +354,8 @@ ghostseltrack :: Válaszd ki a pályát amin vissza\nszeretnéd állítani a sze
 ghostcantrecov :: Ez a művelet nem vonható vissza.\nBiztos vagy benne? :: A szellem alaphelyzetbe állt.
 
 #Server Settings
-servsett :: Szerverbeállítások :: CTGP-7 szerverbeállítások
 serv_consID :: CTGP-7 ConsoleID
-serv_statsupl :: Statisztikák feltöltése
+serv_communic :: Internetes adatátvitel :: Ehhez a funkcióhoz az\ninternetes adatátvitel\nengedélyezése szükséges.
 serv_displname :: Felhasználónév :: Felhasználónév beállítása
 serv_disphid :: Rejtett
 serv_dispmii :: Mii neve
@@ -407,7 +419,7 @@ blue_coin_nocc :: A CC-választó\nhasználata közben\nnem gyűjthetsz\nkék é
 
 #Lobby
 lobby_type :: Nyilvános szoba :: Privát szoba
-choose_lobby :: Az online szobák típusának megadása:\n\n- Nyilvános: Játék más CTGP-7-játékosokkal.\n- Privát: Rejtett játék.\n\nMEGJEGYZÉS: A privát szobákban az alapjátékos VR lesz használatba véve.
+choose_lobby :: Az online szobák típusának megadása:\n\n- Nyilvános: Játék más CTGP-7-játékosokkal.\n- Privát: Rejtett játék.\n\nMEGJEGYZÉS: A privát szobákban az alapjátékos\nVR lesz használatba véve.
 enter_lobby_code :: Add meg a privát szoba kódját!\nA közös játékhoz ezt kell megosztanod másokkal. :: A szoba kódja túl rövid.
 
 #Proximity Chat
@@ -499,7 +511,7 @@ pts_action_72 :: Őrületes célbaérés!
 pts_action_73 :: Célbaérés!
 
 #Score Attack
-score_attack :: Pontszámfutam :: Végezz el több cselekvést gyors egymásutánban a legmagasabb pontszám megszerzéséhez!
+score_attack :: Pontszámfutam :: Végezz el több cselekvést\ngyors egymásutánban a\nlegmagasabb pontszám\nmegszerzéséhez!
 sc_at_spc_cup :: Véletlenszerű pálya :: Heti kihívás
 sc_at_race_start :: Verseny indul
 sc_at_clear :: Pálya teljesítve :: Pálya nem teljesítve
@@ -530,6 +542,32 @@ sc_wc_retry :: Szeretnéd újra megpróbálni?
 
 #Local Multiplayer Error
 mult_error :: Minden résztvevőnek\na legújabb\nCTGP-7-verzióval\nkell rendelkeznie. :: Frissítened kell\na CTGP-7-et,\nmielőtt játszhatnál\nebben a szobában.
+
+#Save Backup
+sbak_avail :: Ez a lehetőség csak az\nEgyjátékos menüben\nelérhető.
+sbak_fetch :: Mentések lekérése... :: A mentések lekérése\nmeghiúsult:\n0x%08X
+sbak_info :: Információ a felhőalapú mentésekről
+sbak_found :: Felhőalapú mentés észlelve. :: Nincsenek felhőalapú mentések.
+sbak_created :: Létrehozva:
+sbak_cretime :: ma :: %d nappal ezelőtt
+sbak_create :: Mentés most
+sbak_restore :: Korábbi mentés visszaállítása
+sbak_delete :: Korábbi mentés törlése
+sbak_new :: Ezzel egy új felhőalapú mentés\nlesz létrehozva, amely\nszellemadatokat nem tartalmaz. :: A korábbi mentés felül lesz írva.
+sbak_newprog :: Mentés létrehozása: %s
+sbak_newres :: Sikeres mentés. :: Sikertelen mentés:\n0x%08X
+sbak_rest :: A felhőalapú mentés\nbetöltésre kerül. :: A jelenlegi mentésről\nmásolat készül az\nalábbi könyvtárakba:
+sbak_restex :: A létező biztonsági mentés mappái\ntörölve lesznek.
+sbak_restprog :: Mentés visszaállítása: %s
+sbak_restres :: A mentés betöltése\nsikeresen befejeződött. :: A mentés betöltése meghiúsult:\n0x%08X
+sbak_restres2 :: A korábbi mentés visszaállításához\naz alábbi könyvtárakat kell\nvisszatenned a helyükre. :: A játék most be lesz zárva.
+sbak_dele :: A felhőalapú mentés törlésre kerül. :: Ez a művelet nem vonható vissza.
+sbak_deleprog :: Mentés törlése folyamatban...
+sbak_deleres :: A törlés sikeresen befejeződött. :: A törlés meghiúsult:\n0x%08X
+
+#Photo Mode
+photo_inst :: A fényképezőmód kezelése:\n\nA: exponálás\nB: vissza\nBal kar: mozgatás\nÉrintés: forgatás\nR/L: közelítés/távolítás\nX/Y: sebesség állítása
+photo_saved :: Fénykép elmentve.
 
 #Characters
 $1000 :: Mario
@@ -1009,7 +1047,7 @@ $6321 :: A közösség nem található.
 $6322 :: Ezt a közösséget\ntörölték.
 $6323 :: Mielőtt egy közösségben\njátszhatnál, létre kell\nhozni a Mario Kart\ncsatorna adatait.
 $6324 :: Közösségek\n\nJátssz a közösség\ntöbbi tagja ellen.
-$6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0012\u0004pt\u0006pts\u0000\u0000
+$6325 :: \u000E\u0001\u0000\u0000 \u000E\u0001\u0004\u0004\u0000\u0000 \u000E\u0001\u0006\u0018\u0008pont\u0008pont\u0000\u0000
 $6326 :: Játékosok száma:\n\u000E\u0001\u0004\u0004\u0000\u0000
 $6327 :: Válassz egy ikont\na közösségednek.
 $6328 :: Tárgyak
