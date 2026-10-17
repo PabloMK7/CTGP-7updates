@@ -345,7 +345,7 @@ item_box_rain :: Pluie de boîte à objets
 item_triple :: Triple objets
 item_bs_show :: Tempête de carapace à épines
 item_sel_mode :: Sélectionnez le mode des objets. :: Sélectionnez le type des objets.
-race_style :: Race Style
+race_style :: Style de course
 race_style_modes :: Standard :: Score
 
 #Reset Ghosts

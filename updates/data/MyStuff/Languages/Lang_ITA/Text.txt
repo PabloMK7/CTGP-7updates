@@ -166,7 +166,7 @@ $710132 :: \uE033 Giardino di Peach
 $710133 :: Cittadella Gelobrezza
 
 #Dark Star Cup
-$700033 :: Trofeo Stella Oscura
+$700033 :: Trofeo Oscuro
 $710134 :: Santuario Oscuro
 $710135 :: Piramide Infernale
 $710136 :: \uE026\uE027 Città dei Funghi
@@ -345,8 +345,8 @@ item_box_rain :: Pioggia di oggetti
 item_triple :: Oggetti tripli
 item_bs_show :: Scontro tra gusci spinosi
 item_sel_mode :: Seleziona modalità oggetti :: Seleziona i tipi di oggetti.
-race_style :: Race Style
-race_style_modes :: Standard :: Score
+race_style :: Stile di corsa
+race_style_modes :: Normale :: Punti
 
 #Reset Ghosts
 resghost :: Resetta fantasma :: Permette di resettare il fantasma di qualsiasi pista.
