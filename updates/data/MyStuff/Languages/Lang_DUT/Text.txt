@@ -568,3 +568,4 @@ sbak_deleres :: Backup succesvol verwijderd. :: Mislukt om backup te verwijderen
 #Photo Mode
 photo_inst :: Besturing foto maken\n\nA: Maak foto\nB: Terug\nDraaiknop: Beweeg\nTouchscreen: Rondkijken\nL/R: Zoom\nX/Y: Verander snelheid
 photo_saved :: Foto opgeslagen!
+photo_upload :: Op Miiverse plaatsen?

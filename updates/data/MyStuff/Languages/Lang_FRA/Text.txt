@@ -567,4 +567,5 @@ sbak_deleres :: La sauvegarde a bien été supprimée. :: La suppression de la s
 
 #Photo Mode
 photo_inst :: Commandes du mode photo\n\nA : Prendre une photo\nB : Retour au menu pause\nPad circulaire : Se déplacer\nTactile : Orienter la caméra\nL/R : Ajuster l'angle de vue\nX/Y : Ajuster la vitesse
-photo_saved :: Photo sauvegardée !
+photo_saved :: Photo sauvegardée!
+photo_upload :: Publier sur Miiverse?

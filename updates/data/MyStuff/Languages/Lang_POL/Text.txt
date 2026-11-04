@@ -568,6 +568,7 @@ sbak_deleres :: Usunięto kopię zapasową pomyślnie. :: Nie można usunąć ko
 #Photo Mode
 photo_inst :: Sterowanie trybu fotograficznego\n\nA: Zrób zdjęcie\nB: Powrót\nGałka: Ruch kamery\nDotyk: Obrót kamery\nL/R: Zoom\nX/Y: Dostosuj szybkość ruchu
 photo_saved :: Zapisano zdjęcie!
+photo_upload :: Opublikować na Miiverse?
 
 #Characters
 $1000 :: Mario

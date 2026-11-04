@@ -568,6 +568,7 @@ sbak_deleres :: Záloha úspěšně smazána. :: Nepodařilo se smazat zálohu:\
 #Photo Mode
 photo_inst :: Ovládací Prvky Módu Fotka\n\nA: Udělat fotku\nB: Zpět\nCPad: Přesunout\nDotek: Rozhlédnout se\nL/R: Zoom\nX/Y: Změnit rychlost
 photo_saved :: Fotka uložena!
+photo_upload :: Zveřejnit na Miiverse?
 
 #Characters
 $1000 :: Mario

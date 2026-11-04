@@ -568,6 +568,7 @@ sbak_deleres :: A törlés sikeresen befejeződött. :: A törlés meghiúsult:\
 #Photo Mode
 photo_inst :: A fényképezőmód kezelése:\n\nA: exponálás\nB: vissza\nBal kar: mozgatás\nÉrintés: forgatás\nR/L: közelítés/távolítás\nX/Y: sebesség állítása
 photo_saved :: Fénykép elmentve.
+photo_upload :: Közzéteszed a Miiverse-en?
 
 #Characters
 $1000 :: Mario

@@ -568,3 +568,4 @@ sbak_deleres :: バックアップが正常に削除されました。 :: バッ
 #Photo Mode
 photo_inst :: フォトモードのそうさ\n\nA: とる\nB: もどる\nスライドパッド: いどう\nタッチ: みまわす\nL/R: ズーム\nX/Y: そくどへんこう
 photo_saved :: ほぞんしました！
+photo_upload :: Miiverseに とうこうしますか？

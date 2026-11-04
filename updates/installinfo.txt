@@ -153,6 +153,7 @@ M/MyStuff/Languages/Lang_CAT/menu-es.szs
 M/MyStuff/Languages/Lang_CAT/race-es.szs
 M/MyStuff/Languages/Lang_CAT/thankyou-es.szs
 M/MyStuff/Languages/Lang_CAT/trophy-es.szs
+M/MyStuff/Languages/Lang_CZE.ini
 M/MyStuff/Languages/Lang_CZE/Text.txt
 M/MyStuff/Languages/Lang_CZE/menu-ed.szs
 M/MyStuff/Languages/Lang_CZE/race-ed.szs

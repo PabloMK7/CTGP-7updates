@@ -568,6 +568,7 @@ sbak_deleres :: Còpia de seguretat esborrada amb èxit. :: Error en esborrar la
 #Photo Mode
 photo_inst :: Controls de la càmera\n\nA: Fer foto\nB: Enrere\nCPad: Moure\nTàctil: Mirar al voltant\nL/R: Zoom\nX/Y: Canviar velocitat
 photo_saved :: Foto guardada!
+photo_upload :: Vols publicar-la a Miiverse?
 
 #Characters
 $1000 :: Mario

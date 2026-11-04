@@ -568,3 +568,4 @@ sbak_deleres :: Copia de seguridad borrada con éxito. :: Fallo al borrar la cop
 #Photo Mode
 photo_inst :: Controles de modo cámara\n\nA: Tomar foto\nB: Atrás\nCPad: Mover\nTáctil: Mirar alrededor\nL/R: Zoom\nX/Y: Cambiar velocidad
 photo_saved :: ¡Foto guardada!
+photo_upload :: ¿Publicar en Miiverse?

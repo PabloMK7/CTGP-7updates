@@ -568,3 +568,4 @@ sbak_deleres :: Backup erfolgreich gelöscht. :: Backup konnte nicht gelöscht w
 #Photo Mode
 photo_inst :: Foto-Modus Steuerung\n\nA: Foto machen\nB: Zurück\nCPad: Steuern\nTouch: Umsehen\nL/R: Zoom\nX/Y: Geschwindigkeit ändern
 photo_saved :: Foto gespeichert!
+photo_upload :: Im Miiverse posten?

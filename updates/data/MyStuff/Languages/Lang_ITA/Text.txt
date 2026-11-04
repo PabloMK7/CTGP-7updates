@@ -568,3 +568,4 @@ sbak_deleres :: Backup eliminato con successo. :: Eliminazione fallita:\n0x%08X
 #Photo Mode
 photo_inst :: Controlli fotocamera\n\nA: Scatta\nB: Indietro\nPad: Sposta\nTocco: Guarda attorno\nL/R: Zoom\nX/Y: Cambia velocità
 photo_saved :: Foto salvata!
+photo_upload :: Pubblicare su Miiverse?
